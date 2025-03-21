@@ -74,6 +74,21 @@ Scale: /5.0
 All the characters in these books are from one of 8 villages.
 
 Generated data is made from 500 episodes with their description taken from [fandom website](https://naruto.fandom.com/) . In the generated data there occur 69 distinct locations, 552 distinct names, and 458 battles.
+
+We loaded 93MB of web pages with description of episodes. They were later cut to 2.8MB by cutting everything except summaries. This data was loaded to model by episode and description of battles were generated based on it.
+After all the steps of cleaning, modifying and fixing this data we got yaml file with description of all the battles in the following format
+```yaml
+- episode_number: "2"
+  opponents:
+    - ["Naruto Uzumaki", "Sakura Haruno"]
+    - ["Kakashi Hatake"]
+  outcome: "The battle is interrupted before a clear winner is determined, focusing on assessing Naruto and Sakura's growth after training with the Sannin."
+  description: "Kakashi puts Naruto and Sakura through a retake of the bell test to gauge their progress, utilizing his Sharingan to challenge them despite their increased strength from training with Jiraiya and Tsunade."
+  closest_village: "Konohagakure"
+```
+
+several records was taken from this file to manually check that this battles occured in series and not just a hallucination of llm.
+
 ### Related work
 
 
