@@ -43,6 +43,13 @@ Each character has its own color and the attributes are placed on the axes. Ther
 Attribute list: Ninjutsu, Taijutsu, Genjutsu, Intelligence, Strength, Speed, Chakra (Stamina), Hand seals \
 Scale: 0 - 5 ![](./imgs/third.png)
 
+4. Co-occurrence matrix of battle opponents \
+Co-occurrence matrix for the main characters (from the character statistics table) to reflect the frequency of battles between them.
+
+5. Battle Density Map \
+Visualization of a density map of all the battles that happened in the series.
+
+
 
 ### Exploratory Data Analysis
 
