@@ -53,6 +53,7 @@ There are 3 official databooks Rin no Sho, Too no Sho, Sha no Sho
 | Rin no Sho | 33  |
 | Too no Sho | 35  |
 | Sha no Sho | 33  |
+
 These 3 books have 57 characters in total
 
 Each character has 8 attributes: 
