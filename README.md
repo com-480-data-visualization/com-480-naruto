@@ -94,7 +94,9 @@ After all the steps of cleaning, modifying and fixing this data we got yaml file
   closest_village: "Konohagakure"
 ```
 
-several records was taken from this file to manually check that this battles occured in series and not just a hallucination of llm.
+Several records was taken from this file to manually check that this battles occured in series and not just a hallucination of llm.
+
+Character descriptions are taken directly from websites and later compressed by llm.
 
 ### Related work
 
