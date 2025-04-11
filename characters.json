@@ -1,0 +1,401 @@
+[
+    {
+        "id": 1,
+        "name": "Anko Mitarashi",
+        "place_of_birth": "Unknown",
+        "description": "A kunoichi and former student of Orochimaru.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 2,
+        "name": "Asuma Sarutobi",
+        "place_of_birth": "Konohagakure",
+        "description": "A member of the Sarutobi clan and leader of Team 10.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 3,
+        "name": "Baki",
+        "place_of_birth": "Sunagakure",
+        "description": "A jonin from Sunagakure and mentor to the Sand Siblings.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 4,
+        "name": "Gaara",
+        "place_of_birth": "Sunagakure",
+        "description": "The Fifth Kazekage and a jinchuriki of the One-Tail.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 5,
+        "name": "Genma Shiranui",
+        "place_of_birth": "Konohagakure",
+        "description": "A special jonin known for his laid-back demeanor.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 6,
+        "name": "Dan Kato",
+        "place_of_birth": "Konohagakure",
+        "description": "A medical ninja and Tsunade's lover.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 7,
+        "name": "Deidara",
+        "place_of_birth": "Iwagakure",
+        "description": "A rogue ninja and member of the Akatsuki known for his explosive art.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 8,
+        "name": "Jiraiya",
+        "place_of_birth": "Konohagakure",
+        "description": "One of the Legendary Sannin and Naruto's mentor.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 9,
+        "name": "Jirobo",
+        "place_of_birth": "Otogakure",
+        "description": "A member of the Sound Four with immense physical strength.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 10,
+        "name": "Dosu Kinuta",
+        "place_of_birth": "Otogakure",
+        "description": "A genin from Otogakure who uses sound-based attacks.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 11,
+        "name": "Zaku Abumi",
+        "place_of_birth": "Otogakure",
+        "description": "A genin from Otogakure who uses air pressure attacks.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 12,
+        "name": "Ibiki Morino",
+        "place_of_birth": "Konohagakure",
+        "description": "The head of the Konoha Torture and Interrogation Force.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 13,
+        "name": "Ino Yamanaka",
+        "place_of_birth": "Konohagakure",
+        "description": "A member of Team 10 and the Yamanaka clan.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 14,
+        "name": "Iruka Umino",
+        "place_of_birth": "Konohagakure",
+        "description": "A kind-hearted academy instructor and Naruto's mentor.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 15,
+        "name": "Itachi Uchiha",
+        "place_of_birth": "Konohagakure",
+        "description": "A prodigy of the Uchiha clan and member of the Akatsuki.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 16,
+        "name": "Kabuto Yakushi",
+        "place_of_birth": "Konohagakure",
+        "description": "A spy and right-hand man of Orochimaru.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 17,
+        "name": "Kakashi Hatake",
+        "place_of_birth": "Konohagakure",
+        "description": "The leader of Team 7 and a skilled jonin.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 18,
+        "name": "Kakuzu",
+        "place_of_birth": "Takigakure",
+        "description": "A member of the Akatsuki who uses forbidden jutsu to extend his life.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 19,
+        "name": "Kankuro",
+        "place_of_birth": "Sunagakure",
+        "description": "A puppet master and brother of Gaara.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 20,
+        "name": "Kiba Inuzuka",
+        "place_of_birth": "Konohagakure",
+        "description": "A member of Team 8 who fights alongside his dog Akamaru.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 21,
+        "name": "Kidomaru",
+        "place_of_birth": "Otogakure",
+        "description": "A member of the Sound Four who uses spider-like techniques.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 22,
+        "name": "Kimimaro",
+        "place_of_birth": "Kirigakure",
+        "description": "The last member of the Kaguya clan and Orochimaru's loyal servant.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 23,
+        "name": "Kisame Hoshigaki",
+        "place_of_birth": "Kirigakure",
+        "description": "A member of the Akatsuki known as the Monster of the Hidden Mist.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 24,
+        "name": "Kurenai Yuhi",
+        "place_of_birth": "Konohagakure",
+        "description": "A jonin and leader of Team 8.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 25,
+        "name": "Might Guy",
+        "place_of_birth": "Konohagakure",
+        "description": "A taijutsu master and leader of Team Guy.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 26,
+        "name": "Zabuza Momochi",
+        "place_of_birth": "Kirigakure",
+        "description": "A rogue ninja known as the Demon of the Hidden Mist.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 27,
+        "name": "Naruto Uzumaki",
+        "place_of_birth": "Konohagakure",
+        "description": "The protagonist of the series and jinchuriki of the Nine-Tails.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 28,
+        "name": "Neji Hyuga",
+        "place_of_birth": "Konohagakure",
+        "description": "A prodigy of the Hyuga clan and member of Team Guy.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 29,
+        "name": "Obito Uchiha",
+        "place_of_birth": "Konohagakure",
+        "description": "A former member of Team Minato and key figure in the Akatsuki.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 30,
+        "name": "Orochimaru",
+        "place_of_birth": "Konohagakure",
+        "description": "One of the Legendary Sannin and a rogue ninja.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 31,
+        "name": "Rin",
+        "place_of_birth": "Konohagakure",
+        "description": "A member of Team Minato and a medical ninja.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 32,
+        "name": "Rock Lee",
+        "place_of_birth": "Konohagakure",
+        "description": "A taijutsu specialist and member of Team Guy.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 33,
+        "name": "Sai",
+        "place_of_birth": "Konohagakure",
+        "description": "A member of Team 7 and a skilled artist ninja.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 34,
+        "name": "Sakon",
+        "place_of_birth": "Otogakure",
+        "description": "A member of the Sound Four with a unique twin-fighting style.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 35,
+        "name": "Sakura Haruno",
+        "place_of_birth": "Konohagakure",
+        "description": "A member of Team 7 and a skilled medical ninja.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 36,
+        "name": "Hiruzen Sarutobi",
+        "place_of_birth": "Konohagakure",
+        "description": "The Third Hokage and a wise leader of the village.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 37,
+        "name": "Sasuke Uchiha",
+        "place_of_birth": "Konohagakure",
+        "description": "A member of Team 7 and the last surviving Uchiha clan member.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 38,
+        "name": "Sasori",
+        "place_of_birth": "Sunagakure",
+        "description": "A puppet master and member of the Akatsuki.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 39,
+        "name": "Tayuya",
+        "place_of_birth": "Otogakure",
+        "description": "A member of the Sound Four who uses genjutsu through her flute.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 40,
+        "name": "Temari",
+        "place_of_birth": "Sunagakure",
+        "description": "A kunoichi from Sunagakure and sister of Gaara.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 41,
+        "name": "Tenten",
+        "place_of_birth": "Konohagakure",
+        "description": "A member of Team Guy and a weapons specialist.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 42,
+        "name": "Ukon",
+        "place_of_birth": "Otogakure",
+        "description": "A member of the Sound Four and Sakon's twin.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 43,
+        "name": "Haku",
+        "place_of_birth": "Kirigakure",
+        "description": "A loyal follower of Zabuza with a tragic past.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 44,
+        "name": "Hayate Gekko",
+        "place_of_birth": "Konohagakure",
+        "description": "A special jonin and proctor of the Chunin Exams.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 45,
+        "name": "Hiashi Hyuga",
+        "place_of_birth": "Konohagakure",
+        "description": "The head of the Hyuga clan and father of Hinata.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 46,
+        "name": "Hidan",
+        "place_of_birth": "Yugakure",
+        "description": "A member of the Akatsuki who practices a deadly ritualistic jutsu.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 47,
+        "name": "Hizashi Hyuga",
+        "place_of_birth": "Konohagakure",
+        "description": "Hiashi's twin brother and a member of the Hyuga clan's branch family.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 48,
+        "name": "Hinata Hyuga",
+        "place_of_birth": "Konohagakure",
+        "description": "A member of Team 8 and heir to the Hyuga clan.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 49,
+        "name": "Tsunade",
+        "place_of_birth": "Konohagakure",
+        "description": "One of the Legendary Sannin and the Fifth Hokage.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 50,
+        "name": "Chiyo",
+        "place_of_birth": "Sunagakure",
+        "description": "A retired puppeteer and elder of Sunagakure.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 51,
+        "name": "Choji Akimichi",
+        "place_of_birth": "Konohagakure",
+        "description": "A member of Team 10 and the Akimichi clan.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 52,
+        "name": "Shizune",
+        "place_of_birth": "Konohagakure",
+        "description": "Tsunade's assistant and a skilled medical ninja.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 53,
+        "name": "Shikamaru Nara",
+        "place_of_birth": "Konohagakure",
+        "description": "A member of Team 10 and a tactical genius.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 54,
+        "name": "Shino Aburame",
+        "place_of_birth": "Konohagakure",
+        "description": "A member of Team 8 who uses insects in battle.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 55,
+        "name": "Ebisu",
+        "place_of_birth": "Konohagakure",
+        "description": "A special jonin and Naruto's temporary tutor.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 56,
+        "name": "Yamato",
+        "place_of_birth": "Konohagakure",
+        "description": "A member of Team Kakashi and a user of Wood Release.",
+        "avatar": "./imgs/cat.png"
+    },
+    {
+        "id": 57,
+        "name": "Yashamaru",
+        "place_of_birth": "Sunagakure",
+        "description": "Gaara's caretaker and uncle.",
+        "avatar": "./imgs/cat.png"
+    }
+]

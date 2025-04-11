@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Character Viewer</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body class="app-container">
+  <div class="content-container">
+    <div class="main-container">
+      <div class="sidebar">
+        <input type="text" id="search" placeholder="Search..." class="search-input" />
+        <div id="character-list" class="character-list"></div>
+      </div>
+      <div id="character-details" class="character-details">
+        <div class="placeholder-text">Select a character from the list</div>
+      </div>
+    </div>
+    <div id="image-container" class="image-container">
+      <img id="extra-image" src="./imgs/map.png" alt="Extra Image" class="extra-image">
+    </div>
+      
+      
+  </div>
+  <script>
+    const markers = [
+      { x: 225, y: 225 },
+    ];
+  
+    const container = document.getElementById('image-container');
+  
+    markers.forEach(marker => {
+      const el = document.createElement('div');
+      el.className = 'marker';
+      el.style.left = marker.x + 'px';
+      el.style.top = marker.y + 'px';
+      container.appendChild(el);
+    });
+  </script>
+  <script>
+    let characters = [];
+    const listEl = document.getElementById("character-list");
+    const detailsEl = document.getElementById("character-details");
+    const searchEl = document.getElementById("search");
+
+    let checked = new Set();
+
+    async function fetchCharacters() {
+        const response = await fetch("characters.json");
+        characters = await response.json();
+        renderList();
+    }
+
+    function renderList(filter = "") {
+        listEl.innerHTML = "";
+        characters
+            .filter(c => c.name.toLowerCase().includes(filter.toLowerCase()))
+            .forEach(character => {
+                const item = document.createElement("div");
+                item.className = "list-item";
+
+                const checkbox = document.createElement("input");
+                checkbox.type = "checkbox";
+                checkbox.checked = checked.has(character.id);
+                checkbox.addEventListener("click", e => {
+                    e.stopPropagation();
+                    if (checked.has(character.id)) {
+                        checked.delete(character.id);
+                    } else {
+                        checked.add(character.id);
+                    }
+                });
+
+                const label = document.createElement("span");
+                label.textContent = character.name;
+
+                item.appendChild(checkbox);
+                item.appendChild(label);
+
+                item.addEventListener("click", () => renderDetails(character));
+
+                listEl.appendChild(item);
+            });
+    }
+
+    function renderDetails(character) {
+        detailsEl.innerHTML = `
+            <div class="details-container">
+                <img src="${character.avatar}" alt="${character.name}" class="avatar">
+                <div>
+                    <h2 class="character-name">${character.name}</h2>
+                    <p class="character-description">${character.description}</p>
+                </div>
+            </div>
+        `;
+    }
+
+    searchEl.addEventListener("input", () => renderList(searchEl.value));
+
+    fetchCharacters();
+  </script>
+
+  
+</body>
+</html>
