@@ -1,0 +1,1686 @@
+{
+  "nodes": [
+    {
+      "name": "Akamaru"
+    },
+    {
+      "name": "Allied Shinobi Forces"
+    },
+    {
+      "name": "B"
+    },
+    {
+      "name": "Chiyo"
+    },
+    {
+      "name": "Chōji"
+    },
+    {
+      "name": "Deidara"
+    },
+    {
+      "name": "Gaara"
+    },
+    {
+      "name": "Gamakichi"
+    },
+    {
+      "name": "Gozu"
+    },
+    {
+      "name": "Guren"
+    },
+    {
+      "name": "Guy"
+    },
+    {
+      "name": "Hidan"
+    },
+    {
+      "name": "Ino"
+    },
+    {
+      "name": "Itachi"
+    },
+    {
+      "name": "Jiraiya"
+    },
+    {
+      "name": "Kabuto"
+    },
+    {
+      "name": "Kabuto Yakushi"
+    },
+    {
+      "name": "Kaguya Otsutsuki"
+    },
+    {
+      "name": "Kakashi"
+    },
+    {
+      "name": "Kakashi Hatake"
+    },
+    {
+      "name": "Kakuzu"
+    },
+    {
+      "name": "Karin"
+    },
+    {
+      "name": "Kiba"
+    },
+    {
+      "name": "Killer B"
+    },
+    {
+      "name": "Lee"
+    },
+    {
+      "name": "Madara"
+    },
+    {
+      "name": "Madara Uchiha"
+    },
+    {
+      "name": "Mecha-Naruto"
+    },
+    {
+      "name": "Might Guy"
+    },
+    {
+      "name": "Nagato"
+    },
+    {
+      "name": "Naruto"
+    },
+    {
+      "name": "Naruto Uzumaki"
+    },
+    {
+      "name": "Neji"
+    },
+    {
+      "name": "Obito"
+    },
+    {
+      "name": "Orochimaru"
+    },
+    {
+      "name": "Pain (Deva Path)"
+    },
+    {
+      "name": "Reanimated Shinobi"
+    },
+    {
+      "name": "Reanimated Tailed Beasts"
+    },
+    {
+      "name": "Rinji"
+    },
+    {
+      "name": "Sai"
+    },
+    {
+      "name": "Sakura"
+    },
+    {
+      "name": "Sakura Haruno"
+    },
+    {
+      "name": "Sasori"
+    },
+    {
+      "name": "Sasuke"
+    },
+    {
+      "name": "Sasuke Uchiha"
+    },
+    {
+      "name": "Shikamaru"
+    },
+    {
+      "name": "Shino"
+    },
+    {
+      "name": "Shizune"
+    },
+    {
+      "name": "Temari"
+    },
+    {
+      "name": "Ten-Tails"
+    },
+    {
+      "name": "Tenten"
+    },
+    {
+      "name": "Tobi"
+    },
+    {
+      "name": "Utakata"
+    },
+    {
+      "name": "White Zetsu Army"
+    },
+    {
+      "name": "Yamato"
+    }
+  ],
+  "links": [
+    {
+      "source": "Kakashi Hatake",
+      "target": "Naruto Uzumaki",
+      "value": 1
+    },
+    {
+      "source": "Kakashi Hatake",
+      "target": "Sakura Haruno",
+      "value": 1
+    },
+    {
+      "source": "Deidara",
+      "target": "Gaara",
+      "value": 3
+    },
+    {
+      "source": "Chiyo",
+      "target": "Kakashi",
+      "value": 2
+    },
+    {
+      "source": "Chiyo",
+      "target": "Naruto",
+      "value": 2
+    },
+    {
+      "source": "Itachi",
+      "target": "Naruto",
+      "value": 2
+    },
+    {
+      "source": "Itachi",
+      "target": "Kakashi",
+      "value": 1
+    },
+    {
+      "source": "Itachi",
+      "target": "Sakura",
+      "value": 1
+    },
+    {
+      "source": "Itachi",
+      "target": "Kakashi Hatake",
+      "value": 1
+    },
+    {
+      "source": "Kakashi Hatake",
+      "target": "Sasori",
+      "value": 1
+    },
+    {
+      "source": "Itachi",
+      "target": "Sakura Haruno",
+      "value": 1
+    },
+    {
+      "source": "Sakura Haruno",
+      "target": "Sasori",
+      "value": 2
+    },
+    {
+      "source": "Itachi",
+      "target": "Naruto Uzumaki",
+      "value": 1
+    },
+    {
+      "source": "Naruto Uzumaki",
+      "target": "Sasori",
+      "value": 1
+    },
+    {
+      "source": "Chiyo",
+      "target": "Itachi",
+      "value": 1
+    },
+    {
+      "source": "Chiyo",
+      "target": "Sasori",
+      "value": 8
+    },
+    {
+      "source": "Lee",
+      "target": "Sasori",
+      "value": 1
+    },
+    {
+      "source": "Deidara",
+      "target": "Lee",
+      "value": 1
+    },
+    {
+      "source": "Guy",
+      "target": "Sasori",
+      "value": 1
+    },
+    {
+      "source": "Deidara",
+      "target": "Guy",
+      "value": 1
+    },
+    {
+      "source": "Kakashi",
+      "target": "Sasori",
+      "value": 2
+    },
+    {
+      "source": "Deidara",
+      "target": "Kakashi",
+      "value": 5
+    },
+    {
+      "source": "Naruto",
+      "target": "Sasori",
+      "value": 5
+    },
+    {
+      "source": "Deidara",
+      "target": "Naruto",
+      "value": 6
+    },
+    {
+      "source": "Sakura",
+      "target": "Sasori",
+      "value": 10
+    },
+    {
+      "source": "Deidara",
+      "target": "Sakura",
+      "value": 4
+    },
+    {
+      "source": "Chiyo",
+      "target": "Sakura",
+      "value": 1
+    },
+    {
+      "source": "Naruto",
+      "target": "Sai",
+      "value": 5
+    },
+    {
+      "source": "Chōji",
+      "target": "Sai",
+      "value": 2
+    },
+    {
+      "source": "Sai",
+      "target": "Shikamaru",
+      "value": 4
+    },
+    {
+      "source": "Sai",
+      "target": "Sakura",
+      "value": 3
+    },
+    {
+      "source": "Sai",
+      "target": "Shizune",
+      "value": 1
+    },
+    {
+      "source": "Naruto",
+      "target": "Shizune",
+      "value": 1
+    },
+    {
+      "source": "Sakura",
+      "target": "Shizune",
+      "value": 1
+    },
+    {
+      "source": "Shizune",
+      "target": "Yamato",
+      "value": 1
+    },
+    {
+      "source": "Naruto",
+      "target": "Yamato",
+      "value": 5
+    },
+    {
+      "source": "Sai",
+      "target": "Yamato",
+      "value": 3
+    },
+    {
+      "source": "Orochimaru",
+      "target": "Yamato",
+      "value": 6
+    },
+    {
+      "source": "Kabuto Yakushi",
+      "target": "Yamato",
+      "value": 4
+    },
+    {
+      "source": "Naruto Uzumaki",
+      "target": "Orochimaru",
+      "value": 2
+    },
+    {
+      "source": "Kabuto Yakushi",
+      "target": "Naruto Uzumaki",
+      "value": 1
+    },
+    {
+      "source": "Orochimaru",
+      "target": "Sakura Haruno",
+      "value": 2
+    },
+    {
+      "source": "Kabuto Yakushi",
+      "target": "Sakura Haruno",
+      "value": 1
+    },
+    {
+      "source": "Orochimaru",
+      "target": "Sai",
+      "value": 2
+    },
+    {
+      "source": "Kabuto Yakushi",
+      "target": "Sai",
+      "value": 3
+    },
+    {
+      "source": "Naruto",
+      "target": "Orochimaru",
+      "value": 3
+    },
+    {
+      "source": "Orochimaru",
+      "target": "Sasuke Uchiha",
+      "value": 4
+    },
+    {
+      "source": "Kabuto",
+      "target": "Sasuke Uchiha",
+      "value": 1
+    },
+    {
+      "source": "Kabuto",
+      "target": "Naruto",
+      "value": 4
+    },
+    {
+      "source": "Kabuto",
+      "target": "Sakura",
+      "value": 3
+    },
+    {
+      "source": "Kabuto",
+      "target": "Yamato",
+      "value": 3
+    },
+    {
+      "source": "Kabuto",
+      "target": "Sai",
+      "value": 2
+    },
+    {
+      "source": "Sai",
+      "target": "Sasuke",
+      "value": 1
+    },
+    {
+      "source": "Sasuke Uchiha",
+      "target": "Yamato",
+      "value": 2
+    },
+    {
+      "source": "Naruto",
+      "target": "Sasuke Uchiha",
+      "value": 1
+    },
+    {
+      "source": "Sai",
+      "target": "Sasuke Uchiha",
+      "value": 1
+    },
+    {
+      "source": "Kiba",
+      "target": "Naruto",
+      "value": 1
+    },
+    {
+      "source": "Akamaru",
+      "target": "Naruto",
+      "value": 1
+    },
+    {
+      "source": "Chōji",
+      "target": "Kiba",
+      "value": 1
+    },
+    {
+      "source": "Akamaru",
+      "target": "Chōji",
+      "value": 1
+    },
+    {
+      "source": "Hidan",
+      "target": "Shikamaru",
+      "value": 6
+    },
+    {
+      "source": "Kakuzu",
+      "target": "Shikamaru",
+      "value": 4
+    },
+    {
+      "source": "Hidan",
+      "target": "Ino",
+      "value": 4
+    },
+    {
+      "source": "Ino",
+      "target": "Kakuzu",
+      "value": 4
+    },
+    {
+      "source": "Chōji",
+      "target": "Hidan",
+      "value": 2
+    },
+    {
+      "source": "Chōji",
+      "target": "Kakuzu",
+      "value": 3
+    },
+    {
+      "source": "Kakashi",
+      "target": "Kakuzu",
+      "value": 5
+    },
+    {
+      "source": "Hidan",
+      "target": "Kakashi",
+      "value": 4
+    },
+    {
+      "source": "Kakuzu",
+      "target": "Naruto",
+      "value": 2
+    },
+    {
+      "source": "Kakuzu",
+      "target": "Yamato",
+      "value": 1
+    },
+    {
+      "source": "Gozu",
+      "target": "Kakashi",
+      "value": 4
+    },
+    {
+      "source": "Kakashi",
+      "target": "Rinji",
+      "value": 3
+    },
+    {
+      "source": "Gozu",
+      "target": "Kiba",
+      "value": 2
+    },
+    {
+      "source": "Kiba",
+      "target": "Rinji",
+      "value": 3
+    },
+    {
+      "source": "Akamaru",
+      "target": "Gozu",
+      "value": 2
+    },
+    {
+      "source": "Akamaru",
+      "target": "Rinji",
+      "value": 3
+    },
+    {
+      "source": "Guren",
+      "target": "Naruto",
+      "value": 5
+    },
+    {
+      "source": "Gozu",
+      "target": "Naruto",
+      "value": 3
+    },
+    {
+      "source": "Guren",
+      "target": "Kiba",
+      "value": 1
+    },
+    {
+      "source": "Kabuto",
+      "target": "Kiba",
+      "value": 1
+    },
+    {
+      "source": "Guren",
+      "target": "Shino",
+      "value": 4
+    },
+    {
+      "source": "Kabuto",
+      "target": "Shino",
+      "value": 2
+    },
+    {
+      "source": "Gozu",
+      "target": "Shino",
+      "value": 3
+    },
+    {
+      "source": "Guren",
+      "target": "Kakashi",
+      "value": 3
+    },
+    {
+      "source": "Kabuto",
+      "target": "Kakashi",
+      "value": 2
+    },
+    {
+      "source": "Akamaru",
+      "target": "Guren",
+      "value": 1
+    },
+    {
+      "source": "Akamaru",
+      "target": "Kabuto",
+      "value": 1
+    },
+    {
+      "source": "Gamakichi",
+      "target": "Guren",
+      "value": 3
+    },
+    {
+      "source": "Gamakichi",
+      "target": "Kabuto",
+      "value": 3
+    },
+    {
+      "source": "Gamakichi",
+      "target": "Gozu",
+      "value": 2
+    },
+    {
+      "source": "Rinji",
+      "target": "Yamato",
+      "value": 1
+    },
+    {
+      "source": "Lee",
+      "target": "Rinji",
+      "value": 3
+    },
+    {
+      "source": "Rinji",
+      "target": "Tenten",
+      "value": 3
+    },
+    {
+      "source": "Rinji",
+      "target": "Shino",
+      "value": 3
+    },
+    {
+      "source": "Gozu",
+      "target": "Sai",
+      "value": 2
+    },
+    {
+      "source": "Guren",
+      "target": "Sai",
+      "value": 2
+    },
+    {
+      "source": "Rinji",
+      "target": "Sai",
+      "value": 2
+    },
+    {
+      "source": "Gozu",
+      "target": "Lee",
+      "value": 1
+    },
+    {
+      "source": "Guren",
+      "target": "Lee",
+      "value": 2
+    },
+    {
+      "source": "Kabuto",
+      "target": "Lee",
+      "value": 1
+    },
+    {
+      "source": "Gozu",
+      "target": "Tenten",
+      "value": 1
+    },
+    {
+      "source": "Guren",
+      "target": "Tenten",
+      "value": 2
+    },
+    {
+      "source": "Kabuto",
+      "target": "Tenten",
+      "value": 1
+    },
+    {
+      "source": "Gozu",
+      "target": "Shizune",
+      "value": 1
+    },
+    {
+      "source": "Guren",
+      "target": "Shizune",
+      "value": 1
+    },
+    {
+      "source": "Rinji",
+      "target": "Shizune",
+      "value": 1
+    },
+    {
+      "source": "Kabuto",
+      "target": "Shizune",
+      "value": 1
+    },
+    {
+      "source": "Deidara",
+      "target": "Tobi",
+      "value": 3
+    },
+    {
+      "source": "Deidara",
+      "target": "Sasuke",
+      "value": 1
+    },
+    {
+      "source": "Sasuke",
+      "target": "Tobi",
+      "value": 1
+    },
+    {
+      "source": "Deidara",
+      "target": "Sasuke Uchiha",
+      "value": 2
+    },
+    {
+      "source": "Sasuke Uchiha",
+      "target": "Tobi",
+      "value": 1
+    },
+    {
+      "source": "Karin",
+      "target": "Sasuke",
+      "value": 2
+    },
+    {
+      "source": "Jiraiya",
+      "target": "Nagato",
+      "value": 1
+    },
+    {
+      "source": "Killer B",
+      "target": "Sasuke",
+      "value": 3
+    },
+    {
+      "source": "Karin",
+      "target": "Killer B",
+      "value": 1
+    },
+    {
+      "source": "Naruto Uzumaki",
+      "target": "Pain (Deva Path)",
+      "value": 2
+    },
+    {
+      "source": "Gamakichi",
+      "target": "Pain (Deva Path)",
+      "value": 1
+    },
+    {
+      "source": "Naruto Uzumaki",
+      "target": "Sasuke Uchiha",
+      "value": 9
+    },
+    {
+      "source": "Karin",
+      "target": "Naruto Uzumaki",
+      "value": 1
+    },
+    {
+      "source": "Sakura Haruno",
+      "target": "Sasuke Uchiha",
+      "value": 2
+    },
+    {
+      "source": "Karin",
+      "target": "Sakura Haruno",
+      "value": 1
+    },
+    {
+      "source": "Kakashi Hatake",
+      "target": "Sasuke Uchiha",
+      "value": 3
+    },
+    {
+      "source": "Kakashi Hatake",
+      "target": "Karin",
+      "value": 1
+    },
+    {
+      "source": "Gaara",
+      "target": "Sasuke Uchiha",
+      "value": 1
+    },
+    {
+      "source": "Sasuke Uchiha",
+      "target": "Temari",
+      "value": 1
+    },
+    {
+      "source": "Madara Uchiha",
+      "target": "Sasuke Uchiha",
+      "value": 2
+    },
+    {
+      "source": "Sakura",
+      "target": "Sasuke",
+      "value": 2
+    },
+    {
+      "source": "Karin",
+      "target": "Sakura",
+      "value": 1
+    },
+    {
+      "source": "Allied Shinobi Forces",
+      "target": "Kabuto Yakushi",
+      "value": 2
+    },
+    {
+      "source": "Allied Shinobi Forces",
+      "target": "Tobi",
+      "value": 2
+    },
+    {
+      "source": "Allied Shinobi Forces",
+      "target": "Reanimated Tailed Beasts",
+      "value": 2
+    },
+    {
+      "source": "Allied Shinobi Forces",
+      "target": "Reanimated Shinobi",
+      "value": 2
+    },
+    {
+      "source": "Allied Shinobi Forces",
+      "target": "White Zetsu Army",
+      "value": 2
+    },
+    {
+      "source": "Kabuto Yakushi",
+      "target": "Kakashi",
+      "value": 1
+    },
+    {
+      "source": "Kakashi",
+      "target": "Tobi",
+      "value": 3
+    },
+    {
+      "source": "Kakashi",
+      "target": "Reanimated Tailed Beasts",
+      "value": 1
+    },
+    {
+      "source": "Kakashi",
+      "target": "Reanimated Shinobi",
+      "value": 1
+    },
+    {
+      "source": "Kakashi",
+      "target": "White Zetsu Army",
+      "value": 2
+    },
+    {
+      "source": "Kabuto Yakushi",
+      "target": "Shikamaru",
+      "value": 1
+    },
+    {
+      "source": "Shikamaru",
+      "target": "Tobi",
+      "value": 1
+    },
+    {
+      "source": "Reanimated Tailed Beasts",
+      "target": "Shikamaru",
+      "value": 1
+    },
+    {
+      "source": "Reanimated Shinobi",
+      "target": "Shikamaru",
+      "value": 1
+    },
+    {
+      "source": "Shikamaru",
+      "target": "White Zetsu Army",
+      "value": 2
+    },
+    {
+      "source": "Gaara",
+      "target": "Kabuto Yakushi",
+      "value": 1
+    },
+    {
+      "source": "Gaara",
+      "target": "Tobi",
+      "value": 1
+    },
+    {
+      "source": "Gaara",
+      "target": "Reanimated Tailed Beasts",
+      "value": 1
+    },
+    {
+      "source": "Gaara",
+      "target": "Reanimated Shinobi",
+      "value": 1
+    },
+    {
+      "source": "Gaara",
+      "target": "White Zetsu Army",
+      "value": 2
+    },
+    {
+      "source": "Kabuto Yakushi",
+      "target": "Temari",
+      "value": 1
+    },
+    {
+      "source": "Temari",
+      "target": "Tobi",
+      "value": 1
+    },
+    {
+      "source": "Reanimated Tailed Beasts",
+      "target": "Temari",
+      "value": 1
+    },
+    {
+      "source": "Reanimated Shinobi",
+      "target": "Temari",
+      "value": 1
+    },
+    {
+      "source": "Temari",
+      "target": "White Zetsu Army",
+      "value": 1
+    },
+    {
+      "source": "Chiyo",
+      "target": "Kabuto Yakushi",
+      "value": 1
+    },
+    {
+      "source": "Chiyo",
+      "target": "Tobi",
+      "value": 1
+    },
+    {
+      "source": "Chiyo",
+      "target": "Reanimated Tailed Beasts",
+      "value": 1
+    },
+    {
+      "source": "Chiyo",
+      "target": "Reanimated Shinobi",
+      "value": 1
+    },
+    {
+      "source": "Chiyo",
+      "target": "White Zetsu Army",
+      "value": 1
+    },
+    {
+      "source": "Deidara",
+      "target": "Kabuto Yakushi",
+      "value": 1
+    },
+    {
+      "source": "Deidara",
+      "target": "Reanimated Tailed Beasts",
+      "value": 1
+    },
+    {
+      "source": "Deidara",
+      "target": "Reanimated Shinobi",
+      "value": 1
+    },
+    {
+      "source": "Deidara",
+      "target": "White Zetsu Army",
+      "value": 1
+    },
+    {
+      "source": "Kabuto Yakushi",
+      "target": "Sasori",
+      "value": 1
+    },
+    {
+      "source": "Sasori",
+      "target": "Tobi",
+      "value": 1
+    },
+    {
+      "source": "Reanimated Tailed Beasts",
+      "target": "Sasori",
+      "value": 1
+    },
+    {
+      "source": "Reanimated Shinobi",
+      "target": "Sasori",
+      "value": 1
+    },
+    {
+      "source": "Sasori",
+      "target": "White Zetsu Army",
+      "value": 1
+    },
+    {
+      "source": "Kabuto Yakushi",
+      "target": "Kakuzu",
+      "value": 1
+    },
+    {
+      "source": "Kakuzu",
+      "target": "Tobi",
+      "value": 1
+    },
+    {
+      "source": "Kakuzu",
+      "target": "Reanimated Tailed Beasts",
+      "value": 1
+    },
+    {
+      "source": "Kakuzu",
+      "target": "Reanimated Shinobi",
+      "value": 1
+    },
+    {
+      "source": "Kakuzu",
+      "target": "White Zetsu Army",
+      "value": 1
+    },
+    {
+      "source": "Kabuto Yakushi",
+      "target": "Nagato",
+      "value": 1
+    },
+    {
+      "source": "Nagato",
+      "target": "Tobi",
+      "value": 1
+    },
+    {
+      "source": "Nagato",
+      "target": "Reanimated Tailed Beasts",
+      "value": 1
+    },
+    {
+      "source": "Nagato",
+      "target": "Reanimated Shinobi",
+      "value": 1
+    },
+    {
+      "source": "Nagato",
+      "target": "White Zetsu Army",
+      "value": 1
+    },
+    {
+      "source": "Naruto",
+      "target": "Sasuke",
+      "value": 5
+    },
+    {
+      "source": "Kiba",
+      "target": "Sasuke",
+      "value": 1
+    },
+    {
+      "source": "Akamaru",
+      "target": "Sasuke",
+      "value": 1
+    },
+    {
+      "source": "Sai",
+      "target": "Sasori",
+      "value": 2
+    },
+    {
+      "source": "Deidara",
+      "target": "Sai",
+      "value": 3
+    },
+    {
+      "source": "Ino",
+      "target": "White Zetsu Army",
+      "value": 1
+    },
+    {
+      "source": "Chōji",
+      "target": "White Zetsu Army",
+      "value": 1
+    },
+    {
+      "source": "B",
+      "target": "Naruto Uzumaki",
+      "value": 1
+    },
+    {
+      "source": "Kabuto Yakushi",
+      "target": "Naruto",
+      "value": 1
+    },
+    {
+      "source": "Kabuto Yakushi",
+      "target": "Sakura",
+      "value": 1
+    },
+    {
+      "source": "Hidan",
+      "target": "Naruto",
+      "value": 3
+    },
+    {
+      "source": "Hidan",
+      "target": "Sakura",
+      "value": 2
+    },
+    {
+      "source": "Deidara",
+      "target": "Shikamaru",
+      "value": 1
+    },
+    {
+      "source": "Hidan",
+      "target": "Yamato",
+      "value": 1
+    },
+    {
+      "source": "Deidara",
+      "target": "Yamato",
+      "value": 2
+    },
+    {
+      "source": "Hidan",
+      "target": "Sai",
+      "value": 1
+    },
+    {
+      "source": "Sasori",
+      "target": "Yamato",
+      "value": 1
+    },
+    {
+      "source": "Gaara",
+      "target": "Madara Uchiha",
+      "value": 7
+    },
+    {
+      "source": "Madara Uchiha",
+      "target": "Temari",
+      "value": 1
+    },
+    {
+      "source": "Allied Shinobi Forces",
+      "target": "Madara Uchiha",
+      "value": 2
+    },
+    {
+      "source": "Gaara",
+      "target": "Madara",
+      "value": 2
+    },
+    {
+      "source": "Naruto",
+      "target": "Utakata",
+      "value": 2
+    },
+    {
+      "source": "Naruto",
+      "target": "Tobi",
+      "value": 3
+    },
+    {
+      "source": "B",
+      "target": "Utakata",
+      "value": 1
+    },
+    {
+      "source": "B",
+      "target": "Tobi",
+      "value": 2
+    },
+    {
+      "source": "Kakashi",
+      "target": "Utakata",
+      "value": 1
+    },
+    {
+      "source": "Guy",
+      "target": "Utakata",
+      "value": 1
+    },
+    {
+      "source": "Guy",
+      "target": "Tobi",
+      "value": 2
+    },
+    {
+      "source": "Sasuke",
+      "target": "White Zetsu Army",
+      "value": 1
+    },
+    {
+      "source": "Kabuto Yakushi",
+      "target": "Sasuke Uchiha",
+      "value": 3
+    },
+    {
+      "source": "Madara",
+      "target": "Naruto",
+      "value": 8
+    },
+    {
+      "source": "Kakashi",
+      "target": "Madara",
+      "value": 3
+    },
+    {
+      "source": "Guy",
+      "target": "Madara",
+      "value": 3
+    },
+    {
+      "source": "B",
+      "target": "Madara",
+      "value": 2
+    },
+    {
+      "source": "Madara Uchiha",
+      "target": "Naruto Uzumaki",
+      "value": 3
+    },
+    {
+      "source": "Kakashi",
+      "target": "Orochimaru",
+      "value": 3
+    },
+    {
+      "source": "Kakashi",
+      "target": "Might Guy",
+      "value": 1
+    },
+    {
+      "source": "Itachi",
+      "target": "Might Guy",
+      "value": 1
+    },
+    {
+      "source": "Naruto",
+      "target": "Obito",
+      "value": 7
+    },
+    {
+      "source": "Naruto",
+      "target": "Ten-Tails",
+      "value": 3
+    },
+    {
+      "source": "Kakashi",
+      "target": "Obito",
+      "value": 5
+    },
+    {
+      "source": "Kakashi",
+      "target": "Ten-Tails",
+      "value": 1
+    },
+    {
+      "source": "B",
+      "target": "Obito",
+      "value": 1
+    },
+    {
+      "source": "B",
+      "target": "Ten-Tails",
+      "value": 1
+    },
+    {
+      "source": "Ino",
+      "target": "Madara",
+      "value": 1
+    },
+    {
+      "source": "Ino",
+      "target": "Obito",
+      "value": 1
+    },
+    {
+      "source": "Ino",
+      "target": "Ten-Tails",
+      "value": 1
+    },
+    {
+      "source": "Allied Shinobi Forces",
+      "target": "Madara",
+      "value": 3
+    },
+    {
+      "source": "Allied Shinobi Forces",
+      "target": "Obito",
+      "value": 3
+    },
+    {
+      "source": "Allied Shinobi Forces",
+      "target": "Ten-Tails",
+      "value": 4
+    },
+    {
+      "source": "Sasuke",
+      "target": "Ten-Tails",
+      "value": 1
+    },
+    {
+      "source": "Sakura",
+      "target": "Ten-Tails",
+      "value": 1
+    },
+    {
+      "source": "Mecha-Naruto",
+      "target": "Naruto",
+      "value": 2
+    },
+    {
+      "source": "Kakashi",
+      "target": "Mecha-Naruto",
+      "value": 2
+    },
+    {
+      "source": "Mecha-Naruto",
+      "target": "Yamato",
+      "value": 2
+    },
+    {
+      "source": "Mecha-Naruto",
+      "target": "Shikamaru",
+      "value": 1
+    },
+    {
+      "source": "Chōji",
+      "target": "Mecha-Naruto",
+      "value": 2
+    },
+    {
+      "source": "Kiba",
+      "target": "Mecha-Naruto",
+      "value": 2
+    },
+    {
+      "source": "Mecha-Naruto",
+      "target": "Neji",
+      "value": 2
+    },
+    {
+      "source": "Mecha-Naruto",
+      "target": "Shino",
+      "value": 1
+    },
+    {
+      "source": "Gaara",
+      "target": "Mecha-Naruto",
+      "value": 1
+    },
+    {
+      "source": "Gaara",
+      "target": "Orochimaru",
+      "value": 2
+    },
+    {
+      "source": "Chōji",
+      "target": "Orochimaru",
+      "value": 1
+    },
+    {
+      "source": "Kiba",
+      "target": "Orochimaru",
+      "value": 1
+    },
+    {
+      "source": "Akamaru",
+      "target": "Mecha-Naruto",
+      "value": 1
+    },
+    {
+      "source": "Akamaru",
+      "target": "Orochimaru",
+      "value": 1
+    },
+    {
+      "source": "Neji",
+      "target": "Orochimaru",
+      "value": 1
+    },
+    {
+      "source": "Jiraiya",
+      "target": "Mecha-Naruto",
+      "value": 1
+    },
+    {
+      "source": "Jiraiya",
+      "target": "Orochimaru",
+      "value": 1
+    },
+    {
+      "source": "Obito",
+      "target": "Sasuke",
+      "value": 4
+    },
+    {
+      "source": "Madara Uchiha",
+      "target": "Naruto",
+      "value": 1
+    },
+    {
+      "source": "Kakashi",
+      "target": "Madara Uchiha",
+      "value": 2
+    },
+    {
+      "source": "Naruto",
+      "target": "White Zetsu Army",
+      "value": 1
+    },
+    {
+      "source": "Kakashi Hatake",
+      "target": "Madara Uchiha",
+      "value": 2
+    },
+    {
+      "source": "Madara Uchiha",
+      "target": "Might Guy",
+      "value": 3
+    },
+    {
+      "source": "Killer B",
+      "target": "Yamato",
+      "value": 1
+    },
+    {
+      "source": "Gaara",
+      "target": "Yamato",
+      "value": 1
+    },
+    {
+      "source": "Naruto Uzumaki",
+      "target": "Yamato",
+      "value": 1
+    },
+    {
+      "source": "Orochimaru",
+      "target": "Utakata",
+      "value": 1
+    },
+    {
+      "source": "Gaara",
+      "target": "Kabuto",
+      "value": 1
+    },
+    {
+      "source": "Kabuto",
+      "target": "Utakata",
+      "value": 1
+    },
+    {
+      "source": "Gaara",
+      "target": "Sasuke",
+      "value": 1
+    },
+    {
+      "source": "Sasuke",
+      "target": "Utakata",
+      "value": 1
+    },
+    {
+      "source": "Hidan",
+      "target": "Sasuke",
+      "value": 1
+    },
+    {
+      "source": "Sasori",
+      "target": "Sasuke",
+      "value": 3
+    },
+    {
+      "source": "Sasori",
+      "target": "Shikamaru",
+      "value": 1
+    },
+    {
+      "source": "Neji",
+      "target": "Sasori",
+      "value": 1
+    },
+    {
+      "source": "Ino",
+      "target": "Sasuke",
+      "value": 1
+    },
+    {
+      "source": "Sasuke",
+      "target": "Shikamaru",
+      "value": 1
+    },
+    {
+      "source": "Madara",
+      "target": "Sasuke",
+      "value": 3
+    },
+    {
+      "source": "Kaguya Otsutsuki",
+      "target": "Naruto",
+      "value": 4
+    },
+    {
+      "source": "Kaguya Otsutsuki",
+      "target": "Obito",
+      "value": 2
+    },
+    {
+      "source": "Kaguya Otsutsuki",
+      "target": "Sakura",
+      "value": 4
+    },
+    {
+      "source": "Kaguya Otsutsuki",
+      "target": "Sasuke",
+      "value": 3
+    },
+    {
+      "source": "Kaguya Otsutsuki",
+      "target": "Kakashi",
+      "value": 3
+    },
+    {
+      "source": "Kakashi",
+      "target": "Naruto",
+      "value": 2
+    },
+    {
+      "source": "Kakashi",
+      "target": "Sakura",
+      "value": 1
+    },
+    {
+      "source": "Kabuto",
+      "target": "Naruto Uzumaki",
+      "value": 1
+    },
+    {
+      "source": "Kabuto",
+      "target": "Sakura Haruno",
+      "value": 1
+    },
+    {
+      "source": "Kakuzu",
+      "target": "Sakura",
+      "value": 1
+    },
+    {
+      "source": "Naruto",
+      "target": "Rinji",
+      "value": 2
+    },
+    {
+      "source": "Utakata",
+      "target": "Yamato",
+      "value": 1
+    },
+    {
+      "source": "Sai",
+      "target": "Utakata",
+      "value": 1
+    },
+    {
+      "source": "Kakashi",
+      "target": "Pain (Deva Path)",
+      "value": 2
+    },
+    {
+      "source": "Pain (Deva Path)",
+      "target": "Sakura",
+      "value": 1
+    },
+    {
+      "source": "Nagato",
+      "target": "Naruto Uzumaki",
+      "value": 2
+    },
+    {
+      "source": "Madara",
+      "target": "Sasuke Uchiha",
+      "value": 1
+    },
+    {
+      "source": "Kabuto",
+      "target": "Tobi",
+      "value": 1
+    },
+    {
+      "source": "Guy",
+      "target": "Kakashi",
+      "value": 1
+    },
+    {
+      "source": "Guy",
+      "target": "Yamato",
+      "value": 1
+    },
+    {
+      "source": "Kiba",
+      "target": "White Zetsu Army",
+      "value": 1
+    },
+    {
+      "source": "Akamaru",
+      "target": "White Zetsu Army",
+      "value": 1
+    },
+    {
+      "source": "Nagato",
+      "target": "Naruto",
+      "value": 2
+    },
+    {
+      "source": "Itachi",
+      "target": "Killer B",
+      "value": 1
+    },
+    {
+      "source": "Killer B",
+      "target": "Nagato",
+      "value": 1
+    },
+    {
+      "source": "B",
+      "target": "Nagato",
+      "value": 1
+    },
+    {
+      "source": "Naruto Uzumaki",
+      "target": "Tobi",
+      "value": 1
+    },
+    {
+      "source": "Killer B",
+      "target": "Madara",
+      "value": 1
+    },
+    {
+      "source": "Killer B",
+      "target": "Obito",
+      "value": 1
+    },
+    {
+      "source": "Guy",
+      "target": "Obito",
+      "value": 1
+    },
+    {
+      "source": "Orochimaru",
+      "target": "Sasori",
+      "value": 1
+    },
+    {
+      "source": "Deidara",
+      "target": "Orochimaru",
+      "value": 1
+    },
+    {
+      "source": "Ino",
+      "target": "Sai",
+      "value": 1
+    },
+    {
+      "source": "Sai",
+      "target": "Temari",
+      "value": 1
+    },
+    {
+      "source": "Ino",
+      "target": "Sakura",
+      "value": 1
+    }
+  ]
+}
