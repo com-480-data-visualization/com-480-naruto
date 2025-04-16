@@ -127,16 +127,21 @@ for (src, tgt), value in co_occurrence.items():
 # Step 2: Filter characters appearing more than 3 times
 frequent_chars = {char for char, count in char_counter.items() if count > 15}
 
-# Step 3: Build filtered nodes and links
-nodes = [{"name": name} for name in sorted(frequent_chars)]
+# Step 1: Sort and assign index to each character
+sorted_names = sorted(frequent_chars)
+name_to_index = {name: i for i, name in enumerate(sorted_names)}
 
+# Step 2: Create nodes list with just 'name'
+nodes = [{"name": name} for name in sorted_names]
+
+# Step 3: Create links using integer indices
 links = [
-    {"source": src, "target": tgt, "value": val}
+    {"source": name_to_index[src], "target": name_to_index[tgt], "value": val}
     for (src, tgt), val in co_occurrence.items()
-    if src in frequent_chars and tgt in frequent_chars
+    if src in name_to_index and tgt in name_to_index
 ]
 
-# Step 4: Write to JSON (UTF-8 safe for names like 'Jõnar')
+# Step 4: Export to JSON (UTF-8 safe)
 output = {
     "nodes": nodes,
     "links": links
@@ -145,7 +150,7 @@ output = {
 with open("character_fights_filtered.json", "w", encoding="utf-8") as f:
     json.dump(output, f, indent=2, ensure_ascii=False)
 
-print(f"✅ Output saved with {len(nodes)} characters and {len(links)} fight links.")
+print(f"✅ Exported {len(nodes)} nodes and {len(links)} links (names only, numeric links).")
 
 
 
