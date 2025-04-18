@@ -1,0 +1,102 @@
+Name,Encyclopedia,Ninjutsu,Taijutsu,Genjutsu,Intelligence,Strength,Speed,Chakra,Hand Seals,Total
+Naruto Uzumaki,Rin no Sho,2.0,1.5,1.0,1.0,2.0,2.0,4.0,1.0,14.5
+Naruto Uzumaki,Tō no Sho,3.0,2.0,1.0,1.5,3.0,3.0,4.0,1.0,18.5
+Naruto Uzumaki,Shō no Sho,4.0,3.5,2.0,3.0,3.5,3.5,5.0,1.5,26.0
+Sasuke Uchiha,Rin no Sho,2.5,2.5,1.5,2.0,2.0,3.0,2.0,3.0,18.5
+Sasuke Uchiha,Tō no Sho,3.5,2.5,1.5,2.5,3.0,3.5,3.0,3.0,22.5
+Sasuke Uchiha,Shō no Sho,5.0,3.5,4.0,3.5,3.5,4.5,3.5,4.0,31.5
+Asuma Sarutobi,Rin no Sho,4.5,4.0,3.5,4.0,4.0,4.5,3.5,3.5,31.5
+Asuma Sarutobi,Tō no Sho,4.5,4.5,3.5,4.5,4.0,4.5,3.5,3.5,32.5
+Asuma Sarutobi,Shō no Sho,4.5,4.5,3.5,4.5,4.0,4.5,3.5,3.5,32.5
+Jiraiya,Shō no Sho,5.0,4.5,3.0,4.5,4.5,4.5,5.0,4.5,35.5
+Kiba Inuzuka,Rin no Sho,1.5,2.5,0.5,1.0,2.5,3.5,1.5,1.5,14.5
+Kiba Inuzuka,Tō no Sho,2.5,2.5,0.5,1.0,3.0,4.0,1.5,1.5,16.5
+Kiba Inuzuka,Shō no Sho,3.5,3.0,2.0,2.0,3Shō no Sho.0,4.5,2.5,1.5,22.0
+Might Guy,Rin no Sho,3.0,5.0,3.0,3.0,5.0,5.0,5.0,2.5,31.5
+Might Guy,Tō no Sho,3.0,5.0,3.0,3.0,5.0,5.0,5.0,2.5,31.5
+Might Guy,Shō no Sho,4.0,5.0,3.0,3.0,5.0,5.0,5.0,2.5,32.5
+Gaara,Rin no Sho,3.5,1.0,2.5,2.5,1.0,2.0,4.0,3.5,20.0
+Gaara,Tō no Sho,4.5,2.0,2.5,3.5,1.0,3.0,5.0,4.0,25.5
+Gaara,Shō no Sho,5.0,2.0,3.5,4.0,2.5,3.0,5.0,4.0,29.0
+Rock Lee,Rin no Sho,0.5,4.0,0.5,1.5,3.0,4.0,3.0,1.0,17.5
+Rock Lee,Tō no Sho,0.5,5.0,0.5,1.5,3.5,4.0,3.0,1.0,19.0
+Rock Lee,Shō no Sho,0.5,5.0,1.0,2.0,4.5,4.5,3.5,1.0,22.0
+Shikamaru Nara,Rin no Sho,2.5,1.5,2.5,5.0,1.5,2.0,1.5,2.0,18.5
+Shikamaru Nara,Tō no Sho,3.0,2.0,3.0,5.0,2.0,2.5,2.0,2.5,22.0
+Shikamaru Nara,Shō no Sho,3.5,2.0,3.0,5.0,2.0,2.5,3.0,3.0,24.0
+Temari,Rin no Sho,3.0,2.5,1.5,2.5,3.0,2.5,2.0,2.0,19.0
+Temari,Tō no Sho,4.0,2.5,2.0,3.5,3.5,2.5,2.5,3.0,23.5
+Temari,Shō no Sho,4.0,2.5,1.5,4.0,3.5,3.0,3.0,3.0,24.5
+Kankuro,Rin no Sho,3.5,1.5,1.5,2.0,2.5,2.0,2.5,3.5,19.0
+Kankuro,Tō no Sho,4.0,2.5,2.0,3.5,3.0,2.0,3.5,4.0,24.5
+Kankuro,Shō no Sho,4.0,3.0,2.0,3.5,3.5,2.5,4.0,4.0,26.5
+Orochimaru,Shō no Sho,5.0,3.5,5.0,5.0,3.5,4.5,3.5,5.0,35.0
+Iruka Umino,Rin no Sho,3.0,3.0,2.5,4.0,2.5,2.5,3.0,3.5,24.0
+Iruka Umino,Tō no Sho,3.5,3.5,2.5,4.5,2.5,2.5,3.0,4.0,26.0
+Iruka Umino,Shō no Sho,3.5,3.5,2.5,4.5,2.5,2.5,3.0,4.0,26.0
+Kakashi Hatake,Rin no Sho,5.0,4.0,4.0,4.5,3.5,4.0,3.0,5.0,33.0
+Kakashi Hatake,Tō no Sho,5.0,4.5,4.0,5.0,3.5,4.5,3.0,5.0,34.5
+Kakashi Hatake,Shō no Sho,5.0,4.5,4.0,5.0,3.5,4.5,3.0,5.0,34.5
+Ebisu,Rin no Sho,4.0,3.5,3.5,4.5,1.0,2.0,2.0,4.5,25.0
+Choji Akimichi,Rin no Sho,3.0,2.0,0.5,0.5,3.0,1.0,2.0,1.5,13.5
+Choji Akimichi,Tō no Sho,3.5,2.0,0.5,1.0,3.5,1.0,2.5,1.5,15.5
+Choji Akimichi,Shō no Sho,3.5,3.0,1.0,2.0,4.5,2.0,3.5,1.5,21.0
+Anko Mitarashi,Rin no Sho,3.5,2.5,4.0,2.0,3.0,3.0,4.0,3.0,25.0
+Ino Yamanaka,Rin no Sho,2.5,1.5,1.5,2.0,0.5,2.5,2.0,2.5,15.0
+Ino Yamanaka,Tō no Sho,3.0,1.5,1.5,2.5,1.5,2.5,2.0,2.5,17.0
+Ino Yamanaka,Shō no Sho,3.5,1.5,3.0,3.0,2.5,2.5,2.5,2.5,21.0
+Deidara,Shō no Sho,5.0,3.5,3.5,4.5,3.5,4.5,4.0,3.5,32.0
+Zabuza Momochi,Rin no Sho,4.5,4.5,2.5,3.0,4.0,4.0,4.0,4.0,30.5
+Hinata Hyuga,Rin no Sho,1.5,2.5,1.0,2.5,1.0,2.0,1.5,2.0,14.0
+Hinata Hyuga,Tō no Sho,1.5,3.0,1.5,3.0,1.0,2.0,1.5,2.0,15.5
+Hinata Hyuga,Shō no Sho,3.0,3.5,2.5,3.5,1.5,2.5,2.0,3.0,21.5
+Hiruzen Sarutobi,Rin no Sho,5.0,5.0,5.0,5.0,3.0,3.0,3.0,5.0,34.0
+Hiruzen Sarutobi,Tō no Sho,5.0,5.0,5.0,5.0,3.0,3.0,3.0,5.0,34.0
+Haku,Rin no Sho,3.5,1.0,1.0,4.0,1.5,4.0,1.0,4.0,20.0
+Baki,Rin no Sho,4.0,4.0,3.5,4.0,4.0,4.5,3.5,3.5,31.0
+Sakura Haruno,Rin no Sho,1.5,1.0,3.0,3.5,0.5,1.0,1.0,4.0,15.5
+Sakura Haruno,Tō no Sho,2.0,1.0,3.5,4.0,1.0,1.0,1.5,4.0,18.0
+Sakura Haruno,Shō no Sho,3.0,3.0,3.5,4.0,3.0,3.0,2.5,4.0,26.0
+Shino Aburame,Rin no Sho,3.5,1.5,2.0,3.0,1.5,1.5,1.5,2.5,17.0
+Shino Aburame,Tō no Sho,3.5,1.5,2.0,3.5,1.5,2.0,2.0,3.0,18.5
+Shino Aburame,Shō no Sho,4.0,1.5,2.0,4.0,1.5,3.0,3.0,3.5,22.5
+Kabuto Yakushi,Rin no Sho,4.0,2.5,4.5,5.0,3.0,3.5,3.0,4.5,30.0
+Kabuto Yakushi,Tō no Sho,4.5,3.5,4.5,5.0,3.0,3.5,3.0,5.0,32.0
+Kabuto Yakushi,Shō no Sho,4.5,3.5,5.0,5.0,3.0,3.5,3.0,5.0,32.5
+Kurenai Yuhi,Rin no Sho,3.5,4.0,5.0,4.0,2.0,4.0,3.0,4.5,30.0
+Kurenai Yuhi,Tō no Sho,4.0,4.0,5.0,4.0,2.0,4.0,3.0,4.5,30.5
+Kurenai Yuhi,Shō no Sho,4.0,4.0,5.0,4.0,2.0,4.0,3.0,4.5,30.5
+Neji Hyuga,Rin no Sho,2.5,3.5,2.0,2.5,2.5,3.0,2.0,3.0,21.0
+Neji Hyuga,Tō no Sho,3.5,4.5,2.0,3.0,2.5,4.0,2.5,3.0,25.0
+Neji Hyuga,Shō no Sho,4.0,4.5,2.0,3.0,2.5,4.5,3.5,3.0,27.0
+Hizashi Hyuga,Rin no Sho,3.0,4.0,2.0,3.0,4.0,4.0,4.5,5.0,29.5
+Tenten,Rin no Sho,2.5,2.5,0.5,2.0,1.0,3.0,1.5,2.0,15.0
+Tenten,Tō no Sho,2.5,3.5,1.5,2.5,1.0,3.5,1.5,2.0,18.0
+Tenten,Shō no Sho,3.0,3.5,1.5,3.5,1.5,3.5,2.0,2.0,20.5
+Zaku Abumi,Rin no Sho,3.5,2.0,2.0,1.0,1.0,2.5,1.0,1.0,14.0
+Dosu Kinuta,Rin no Sho,2.5,2.0,1.5,2.5,1.5,3.0,2.0,1.0,16.0
+Hayate Gekko,Rin no Sho,4.0,3.0,3.5,3.5,2.0,3.0,2.0,3.5,24.5
+Ibiki Morino,Rin no Sho,2.5,3.5,4.5,4.0,4.0,3.0,3.0,3.0,27.5
+Hiashi Hyuga,Rin no Sho,3.5,4.5,2.0,3.0,3.5,4.0,4.0,5.0,29.5
+Hiashi Hyuga,Tō no Sho,3.5,5.0,2.0,3.0,3.5,4.0,4.0,5.0,30.0
+Itachi Uchiha,Shō no Sho,5.0,4.5,5.0,5.0,3.5,5.0,2.5,5.0,35.5
+Hidan,Shō no Sho,5.0,4.5,3.0,3.0,4.0,3.5,5.0,3.5,31.5
+Kakuzu,Shō no Sho,5.0,4.0,3.0,4.5,4.0,4.0,4.5,3.5,32.5
+Kisame Hoshigaki,Shō no Sho,4.5,4.5,2.5,3.5,5.0,4.0,5.0,3.5,32.5
+Tsunade,Shō no Sho,5.0,5.0,3.5,5.0,5.0,3.5,4.0,4.0,35.0
+Yamato,Shō no Sho,4.5,4.0,3.5,4.5,3.5,4.0,3.5,3.5,31.0
+Chiyo,Shō no Sho,5.0,4.5,3.5,5.0,3.5,4.0,2.0,4.5,32.0
+Sai,Shō no Sho,4.0,3.5,3.0,3.5,3.0,3.5,3.0,4.0,27.5
+Sasori,Shō no Sho,5.0,4.0,4.0,5.0,3.0,4.5,5.0,4.0,34.5
+Kimimaro,Tō no Sho,4.0,5.0,3.0,3.5,3.0,4.5,4.5,3.0,30.5
+Rin,Tō no Sho,3.5,1.5,2.5,4.0,1.0,2.0,2.5,4.0,21.0
+Obito Uchiha,Tō no Sho,3.0,2.0,1.5,1.0,2.0,3.0,2.5,3.0,18.0
+Genma Shiranui,Tō no Sho,4.5,3.0,3.0,3.0,3.0,3.5,3.0,4.0,27.0
+Dan Kato,Tō no Sho,4.5,3.5,3.5,4.5,3.5,4.0,4.0,4.0,31.5
+Shizune,Tō no Sho,4.5,2.0,4.0,4.5,2.5,4.0,3.0,5.0,29.5
+Jirobo,Tō no Sho,3.0,4.0,1.0,2.5,5.0,2.0,4.0,2.0,23.5
+Tayuya,Tō no Sho,3.0,2.0,5.0,3.5,1.0,3.0,3.0,4.0,24.5
+Kidomaru,Tō no Sho,4.0,2.5,1.5,4.0,2.0,3.0,4.0,4.0,25.0
+Ukon,Tō no Sho,5.0,3.0,1.5,3.5,3.0,3.0,2.0,4.0,25.0
+Sakon,Tō no Sho,5.0,4.0,1.5,2.5,3.5,3.0,4.0,4.0,27.5
+Yashamaru,Tō no Sho,3.0,1.5,2.5,4.0,3.0,2.5,2.5,3.5,22.5
