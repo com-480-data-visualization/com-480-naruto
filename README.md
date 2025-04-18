@@ -119,12 +119,12 @@ Visualizations that you found on other websites or magazines (might be unrelated
 
 ## Milestone 2 (18th April, 5pm)
 
-### Website MVP
+### Website MVP Link
 
 
 ### Project Overview
 
-Our project consists of **4 core visualizations**, each of which can be developed simultaneously by the team members. Below we describe each visualization along with the necessary tools and additional ideas.
+Our project consists of **4 core visualizations**, each of which can be developed simultaneously by the team members. Below we list each visualization along with the necessary tools and additional ideas.
 
 ---
 
@@ -150,8 +150,9 @@ Our project consists of **4 core visualizations**, each of which can be develope
 - The map provides spatial insights into key events in the series, such as battles and character birthplaces.
 
 #### Tools
-- Lectures and exercises on mapping
-- **Note**: Since our map is fictional, we cannot rely on public APIs with real-world geodata. However, we aim to make the map highly interactive.
+- Lectures and exercises on maps
+
+**Note**: Since our map is fictional, we cannot rely on public APIs with real-world geodata. However, we aim to make the map highly interactive.
 
 #### Ideas
 - **Brushing**: Display the list of characters born in the selected village.
@@ -162,21 +163,21 @@ Our project consists of **4 core visualizations**, each of which can be develope
 ### 3. Character Statistics 📊
 
 #### Data Storytelling
-- Visualizing character statistics across different books gives insight into how their abilities evolve over time.
+- Visualizing character statistics across different time periods (specifically, 3 official books for different time periods) gives insight into how their abilities evolve over time and help compare the characters to each other.
 
 #### Tools
 - D3 examples repository
 - Libraries: `d3.min.js`
 
 #### Ideas
-- **Filtering**: Allow users to select a subset of characters (e.g., via checkboxes) to reduce visual clutter.
+- **Filtering**: Allow users to select a subset of characters (e.g., via checkboxes) to reduce visual noise.
 
 ---
 
 ### 4. Character Cards (Profiles) 🪪
 
 #### Data Storytelling
-- Profiles of main characters featuring their pictures and short biographies.
+- Profiles of the main characters featuring their pictures and short biographies.
 
 #### Tools
 
