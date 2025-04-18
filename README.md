@@ -136,7 +136,7 @@ Our project consists of **4 core visualizations**, each of which can be develope
 
 #### Tools
 - Example: [Les Misérables co-occurrence matrix](https://bost.ocks.org/mike/miserables/)
-- Libraries: `d3.v2.min.js`, `analytics.js`
+- Libraries: `d3.v6.min.js`
 
 #### Ideas
 - **Brushing**: Show the exact number of fights between characters when hovering over a cell.
@@ -150,13 +150,13 @@ Our project consists of **4 core visualizations**, each of which can be develope
 - The map provides spatial insights into key events in the series, such as battles and character birthplaces.
 
 #### Tools
-- Lectures and exercises on maps
+- Libraries: `d3.v6.min.js` possibly
 
-**Note**: Since our map is fictional, we cannot rely on public APIs with real-world geodata. However, we aim to make the map highly interactive.
+**Note**: Since our map is fictional, we cannot rely on public APIs with real-world geodata. However, we aim to make the map highly interactive.So we will display marks on picture of map almost mannualy on js.
 
 #### Ideas
 - **Brushing**: Display the list of characters born in the selected village.
-- **Aggregation**: Use color intensity to represent the number of battles in each village (battle density map).
+- **Filtering**: Allow users to display only chosen characters on the map.
 
 ---
 
@@ -180,8 +180,10 @@ Our project consists of **4 core visualizations**, each of which can be develope
 - Profiles of the main characters featuring their pictures and short biographies.
 
 #### Tools
+- just `js` to generate `html`
 
 #### Ideas
+- **Filtering**: Filtering for other parts of website is based on this list, it allows users to choose subset of characters for further display.
 
 ### Milestone 3 (30th May, 5pm)
 
