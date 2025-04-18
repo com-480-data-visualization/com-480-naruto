@@ -119,13 +119,16 @@ Visualizations that you found on other websites or magazines (might be unrelated
 
 ## Milestone 2 (18th April, 5pm)
 
+### Website MVP
+
+
 ### Project Overview
 
 Our project consists of **4 core visualizations**, each of which can be developed simultaneously by the team members. Below we describe each visualization along with the necessary tools and additional ideas.
 
 ---
 
-### 1. Battle Co-occurrence Matrix ⚔
+### 1. Battle Co-occurrence Matrix 🥷⚔
 
 #### Data Storytelling
 - Rows and columns represent characters.
