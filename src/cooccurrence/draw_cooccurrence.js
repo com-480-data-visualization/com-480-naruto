@@ -1,35 +1,32 @@
+const margin_c = { top: 80, right: 0, bottom: 10, left: 80 },
+      width_c = 1000,
+      height_c = 1000;
 
-var margin = { top: 80, right: 0, bottom: 10, left: 80 },
-  width = 720,
-  height = 720;
+const x_c = d3.scaleBand().range([0, width_c]).padding(0.05);
+const z = d3.scaleLinear().domain([0, 4]).clamp(true);
+const color_c = d3.scaleLinear()
+  .domain([0, 7, 15])
+  .range(["green", "yellow", "red"]);
 
-var x = d3.scale.ordinal().rangeBands([0, width]),
-  z = d3.scale.linear().domain([0, 4]).clamp(true),
-  color = d3.scale.linear()
-    .domain([0, 7, 15]) // tweak to your data
-    .range(["green", "yellow", "red"]);
-
-var svg = d3.select("body").append("svg")
-  .attr("width", width + margin.left + margin.right)
-  .attr("height", height + margin.top + margin.bottom)
-  .style("margin-left", -margin.left + "px")
+const svg_cooccurence = d3.select("#cooccurrence-matrix")
+  .attr("width", width_c + margin_c.left + margin_c.right)
+  .attr("height", height_c + margin_c.top + margin_c.bottom)
+  .style("margin-left", -margin_c.left + "px")
   .append("g")
-  .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+  .attr("transform", `translate(${margin_c.left},${margin_c.top})`);
 
-d3.json("naruto.json", function (miserables) {
-  var matrix = [],
-    nodes = miserables.nodes,
-    n = nodes.length;
+d3.json("./src/cooccurrence/naruto.json").then(function (miserables) {
+  const matrix = [],
+        nodes = miserables.nodes,
+        n = nodes.length;
 
-  // Compute index per node.
-  nodes.forEach(function (node, i) {
+  nodes.forEach((node, i) => {
     node.index = i;
     node.count = 0;
-    matrix[i] = d3.range(n).map(function (j) { return { x: j, y: i, z: 0 }; });
+    matrix[i] = d3.range(n).map(j => ({ x: j, y: i, z: 0 }));
   });
 
-  // Convert links to matrix; count character occurrences.
-  miserables.links.forEach(function (link) {
+  miserables.links.forEach(link => {
     matrix[link.source][link.target].z += link.value;
     matrix[link.target][link.source].z += link.value;
     matrix[link.source][link.source].z += link.value;
@@ -38,69 +35,67 @@ d3.json("naruto.json", function (miserables) {
     nodes[link.target].count += link.value;
   });
 
-  // Precompute the orders.
-  var orders = {
-    count: d3.range(n).sort(function (a, b) { return nodes[b].count - nodes[a].count; }),
+  const orders = {
+    count: d3.range(n).sort((a, b) => nodes[b].count - nodes[a].count),
   };
 
-  // The default sort order.
-  x.domain(orders.count);
+  x_c.domain(orders.count);
 
-  svg.append("rect")
+  svg_cooccurence.append("rect")
     .attr("class", "background")
-    .attr("width", width)
-    .attr("height", height);
+    .attr("width", width_c)
+    .attr("height", height_c);
 
-  var row = svg.selectAll(".row")
+  const row = svg_cooccurence.selectAll(".row")
     .data(matrix)
-    .enter().append("g")
+    .join("g")
     .attr("class", "row")
-    .attr("transform", function (d, i) { return "translate(0," + x(i) + ")"; })
-    .each(row);
+    .attr("transform", (d, i) => `translate(0, ${x_c(i)})`)
+    .each(function(rowData, i) {
+      const rowGroup = d3.select(this);
+
+      rowGroup.selectAll(".cell")
+        .data(rowData.filter(d => d.z))
+        .join("rect")
+        .attr("class", "cell")
+        .attr("x", d => x_c(d.x))
+        .attr("width", x_c.bandwidth())
+        .attr("height", x_c.bandwidth())
+        .style("fill-opacity", d => z(d.z))
+        .style("fill", d => color_c(d.z))
+        .on("mouseover", mouseover)
+        .on("mouseout", mouseout);
+    });
 
   row.append("line")
-    .attr("x2", width);
+    .attr("x2", width_c);
 
   row.append("text")
     .attr("x", -6)
-    .attr("y", x.rangeBand() / 2)
+    .attr("y", x_c.bandwidth() / 2)
     .attr("dy", ".32em")
     .attr("text-anchor", "end")
-    .text(function (d, i) { return nodes[i].name; });
+    .text((d, i) => nodes[i].name);
 
-  var column = svg.selectAll(".column")
+  const column = svg_cooccurence.selectAll(".column")
     .data(matrix)
-    .enter().append("g")
+    .join("g")
     .attr("class", "column")
-    .attr("transform", function (d, i) { return "translate(" + x(i) + ")rotate(-90)"; });
+    .attr("transform", (d, i) => `translate(${x_c(i)}) rotate(-90)`);
 
   column.append("line")
-    .attr("x1", -width);
+    .attr("x1", -width_c);
 
   column.append("text")
     .attr("x", 6)
-    .attr("y", x.rangeBand() / 2)
+    .attr("y", x_c.bandwidth() / 2)
     .attr("dy", ".32em")
     .attr("text-anchor", "start")
-    .text(function (d, i) { return nodes[i].name; });
-
-  function row(row) {
-    var cell = d3.select(this).selectAll(".cell")
-      .data(row.filter(function (d) { return d.z; }))
-      .enter().append("rect")
-      .attr("class", "cell")
-      .attr("x", function (d) { return x(d.x); })
-      .attr("width", x.rangeBand())
-      .attr("height", x.rangeBand())
-      .style("fill-opacity", function (d) { return z(d.z); })
-      .style("fill", function (d) { return color(d.z); })
-      .on("mouseover", mouseover)
-      .on("mouseout", mouseout);
-  }
+    .text((d, i) => nodes[i].name);
 
   function mouseover(p) {
-    d3.selectAll(".row text").classed("active", function (d, i) { return i == p.y; });
-    d3.selectAll(".column text").classed("active", function (d, i) { return i == p.x; });
+    d3.selectAll(".row text").classed("active", (_, i) => i === p.y);
+    d3.selectAll(".column text").classed("active", (_, i) => i === p.x);
   }
 
   function mouseout() {

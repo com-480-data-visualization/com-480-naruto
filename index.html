@@ -25,12 +25,29 @@
     <div id="char-plot-container" class="char-plot-container">
       <svg width="1200" height="600" id="char-plot"></svg>
     </div>
+    <div id="cooccurrence-matrix-container" class="cooccurrence-matrix-container">
+      <style>
+        .background {
+          fill: #eee;
+        }
+
+        line {
+          stroke: #fff;
+        }
+
+        text.active {
+          fill: red;
+        }
+      </style>
+      <svg id="cooccurrence-matrix"></svg>
+    </div>
 
 
   </div>
   <script src="./src/draw_markers.js"></script>
   <script src="./src/draw_list.js"></script>
   <script src="./src/draw_plot.js"></script>
+  <script src="./src/cooccurrence/draw_cooccurrence.js"></script>
 
 
 </body>
