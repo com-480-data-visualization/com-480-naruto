@@ -119,7 +119,7 @@ Visualizations that you found on other websites or magazines (might be unrelated
 
 ## Milestone 2 (18th April, 5pm)
 
-### Website MVP Link
+### [Website MVP Link](https://com-480-data-visualization.github.io/com-480-naruto/)
 
 
 ### Project Overview
