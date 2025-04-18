@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8" />
   <title>Character Viewer</title>
   <link rel="stylesheet" href="styles.css" />
+  <script src="https://d3js.org/d3.v6.min.js"></script>
 </head>
+
 <body class="app-container">
   <div class="content-container">
     <div class="main-container">
@@ -15,20 +18,23 @@
       <div id="character-details" class="character-details">
         <div class="placeholder-text">Select a character from the list</div>
       </div>
-    </div>
+    </div>>
     <div id="image-container" class="image-container">
       <img id="extra-image" src="./imgs/map.png" alt="Extra Image" class="extra-image">
     </div>
-      
-      
+    <div id="char-plot-container" class="char-plot-container">
+      <svg width="1200" height="600" id="char-plot"></svg>
+    </div>
+
+
   </div>
   <script>
     const markers = [
       { x: 225, y: 225 },
     ];
-  
+
     const container = document.getElementById('image-container');
-  
+
     markers.forEach(marker => {
       const el = document.createElement('div');
       el.className = 'marker';
@@ -46,45 +52,45 @@
     let checked = new Set();
 
     async function fetchCharacters() {
-        const response = await fetch("characters.json");
-        characters = await response.json();
-        renderList();
+      const response = await fetch("characters.json");
+      characters = await response.json();
+      renderList();
     }
 
     function renderList(filter = "") {
-        listEl.innerHTML = "";
-        characters
-            .filter(c => c.name.toLowerCase().includes(filter.toLowerCase()))
-            .forEach(character => {
-                const item = document.createElement("div");
-                item.className = "list-item";
+      listEl.innerHTML = "";
+      characters
+        .filter(c => c.name.toLowerCase().includes(filter.toLowerCase()))
+        .forEach(character => {
+          const item = document.createElement("div");
+          item.className = "list-item";
 
-                const checkbox = document.createElement("input");
-                checkbox.type = "checkbox";
-                checkbox.checked = checked.has(character.id);
-                checkbox.addEventListener("click", e => {
-                    e.stopPropagation();
-                    if (checked.has(character.id)) {
-                        checked.delete(character.id);
-                    } else {
-                        checked.add(character.id);
-                    }
-                });
+          const checkbox = document.createElement("input");
+          checkbox.type = "checkbox";
+          checkbox.checked = checked.has(character.id);
+          checkbox.addEventListener("click", e => {
+            e.stopPropagation();
+            if (checked.has(character.id)) {
+              checked.delete(character.id);
+            } else {
+              checked.add(character.id);
+            }
+          });
 
-                const label = document.createElement("span");
-                label.textContent = character.name;
+          const label = document.createElement("span");
+          label.textContent = character.name;
 
-                item.appendChild(checkbox);
-                item.appendChild(label);
+          item.appendChild(checkbox);
+          item.appendChild(label);
 
-                item.addEventListener("click", () => renderDetails(character));
+          item.addEventListener("click", () => renderDetails(character));
 
-                listEl.appendChild(item);
-            });
+          listEl.appendChild(item);
+        });
     }
 
     function renderDetails(character) {
-        detailsEl.innerHTML = `
+      detailsEl.innerHTML = `
             <div class="details-container">
                 <img src="./profile_pictures/${character.name}.jpg" alt="${character.name}" class="avatar">
                 <div>
@@ -99,7 +105,114 @@
 
     fetchCharacters();
   </script>
+  <script>
+    const svg = d3.select("#char-plot"),
+      margin = { top: 30, right: 10, bottom: 10, left: 10 },
+      width = +svg.attr("width") - margin.left - margin.right,
+      height = +svg.attr("height") - margin.top - margin.bottom;
 
-  
+    const g = svg.append("g")
+      .attr("transform", `translate(${margin.left},${margin.top})`);
+
+    let dataDBG;
+
+    const dimensions = [
+      "Ninjutsu", "Taijutsu", "Genjutsu", "Intelligence", "Strength", "Speed", "Chakra", "Hand Seals", "Total"
+    ];
+
+    const x = d3.scalePoint()
+      .range([0, width])
+      .padding(1)
+      .domain(dimensions);
+
+    const y = {};
+    const color = d3.scaleOrdinal(d3.schemeCategory10); // For Generation or category
+
+    d3.csv("table_data_en.csv").then(data => {
+      dataDBG = data; // Store the data for later use
+      // Parse and build y scales
+      dimensions.forEach(d => {
+        data.forEach(p => p[d] = +p[d]); // convert to number
+        y[d] = d3.scaleLinear()
+          .domain(d3.extent(data, p => p[d]))
+          .range([height, 0]);
+      });
+      // Draw background lines, invisible just for action
+
+
+      // Draw foreground lines
+      g.append("g")
+        .attr("class", "foreground-layer")
+        .selectAll("path")
+        .data(data)
+        .join("path")
+        .attr("class", "line foreground-line")
+        .attr("d", path)
+        .attr("stroke", d => color(d.Name));
+
+      g.append("g")
+        .attr("class", "background-layer")
+        .selectAll("path")
+        .data(data)
+        .join("path")
+        .attr("class", "line background-line")
+        .attr("d", path)
+        .attr("stroke", d => color(d.Name))
+        .style("stroke-opacity", "0.0")
+        .style("stroke-width", "3px")
+        .on("mouseover", function (event, d) {
+          d3.selectAll(".foreground-line")
+            .transition().duration(1000)
+            .style("stroke-opacity", 0.1)
+            .style("stroke-width", 1);
+
+          d3.select(this)
+            .transition().duration(50)
+            .style("stroke-opacity", 1);
+
+          //dislpay photo
+          const firstDim = dimensions[0];
+          const yPos = y[firstDim](d[firstDim]);
+
+          const photoPath = `./photos/${d.name}.jpg`;
+
+        })
+        .on("mouseout", function () {
+          d3.selectAll(".foreground-line")
+            .transition().duration(200)
+            .style("stroke-opacity", 1.0)
+            .style("stroke-width", 1.5);
+          d3.select(this)
+            .transition().duration(500)
+            .style("stroke-opacity", 0);
+        });
+
+
+      // Draw axes
+      const axis = d3.axisLeft();
+      const dimensionGroup = g.selectAll(".dimension")
+        .data(dimensions)
+        .join("g")
+        .attr("class", "dimension axis-group")
+        .attr("transform", d => `translate(${x(d)})`);
+
+      dimensionGroup.each(function (d) {
+        d3.select(this).call(axis.scale(y[d]));
+      });
+
+      // Axis labels
+      dimensionGroup.append("text")
+        .attr("class", "axis-label")
+        .attr("y", -9)
+        .text(d => d);
+
+      function path(d) {
+        return d3.line()(dimensions.map(p => [x(p), y[p](d[p])]));
+      }
+    });
+  </script>
+
+
 </body>
+
 </html>
