@@ -1,5 +1,4 @@
 .app-container {
-  /* display: flex; */
   justify-content: center;
   align-items: center;
   height: 100vh;
@@ -105,20 +104,6 @@ body {
   stroke: #000;
   shape-rendering: crispEdges;
 }
-
-/* .background-layer .background-line {
-  fill: none;
-  stroke: #ccc;
-  stroke-opacity: 0.0;
-  stroke-width: 3px;
-  shape-rendering: crispEdges;
-} */
-
-/* .foreground-layer .foreground-line {
-  fill: none;
-  stroke: steelblue;
-  stroke-opacity: 0.3;
-} */
 
 .axis-label {
   font-size: 12px;
