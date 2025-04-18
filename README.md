@@ -119,10 +119,67 @@ Visualizations that you found on other websites or magazines (might be unrelated
 
 ## Milestone 2 (18th April, 5pm)
 
-**10% of the final grade**
+### Project Overview
 
+Our project consists of **4 core visualizations**, each of which can be developed simultaneously by the team members. Below we describe each visualization along with the necessary tools and additional ideas.
 
-## Milestone 3 (30th May, 5pm)
+---
+
+### 1. Battle Co-occurrence Matrix ⚔
+
+#### Data Storytelling
+- Rows and columns represent characters.
+- Cells represent battles where these characters fought against each other.
+
+#### Tools
+- Example: [Les Misérables co-occurrence matrix](https://bost.ocks.org/mike/miserables/)
+- Libraries: `d3.v2.min.js`, `analytics.js`
+
+#### Ideas
+- **Brushing**: Show the exact number of fights between characters when hovering over a cell.
+- **Potential addition**: Display descriptions of major battles when relevant.
+
+---
+
+### 2. Map 🗺
+
+#### Data Storytelling
+- The map provides spatial insights into key events in the series, such as battles and character birthplaces.
+
+#### Tools
+- Lectures and exercises on mapping
+- **Note**: Since our map is fictional, we cannot rely on public APIs with real-world geodata. However, we aim to make the map highly interactive.
+
+#### Ideas
+- **Brushing**: Display the list of characters born in the selected village.
+- **Aggregation**: Use color intensity to represent the number of battles in each village (battle density map).
+
+---
+
+### 3. Character Statistics 📊
+
+#### Data Storytelling
+- Visualizing character statistics across different books gives insight into how their abilities evolve over time.
+
+#### Tools
+- D3 examples repository
+- Libraries: `d3.min.js`
+
+#### Ideas
+- **Filtering**: Allow users to select a subset of characters (e.g., via checkboxes) to reduce visual clutter.
+
+---
+
+### 4. Character Cards (Profiles) 🪪
+
+#### Data Storytelling
+- Profiles of main characters featuring their pictures and short biographies.
+
+#### Tools
+
+#### Ideas
+
+### Milestone 3 (30th May, 5pm)
 
 **80% of the final grade**
 
