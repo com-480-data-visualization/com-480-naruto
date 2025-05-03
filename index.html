@@ -10,6 +10,8 @@
 
 <body class="app-container">
   <div class="content-container">
+
+    <!-- Main character panel -->
     <div class="main-container">
       <div class="sidebar">
         <input type="text" id="search" placeholder="Search..." class="search-input" />
@@ -19,12 +21,72 @@
         <div class="placeholder-text">Select a character from the list</div>
       </div>
     </div>
+
+    <!-- Map/image section -->
     <div id="image-container" class="image-container">
       <img id="extra-image" src="./imgs/map.png" alt="Extra Image" class="extra-image">
     </div>
+
+    <!-- Parallel Coordinates Plot + Filters -->
     <div id="char-plot-container" class="char-plot-container">
-      <svg width="1200" height="600" id="char-plot"></svg>
+      <svg id="char-plot" width="1200" height="600"></svg>
+
+      <!-- Filters (encyclopedias and character selection) -->
+      <div id="filter-bar">
+        <!-- <fieldset id="encyclopedia-group">
+          <legend>Encyclopedias</legend>
+          <div id="encyclopedia-container"></div>
+        </fieldset> -->
+        <fieldset id="encyclopedia-group">
+          <legend>Encyclopedias</legend>
+          <div id="encyclopedia-container"></div>
+          <div id="control-description">
+            <!-- <h3>Controls description.</h3> -->
+            <!-- <h3>Shinobi Stat Showdown.</h3> -->
+            <h3 class="naruto-orange">Shinobi Stat Showdown.</h3>
+            <!-- <p>Compare your favorite ninja across the three great tomes: Rin no Sho, Tō no Sho, and Shō no Sho. Choose
+              who enters the fray and from which source.</p>
+            <p>Hover over a line to uncover which shinobi’s chakra signature you’re following.</p>
+            <p>Note: If a selected character does not appear in a chosen encyclopedia, their data will not be shown.</p> -->
+
+            <div class="controls-description">
+              <p><strong>Compare your favorite ninja</strong> across the three great tomes: <em>Rin no Sho</em>, <em>Tō
+                  no Sho</em>, and <em>Shō no Sho</em>. Choose who enters the fray and from which source.</p>
+
+              <p><span class="highlight">Hover over a line</span> to uncover which shinobi’s chakra signature you’re
+                following.</p>
+
+              <p class="note">Note: If a selected character does not appear in a chosen encyclopedia, their data will
+                not be shown.</p>
+            </div>
+          </div>
+        </fieldset>
+
+        <fieldset id="name-group">
+          <legend>Characters</legend>
+          <!-- <input type="text" id="search-box" placeholder="Search character..." />
+          <div id="character-buttons">
+            <button id="select-all-btn">Select All</button>
+            <button id="deselect-all-btn">Deselect All</button>
+          </div> -->
+          <div class="character-controls-row">
+            <input type="text" id="search-box" placeholder="Search your ninja" />
+            <div class="character-buttons">
+              <button id="select-all-btn" class="naruto-orange">Select All</button>
+              <button id="deselect-all-btn" class="naruto-orange">Deselect All</button>
+            </div>
+          </div>
+          <div id="checkbox-container"></div>
+        </fieldset>
+      </div>
+
+      <!-- Tooltip -->
+      <div id="tooltip"
+        style="position:absolute; pointer-events:none; background:#eee; padding:5px; border:1px solid #ccc; border-radius:4px; opacity:0;">
+      </div>
     </div>
+
+    <!-- Co-occurrence Matrix -->
     <div id="cooccurrence-matrix-container" class="cooccurrence-matrix-container">
       <style>
         .background {
@@ -42,14 +104,13 @@
       <svg id="cooccurrence-matrix"></svg>
     </div>
 
-
   </div>
+
+  <!-- Scripts -->
   <script src="./src/draw_markers.js"></script>
   <script src="./src/draw_list.js"></script>
   <script src="./src/draw_plot.js"></script>
   <script src="./src/cooccurrence/draw_cooccurrence.js"></script>
-
-
 </body>
 
 </html>
