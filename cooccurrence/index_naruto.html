@@ -58,8 +58,9 @@
     var x = d3.scale.ordinal().rangeBands([0, width]),
       z = d3.scale.linear().domain([0, 4]).clamp(true),
       color = d3.scale.linear()
-              .domain([0, 7, 15]) // tweak to your data
-              .range(["green", "yellow", "red"]);
+      .domain([1, 4, 9, 15])
+      .range(["#a8ddb5", "#43a2ca", "#0868ac", "#084081"])
+      .clamp(true);
 
     var svg = d3.select("body").append("svg")
       .attr("width", width + margin.left + margin.right)
@@ -68,7 +69,7 @@
       .append("g")
       .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-    d3.json("naruto.json", function (miserables) {
+    d3.json("naruto_fin.json", function (miserables) {
       var matrix = [],
         nodes = miserables.nodes,
         n = nodes.length;
@@ -138,14 +139,16 @@
 
       function row(row) {
         var cell = d3.select(this).selectAll(".cell")
-          .data(row.filter(function (d) { return d.z; }))
+          .data(row)
+          .data(row.filter(function (d) { return d.x !== d.y; }))  // ⛔ skip diagonal
           .enter().append("rect")
           .attr("class", "cell")
           .attr("x", function (d) { return x(d.x); })
           .attr("width", x.rangeBand())
           .attr("height", x.rangeBand())
-          .style("fill-opacity", function (d) { return z(d.z); })
-          .style("fill", function (d)  { return color(d.z); })
+          .style("fill", function (d) {
+            return d.z === 0 ? "#e0f3db" : color(d.z);
+      })  
           .on("mouseover", mouseover)
           .on("mouseout", mouseout);
       }
