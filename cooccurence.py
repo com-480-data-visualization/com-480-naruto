@@ -45,6 +45,7 @@ duplicate_rows = []
 
 # print(db.loc[376])
 
+
 import ast
 
 # Function to check if a row has valid opponents structure
