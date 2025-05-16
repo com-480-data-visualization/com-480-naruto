@@ -5,8 +5,9 @@ const margin_c = { top: 80, right: 0, bottom: 10, left: 80 },
 const x_c = d3.scaleBand().range([0, width_c]).padding(0.05);
 const z = d3.scaleLinear().domain([0, 4]).clamp(true);
 const color_c = d3.scaleLinear()
-  .domain([0, 7, 15])
-  .range(["green", "yellow", "red"]);
+  .domain([1, 4, 9, 15])
+  .range(["#a8ddb5", "#43a2ca", "#0868ac", "#084081"])
+  .clamp(true);
 
 const svg_cooccurence = d3.select("#cooccurrence-matrix")
   .attr("width", width_c + margin_c.left + margin_c.right)
@@ -55,14 +56,14 @@ d3.json("./src/cooccurrence/naruto.json").then(function (miserables) {
       const rowGroup = d3.select(this);
 
       rowGroup.selectAll(".cell")
-        .data(rowData.filter(d => d.z))
+        .data(rowData)
+        .data(rowData.filter((d) => (d.x !== d.y)))
         .join("rect")
         .attr("class", "cell")
         .attr("x", d => x_c(d.x))
         .attr("width", x_c.bandwidth())
         .attr("height", x_c.bandwidth())
-        .style("fill-opacity", d => z(d.z))
-        .style("fill", d => color_c(d.z))
+        .style("fill", d => (d.z === 0 ? "#e0f3db" : color_c(d.z)))
         .on("mouseover", mouseover)
         .on("mouseout", mouseout);
     });
@@ -75,7 +76,18 @@ d3.json("./src/cooccurrence/naruto.json").then(function (miserables) {
     .attr("y", x_c.bandwidth() / 2)
     .attr("dy", ".32em")
     .attr("text-anchor", "end")
-    .text((d, i) => nodes[i].name);
+    .text((d, i) => nodes[i].name)
+    .each(function(d, i) {
+      const maxWidth = 75;
+      let fontSize = 12;
+      const text = d3.select(this);
+      text.attr("font-size", fontSize + "px");
+  
+      while (this.getComputedTextLength() >= maxWidth && fontSize > 6) {
+        fontSize -= 1;
+        text.attr("font-size", fontSize + "px");
+      }
+    });
 
   const column = svg_cooccurence.selectAll(".column")
     .data(matrix)
@@ -91,7 +103,19 @@ d3.json("./src/cooccurrence/naruto.json").then(function (miserables) {
     .attr("y", x_c.bandwidth() / 2)
     .attr("dy", ".32em")
     .attr("text-anchor", "start")
-    .text((d, i) => nodes[i].name);
+    .attr("font-size", "10px")
+    .text((d, i) => nodes[i].name)
+    .each(function(d, i) {
+      const maxWidth = 75;
+      let fontSize = 12;
+      const text = d3.select(this);
+      text.attr("font-size", fontSize + "px");
+  
+      while (this.getComputedTextLength() >= maxWidth && fontSize > 6) {
+        fontSize -= 1;
+        text.attr("font-size", fontSize + "px");
+      }
+    });
 
   function mouseover(p) {
     d3.selectAll(".row text").classed("active", (_, i) => i === p.y);
