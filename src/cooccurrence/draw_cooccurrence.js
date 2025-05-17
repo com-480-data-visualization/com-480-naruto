@@ -64,7 +64,7 @@ d3.json("./src/cooccurrence/naruto.json").then(function (miserables) {
         .attr("width", x_c.bandwidth())
         .attr("height", x_c.bandwidth())
         .style("fill", d => (d.z === 0 ? "#e0f3db" : color_c(d.z)))
-        .on("mouseover", mouseover)
+        .on("mouseover", function(event, d) { mouseover(d); })
         .on("mouseout", mouseout);
     });
 

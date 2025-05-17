@@ -373,3 +373,7 @@ legend {
   text-shadow: 0 0 4px #64b5f6;
   font-weight: bold;
 }
+
+text.active {
+  fill: red;
+}
