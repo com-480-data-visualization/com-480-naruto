@@ -2,6 +2,10 @@ const margin_c = { top: 80, right: 0, bottom: 10, left: 80 },
       width_c = 1000,
       height_c = 1000;
 
+const tooltip = d3.select("body").append("div")
+  .attr("class", "tooltip")
+  .style("opacity", 0);
+  
 const x_c = d3.scaleBand().range([0, width_c]).padding(0.05);
 const z = d3.scaleLinear().domain([0, 4]).clamp(true);
 const color_c = d3.scaleLinear()
@@ -56,16 +60,66 @@ d3.json("./src/cooccurrence/naruto.json").then(function (miserables) {
       const rowGroup = d3.select(this);
 
       rowGroup.selectAll(".cell")
-        .data(rowData)
-        .data(rowData.filter((d) => (d.x !== d.y)))
+        .data(rowData.filter(d => d.x !== d.y)) // Filter out diagonal cells
         .join("rect")
         .attr("class", "cell")
         .attr("x", d => x_c(d.x))
         .attr("width", x_c.bandwidth())
         .attr("height", x_c.bandwidth())
         .style("fill", d => (d.z === 0 ? "#e0f3db" : color_c(d.z)))
-        .on("mouseover", function(event, d) { mouseover(d); })
-        .on("mouseout", mouseout);
+        .on("mouseover", function(event, d) { 
+          mouseover(d); 
+          const sourceName = nodes[d.y].name;
+          const targetName = nodes[d.x].name;
+          tooltip.transition()
+            .duration(200)
+            .style("opacity", .9);
+          tooltip.html(`Click to see battles between ${sourceName} and ${targetName}`)
+            .style("left", (event.pageX + 10) + "px")
+            .style("top", (event.pageY - 20) + "px");
+        })
+        .on("mouseout", function() {
+          mouseout();
+          tooltip.transition()
+            .duration(500)
+            .style("opacity", 0);
+        })
+        .on("click", function(event, d) {
+          // Find all battles between these two characters
+          const battles = miserables.links.filter(link => 
+            (link.source === d.y && link.target === d.x) || 
+            (link.source === d.x && link.target === d.y)
+          ).flatMap(link => link.battles || []);
+      
+          if (battles.length > 0) {
+            const battleList = battles.map(battle => 
+              `<div style="margin-bottom: 5px;">
+                <strong>${battle.description}</strong><br>
+                Episode: ${battle.episode}<br>
+                Outcome: ${battle.outcome}
+              </div>`
+            ).join('');
+      
+            tooltip.transition()
+              .duration(200)
+              .style("opacity", .9);
+            tooltip.html(`
+              <div style="max-height: 300px; overflow-y: auto;">
+                <h4 style="margin-top: 0;">Battles between ${nodes[d.y].name} and ${nodes[d.x].name}</h4>
+                ${battleList}
+              </div>
+            `)
+            .style("left", (event.pageX + 10) + "px")
+            .style("top", (event.pageY - 20) + "px");
+          } else {
+            tooltip.transition()
+              .duration(200)
+              .style("opacity", .9);
+            tooltip.html(`No recorded battles between ${nodes[d.y].name} and ${nodes[d.x].name}`)
+              .style("left", (event.pageX + 10) + "px")
+              .style("top", (event.pageY - 20) + "px");
+          }
+        });
     });
 
   row.append("line")

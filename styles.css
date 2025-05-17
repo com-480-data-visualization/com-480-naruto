@@ -377,3 +377,15 @@ legend {
 text.active {
   fill: red;
 }
+
+.tooltip {
+  position: absolute;
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  border-radius: 5px;
+  pointer-events: none;
+  max-width: 300px;
+  font-size: 14px;
+  z-index: 100;
+}

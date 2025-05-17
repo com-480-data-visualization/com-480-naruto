@@ -355,7 +355,18 @@
     {
       "source": 25,
       "target": 35,
-      "value": 15
+      "value": 15,
+      "battles": [
+        {
+          "description": "Naruto vs Sasuke at Valley of the End",
+          "episode": 128,
+          "outcome": "Draw"
+        },
+        {
+          "description": "Team 7 vs Orochimaru in Forest of Death",
+          "episode": 30,
+          "outcome": "Orochimaru retreated"
+        }]
     },
     {
       "source": 20,
