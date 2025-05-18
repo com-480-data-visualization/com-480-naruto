@@ -77,11 +77,14 @@ import json
 from collections import defaultdict
 from itertools import combinations, product
 
-co_occurrence = defaultdict(int)
+co_occurrence = defaultdict(lambda: {'count': 0, 'battles': []})
 all_names = set()
 
 for _, row in df_clean.iterrows():
     opponents = row['opponents']
+    episode_number = row['episode_number']
+    outcome = row['outcome']
+    description = row['description']
 
     # If it's still a string (just in case), evaluate it
     if isinstance(opponents, str):
@@ -98,12 +101,26 @@ for _, row in df_clean.iterrows():
     for team1, team2 in combinations(opponents, 2):
         for name1, name2 in product(team1, team2):
             pair = tuple(sorted((name1, name2)))
-            co_occurrence[pair] += 1
+            co_occurrence[pair]['count'] += 1
+            co_occurrence[pair]['battles'].append({
+                'episode': episode_number,
+                'outcome': outcome,
+                'description': description
+            })
             all_names.update([name1, name2])
 
 # Build JSON structure
 nodes = [{"name": name} for name in sorted(all_names)]
-links = [{"source": src, "target": tgt, "value": val} for (src, tgt), val in co_occurrence.items()]
+name_to_index = {node['name']: i for i, node in enumerate(nodes)}
+
+links = []
+for (name1, name2), data in co_occurrence.items():
+    links.append({
+        "source": name_to_index[name1],
+        "target": name_to_index[name2],
+        "value": data['count'],
+        "battles": data['battles']
+    })
 
 output = {
     "nodes": nodes,
@@ -111,49 +128,44 @@ output = {
 }
 
 # Write to file
-with open("character_fights.json", "w", encoding="utf-8") as f:
+with open("character_fights_with_battles.json", "w", encoding="utf-8") as f:
     json.dump(output, f, indent=2, ensure_ascii=False)
 
-print("✅ character_fights.json successfully created.")
+print("✅ character_fights_with_battles.json successfully created with battle details.")
 
 from collections import Counter
 
-# Step 1: Count total appearance per character in links
+# Count total appearance per character in links
 char_counter = Counter()
 
-for (src, tgt), value in co_occurrence.items():
-    char_counter[src] += value
-    char_counter[tgt] += value
+for (src, tgt), data in co_occurrence.items():
+    char_counter[src] += data['count']
+    char_counter[tgt] += data['count']
 
-# Step 2: Filter characters appearing more than 3 times
+# Filter characters appearing more than 15 times (adjust as needed)
 frequent_chars = {char for char, count in char_counter.items() if count > 15}
 
-# Step 1: Sort and assign index to each character
-sorted_names = sorted(frequent_chars)
-name_to_index = {name: i for i, name in enumerate(sorted_names)}
+# Create nodes list with just frequent characters
+nodes = [{"name": name} for name in sorted(frequent_chars)]
+name_to_index = {node['name']: i for i, node in enumerate(nodes)}
 
-# Step 2: Create nodes list with just 'name'
-nodes = [{"name": name} for name in sorted_names]
+# Create links using integer indices, including battle info
+links = []
+for (name1, name2), data in co_occurrence.items():
+    if name1 in name_to_index and name2 in name_to_index:
+        links.append({
+            "source": name_to_index[name1],
+            "target": name_to_index[name2],
+            "value": data['count'],
+            "battles": data['battles']
+        })
 
-# Step 3: Create links using integer indices
-links = [
-    {"source": name_to_index[src], "target": name_to_index[tgt], "value": val}
-    for (src, tgt), val in co_occurrence.items()
-    if src in name_to_index and tgt in name_to_index
-]
-
-# Step 4: Export to JSON (UTF-8 safe)
 output = {
     "nodes": nodes,
     "links": links
 }
 
-with open("character_fights_filtered.json", "w", encoding="utf-8") as f:
+with open("character_fights_filtered_with_battles.json", "w", encoding="utf-8") as f:
     json.dump(output, f, indent=2, ensure_ascii=False)
 
-print(f"✅ Exported {len(nodes)} nodes and {len(links)} links (names only, numeric links).")
-
-
-
-
-
+print(f"✅ Exported {len(nodes)} nodes and {len(links)} links with battle details.")
