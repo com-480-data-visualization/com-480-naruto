@@ -8522,7 +8522,7 @@
         {
           "episode": "216",
           "outcome": "The fight is interrupted before a clear winner is decided, with both combatants poisoned and the battle unresolved.",
-          "description": "Naruto and Sasuke clash with Rasengan and Chidori, exchanging blows and verbal attacks while White Zetsu and Madara observe, ultimately leading to a temporary halt in the fight due to poisoning."
+          "description": "Naruto and Sasuke clash with Rasengan and Chidori, exchanging blows and verbal attacks while White Zetsu and Obito Uchiha observe, ultimately leading to a temporary halt in the fight due to poisoning."
         },
         {
           "episode": "442",
@@ -8760,8 +8760,8 @@
         },
         {
           "episode": "211",
-          "outcome": "Danzō Shimura is defeated and killed by Sasuke and Madara, failing to achieve his goal of sealing them away.",
-          "description": "Danzō attempts to use the Reverse Four Symbols Sealing technique to trap Sasuke and Madara, but they escape, leading to his death and the revelation of his past rivalry with Hiruzen."
+          "outcome": "Danzō Shimura is defeated and killed by Sasuke and Obito, failing to achieve his goal of sealing them away.",
+          "description": "Danzō attempts to use the Reverse Four Symbols Sealing technique to trap Sasuke and Obito, but they escape, leading to his death and the revelation of his past rivalry with Hiruzen."
         },
         {
           "episode": "209",
@@ -8940,42 +8940,47 @@
     },
     {
       "source": 92,
-      "target": 262,
+      "target": 326,
       "value": 1,
       "battles": [
         {
           "episode": "208",
-          "outcome": "Madara Uchiha successfully evaded all attacks and teleported himself and his opponents, leaving the battle unresolved.",
-          "description": "Madara utilized his Kamui ability to phase through attacks and ultimately teleported Fū and Torune away before disappearing himself, showcasing his superior skill and power."
+          "outcome": "Obito Uchiha successfully evaded all attacks and teleported himself and his opponents, leaving the battle unresolved.",
+          "description": "Obito utilized his Kamui ability to phase through attacks and ultimately teleported Fū and Torune away before disappearing himself, showcasing his superior skill and power."
         }
       ]
     },
     {
-      "source": 262,
+      "source": 326,
       "target": 498,
       "value": 1,
       "battles": [
         {
           "episode": "208",
-          "outcome": "Madara Uchiha successfully evaded all attacks and teleported himself and his opponents, leaving the battle unresolved.",
-          "description": "Madara utilized his Kamui ability to phase through attacks and ultimately teleported Fū and Torune away before disappearing himself, showcasing his superior skill and power."
+          "outcome": "Obito Uchiha successfully evaded all attacks and teleported himself and his opponents, leaving the battle unresolved.",
+          "description": "Obito utilized his Kamui ability to phase through attacks and ultimately teleported Fū and Torune away before disappearing himself, showcasing his superior skill and power."
         }
       ]
     },
     {
-      "source": 262,
+      "source": 326,
       "target": 392,
-      "value": 2,
+      "value": 3,
       "battles": [
         {
           "episode": "211",
-          "outcome": "Danzō Shimura is defeated and killed by Sasuke and Madara, failing to achieve his goal of sealing them away.",
-          "description": "Danzō attempts to use the Reverse Four Symbols Sealing technique to trap Sasuke and Madara, but they escape, leading to his death and the revelation of his past rivalry with Hiruzen."
+          "outcome": "Danzō Shimura is defeated and killed by Sasuke and Obito, failing to achieve his goal of sealing them away.",
+          "description": "Danzō attempts to use the Reverse Four Symbols Sealing technique to trap Sasuke and Obito, but they escape, leading to his death and the revelation of his past rivalry with Hiruzen."
         },
         {
-          "episode": "391",
-          "outcome": "Madara Uchiha decisively wins, overpowering both Sasuke and Hashirama and beginning his hunt for the tailed beasts.",
-          "description": "Madara Uchiha is fully resurrected and demonstrates his immense power by easily defeating Sasuke and absorbing Hashirama's senjutsu, showcasing his dominance."
+          "episode": "384",
+          "outcome": "The tailed beasts' chakra is extracted from Obito, leaving him weakened and vulnerable.",
+          "description": "Naruto and Sasuke, aided by the Konoha 11 and Shinobi Alliance, launch a combined assault using Rasengan and Tailed Beast Mode to pull the chakra of the Tailed Beasts from Obito."
+        },
+        {
+          "episode": "197",
+          "outcome": "Obito and Zetsu block Taka's path, asserting their continued involvement despite Taka's departure from Akatsuki.",
+          "description": "Obito Uchiha and Zetsu intercept Taka, revealing their continued control over the group and informing Sasuke of the Five Kage Summit and Danzo's appointment as Hokage."
         }
       ]
     },
@@ -9021,7 +9026,7 @@
         {
           "episode": "216",
           "outcome": "The fight is interrupted before a clear winner is decided, with both combatants poisoned and the battle unresolved.",
-          "description": "Naruto and Sasuke clash with Rasengan and Chidori, exchanging blows and verbal attacks while White Zetsu and Madara observe, ultimately leading to a temporary halt in the fight due to poisoning."
+          "description": "Naruto and Sasuke clash with Rasengan and Chidori, exchanging blows and verbal attacks while White Zetsu and Obito Uchiha observe, ultimately leading to a temporary halt in the fight due to poisoning."
         }
       ]
     },
@@ -14507,17 +14512,12 @@
     {
       "source": 97,
       "target": 261,
-      "value": 2,
+      "value": 1,
       "battles": [
         {
           "episode": "323",
           "outcome": "The Kage successfully break Madara's Susanoo and send him flying, temporarily disrupting his fight.",
           "description": "The Kage combine their techniques, utilizing Mei's mist, Ōnoki's weight manipulation, and A's speed to overcome Madara's defenses and force him back."
-        },
-        {
-          "episode": "205",
-          "outcome": "The Fourth Shinobi World War is declared, and the Allied Shinobi Forces are formed.",
-          "description": "Madara declares war, revealing his possession of seven tailed beasts, leading to the formation of the Allied Shinobi Forces to counter him."
         }
       ]
     },
@@ -16611,18 +16611,6 @@
       ]
     },
     {
-      "source": 326,
-      "target": 392,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "384",
-          "outcome": "The tailed beasts' chakra is extracted from Obito, leaving him weakened and vulnerable.",
-          "description": "Naruto and Sasuke, aided by the Konoha 11 and Shinobi Alliance, launch a combined assault using Rasengan and Tailed Beast Mode to pull the chakra of the Tailed Beasts from Obito."
-        }
-      ]
-    },
-    {
       "source": 236,
       "target": 326,
       "value": 1,
@@ -16655,6 +16643,18 @@
           "episode": "390",
           "outcome": "Pain overwhelms Hinata, but she is ultimately saved by Naruto.",
           "description": "Hinata bravely confronts Pain to protect Naruto, showcasing her growth and determination despite being severely injured."
+        }
+      ]
+    },
+    {
+      "source": 262,
+      "target": 392,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "391",
+          "outcome": "Madara Uchiha decisively wins, overpowering both Sasuke and Hashirama and beginning his hunt for the tailed beasts.",
+          "description": "Madara Uchiha is fully resurrected and demonstrates his immense power by easily defeating Sasuke and absorbing Hashirama's senjutsu, showcasing his dominance."
         }
       ]
     },
@@ -20355,38 +20355,26 @@
       ]
     },
     {
-      "source": 261,
-      "target": 392,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "197",
-          "outcome": "Madara and Zetsu block Taka's path, asserting their continued involvement despite Taka's departure from Akatsuki.",
-          "description": "Madara and Zetsu intercept Taka, revealing their continued control over the group and informing Sasuke of the Five Kage Summit and Danzo's appointment as Hokage."
-        }
-      ]
-    },
-    {
       "source": 392,
       "target": 536,
       "value": 1,
       "battles": [
         {
           "episode": "197",
-          "outcome": "Madara and Zetsu block Taka's path, asserting their continued involvement despite Taka's departure from Akatsuki.",
-          "description": "Madara and Zetsu intercept Taka, revealing their continued control over the group and informing Sasuke of the Five Kage Summit and Danzo's appointment as Hokage."
+          "outcome": "Obito and Zetsu block Taka's path, asserting their continued involvement despite Taka's departure from Akatsuki.",
+          "description": "Obito Uchiha and Zetsu intercept Taka, revealing their continued control over the group and informing Sasuke of the Five Kage Summit and Danzo's appointment as Hokage."
         }
       ]
     },
     {
-      "source": 261,
+      "source": 326,
       "target": 445,
       "value": 1,
       "battles": [
         {
           "episode": "197",
-          "outcome": "Madara and Zetsu block Taka's path, asserting their continued involvement despite Taka's departure from Akatsuki.",
-          "description": "Madara and Zetsu intercept Taka, revealing their continued control over the group and informing Sasuke of the Five Kage Summit and Danzo's appointment as Hokage."
+          "outcome": "Obito and Zetsu block Taka's path, asserting their continued involvement despite Taka's departure from Akatsuki.",
+          "description": "Obito Uchiha and Zetsu intercept Taka, revealing their continued control over the group and informing Sasuke of the Five Kage Summit and Danzo's appointment as Hokage."
         }
       ]
     },
@@ -20397,8 +20385,8 @@
       "battles": [
         {
           "episode": "197",
-          "outcome": "Madara and Zetsu block Taka's path, asserting their continued involvement despite Taka's departure from Akatsuki.",
-          "description": "Madara and Zetsu intercept Taka, revealing their continued control over the group and informing Sasuke of the Five Kage Summit and Danzo's appointment as Hokage."
+          "outcome": "Obito and Zetsu block Taka's path, asserting their continued involvement despite Taka's departure from Akatsuki.",
+          "description": "Obito Uchiha and Zetsu intercept Taka, revealing their continued control over the group and informing Sasuke of the Five Kage Summit and Danzo's appointment as Hokage."
         }
       ]
     },
@@ -20439,38 +20427,55 @@
       ]
     },
     {
+      "source": 97,
+      "target": 326,
+      "value": 2,
+      "battles": [
+        {
+          "episode": "205",
+          "outcome": "The Fourth Shinobi World War is declared, and the Allied Shinobi Forces are formed.",
+          "description": "Obito Uchiha declares war, revealing his possession of seven tailed beasts, leading to the formation of the Allied Shinobi Forces to counter him."
+        },
+        {
+          "episode": "415",
+          "outcome": "Madara effortlessly defends against the attacks, and Obito ultimately stabs Madara, disrupting the planned handover.",
+          "description": "Minato, Kakashi, and Gaara attempt to hinder Madara and Obito's meeting, but Madara easily blocks their attacks while Obito unexpectedly attacks Madara."
+        }
+      ]
+    },
+    {
       "source": 83,
-      "target": 261,
+      "target": 326,
       "value": 1,
       "battles": [
         {
           "episode": "205",
           "outcome": "The Fourth Shinobi World War is declared, and the Allied Shinobi Forces are formed.",
-          "description": "Madara declares war, revealing his possession of seven tailed beasts, leading to the formation of the Allied Shinobi Forces to counter him."
+          "description": "Obito Uchiha declares war, revealing his possession of seven tailed beasts, leading to the formation of the Allied Shinobi Forces to counter him."
         }
       ]
     },
     {
-      "source": 261,
+      "source": 326,
       "target": 481,
       "value": 1,
       "battles": [
         {
           "episode": "205",
           "outcome": "The Fourth Shinobi World War is declared, and the Allied Shinobi Forces are formed.",
-          "description": "Madara declares war, revealing his possession of seven tailed beasts, leading to the formation of the Allied Shinobi Forces to counter him."
+          "description": "Obito Uchiha declares war, revealing his possession of seven tailed beasts, leading to the formation of the Allied Shinobi Forces to counter him."
         }
       ]
     },
     {
-      "source": 261,
-      "target": 281,
+      "source": 281,
+      "target": 326,
       "value": 1,
       "battles": [
         {
           "episode": "205",
           "outcome": "The Fourth Shinobi World War is declared, and the Allied Shinobi Forces are formed.",
-          "description": "Madara declares war, revealing his possession of seven tailed beasts, leading to the formation of the Allied Shinobi Forces to counter him."
+          "description": "Obito Uchiha declares war, revealing his possession of seven tailed beasts, leading to the formation of the Allied Shinobi Forces to counter him."
         }
       ]
     },
@@ -20482,7 +20487,7 @@
         {
           "episode": "205",
           "outcome": "The Fourth Shinobi World War is declared, and the Allied Shinobi Forces are formed.",
-          "description": "Madara declares war, revealing his possession of seven tailed beasts, leading to the formation of the Allied Shinobi Forces to counter him."
+          "description": "Obito Uchiha declares war, revealing his possession of seven tailed beasts, leading to the formation of the Allied Shinobi Forces to counter him."
         }
       ]
     },
@@ -20494,7 +20499,7 @@
         {
           "episode": "205",
           "outcome": "The Fourth Shinobi World War is declared, and the Allied Shinobi Forces are formed.",
-          "description": "Madara declares war, revealing his possession of seven tailed beasts, leading to the formation of the Allied Shinobi Forces to counter him."
+          "description": "Obito Uchiha declares war, revealing his possession of seven tailed beasts, leading to the formation of the Allied Shinobi Forces to counter him."
         }
       ]
     },
@@ -20506,7 +20511,7 @@
         {
           "episode": "205",
           "outcome": "The Fourth Shinobi World War is declared, and the Allied Shinobi Forces are formed.",
-          "description": "Madara declares war, revealing his possession of seven tailed beasts, leading to the formation of the Allied Shinobi Forces to counter him."
+          "description": "Obito Uchiha declares war, revealing his possession of seven tailed beasts, leading to the formation of the Allied Shinobi Forces to counter him."
         }
       ]
     },
@@ -20518,7 +20523,7 @@
         {
           "episode": "205",
           "outcome": "The Fourth Shinobi World War is declared, and the Allied Shinobi Forces are formed.",
-          "description": "Madara declares war, revealing his possession of seven tailed beasts, leading to the formation of the Allied Shinobi Forces to counter him."
+          "description": "Obito Uchiha declares war, revealing his possession of seven tailed beasts, leading to the formation of the Allied Shinobi Forces to counter him."
         }
       ]
     },
@@ -21487,18 +21492,6 @@
     },
     {
       "source": 198,
-      "target": 326,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "415",
-          "outcome": "Madara effortlessly defends against the attacks, and Obito ultimately stabs Madara, disrupting the planned handover.",
-          "description": "Minato, Kakashi, and Gaara attempt to hinder Madara and Obito's meeting, but Madara easily blocks their attacks while Obito unexpectedly attacks Madara."
-        }
-      ]
-    },
-    {
-      "source": 97,
       "target": 326,
       "value": 1,
       "battles": [

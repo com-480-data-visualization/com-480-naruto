@@ -1143,9 +1143,9 @@
 - episode_number: "208"
   opponents:
     - ["Fū Yamanaka", "Torune Aburame"]
-    - ["Madara Uchiha"]
-  outcome: "Madara Uchiha successfully evaded all attacks and teleported himself and his opponents, leaving the battle unresolved."
-  description: "Madara utilized his Kamui ability to phase through attacks and ultimately teleported Fū and Torune away before disappearing himself, showcasing his superior skill and power."
+    - ["Obito Uchiha"]
+  outcome: "Obito Uchiha successfully evaded all attacks and teleported himself and his opponents, leaving the battle unresolved."
+  description: "Obito utilized his Kamui ability to phase through attacks and ultimately teleported Fū and Torune away before disappearing himself, showcasing his superior skill and power."
   closest_village: "Konoha"
 
 - episode_number: "210"
@@ -1158,10 +1158,10 @@
 
 - episode_number: "211"
   opponents:
-    - ["Danzō Shimura", "Madara Uchiha"]
+    - ["Danzō Shimura", "Obito Uchiha"]
     - ["Sasuke Uchiha"]
-  outcome: "Danzō Shimura is defeated and killed by Sasuke and Madara, failing to achieve his goal of sealing them away."
-  description: "Danzō attempts to use the Reverse Four Symbols Sealing technique to trap Sasuke and Madara, but they escape, leading to his death and the revelation of his past rivalry with Hiruzen."
+  outcome: "Danzō Shimura is defeated and killed by Sasuke and Obito, failing to achieve his goal of sealing them away."
+  description: "Danzō attempts to use the Reverse Four Symbols Sealing technique to trap Sasuke and Obito, but they escape, leading to his death and the revelation of his past rivalry with Hiruzen."
   closest_village: "Konohagakure"
 
 - episode_number: "212"
@@ -3162,9 +3162,9 @@
 - episode_number: "197"
   opponents:
     - ["Sasuke Uchiha", "Taka"]
-    - ["Madara", "Zetsu"]
-  outcome: "Madara and Zetsu block Taka's path, asserting their continued involvement despite Taka's departure from Akatsuki."
-  description: "Madara and Zetsu intercept Taka, revealing their continued control over the group and informing Sasuke of the Five Kage Summit and Danzo's appointment as Hokage."
+    - ["Obito Uchiha", "Zetsu"]
+  outcome: "Obito and Zetsu block Taka's path, asserting their continued involvement despite Taka's departure from Akatsuki."
+  description: "Obito Uchiha and Zetsu intercept Taka, revealing their continued control over the group and informing Sasuke of the Five Kage Summit and Danzo's appointment as Hokage."
   closest_village: "Konoha"
 
 - episode_number: "199"
@@ -3193,10 +3193,10 @@
 
 - episode_number: "205"
   opponents:
-    - ["Madara", "Zetsu"]
+    - ["Obito Uchiha", "Zetsu"]
     - ["Gaara", "Fourth Raikage", "Third Tsuchikage", "Mifune"]
   outcome: "The Fourth Shinobi World War is declared, and the Allied Shinobi Forces are formed."
-  description: "Madara declares war, revealing his possession of seven tailed beasts, leading to the formation of the Allied Shinobi Forces to counter him."
+  description: "Obito Uchiha declares war, revealing his possession of seven tailed beasts, leading to the formation of the Allied Shinobi Forces to counter him."
   closest_village: "Land of Iron"
 
 - episode_number: "209"
@@ -3228,7 +3228,7 @@
     - ["Naruto Uzumaki", "Shadow Clones"]
     - ["Sasuke Uchiha"]
   outcome: "The fight is interrupted before a clear winner is decided, with both combatants poisoned and the battle unresolved."
-  description: "Naruto and Sasuke clash with Rasengan and Chidori, exchanging blows and verbal attacks while White Zetsu and Madara observe, ultimately leading to a temporary halt in the fight due to poisoning."
+  description: "Naruto and Sasuke clash with Rasengan and Chidori, exchanging blows and verbal attacks while White Zetsu and Obito Uchiha observe, ultimately leading to a temporary halt in the fight due to poisoning."
   closest_village: "Samurai Bridge"
 
 - episode_number: "218"
