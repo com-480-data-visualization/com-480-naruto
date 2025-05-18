@@ -380,12 +380,16 @@ text.active {
 
 .tooltip {
   position: absolute;
+  text-align: left;
+  width: 300px;
+  max-height: 400px;
   padding: 10px;
-  background: rgba(0, 0, 0, 0.8);
-  color: white;
-  border-radius: 5px;
-  pointer-events: none;
-  max-width: 300px;
-  font-size: 14px;
-  z-index: 100;
+  font: 12px sans-serif;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  pointer-events: auto; /* Allow scrolling and clicks */
+  overflow-y: auto;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.3);
 }
+
