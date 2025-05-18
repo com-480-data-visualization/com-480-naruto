@@ -884,7 +884,7 @@
 - episode_number: "152"
   opponents:
     - ["Sasuke", "Itachi"]
-    - ["Pain", "Six Paths of Pain"]
+    - ["Pain"]
   outcome: "Sasuke confronts Itachi, while Naruto learns of Jiraiya's death and the existence of the Six Paths of Pain, setting the stage for future conflicts."
   description: "The episode features a tense confrontation between Sasuke and Itachi, intercut with the devastating news of Jiraiya's death and the revelation of Pain's power, including the Rinnegan."
   closest_village: "Ameagakure"
@@ -919,7 +919,7 @@
 - episode_number: "163"
   opponents:
     - ["Naruto Uzumaki", "Gamabunta", "Gamakichi", "Gamakken", "Gamahiro"]
-    - ["Pain (Deva Path)", "Pain (Asura Path)", "Pain (Animal Path)", "Pain (Preta Path)"]
+    - ["Pain (Deva Path)"]
   outcome: "Naruto destroys the Asura Path and significantly damages the Animal and Preta Paths, forcing Pain to retreat and reposition"
   description: "Naruto, utilizing Sage Mode and various Rasengan techniques, engages Pain's multiple Paths, showcasing his enhanced abilities and strategic combat skills."
   closest_village: "Konohagakure"
@@ -2432,7 +2432,7 @@
 - episode_number: "447"
   opponents:
     - ["Naruto", "Hinata", "Shikaku", "Inoichi", "Hiruzen", "Tsunade", "Kushina"]
-    - ["Six Paths of Pain", "Deva Path"]
+    - ["Deva Path"]
   outcome: "Naruto is trapped within another Chibaku Tensei, after briefly defeating five Pain paths and Hinata's intervention"
   description: "Naruto enters Sage Mode and engages the Six Paths of Pain, managing to defeat five before being subdued by the Deva Path and subsequently trapped in a second Chibaku Tensei, following Hinata's attempt to rescue him."
   closest_village: "Konohagakure"
@@ -3044,7 +3044,7 @@
 - episode_number: "157"
   opponents:
     - ["Sakura"]
-    - ["Giant Centipede (summoned by Animal Path)"]
+    - ["Pain"]
   outcome: "Sakura defeats the Giant Centipede with a single blow, saving civilians."
   description: "Sakura swiftly defeats a Giant Centipede summoned by the Animal Path, showcasing her strength and protecting nearby villagers."
   closest_village: "Konohagakure"
@@ -3060,7 +3060,7 @@
 - episode_number: "159"
   opponents:
     - ["Kakashi", "Chōji Akimichi", "Chōza Akimichi", "Saisu Kamanoto", "Kokuto"]
-    - ["Pain (Deva Path)", "Asura Path"]
+    - ["Pain (Deva Path)"]
   outcome: "Pain defeats Kakashi and his team, resulting in multiple casualties and a strategic retreat."
   description: "Kakashi and a team of shinobi engage Pain, utilizing various techniques like the Double Human Bullet Tank and Kamui, but are ultimately overwhelmed by Pain's abilities and strategic counters."
   closest_village: "Konohagakure"
@@ -3076,7 +3076,7 @@
 - episode_number: "165"
   opponents:
     - ["Naruto", "Fukasaku", "Shima"]
-    - ["Deva Path", "Preta Path"]
+    - ["Deva Path"]
   outcome: "Preta Path is destroyed by absorbing too much natural energy, while Fukasaku is killed by the Deva Path, leaving Naruto restrained and vulnerable."
   description: "Naruto utilizes Sage Mode to bait the Preta Path into absorbing natural energy, destroying it, but Pain's Deva Path retaliates by killing Fukasaku and pinning Naruto."
   closest_village: "Konohagakure"
@@ -3417,14 +3417,6 @@
   description: "Nagato attempts to crush Naruto, Itachi, and B with Chibaku Tensei, but they counter with ranged attacks, and Itachi subsequently pierces Nagato with the Totsuka Sword."
   closest_village: "Unknown"
 
-- episode_number: "311"
-  opponents:
-    - ["Naruto Uzumaki"]
-    - ["Tobi", "Zetsu", "Akatsuki"]
-  outcome: "Naruto is subjected to a limited version of the Infinite Tsukuyomi, placing him in a genjutsu."
-  description: "Tobi and the Akatsuki initiate a trial run of the Infinite Tsukuyomi on Naruto, utilizing Zetsu clones to trap him in a genjutsu."
-  closest_village: "Konohagakure"
-
 - episode_number: "314"
   opponents:
     - ["Ino Yamanaka", "Sakura Haruno", "Kiba Inuzuka", "Akamaru", "Naruto Uzumaki"]
@@ -3634,7 +3626,7 @@
 - episode_number: "423"
   opponents:
     - ["Konohamaru"]
-    - ["Naraka Path"]
+    - ["Pain"]
   outcome: "Konohamaru defeats Naraka Path"
   description: "Konohamaru successfully uses the Rasengan to defeat the Naraka Path during Pain's Assault on the Hidden Leaf Village."
   closest_village: "Konohagakure"

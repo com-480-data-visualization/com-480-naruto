@@ -22,9 +22,6 @@
       "name": "Gaara"
     },
     {
-      "name": "Gamakichi"
-    },
-    {
       "name": "Gozu"
     },
     {
@@ -168,8 +165,8 @@
   ],
   "links": [
     {
-      "source": 19,
-      "target": 31,
+      "source": 18,
+      "target": 30,
       "value": 1,
       "battles": [
         {
@@ -180,8 +177,8 @@
       ]
     },
     {
-      "source": 19,
-      "target": 41,
+      "source": 18,
+      "target": 40,
       "value": 1,
       "battles": [
         {
@@ -215,7 +212,7 @@
     },
     {
       "source": 3,
-      "target": 18,
+      "target": 17,
       "value": 2,
       "battles": [
         {
@@ -232,7 +229,7 @@
     },
     {
       "source": 3,
-      "target": 30,
+      "target": 29,
       "value": 2,
       "battles": [
         {
@@ -248,8 +245,8 @@
       ]
     },
     {
-      "source": 13,
-      "target": 30,
+      "source": 12,
+      "target": 29,
       "value": 2,
       "battles": [
         {
@@ -265,35 +262,35 @@
       ]
     },
     {
-      "source": 13,
+      "source": 12,
+      "target": 17,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "15",
+          "outcome": "Itachi and Yūra defeated, but the true opponent was revealed to be a body double as Yūra was not Kisame",
+          "description": "Naruto utilizes the Big Ball Rasengan against Itachi, but the attack destroys Yūra, an Anbu commander disguised as Itachi, revealing a deception."
+        }
+      ]
+    },
+    {
+      "source": 12,
+      "target": 39,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "15",
+          "outcome": "Itachi and Yūra defeated, but the true opponent was revealed to be a body double as Yūra was not Kisame",
+          "description": "Naruto utilizes the Big Ball Rasengan against Itachi, but the attack destroys Yūra, an Anbu commander disguised as Itachi, revealing a deception."
+        }
+      ]
+    },
+    {
+      "source": 12,
       "target": 18,
       "value": 1,
       "battles": [
         {
-          "episode": "15",
-          "outcome": "Itachi and Yūra defeated, but the true opponent was revealed to be a body double as Yūra was not Kisame",
-          "description": "Naruto utilizes the Big Ball Rasengan against Itachi, but the attack destroys Yūra, an Anbu commander disguised as Itachi, revealing a deception."
-        }
-      ]
-    },
-    {
-      "source": 13,
-      "target": 40,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "15",
-          "outcome": "Itachi and Yūra defeated, but the true opponent was revealed to be a body double as Yūra was not Kisame",
-          "description": "Naruto utilizes the Big Ball Rasengan against Itachi, but the attack destroys Yūra, an Anbu commander disguised as Itachi, revealing a deception."
-        }
-      ]
-    },
-    {
-      "source": 13,
-      "target": 19,
-      "value": 1,
-      "battles": [
-        {
           "episode": "16",
           "outcome": "Standoff - Both sides continue pursuit, with Akatsuki leader issuing orders and receiving status reports.",
           "description": "The Konoha and Suna team pursue the Akatsuki, while the Akatsuki leader directs his members and prepares for the confrontation, revealing the identities of the pursuers."
@@ -301,19 +298,7 @@
       ]
     },
     {
-      "source": 19,
-      "target": 42,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "16",
-          "outcome": "Standoff - Both sides continue pursuit, with Akatsuki leader issuing orders and receiving status reports.",
-          "description": "The Konoha and Suna team pursue the Akatsuki, while the Akatsuki leader directs his members and prepares for the confrontation, revealing the identities of the pursuers."
-        }
-      ]
-    },
-    {
-      "source": 13,
+      "source": 18,
       "target": 41,
       "value": 1,
       "battles": [
@@ -325,8 +310,20 @@
       ]
     },
     {
-      "source": 41,
-      "target": 42,
+      "source": 12,
+      "target": 40,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "16",
+          "outcome": "Standoff - Both sides continue pursuit, with Akatsuki leader issuing orders and receiving status reports.",
+          "description": "The Konoha and Suna team pursue the Akatsuki, while the Akatsuki leader directs his members and prepares for the confrontation, revealing the identities of the pursuers."
+        }
+      ]
+    },
+    {
+      "source": 40,
+      "target": 41,
       "value": 2,
       "battles": [
         {
@@ -342,8 +339,8 @@
       ]
     },
     {
-      "source": 13,
-      "target": 31,
+      "source": 12,
+      "target": 30,
       "value": 1,
       "battles": [
         {
@@ -354,20 +351,8 @@
       ]
     },
     {
-      "source": 31,
-      "target": 42,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "16",
-          "outcome": "Standoff - Both sides continue pursuit, with Akatsuki leader issuing orders and receiving status reports.",
-          "description": "The Konoha and Suna team pursue the Akatsuki, while the Akatsuki leader directs his members and prepares for the confrontation, revealing the identities of the pursuers."
-        }
-      ]
-    },
-    {
-      "source": 3,
-      "target": 13,
+      "source": 30,
+      "target": 41,
       "value": 1,
       "battles": [
         {
@@ -379,7 +364,19 @@
     },
     {
       "source": 3,
-      "target": 42,
+      "target": 12,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "16",
+          "outcome": "Standoff - Both sides continue pursuit, with Akatsuki leader issuing orders and receiving status reports.",
+          "description": "The Konoha and Suna team pursue the Akatsuki, while the Akatsuki leader directs his members and prepares for the confrontation, revealing the identities of the pursuers."
+        }
+      ]
+    },
+    {
+      "source": 3,
+      "target": 41,
       "value": 8,
       "battles": [
         {
@@ -425,8 +422,8 @@
       ]
     },
     {
-      "source": 24,
-      "target": 42,
+      "source": 23,
+      "target": 41,
       "value": 1,
       "battles": [
         {
@@ -438,7 +435,7 @@
     },
     {
       "source": 5,
-      "target": 24,
+      "target": 23,
       "value": 1,
       "battles": [
         {
@@ -449,8 +446,8 @@
       ]
     },
     {
-      "source": 10,
-      "target": 42,
+      "source": 9,
+      "target": 41,
       "value": 1,
       "battles": [
         {
@@ -462,7 +459,7 @@
     },
     {
       "source": 5,
-      "target": 10,
+      "target": 9,
       "value": 1,
       "battles": [
         {
@@ -473,8 +470,8 @@
       ]
     },
     {
-      "source": 18,
-      "target": 42,
+      "source": 17,
+      "target": 41,
       "value": 2,
       "battles": [
         {
@@ -491,7 +488,7 @@
     },
     {
       "source": 5,
-      "target": 18,
+      "target": 17,
       "value": 5,
       "battles": [
         {
@@ -522,8 +519,8 @@
       ]
     },
     {
-      "source": 30,
-      "target": 42,
+      "source": 29,
+      "target": 41,
       "value": 5,
       "battles": [
         {
@@ -555,7 +552,7 @@
     },
     {
       "source": 5,
-      "target": 30,
+      "target": 29,
       "value": 6,
       "battles": [
         {
@@ -591,8 +588,8 @@
       ]
     },
     {
-      "source": 40,
-      "target": 42,
+      "source": 39,
+      "target": 41,
       "value": 10,
       "battles": [
         {
@@ -649,7 +646,7 @@
     },
     {
       "source": 5,
-      "target": 40,
+      "target": 39,
       "value": 4,
       "battles": [
         {
@@ -676,7 +673,7 @@
     },
     {
       "source": 3,
-      "target": 40,
+      "target": 39,
       "value": 1,
       "battles": [
         {
@@ -687,8 +684,8 @@
       ]
     },
     {
-      "source": 30,
-      "target": 39,
+      "source": 29,
+      "target": 38,
       "value": 5,
       "battles": [
         {
@@ -720,7 +717,7 @@
     },
     {
       "source": 4,
-      "target": 39,
+      "target": 38,
       "value": 2,
       "battles": [
         {
@@ -736,8 +733,8 @@
       ]
     },
     {
-      "source": 39,
-      "target": 45,
+      "source": 38,
+      "target": 44,
       "value": 4,
       "battles": [
         {
@@ -763,8 +760,8 @@
       ]
     },
     {
-      "source": 39,
-      "target": 40,
+      "source": 38,
+      "target": 39,
       "value": 3,
       "battles": [
         {
@@ -785,8 +782,32 @@
       ]
     },
     {
+      "source": 38,
+      "target": 46,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "35",
+          "outcome": "Team Kakashi departs for their mission, while political tensions between Tsunade and Danzō are established.",
+          "description": "The episode focuses on the formation of the new Team Kakashi under Yamato's leadership and introduces the conflict between Tsunade and Danzō regarding the team's composition and direction."
+        }
+      ]
+    },
+    {
+      "source": 29,
+      "target": 46,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "35",
+          "outcome": "Team Kakashi departs for their mission, while political tensions between Tsunade and Danzō are established.",
+          "description": "The episode focuses on the formation of the new Team Kakashi under Yamato's leadership and introduces the conflict between Tsunade and Danzō regarding the team's composition and direction."
+        }
+      ]
+    },
+    {
       "source": 39,
-      "target": 47,
+      "target": 46,
       "value": 1,
       "battles": [
         {
@@ -797,8 +818,8 @@
       ]
     },
     {
-      "source": 30,
-      "target": 47,
+      "source": 46,
+      "target": 53,
       "value": 1,
       "battles": [
         {
@@ -809,32 +830,8 @@
       ]
     },
     {
-      "source": 40,
-      "target": 47,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "35",
-          "outcome": "Team Kakashi departs for their mission, while political tensions between Tsunade and Danzō are established.",
-          "description": "The episode focuses on the formation of the new Team Kakashi under Yamato's leadership and introduces the conflict between Tsunade and Danzō regarding the team's composition and direction."
-        }
-      ]
-    },
-    {
-      "source": 47,
-      "target": 54,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "35",
-          "outcome": "Team Kakashi departs for their mission, while political tensions between Tsunade and Danzō are established.",
-          "description": "The episode focuses on the formation of the new Team Kakashi under Yamato's leadership and introduces the conflict between Tsunade and Danzō regarding the team's composition and direction."
-        }
-      ]
-    },
-    {
-      "source": 30,
-      "target": 54,
+      "source": 29,
+      "target": 53,
       "value": 5,
       "battles": [
         {
@@ -865,8 +862,8 @@
       ]
     },
     {
-      "source": 39,
-      "target": 54,
+      "source": 38,
+      "target": 53,
       "value": 3,
       "battles": [
         {
@@ -887,8 +884,8 @@
       ]
     },
     {
-      "source": 34,
-      "target": 54,
+      "source": 33,
+      "target": 53,
       "value": 6,
       "battles": [
         {
@@ -924,8 +921,8 @@
       ]
     },
     {
-      "source": 16,
-      "target": 54,
+      "source": 15,
+      "target": 53,
       "value": 4,
       "battles": [
         {
@@ -951,8 +948,8 @@
       ]
     },
     {
-      "source": 31,
-      "target": 34,
+      "source": 30,
+      "target": 33,
       "value": 2,
       "battles": [
         {
@@ -968,8 +965,8 @@
       ]
     },
     {
-      "source": 16,
-      "target": 31,
+      "source": 15,
+      "target": 30,
       "value": 1,
       "battles": [
         {
@@ -980,8 +977,8 @@
       ]
     },
     {
-      "source": 34,
-      "target": 41,
+      "source": 33,
+      "target": 40,
       "value": 2,
       "battles": [
         {
@@ -997,8 +994,8 @@
       ]
     },
     {
-      "source": 16,
-      "target": 41,
+      "source": 15,
+      "target": 40,
       "value": 1,
       "battles": [
         {
@@ -1009,8 +1006,8 @@
       ]
     },
     {
-      "source": 34,
-      "target": 39,
+      "source": 33,
+      "target": 38,
       "value": 2,
       "battles": [
         {
@@ -1026,8 +1023,8 @@
       ]
     },
     {
-      "source": 16,
-      "target": 39,
+      "source": 15,
+      "target": 38,
       "value": 3,
       "battles": [
         {
@@ -1048,8 +1045,8 @@
       ]
     },
     {
-      "source": 30,
-      "target": 34,
+      "source": 29,
+      "target": 33,
       "value": 3,
       "battles": [
         {
@@ -1070,8 +1067,8 @@
       ]
     },
     {
-      "source": 34,
-      "target": 44,
+      "source": 33,
+      "target": 43,
       "value": 4,
       "battles": [
         {
@@ -1097,8 +1094,8 @@
       ]
     },
     {
-      "source": 15,
-      "target": 44,
+      "source": 14,
+      "target": 43,
       "value": 1,
       "battles": [
         {
@@ -1109,8 +1106,8 @@
       ]
     },
     {
-      "source": 15,
-      "target": 30,
+      "source": 14,
+      "target": 29,
       "value": 4,
       "battles": [
         {
@@ -1136,8 +1133,8 @@
       ]
     },
     {
-      "source": 15,
-      "target": 40,
+      "source": 14,
+      "target": 39,
       "value": 3,
       "battles": [
         {
@@ -1158,8 +1155,8 @@
       ]
     },
     {
-      "source": 15,
-      "target": 54,
+      "source": 14,
+      "target": 53,
       "value": 3,
       "battles": [
         {
@@ -1180,8 +1177,8 @@
       ]
     },
     {
-      "source": 15,
-      "target": 39,
+      "source": 14,
+      "target": 38,
       "value": 2,
       "battles": [
         {
@@ -1197,8 +1194,8 @@
       ]
     },
     {
-      "source": 39,
-      "target": 43,
+      "source": 38,
+      "target": 42,
       "value": 1,
       "battles": [
         {
@@ -1209,8 +1206,8 @@
       ]
     },
     {
-      "source": 44,
-      "target": 54,
+      "source": 43,
+      "target": 53,
       "value": 2,
       "battles": [
         {
@@ -1226,8 +1223,8 @@
       ]
     },
     {
-      "source": 30,
-      "target": 44,
+      "source": 29,
+      "target": 43,
       "value": 1,
       "battles": [
         {
@@ -1238,8 +1235,8 @@
       ]
     },
     {
-      "source": 39,
-      "target": 44,
+      "source": 38,
+      "target": 43,
       "value": 1,
       "battles": [
         {
@@ -1250,8 +1247,8 @@
       ]
     },
     {
-      "source": 22,
-      "target": 30,
+      "source": 21,
+      "target": 29,
       "value": 1,
       "battles": [
         {
@@ -1263,7 +1260,7 @@
     },
     {
       "source": 0,
-      "target": 30,
+      "target": 29,
       "value": 1,
       "battles": [
         {
@@ -1275,7 +1272,7 @@
     },
     {
       "source": 4,
-      "target": 22,
+      "target": 21,
       "value": 1,
       "battles": [
         {
@@ -1298,8 +1295,8 @@
       ]
     },
     {
-      "source": 11,
-      "target": 45,
+      "source": 10,
+      "target": 44,
       "value": 6,
       "battles": [
         {
@@ -1335,8 +1332,8 @@
       ]
     },
     {
-      "source": 20,
-      "target": 45,
+      "source": 19,
+      "target": 44,
       "value": 4,
       "battles": [
         {
@@ -1362,8 +1359,8 @@
       ]
     },
     {
-      "source": 11,
-      "target": 12,
+      "source": 10,
+      "target": 11,
       "value": 4,
       "battles": [
         {
@@ -1389,8 +1386,8 @@
       ]
     },
     {
-      "source": 12,
-      "target": 20,
+      "source": 11,
+      "target": 19,
       "value": 4,
       "battles": [
         {
@@ -1417,7 +1414,7 @@
     },
     {
       "source": 4,
-      "target": 11,
+      "target": 10,
       "value": 2,
       "battles": [
         {
@@ -1434,7 +1431,7 @@
     },
     {
       "source": 4,
-      "target": 20,
+      "target": 19,
       "value": 3,
       "battles": [
         {
@@ -1455,8 +1452,8 @@
       ]
     },
     {
-      "source": 18,
-      "target": 20,
+      "source": 17,
+      "target": 19,
       "value": 5,
       "battles": [
         {
@@ -1487,8 +1484,8 @@
       ]
     },
     {
-      "source": 11,
-      "target": 18,
+      "source": 10,
+      "target": 17,
       "value": 4,
       "battles": [
         {
@@ -1514,8 +1511,8 @@
       ]
     },
     {
-      "source": 20,
-      "target": 30,
+      "source": 19,
+      "target": 29,
       "value": 2,
       "battles": [
         {
@@ -1531,8 +1528,8 @@
       ]
     },
     {
-      "source": 20,
-      "target": 54,
+      "source": 19,
+      "target": 53,
       "value": 1,
       "battles": [
         {
@@ -1543,8 +1540,8 @@
       ]
     },
     {
-      "source": 8,
-      "target": 18,
+      "source": 7,
+      "target": 17,
       "value": 4,
       "battles": [
         {
@@ -1570,8 +1567,8 @@
       ]
     },
     {
-      "source": 18,
-      "target": 38,
+      "source": 17,
+      "target": 37,
       "value": 3,
       "battles": [
         {
@@ -1592,86 +1589,86 @@
       ]
     },
     {
+      "source": 7,
+      "target": 21,
+      "value": 2,
+      "battles": [
+        {
+          "episode": "96",
+          "outcome": "Team Yamato retreats after Shino's trap is revealed, with Gozu wounded but the battle remaining incomplete",
+          "description": "Team Yamato engages Team Guren in a forest battle featuring Gentle Fist, Fang Passing Fang, and Lightning Cutter techniques, ultimately retreating due to Shino's pre-laid trap."
+        },
+        {
+          "episode": "98",
+          "outcome": "The search team locates Team Guren's hideout near the lake as they attempt to summon the Three-Tails, setting the stage for a future confrontation.",
+          "description": "The episode features multiple skirmishes and tracking sequences as the search team follows Team Guren, culminating in the discovery of their plan to release the Three-Tails."
+        }
+      ]
+    },
+    {
+      "source": 21,
+      "target": 37,
+      "value": 3,
+      "battles": [
+        {
+          "episode": "96",
+          "outcome": "Team Yamato retreats after Shino's trap is revealed, with Gozu wounded but the battle remaining incomplete",
+          "description": "Team Yamato engages Team Guren in a forest battle featuring Gentle Fist, Fang Passing Fang, and Lightning Cutter techniques, ultimately retreating due to Shino's pre-laid trap."
+        },
+        {
+          "episode": "103",
+          "outcome": "Yamato's team defeats Team Guren's cohorts, providing support for Kakashi's team.",
+          "description": "Yamato's team engages and defeats the initial wave of Team Guren, utilizing Wood Release, Leaf Whirlwind, Twin Rising Dragons, and Fang Passing Fang, while Kakashi's team prepares to confront Guren and Gozu."
+        },
+        {
+          "episode": "93",
+          "outcome": "Rinji and his bat successfully relay information, while Kiba and Akamaru are unable to detect the source of the ultrasonic frequency.",
+          "description": "Rinji utilizes his bat's ultrasonic mind waves to transmit information, confusing Kiba and Akamaru who are unable to pinpoint the source of the signal."
+        }
+      ]
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 2,
+      "battles": [
+        {
+          "episode": "96",
+          "outcome": "Team Yamato retreats after Shino's trap is revealed, with Gozu wounded but the battle remaining incomplete",
+          "description": "Team Yamato engages Team Guren in a forest battle featuring Gentle Fist, Fang Passing Fang, and Lightning Cutter techniques, ultimately retreating due to Shino's pre-laid trap."
+        },
+        {
+          "episode": "98",
+          "outcome": "The search team locates Team Guren's hideout near the lake as they attempt to summon the Three-Tails, setting the stage for a future confrontation.",
+          "description": "The episode features multiple skirmishes and tracking sequences as the search team follows Team Guren, culminating in the discovery of their plan to release the Three-Tails."
+        }
+      ]
+    },
+    {
+      "source": 0,
+      "target": 37,
+      "value": 3,
+      "battles": [
+        {
+          "episode": "96",
+          "outcome": "Team Yamato retreats after Shino's trap is revealed, with Gozu wounded but the battle remaining incomplete",
+          "description": "Team Yamato engages Team Guren in a forest battle featuring Gentle Fist, Fang Passing Fang, and Lightning Cutter techniques, ultimately retreating due to Shino's pre-laid trap."
+        },
+        {
+          "episode": "103",
+          "outcome": "Yamato's team defeats Team Guren's cohorts, providing support for Kakashi's team.",
+          "description": "Yamato's team engages and defeats the initial wave of Team Guren, utilizing Wood Release, Leaf Whirlwind, Twin Rising Dragons, and Fang Passing Fang, while Kakashi's team prepares to confront Guren and Gozu."
+        },
+        {
+          "episode": "93",
+          "outcome": "Rinji and his bat successfully relay information, while Kiba and Akamaru are unable to detect the source of the ultrasonic frequency.",
+          "description": "Rinji utilizes his bat's ultrasonic mind waves to transmit information, confusing Kiba and Akamaru who are unable to pinpoint the source of the signal."
+        }
+      ]
+    },
+    {
       "source": 8,
-      "target": 22,
-      "value": 2,
-      "battles": [
-        {
-          "episode": "96",
-          "outcome": "Team Yamato retreats after Shino's trap is revealed, with Gozu wounded but the battle remaining incomplete",
-          "description": "Team Yamato engages Team Guren in a forest battle featuring Gentle Fist, Fang Passing Fang, and Lightning Cutter techniques, ultimately retreating due to Shino's pre-laid trap."
-        },
-        {
-          "episode": "98",
-          "outcome": "The search team locates Team Guren's hideout near the lake as they attempt to summon the Three-Tails, setting the stage for a future confrontation.",
-          "description": "The episode features multiple skirmishes and tracking sequences as the search team follows Team Guren, culminating in the discovery of their plan to release the Three-Tails."
-        }
-      ]
-    },
-    {
-      "source": 22,
-      "target": 38,
-      "value": 3,
-      "battles": [
-        {
-          "episode": "96",
-          "outcome": "Team Yamato retreats after Shino's trap is revealed, with Gozu wounded but the battle remaining incomplete",
-          "description": "Team Yamato engages Team Guren in a forest battle featuring Gentle Fist, Fang Passing Fang, and Lightning Cutter techniques, ultimately retreating due to Shino's pre-laid trap."
-        },
-        {
-          "episode": "103",
-          "outcome": "Yamato's team defeats Team Guren's cohorts, providing support for Kakashi's team.",
-          "description": "Yamato's team engages and defeats the initial wave of Team Guren, utilizing Wood Release, Leaf Whirlwind, Twin Rising Dragons, and Fang Passing Fang, while Kakashi's team prepares to confront Guren and Gozu."
-        },
-        {
-          "episode": "93",
-          "outcome": "Rinji and his bat successfully relay information, while Kiba and Akamaru are unable to detect the source of the ultrasonic frequency.",
-          "description": "Rinji utilizes his bat's ultrasonic mind waves to transmit information, confusing Kiba and Akamaru who are unable to pinpoint the source of the signal."
-        }
-      ]
-    },
-    {
-      "source": 0,
-      "target": 8,
-      "value": 2,
-      "battles": [
-        {
-          "episode": "96",
-          "outcome": "Team Yamato retreats after Shino's trap is revealed, with Gozu wounded but the battle remaining incomplete",
-          "description": "Team Yamato engages Team Guren in a forest battle featuring Gentle Fist, Fang Passing Fang, and Lightning Cutter techniques, ultimately retreating due to Shino's pre-laid trap."
-        },
-        {
-          "episode": "98",
-          "outcome": "The search team locates Team Guren's hideout near the lake as they attempt to summon the Three-Tails, setting the stage for a future confrontation.",
-          "description": "The episode features multiple skirmishes and tracking sequences as the search team follows Team Guren, culminating in the discovery of their plan to release the Three-Tails."
-        }
-      ]
-    },
-    {
-      "source": 0,
-      "target": 38,
-      "value": 3,
-      "battles": [
-        {
-          "episode": "96",
-          "outcome": "Team Yamato retreats after Shino's trap is revealed, with Gozu wounded but the battle remaining incomplete",
-          "description": "Team Yamato engages Team Guren in a forest battle featuring Gentle Fist, Fang Passing Fang, and Lightning Cutter techniques, ultimately retreating due to Shino's pre-laid trap."
-        },
-        {
-          "episode": "103",
-          "outcome": "Yamato's team defeats Team Guren's cohorts, providing support for Kakashi's team.",
-          "description": "Yamato's team engages and defeats the initial wave of Team Guren, utilizing Wood Release, Leaf Whirlwind, Twin Rising Dragons, and Fang Passing Fang, while Kakashi's team prepares to confront Guren and Gozu."
-        },
-        {
-          "episode": "93",
-          "outcome": "Rinji and his bat successfully relay information, while Kiba and Akamaru are unable to detect the source of the ultrasonic frequency.",
-          "description": "Rinji utilizes his bat's ultrasonic mind waves to transmit information, confusing Kiba and Akamaru who are unable to pinpoint the source of the signal."
-        }
-      ]
-    },
-    {
-      "source": 9,
-      "target": 30,
+      "target": 29,
       "value": 5,
       "battles": [
         {
@@ -1702,8 +1699,8 @@
       ]
     },
     {
-      "source": 8,
-      "target": 30,
+      "source": 7,
+      "target": 29,
       "value": 3,
       "battles": [
         {
@@ -1724,8 +1721,8 @@
       ]
     },
     {
-      "source": 9,
-      "target": 22,
+      "source": 8,
+      "target": 21,
       "value": 1,
       "battles": [
         {
@@ -1736,8 +1733,8 @@
       ]
     },
     {
-      "source": 15,
-      "target": 22,
+      "source": 14,
+      "target": 21,
       "value": 1,
       "battles": [
         {
@@ -1748,8 +1745,8 @@
       ]
     },
     {
-      "source": 9,
-      "target": 46,
+      "source": 8,
+      "target": 45,
       "value": 4,
       "battles": [
         {
@@ -1775,8 +1772,8 @@
       ]
     },
     {
-      "source": 15,
-      "target": 46,
+      "source": 14,
+      "target": 45,
       "value": 2,
       "battles": [
         {
@@ -1788,12 +1785,34 @@
           "episode": "104",
           "outcome": "The battle resulted in a strategic shift as Kabuto manipulated Guren and Yūkimaru to control the Three-Tails, while Gozu sacrificed himself to protect Guren, and Rinji retreated.",
           "description": "Multiple skirmishes occurred, including battles between Team Kakashi and Gozu/Guren, a brief encounter with Rinji, and Kabuto's intervention to seize control of the Three-Tails through Yūkimaru, exploiting Guren's past."
+        }
+      ]
+    },
+    {
+      "source": 7,
+      "target": 45,
+      "value": 3,
+      "battles": [
+        {
+          "episode": "98",
+          "outcome": "The search team locates Team Guren's hideout near the lake as they attempt to summon the Three-Tails, setting the stage for a future confrontation.",
+          "description": "The episode features multiple skirmishes and tracking sequences as the search team follows Team Guren, culminating in the discovery of their plan to release the Three-Tails."
+        },
+        {
+          "episode": "104",
+          "outcome": "The battle resulted in a strategic shift as Kabuto manipulated Guren and Yūkimaru to control the Three-Tails, while Gozu sacrificed himself to protect Guren, and Rinji retreated.",
+          "description": "Multiple skirmishes occurred, including battles between Team Kakashi and Gozu/Guren, a brief encounter with Rinji, and Kabuto's intervention to seize control of the Three-Tails through Yūkimaru, exploiting Guren's past."
+        },
+        {
+          "episode": "102",
+          "outcome": "Standoff, teams prepare for confrontation",
+          "description": "Teams are formed and dispatched to intercept Guren and Yūkimaru, with both sides preparing for a future battle."
         }
       ]
     },
     {
       "source": 8,
-      "target": 46,
+      "target": 17,
       "value": 3,
       "battles": [
         {
@@ -1814,30 +1833,8 @@
       ]
     },
     {
-      "source": 9,
-      "target": 18,
-      "value": 3,
-      "battles": [
-        {
-          "episode": "98",
-          "outcome": "The search team locates Team Guren's hideout near the lake as they attempt to summon the Three-Tails, setting the stage for a future confrontation.",
-          "description": "The episode features multiple skirmishes and tracking sequences as the search team follows Team Guren, culminating in the discovery of their plan to release the Three-Tails."
-        },
-        {
-          "episode": "104",
-          "outcome": "The battle resulted in a strategic shift as Kabuto manipulated Guren and Yūkimaru to control the Three-Tails, while Gozu sacrificed himself to protect Guren, and Rinji retreated.",
-          "description": "Multiple skirmishes occurred, including battles between Team Kakashi and Gozu/Guren, a brief encounter with Rinji, and Kabuto's intervention to seize control of the Three-Tails through Yūkimaru, exploiting Guren's past."
-        },
-        {
-          "episode": "102",
-          "outcome": "Standoff, teams prepare for confrontation",
-          "description": "Teams are formed and dispatched to intercept Guren and Yūkimaru, with both sides preparing for a future battle."
-        }
-      ]
-    },
-    {
-      "source": 15,
-      "target": 18,
+      "source": 14,
+      "target": 17,
       "value": 2,
       "battles": [
         {
@@ -1854,82 +1851,9 @@
     },
     {
       "source": 0,
-      "target": 9,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "98",
-          "outcome": "The search team locates Team Guren's hideout near the lake as they attempt to summon the Three-Tails, setting the stage for a future confrontation.",
-          "description": "The episode features multiple skirmishes and tracking sequences as the search team follows Team Guren, culminating in the discovery of their plan to release the Three-Tails."
-        }
-      ]
-    },
-    {
-      "source": 0,
-      "target": 15,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "98",
-          "outcome": "The search team locates Team Guren's hideout near the lake as they attempt to summon the Three-Tails, setting the stage for a future confrontation.",
-          "description": "The episode features multiple skirmishes and tracking sequences as the search team follows Team Guren, culminating in the discovery of their plan to release the Three-Tails."
-        }
-      ]
-    },
-    {
-      "source": 7,
-      "target": 9,
-      "value": 3,
-      "battles": [
-        {
-          "episode": "98",
-          "outcome": "The search team locates Team Guren's hideout near the lake as they attempt to summon the Three-Tails, setting the stage for a future confrontation.",
-          "description": "The episode features multiple skirmishes and tracking sequences as the search team follows Team Guren, culminating in the discovery of their plan to release the Three-Tails."
-        },
-        {
-          "episode": "98",
-          "outcome": "The search team locates Team Guren's hideout near the lake as they attempt to summon the Three-Tails, setting the stage for a future confrontation.",
-          "description": "The episode features multiple skirmishes and tracking sequences as the search team follows Team Guren, culminating in the discovery of their plan to release the Three-Tails."
-        },
-        {
-          "episode": "99",
-          "outcome": "Three-Tails breaks free from Guren’s crystal encasement and begins rampaging, leading to a chaotic confrontation with Naruto and his summons.",
-          "description": "Guren attempts to restrain the Three-Tails with her Crystal Release techniques, but ultimately fails as the beast breaks free, initiating a battle with Naruto who arrives with Gamatatatsu and Gamakichi."
-        }
-      ]
-    },
-    {
-      "source": 7,
-      "target": 15,
-      "value": 3,
-      "battles": [
-        {
-          "episode": "98",
-          "outcome": "The search team locates Team Guren's hideout near the lake as they attempt to summon the Three-Tails, setting the stage for a future confrontation.",
-          "description": "The episode features multiple skirmishes and tracking sequences as the search team follows Team Guren, culminating in the discovery of their plan to release the Three-Tails."
-        },
-        {
-          "episode": "98",
-          "outcome": "The search team locates Team Guren's hideout near the lake as they attempt to summon the Three-Tails, setting the stage for a future confrontation.",
-          "description": "The episode features multiple skirmishes and tracking sequences as the search team follows Team Guren, culminating in the discovery of their plan to release the Three-Tails."
-        },
-        {
-          "episode": "99",
-          "outcome": "Three-Tails breaks free from Guren’s crystal encasement and begins rampaging, leading to a chaotic confrontation with Naruto and his summons.",
-          "description": "Guren attempts to restrain the Three-Tails with her Crystal Release techniques, but ultimately fails as the beast breaks free, initiating a battle with Naruto who arrives with Gamatatatsu and Gamakichi."
-        }
-      ]
-    },
-    {
-      "source": 7,
       "target": 8,
-      "value": 2,
+      "value": 1,
       "battles": [
-        {
-          "episode": "98",
-          "outcome": "The search team locates Team Guren's hideout near the lake as they attempt to summon the Three-Tails, setting the stage for a future confrontation.",
-          "description": "The episode features multiple skirmishes and tracking sequences as the search team follows Team Guren, culminating in the discovery of their plan to release the Three-Tails."
-        },
         {
           "episode": "98",
           "outcome": "The search team locates Team Guren's hideout near the lake as they attempt to summon the Three-Tails, setting the stage for a future confrontation.",
@@ -1938,8 +1862,20 @@
       ]
     },
     {
-      "source": 38,
-      "target": 54,
+      "source": 0,
+      "target": 14,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "98",
+          "outcome": "The search team locates Team Guren's hideout near the lake as they attempt to summon the Three-Tails, setting the stage for a future confrontation.",
+          "description": "The episode features multiple skirmishes and tracking sequences as the search team follows Team Guren, culminating in the discovery of their plan to release the Three-Tails."
+        }
+      ]
+    },
+    {
+      "source": 37,
+      "target": 53,
       "value": 1,
       "battles": [
         {
@@ -1950,15 +1886,139 @@
       ]
     },
     {
-      "source": 24,
+      "source": 23,
+      "target": 37,
+      "value": 3,
+      "battles": [
+        {
+          "episode": "103",
+          "outcome": "Yamato's team defeats Team Guren's cohorts, providing support for Kakashi's team.",
+          "description": "Yamato's team engages and defeats the initial wave of Team Guren, utilizing Wood Release, Leaf Whirlwind, Twin Rising Dragons, and Fang Passing Fang, while Kakashi's team prepares to confront Guren and Gozu."
+        },
+        {
+          "episode": "104",
+          "outcome": "The battle resulted in a strategic shift as Kabuto manipulated Guren and Yūkimaru to control the Three-Tails, while Gozu sacrificed himself to protect Guren, and Rinji retreated.",
+          "description": "Multiple skirmishes occurred, including battles between Team Kakashi and Gozu/Guren, a brief encounter with Rinji, and Kabuto's intervention to seize control of the Three-Tails through Yūkimaru, exploiting Guren's past."
+        },
+        {
+          "episode": "105",
+          "outcome": "Guren and Rinji successfully break part of the barrier and retreat, but the Three-Tails breaks free due to the disruption, leading to widespread chaos and Yūkimaru's activation",
+          "description": "Guren utilizes her Crystal Release techniques against Lee, Tenten, Naruto, and Shino while Rinji attempts to disrupt the sealing barrier, ultimately leading to the Three-Tails' escape and Yūkimaru's intervention."
+        }
+      ]
+    },
+    {
+      "source": 37,
+      "target": 49,
+      "value": 3,
+      "battles": [
+        {
+          "episode": "103",
+          "outcome": "Yamato's team defeats Team Guren's cohorts, providing support for Kakashi's team.",
+          "description": "Yamato's team engages and defeats the initial wave of Team Guren, utilizing Wood Release, Leaf Whirlwind, Twin Rising Dragons, and Fang Passing Fang, while Kakashi's team prepares to confront Guren and Gozu."
+        },
+        {
+          "episode": "104",
+          "outcome": "The battle resulted in a strategic shift as Kabuto manipulated Guren and Yūkimaru to control the Three-Tails, while Gozu sacrificed himself to protect Guren, and Rinji retreated.",
+          "description": "Multiple skirmishes occurred, including battles between Team Kakashi and Gozu/Guren, a brief encounter with Rinji, and Kabuto's intervention to seize control of the Three-Tails through Yūkimaru, exploiting Guren's past."
+        },
+        {
+          "episode": "105",
+          "outcome": "Guren and Rinji successfully break part of the barrier and retreat, but the Three-Tails breaks free due to the disruption, leading to widespread chaos and Yūkimaru's activation",
+          "description": "Guren utilizes her Crystal Release techniques against Lee, Tenten, Naruto, and Shino while Rinji attempts to disrupt the sealing barrier, ultimately leading to the Three-Tails' escape and Yūkimaru's intervention."
+        }
+      ]
+    },
+    {
+      "source": 37,
+      "target": 45,
+      "value": 3,
+      "battles": [
+        {
+          "episode": "104",
+          "outcome": "The battle resulted in a strategic shift as Kabuto manipulated Guren and Yūkimaru to control the Three-Tails, while Gozu sacrificed himself to protect Guren, and Rinji retreated.",
+          "description": "Multiple skirmishes occurred, including battles between Team Kakashi and Gozu/Guren, a brief encounter with Rinji, and Kabuto's intervention to seize control of the Three-Tails through Yūkimaru, exploiting Guren's past."
+        },
+        {
+          "episode": "102",
+          "outcome": "Standoff, teams prepare for confrontation",
+          "description": "Teams are formed and dispatched to intercept Guren and Yūkimaru, with both sides preparing for a future battle."
+        },
+        {
+          "episode": "105",
+          "outcome": "Guren and Rinji successfully break part of the barrier and retreat, but the Three-Tails breaks free due to the disruption, leading to widespread chaos and Yūkimaru's activation",
+          "description": "Guren utilizes her Crystal Release techniques against Lee, Tenten, Naruto, and Shino while Rinji attempts to disrupt the sealing barrier, ultimately leading to the Three-Tails' escape and Yūkimaru's intervention."
+        }
+      ]
+    },
+    {
+      "source": 7,
       "target": 38,
-      "value": 3,
+      "value": 2,
       "battles": [
         {
-          "episode": "103",
-          "outcome": "Yamato's team defeats Team Guren's cohorts, providing support for Kakashi's team.",
-          "description": "Yamato's team engages and defeats the initial wave of Team Guren, utilizing Wood Release, Leaf Whirlwind, Twin Rising Dragons, and Fang Passing Fang, while Kakashi's team prepares to confront Guren and Gozu."
+          "episode": "104",
+          "outcome": "The battle resulted in a strategic shift as Kabuto manipulated Guren and Yūkimaru to control the Three-Tails, while Gozu sacrificed himself to protect Guren, and Rinji retreated.",
+          "description": "Multiple skirmishes occurred, including battles between Team Kakashi and Gozu/Guren, a brief encounter with Rinji, and Kabuto's intervention to seize control of the Three-Tails through Yūkimaru, exploiting Guren's past."
         },
+        {
+          "episode": "102",
+          "outcome": "Standoff, teams prepare for confrontation",
+          "description": "Teams are formed and dispatched to intercept Guren and Yūkimaru, with both sides preparing for a future battle."
+        }
+      ]
+    },
+    {
+      "source": 8,
+      "target": 38,
+      "value": 2,
+      "battles": [
+        {
+          "episode": "104",
+          "outcome": "The battle resulted in a strategic shift as Kabuto manipulated Guren and Yūkimaru to control the Three-Tails, while Gozu sacrificed himself to protect Guren, and Rinji retreated.",
+          "description": "Multiple skirmishes occurred, including battles between Team Kakashi and Gozu/Guren, a brief encounter with Rinji, and Kabuto's intervention to seize control of the Three-Tails through Yūkimaru, exploiting Guren's past."
+        },
+        {
+          "episode": "102",
+          "outcome": "Standoff, teams prepare for confrontation",
+          "description": "Teams are formed and dispatched to intercept Guren and Yūkimaru, with both sides preparing for a future battle."
+        }
+      ]
+    },
+    {
+      "source": 37,
+      "target": 38,
+      "value": 2,
+      "battles": [
+        {
+          "episode": "104",
+          "outcome": "The battle resulted in a strategic shift as Kabuto manipulated Guren and Yūkimaru to control the Three-Tails, while Gozu sacrificed himself to protect Guren, and Rinji retreated.",
+          "description": "Multiple skirmishes occurred, including battles between Team Kakashi and Gozu/Guren, a brief encounter with Rinji, and Kabuto's intervention to seize control of the Three-Tails through Yūkimaru, exploiting Guren's past."
+        },
+        {
+          "episode": "102",
+          "outcome": "Standoff, teams prepare for confrontation",
+          "description": "Teams are formed and dispatched to intercept Guren and Yūkimaru, with both sides preparing for a future battle."
+        }
+      ]
+    },
+    {
+      "source": 7,
+      "target": 23,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "104",
+          "outcome": "The battle resulted in a strategic shift as Kabuto manipulated Guren and Yūkimaru to control the Three-Tails, while Gozu sacrificed himself to protect Guren, and Rinji retreated.",
+          "description": "Multiple skirmishes occurred, including battles between Team Kakashi and Gozu/Guren, a brief encounter with Rinji, and Kabuto's intervention to seize control of the Three-Tails through Yūkimaru, exploiting Guren's past."
+        }
+      ]
+    },
+    {
+      "source": 8,
+      "target": 23,
+      "value": 2,
+      "battles": [
         {
           "episode": "104",
           "outcome": "The battle resulted in a strategic shift as Kabuto manipulated Guren and Yūkimaru to control the Three-Tails, while Gozu sacrificed himself to protect Guren, and Rinji retreated.",
@@ -1972,15 +2032,34 @@
       ]
     },
     {
-      "source": 38,
-      "target": 50,
-      "value": 3,
+      "source": 14,
+      "target": 23,
+      "value": 1,
       "battles": [
         {
-          "episode": "103",
-          "outcome": "Yamato's team defeats Team Guren's cohorts, providing support for Kakashi's team.",
-          "description": "Yamato's team engages and defeats the initial wave of Team Guren, utilizing Wood Release, Leaf Whirlwind, Twin Rising Dragons, and Fang Passing Fang, while Kakashi's team prepares to confront Guren and Gozu."
-        },
+          "episode": "104",
+          "outcome": "The battle resulted in a strategic shift as Kabuto manipulated Guren and Yūkimaru to control the Three-Tails, while Gozu sacrificed himself to protect Guren, and Rinji retreated.",
+          "description": "Multiple skirmishes occurred, including battles between Team Kakashi and Gozu/Guren, a brief encounter with Rinji, and Kabuto's intervention to seize control of the Three-Tails through Yūkimaru, exploiting Guren's past."
+        }
+      ]
+    },
+    {
+      "source": 7,
+      "target": 49,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "104",
+          "outcome": "The battle resulted in a strategic shift as Kabuto manipulated Guren and Yūkimaru to control the Three-Tails, while Gozu sacrificed himself to protect Guren, and Rinji retreated.",
+          "description": "Multiple skirmishes occurred, including battles between Team Kakashi and Gozu/Guren, a brief encounter with Rinji, and Kabuto's intervention to seize control of the Three-Tails through Yūkimaru, exploiting Guren's past."
+        }
+      ]
+    },
+    {
+      "source": 8,
+      "target": 49,
+      "value": 2,
+      "battles": [
         {
           "episode": "104",
           "outcome": "The battle resulted in a strategic shift as Kabuto manipulated Guren and Yūkimaru to control the Three-Tails, while Gozu sacrificed himself to protect Guren, and Rinji retreated.",
@@ -1994,110 +2073,20 @@
       ]
     },
     {
-      "source": 38,
+      "source": 14,
+      "target": 49,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "104",
+          "outcome": "The battle resulted in a strategic shift as Kabuto manipulated Guren and Yūkimaru to control the Three-Tails, while Gozu sacrificed himself to protect Guren, and Rinji retreated.",
+          "description": "Multiple skirmishes occurred, including battles between Team Kakashi and Gozu/Guren, a brief encounter with Rinji, and Kabuto's intervention to seize control of the Three-Tails through Yūkimaru, exploiting Guren's past."
+        }
+      ]
+    },
+    {
+      "source": 7,
       "target": 46,
-      "value": 3,
-      "battles": [
-        {
-          "episode": "104",
-          "outcome": "The battle resulted in a strategic shift as Kabuto manipulated Guren and Yūkimaru to control the Three-Tails, while Gozu sacrificed himself to protect Guren, and Rinji retreated.",
-          "description": "Multiple skirmishes occurred, including battles between Team Kakashi and Gozu/Guren, a brief encounter with Rinji, and Kabuto's intervention to seize control of the Three-Tails through Yūkimaru, exploiting Guren's past."
-        },
-        {
-          "episode": "102",
-          "outcome": "Standoff, teams prepare for confrontation",
-          "description": "Teams are formed and dispatched to intercept Guren and Yūkimaru, with both sides preparing for a future battle."
-        },
-        {
-          "episode": "105",
-          "outcome": "Guren and Rinji successfully break part of the barrier and retreat, but the Three-Tails breaks free due to the disruption, leading to widespread chaos and Yūkimaru's activation",
-          "description": "Guren utilizes her Crystal Release techniques against Lee, Tenten, Naruto, and Shino while Rinji attempts to disrupt the sealing barrier, ultimately leading to the Three-Tails' escape and Yūkimaru's intervention."
-        }
-      ]
-    },
-    {
-      "source": 8,
-      "target": 39,
-      "value": 2,
-      "battles": [
-        {
-          "episode": "104",
-          "outcome": "The battle resulted in a strategic shift as Kabuto manipulated Guren and Yūkimaru to control the Three-Tails, while Gozu sacrificed himself to protect Guren, and Rinji retreated.",
-          "description": "Multiple skirmishes occurred, including battles between Team Kakashi and Gozu/Guren, a brief encounter with Rinji, and Kabuto's intervention to seize control of the Three-Tails through Yūkimaru, exploiting Guren's past."
-        },
-        {
-          "episode": "102",
-          "outcome": "Standoff, teams prepare for confrontation",
-          "description": "Teams are formed and dispatched to intercept Guren and Yūkimaru, with both sides preparing for a future battle."
-        }
-      ]
-    },
-    {
-      "source": 9,
-      "target": 39,
-      "value": 2,
-      "battles": [
-        {
-          "episode": "104",
-          "outcome": "The battle resulted in a strategic shift as Kabuto manipulated Guren and Yūkimaru to control the Three-Tails, while Gozu sacrificed himself to protect Guren, and Rinji retreated.",
-          "description": "Multiple skirmishes occurred, including battles between Team Kakashi and Gozu/Guren, a brief encounter with Rinji, and Kabuto's intervention to seize control of the Three-Tails through Yūkimaru, exploiting Guren's past."
-        },
-        {
-          "episode": "102",
-          "outcome": "Standoff, teams prepare for confrontation",
-          "description": "Teams are formed and dispatched to intercept Guren and Yūkimaru, with both sides preparing for a future battle."
-        }
-      ]
-    },
-    {
-      "source": 38,
-      "target": 39,
-      "value": 2,
-      "battles": [
-        {
-          "episode": "104",
-          "outcome": "The battle resulted in a strategic shift as Kabuto manipulated Guren and Yūkimaru to control the Three-Tails, while Gozu sacrificed himself to protect Guren, and Rinji retreated.",
-          "description": "Multiple skirmishes occurred, including battles between Team Kakashi and Gozu/Guren, a brief encounter with Rinji, and Kabuto's intervention to seize control of the Three-Tails through Yūkimaru, exploiting Guren's past."
-        },
-        {
-          "episode": "102",
-          "outcome": "Standoff, teams prepare for confrontation",
-          "description": "Teams are formed and dispatched to intercept Guren and Yūkimaru, with both sides preparing for a future battle."
-        }
-      ]
-    },
-    {
-      "source": 8,
-      "target": 24,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "104",
-          "outcome": "The battle resulted in a strategic shift as Kabuto manipulated Guren and Yūkimaru to control the Three-Tails, while Gozu sacrificed himself to protect Guren, and Rinji retreated.",
-          "description": "Multiple skirmishes occurred, including battles between Team Kakashi and Gozu/Guren, a brief encounter with Rinji, and Kabuto's intervention to seize control of the Three-Tails through Yūkimaru, exploiting Guren's past."
-        }
-      ]
-    },
-    {
-      "source": 9,
-      "target": 24,
-      "value": 2,
-      "battles": [
-        {
-          "episode": "104",
-          "outcome": "The battle resulted in a strategic shift as Kabuto manipulated Guren and Yūkimaru to control the Three-Tails, while Gozu sacrificed himself to protect Guren, and Rinji retreated.",
-          "description": "Multiple skirmishes occurred, including battles between Team Kakashi and Gozu/Guren, a brief encounter with Rinji, and Kabuto's intervention to seize control of the Three-Tails through Yūkimaru, exploiting Guren's past."
-        },
-        {
-          "episode": "105",
-          "outcome": "Guren and Rinji successfully break part of the barrier and retreat, but the Three-Tails breaks free due to the disruption, leading to widespread chaos and Yūkimaru's activation",
-          "description": "Guren utilizes her Crystal Release techniques against Lee, Tenten, Naruto, and Shino while Rinji attempts to disrupt the sealing barrier, ultimately leading to the Three-Tails' escape and Yūkimaru's intervention."
-        }
-      ]
-    },
-    {
-      "source": 15,
-      "target": 24,
       "value": 1,
       "battles": [
         {
@@ -2109,7 +2098,7 @@
     },
     {
       "source": 8,
-      "target": 50,
+      "target": 46,
       "value": 1,
       "battles": [
         {
@@ -2120,25 +2109,8 @@
       ]
     },
     {
-      "source": 9,
-      "target": 50,
-      "value": 2,
-      "battles": [
-        {
-          "episode": "104",
-          "outcome": "The battle resulted in a strategic shift as Kabuto manipulated Guren and Yūkimaru to control the Three-Tails, while Gozu sacrificed himself to protect Guren, and Rinji retreated.",
-          "description": "Multiple skirmishes occurred, including battles between Team Kakashi and Gozu/Guren, a brief encounter with Rinji, and Kabuto's intervention to seize control of the Three-Tails through Yūkimaru, exploiting Guren's past."
-        },
-        {
-          "episode": "105",
-          "outcome": "Guren and Rinji successfully break part of the barrier and retreat, but the Three-Tails breaks free due to the disruption, leading to widespread chaos and Yūkimaru's activation",
-          "description": "Guren utilizes her Crystal Release techniques against Lee, Tenten, Naruto, and Shino while Rinji attempts to disrupt the sealing barrier, ultimately leading to the Three-Tails' escape and Yūkimaru's intervention."
-        }
-      ]
-    },
-    {
-      "source": 15,
-      "target": 50,
+      "source": 37,
+      "target": 46,
       "value": 1,
       "battles": [
         {
@@ -2149,44 +2121,8 @@
       ]
     },
     {
-      "source": 8,
-      "target": 47,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "104",
-          "outcome": "The battle resulted in a strategic shift as Kabuto manipulated Guren and Yūkimaru to control the Three-Tails, while Gozu sacrificed himself to protect Guren, and Rinji retreated.",
-          "description": "Multiple skirmishes occurred, including battles between Team Kakashi and Gozu/Guren, a brief encounter with Rinji, and Kabuto's intervention to seize control of the Three-Tails through Yūkimaru, exploiting Guren's past."
-        }
-      ]
-    },
-    {
-      "source": 9,
-      "target": 47,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "104",
-          "outcome": "The battle resulted in a strategic shift as Kabuto manipulated Guren and Yūkimaru to control the Three-Tails, while Gozu sacrificed himself to protect Guren, and Rinji retreated.",
-          "description": "Multiple skirmishes occurred, including battles between Team Kakashi and Gozu/Guren, a brief encounter with Rinji, and Kabuto's intervention to seize control of the Three-Tails through Yūkimaru, exploiting Guren's past."
-        }
-      ]
-    },
-    {
-      "source": 38,
-      "target": 47,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "104",
-          "outcome": "The battle resulted in a strategic shift as Kabuto manipulated Guren and Yūkimaru to control the Three-Tails, while Gozu sacrificed himself to protect Guren, and Rinji retreated.",
-          "description": "Multiple skirmishes occurred, including battles between Team Kakashi and Gozu/Guren, a brief encounter with Rinji, and Kabuto's intervention to seize control of the Three-Tails through Yūkimaru, exploiting Guren's past."
-        }
-      ]
-    },
-    {
-      "source": 15,
-      "target": 47,
+      "source": 14,
+      "target": 46,
       "value": 1,
       "battles": [
         {
@@ -2198,7 +2134,7 @@
     },
     {
       "source": 5,
-      "target": 51,
+      "target": 50,
       "value": 3,
       "battles": [
         {
@@ -2220,7 +2156,7 @@
     },
     {
       "source": 5,
-      "target": 43,
+      "target": 42,
       "value": 1,
       "battles": [
         {
@@ -2231,8 +2167,8 @@
       ]
     },
     {
-      "source": 43,
-      "target": 51,
+      "source": 42,
+      "target": 50,
       "value": 1,
       "battles": [
         {
@@ -2244,7 +2180,7 @@
     },
     {
       "source": 5,
-      "target": 44,
+      "target": 43,
       "value": 2,
       "battles": [
         {
@@ -2260,8 +2196,8 @@
       ]
     },
     {
-      "source": 44,
-      "target": 51,
+      "source": 43,
+      "target": 50,
       "value": 1,
       "battles": [
         {
@@ -2272,8 +2208,8 @@
       ]
     },
     {
-      "source": 21,
-      "target": 43,
+      "source": 20,
+      "target": 42,
       "value": 2,
       "battles": [
         {
@@ -2289,8 +2225,8 @@
       ]
     },
     {
-      "source": 14,
-      "target": 29,
+      "source": 13,
+      "target": 28,
       "value": 1,
       "battles": [
         {
@@ -2301,8 +2237,8 @@
       ]
     },
     {
-      "source": 23,
-      "target": 43,
+      "source": 22,
+      "target": 42,
       "value": 3,
       "battles": [
         {
@@ -2323,8 +2259,8 @@
       ]
     },
     {
-      "source": 21,
-      "target": 23,
+      "source": 20,
+      "target": 22,
       "value": 1,
       "battles": [
         {
@@ -2335,8 +2271,8 @@
       ]
     },
     {
-      "source": 31,
-      "target": 35,
+      "source": 30,
+      "target": 34,
       "value": 2,
       "battles": [
         {
@@ -2352,20 +2288,8 @@
       ]
     },
     {
-      "source": 7,
-      "target": 35,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "163",
-          "outcome": "Naruto destroys the Asura Path and significantly damages the Animal and Preta Paths, forcing Pain to retreat and reposition",
-          "description": "Naruto, utilizing Sage Mode and various Rasengan techniques, engages Pain's multiple Paths, showcasing his enhanced abilities and strategic combat skills."
-        }
-      ]
-    },
-    {
-      "source": 31,
-      "target": 44,
+      "source": 30,
+      "target": 43,
       "value": 9,
       "battles": [
         {
@@ -2416,8 +2340,8 @@
       ]
     },
     {
-      "source": 21,
-      "target": 31,
+      "source": 20,
+      "target": 30,
       "value": 1,
       "battles": [
         {
@@ -2428,8 +2352,8 @@
       ]
     },
     {
-      "source": 41,
-      "target": 44,
+      "source": 40,
+      "target": 43,
       "value": 2,
       "battles": [
         {
@@ -2445,8 +2369,8 @@
       ]
     },
     {
-      "source": 21,
-      "target": 41,
+      "source": 20,
+      "target": 40,
       "value": 1,
       "battles": [
         {
@@ -2457,8 +2381,8 @@
       ]
     },
     {
-      "source": 19,
-      "target": 44,
+      "source": 18,
+      "target": 43,
       "value": 3,
       "battles": [
         {
@@ -2479,8 +2403,8 @@
       ]
     },
     {
-      "source": 19,
-      "target": 21,
+      "source": 18,
+      "target": 20,
       "value": 1,
       "battles": [
         {
@@ -2492,7 +2416,7 @@
     },
     {
       "source": 6,
-      "target": 44,
+      "target": 43,
       "value": 1,
       "battles": [
         {
@@ -2503,8 +2427,8 @@
       ]
     },
     {
-      "source": 44,
-      "target": 48,
+      "source": 43,
+      "target": 47,
       "value": 1,
       "battles": [
         {
@@ -2515,8 +2439,8 @@
       ]
     },
     {
-      "source": 26,
-      "target": 44,
+      "source": 25,
+      "target": 43,
       "value": 2,
       "battles": [
         {
@@ -2532,8 +2456,8 @@
       ]
     },
     {
-      "source": 40,
-      "target": 43,
+      "source": 39,
+      "target": 42,
       "value": 2,
       "battles": [
         {
@@ -2549,8 +2473,8 @@
       ]
     },
     {
-      "source": 21,
-      "target": 40,
+      "source": 20,
+      "target": 39,
       "value": 1,
       "battles": [
         {
@@ -2562,7 +2486,7 @@
     },
     {
       "source": 1,
-      "target": 16,
+      "target": 15,
       "value": 2,
       "battles": [
         {
@@ -2579,24 +2503,7 @@
     },
     {
       "source": 1,
-      "target": 51,
-      "value": 2,
-      "battles": [
-        {
-          "episode": "256",
-          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
-          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
-        },
-        {
-          "episode": "256",
-          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
-          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
-        }
-      ]
-    },
-    {
-      "source": 1,
-      "target": 37,
+      "target": 50,
       "value": 2,
       "battles": [
         {
@@ -2630,7 +2537,7 @@
     },
     {
       "source": 1,
-      "target": 53,
+      "target": 35,
       "value": 2,
       "battles": [
         {
@@ -2646,8 +2553,25 @@
       ]
     },
     {
-      "source": 16,
-      "target": 18,
+      "source": 1,
+      "target": 52,
+      "value": 2,
+      "battles": [
+        {
+          "episode": "256",
+          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
+          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
+        },
+        {
+          "episode": "256",
+          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
+          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
+        }
+      ]
+    },
+    {
+      "source": 15,
+      "target": 17,
       "value": 1,
       "battles": [
         {
@@ -2658,8 +2582,8 @@
       ]
     },
     {
-      "source": 18,
-      "target": 51,
+      "source": 17,
+      "target": 50,
       "value": 3,
       "battles": [
         {
@@ -2680,19 +2604,7 @@
       ]
     },
     {
-      "source": 18,
-      "target": 37,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "256",
-          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
-          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
-        }
-      ]
-    },
-    {
-      "source": 18,
+      "source": 17,
       "target": 36,
       "value": 1,
       "battles": [
@@ -2704,8 +2616,20 @@
       ]
     },
     {
-      "source": 18,
-      "target": 53,
+      "source": 17,
+      "target": 35,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "256",
+          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
+          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
+        }
+      ]
+    },
+    {
+      "source": 17,
+      "target": 52,
       "value": 2,
       "battles": [
         {
@@ -2721,8 +2645,8 @@
       ]
     },
     {
-      "source": 16,
-      "target": 45,
+      "source": 15,
+      "target": 44,
       "value": 1,
       "battles": [
         {
@@ -2733,20 +2657,8 @@
       ]
     },
     {
-      "source": 45,
-      "target": 51,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "256",
-          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
-          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
-        }
-      ]
-    },
-    {
-      "source": 37,
-      "target": 45,
+      "source": 44,
+      "target": 50,
       "value": 1,
       "battles": [
         {
@@ -2758,7 +2670,7 @@
     },
     {
       "source": 36,
-      "target": 45,
+      "target": 44,
       "value": 1,
       "battles": [
         {
@@ -2769,8 +2681,20 @@
       ]
     },
     {
-      "source": 45,
-      "target": 53,
+      "source": 35,
+      "target": 44,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "256",
+          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
+          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
+        }
+      ]
+    },
+    {
+      "source": 44,
+      "target": 52,
       "value": 2,
       "battles": [
         {
@@ -2787,7 +2711,7 @@
     },
     {
       "source": 6,
-      "target": 16,
+      "target": 15,
       "value": 1,
       "battles": [
         {
@@ -2799,19 +2723,7 @@
     },
     {
       "source": 6,
-      "target": 51,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "256",
-          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
-          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
-        }
-      ]
-    },
-    {
-      "source": 6,
-      "target": 37,
+      "target": 50,
       "value": 1,
       "battles": [
         {
@@ -2835,7 +2747,19 @@
     },
     {
       "source": 6,
-      "target": 53,
+      "target": 35,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "256",
+          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
+          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
+        }
+      ]
+    },
+    {
+      "source": 6,
+      "target": 52,
       "value": 2,
       "battles": [
         {
@@ -2851,8 +2775,8 @@
       ]
     },
     {
-      "source": 16,
-      "target": 48,
+      "source": 15,
+      "target": 47,
       "value": 1,
       "battles": [
         {
@@ -2863,20 +2787,8 @@
       ]
     },
     {
-      "source": 48,
-      "target": 51,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "256",
-          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
-          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
-        }
-      ]
-    },
-    {
-      "source": 37,
-      "target": 48,
+      "source": 47,
+      "target": 50,
       "value": 1,
       "battles": [
         {
@@ -2888,7 +2800,7 @@
     },
     {
       "source": 36,
-      "target": 48,
+      "target": 47,
       "value": 1,
       "battles": [
         {
@@ -2899,8 +2811,8 @@
       ]
     },
     {
-      "source": 48,
-      "target": 53,
+      "source": 35,
+      "target": 47,
       "value": 1,
       "battles": [
         {
@@ -2911,20 +2823,8 @@
       ]
     },
     {
-      "source": 3,
-      "target": 16,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "256",
-          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
-          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
-        }
-      ]
-    },
-    {
-      "source": 3,
-      "target": 51,
+      "source": 47,
+      "target": 52,
       "value": 1,
       "battles": [
         {
@@ -2936,7 +2836,19 @@
     },
     {
       "source": 3,
-      "target": 37,
+      "target": 15,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "256",
+          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
+          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
+        }
+      ]
+    },
+    {
+      "source": 3,
+      "target": 50,
       "value": 1,
       "battles": [
         {
@@ -2960,7 +2872,19 @@
     },
     {
       "source": 3,
-      "target": 53,
+      "target": 35,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "256",
+          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
+          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
+        }
+      ]
+    },
+    {
+      "source": 3,
+      "target": 52,
       "value": 1,
       "battles": [
         {
@@ -2972,19 +2896,7 @@
     },
     {
       "source": 5,
-      "target": 16,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "256",
-          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
-          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
-        }
-      ]
-    },
-    {
-      "source": 5,
-      "target": 37,
+      "target": 15,
       "value": 1,
       "battles": [
         {
@@ -3008,7 +2920,7 @@
     },
     {
       "source": 5,
-      "target": 53,
+      "target": 35,
       "value": 1,
       "battles": [
         {
@@ -3019,8 +2931,8 @@
       ]
     },
     {
-      "source": 16,
-      "target": 42,
+      "source": 5,
+      "target": 52,
       "value": 1,
       "battles": [
         {
@@ -3031,8 +2943,8 @@
       ]
     },
     {
-      "source": 42,
-      "target": 51,
+      "source": 15,
+      "target": 41,
       "value": 1,
       "battles": [
         {
@@ -3043,8 +2955,8 @@
       ]
     },
     {
-      "source": 37,
-      "target": 42,
+      "source": 41,
+      "target": 50,
       "value": 1,
       "battles": [
         {
@@ -3056,151 +2968,163 @@
     },
     {
       "source": 36,
+      "target": 41,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "256",
+          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
+          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
+        }
+      ]
+    },
+    {
+      "source": 35,
+      "target": 41,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "256",
+          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
+          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
+        }
+      ]
+    },
+    {
+      "source": 41,
+      "target": 52,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "256",
+          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
+          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
+        }
+      ]
+    },
+    {
+      "source": 15,
+      "target": 19,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "256",
+          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
+          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
+        }
+      ]
+    },
+    {
+      "source": 19,
+      "target": 50,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "256",
+          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
+          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
+        }
+      ]
+    },
+    {
+      "source": 19,
+      "target": 36,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "256",
+          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
+          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
+        }
+      ]
+    },
+    {
+      "source": 19,
+      "target": 35,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "256",
+          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
+          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
+        }
+      ]
+    },
+    {
+      "source": 19,
+      "target": 52,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "256",
+          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
+          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
+        }
+      ]
+    },
+    {
+      "source": 15,
+      "target": 28,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "256",
+          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
+          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
+        }
+      ]
+    },
+    {
+      "source": 28,
+      "target": 50,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "256",
+          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
+          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
+        }
+      ]
+    },
+    {
+      "source": 28,
+      "target": 36,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "256",
+          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
+          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
+        }
+      ]
+    },
+    {
+      "source": 28,
+      "target": 35,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "256",
+          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
+          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
+        }
+      ]
+    },
+    {
+      "source": 28,
+      "target": 52,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "256",
+          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
+          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
+        }
+      ]
+    },
+    {
+      "source": 29,
       "target": 42,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "256",
-          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
-          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
-        }
-      ]
-    },
-    {
-      "source": 42,
-      "target": 53,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "256",
-          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
-          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
-        }
-      ]
-    },
-    {
-      "source": 16,
-      "target": 20,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "256",
-          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
-          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
-        }
-      ]
-    },
-    {
-      "source": 20,
-      "target": 51,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "256",
-          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
-          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
-        }
-      ]
-    },
-    {
-      "source": 20,
-      "target": 37,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "256",
-          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
-          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
-        }
-      ]
-    },
-    {
-      "source": 20,
-      "target": 36,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "256",
-          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
-          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
-        }
-      ]
-    },
-    {
-      "source": 20,
-      "target": 53,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "256",
-          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
-          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
-        }
-      ]
-    },
-    {
-      "source": 16,
-      "target": 29,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "256",
-          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
-          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
-        }
-      ]
-    },
-    {
-      "source": 29,
-      "target": 51,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "256",
-          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
-          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
-        }
-      ]
-    },
-    {
-      "source": 29,
-      "target": 37,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "256",
-          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
-          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
-        }
-      ]
-    },
-    {
-      "source": 29,
-      "target": 36,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "256",
-          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
-          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
-        }
-      ]
-    },
-    {
-      "source": 29,
-      "target": 53,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "256",
-          "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
-          "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
-        }
-      ]
-    },
-    {
-      "source": 30,
-      "target": 43,
       "value": 5,
       "battles": [
         {
@@ -3231,8 +3155,8 @@
       ]
     },
     {
-      "source": 22,
-      "target": 43,
+      "source": 21,
+      "target": 42,
       "value": 1,
       "battles": [
         {
@@ -3244,7 +3168,7 @@
     },
     {
       "source": 0,
-      "target": 43,
+      "target": 42,
       "value": 1,
       "battles": [
         {
@@ -3255,8 +3179,8 @@
       ]
     },
     {
-      "source": 39,
-      "target": 42,
+      "source": 38,
+      "target": 41,
       "value": 2,
       "battles": [
         {
@@ -3273,7 +3197,7 @@
     },
     {
       "source": 5,
-      "target": 39,
+      "target": 38,
       "value": 3,
       "battles": [
         {
@@ -3294,8 +3218,8 @@
       ]
     },
     {
-      "source": 12,
-      "target": 53,
+      "source": 11,
+      "target": 52,
       "value": 1,
       "battles": [
         {
@@ -3307,7 +3231,7 @@
     },
     {
       "source": 4,
-      "target": 53,
+      "target": 52,
       "value": 1,
       "battles": [
         {
@@ -3319,7 +3243,7 @@
     },
     {
       "source": 2,
-      "target": 31,
+      "target": 30,
       "value": 1,
       "battles": [
         {
@@ -3330,8 +3254,8 @@
       ]
     },
     {
-      "source": 16,
-      "target": 30,
+      "source": 15,
+      "target": 29,
       "value": 1,
       "battles": [
         {
@@ -3342,8 +3266,8 @@
       ]
     },
     {
-      "source": 16,
-      "target": 40,
+      "source": 15,
+      "target": 39,
       "value": 1,
       "battles": [
         {
@@ -3354,8 +3278,8 @@
       ]
     },
     {
-      "source": 11,
-      "target": 30,
+      "source": 10,
+      "target": 29,
       "value": 3,
       "battles": [
         {
@@ -3376,8 +3300,8 @@
       ]
     },
     {
-      "source": 11,
-      "target": 40,
+      "source": 10,
+      "target": 39,
       "value": 2,
       "battles": [
         {
@@ -3394,7 +3318,7 @@
     },
     {
       "source": 5,
-      "target": 45,
+      "target": 44,
       "value": 1,
       "battles": [
         {
@@ -3405,8 +3329,8 @@
       ]
     },
     {
-      "source": 11,
-      "target": 54,
+      "source": 10,
+      "target": 53,
       "value": 1,
       "battles": [
         {
@@ -3418,7 +3342,7 @@
     },
     {
       "source": 5,
-      "target": 54,
+      "target": 53,
       "value": 2,
       "battles": [
         {
@@ -3434,8 +3358,8 @@
       ]
     },
     {
-      "source": 11,
-      "target": 39,
+      "source": 10,
+      "target": 38,
       "value": 1,
       "battles": [
         {
@@ -3446,8 +3370,8 @@
       ]
     },
     {
-      "source": 42,
-      "target": 54,
+      "source": 41,
+      "target": 53,
       "value": 1,
       "battles": [
         {
@@ -3459,7 +3383,7 @@
     },
     {
       "source": 6,
-      "target": 26,
+      "target": 25,
       "value": 7,
       "battles": [
         {
@@ -3500,8 +3424,8 @@
       ]
     },
     {
-      "source": 26,
-      "target": 48,
+      "source": 25,
+      "target": 47,
       "value": 1,
       "battles": [
         {
@@ -3513,7 +3437,7 @@
     },
     {
       "source": 1,
-      "target": 26,
+      "target": 25,
       "value": 2,
       "battles": [
         {
@@ -3530,7 +3454,7 @@
     },
     {
       "source": 6,
-      "target": 25,
+      "target": 24,
       "value": 2,
       "battles": [
         {
@@ -3546,8 +3470,8 @@
       ]
     },
     {
-      "source": 30,
-      "target": 52,
+      "source": 29,
+      "target": 51,
       "value": 2,
       "battles": [
         {
@@ -3563,8 +3487,8 @@
       ]
     },
     {
-      "source": 30,
-      "target": 51,
+      "source": 29,
+      "target": 50,
       "value": 3,
       "battles": [
         {
@@ -3586,7 +3510,7 @@
     },
     {
       "source": 2,
-      "target": 52,
+      "target": 51,
       "value": 1,
       "battles": [
         {
@@ -3598,7 +3522,7 @@
     },
     {
       "source": 2,
-      "target": 51,
+      "target": 50,
       "value": 2,
       "battles": [
         {
@@ -3614,32 +3538,32 @@
       ]
     },
     {
-      "source": 18,
-      "target": 52,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "325",
-          "outcome": "Battle is ongoing with multiple confrontations and no clear winner",
-          "description": "Naruto and B face off against the reanimated Jinchūriki, while Kakashi and Guy intervene to stop Tobi's attempt to warp Naruto away, resulting in a chaotic multi-front battle."
-        }
-      ]
-    },
-    {
-      "source": 10,
-      "target": 52,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "325",
-          "outcome": "Battle is ongoing with multiple confrontations and no clear winner",
-          "description": "Naruto and B face off against the reanimated Jinchūriki, while Kakashi and Guy intervene to stop Tobi's attempt to warp Naruto away, resulting in a chaotic multi-front battle."
-        }
-      ]
-    },
-    {
-      "source": 10,
+      "source": 17,
       "target": 51,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "325",
+          "outcome": "Battle is ongoing with multiple confrontations and no clear winner",
+          "description": "Naruto and B face off against the reanimated Jinchūriki, while Kakashi and Guy intervene to stop Tobi's attempt to warp Naruto away, resulting in a chaotic multi-front battle."
+        }
+      ]
+    },
+    {
+      "source": 9,
+      "target": 51,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "325",
+          "outcome": "Battle is ongoing with multiple confrontations and no clear winner",
+          "description": "Naruto and B face off against the reanimated Jinchūriki, while Kakashi and Guy intervene to stop Tobi's attempt to warp Naruto away, resulting in a chaotic multi-front battle."
+        }
+      ]
+    },
+    {
+      "source": 9,
+      "target": 50,
       "value": 2,
       "battles": [
         {
@@ -3655,8 +3579,8 @@
       ]
     },
     {
-      "source": 43,
-      "target": 53,
+      "source": 42,
+      "target": 52,
       "value": 1,
       "battles": [
         {
@@ -3667,8 +3591,8 @@
       ]
     },
     {
-      "source": 16,
-      "target": 44,
+      "source": 15,
+      "target": 43,
       "value": 3,
       "battles": [
         {
@@ -3689,8 +3613,8 @@
       ]
     },
     {
-      "source": 25,
-      "target": 30,
+      "source": 24,
+      "target": 29,
       "value": 8,
       "battles": [
         {
@@ -3736,8 +3660,8 @@
       ]
     },
     {
-      "source": 18,
-      "target": 25,
+      "source": 17,
+      "target": 24,
       "value": 3,
       "battles": [
         {
@@ -3758,8 +3682,8 @@
       ]
     },
     {
-      "source": 10,
-      "target": 25,
+      "source": 9,
+      "target": 24,
       "value": 3,
       "battles": [
         {
@@ -3781,7 +3705,7 @@
     },
     {
       "source": 2,
-      "target": 25,
+      "target": 24,
       "value": 2,
       "battles": [
         {
@@ -3797,8 +3721,8 @@
       ]
     },
     {
-      "source": 26,
-      "target": 31,
+      "source": 25,
+      "target": 30,
       "value": 3,
       "battles": [
         {
@@ -3819,8 +3743,8 @@
       ]
     },
     {
-      "source": 18,
-      "target": 34,
+      "source": 17,
+      "target": 33,
       "value": 3,
       "battles": [
         {
@@ -3841,8 +3765,8 @@
       ]
     },
     {
-      "source": 18,
-      "target": 28,
+      "source": 17,
+      "target": 27,
       "value": 1,
       "battles": [
         {
@@ -3853,8 +3777,8 @@
       ]
     },
     {
-      "source": 13,
-      "target": 28,
+      "source": 12,
+      "target": 27,
       "value": 1,
       "battles": [
         {
@@ -3865,8 +3789,8 @@
       ]
     },
     {
-      "source": 30,
-      "target": 33,
+      "source": 29,
+      "target": 32,
       "value": 7,
       "battles": [
         {
@@ -3907,8 +3831,8 @@
       ]
     },
     {
-      "source": 30,
-      "target": 49,
+      "source": 29,
+      "target": 48,
       "value": 3,
       "battles": [
         {
@@ -3929,8 +3853,8 @@
       ]
     },
     {
-      "source": 18,
-      "target": 33,
+      "source": 17,
+      "target": 32,
       "value": 5,
       "battles": [
         {
@@ -3961,8 +3885,8 @@
       ]
     },
     {
-      "source": 18,
-      "target": 49,
+      "source": 17,
+      "target": 48,
       "value": 1,
       "battles": [
         {
@@ -3974,7 +3898,7 @@
     },
     {
       "source": 2,
-      "target": 33,
+      "target": 32,
       "value": 1,
       "battles": [
         {
@@ -3986,7 +3910,7 @@
     },
     {
       "source": 2,
-      "target": 49,
+      "target": 48,
       "value": 1,
       "battles": [
         {
@@ -3997,8 +3921,8 @@
       ]
     },
     {
-      "source": 12,
-      "target": 25,
+      "source": 11,
+      "target": 24,
       "value": 1,
       "battles": [
         {
@@ -4009,8 +3933,8 @@
       ]
     },
     {
-      "source": 12,
-      "target": 33,
+      "source": 11,
+      "target": 32,
       "value": 1,
       "battles": [
         {
@@ -4021,8 +3945,8 @@
       ]
     },
     {
-      "source": 12,
-      "target": 49,
+      "source": 11,
+      "target": 48,
       "value": 1,
       "battles": [
         {
@@ -4034,7 +3958,7 @@
     },
     {
       "source": 1,
-      "target": 25,
+      "target": 24,
       "value": 3,
       "battles": [
         {
@@ -4056,7 +3980,7 @@
     },
     {
       "source": 1,
-      "target": 33,
+      "target": 32,
       "value": 3,
       "battles": [
         {
@@ -4078,7 +4002,7 @@
     },
     {
       "source": 1,
-      "target": 49,
+      "target": 48,
       "value": 4,
       "battles": [
         {
@@ -4104,8 +4028,8 @@
       ]
     },
     {
-      "source": 43,
-      "target": 49,
+      "source": 42,
+      "target": 48,
       "value": 1,
       "battles": [
         {
@@ -4116,8 +4040,8 @@
       ]
     },
     {
-      "source": 40,
-      "target": 49,
+      "source": 39,
+      "target": 48,
       "value": 1,
       "battles": [
         {
@@ -4128,8 +4052,8 @@
       ]
     },
     {
-      "source": 27,
-      "target": 30,
+      "source": 26,
+      "target": 29,
       "value": 2,
       "battles": [
         {
@@ -4145,8 +4069,8 @@
       ]
     },
     {
-      "source": 18,
-      "target": 27,
+      "source": 17,
+      "target": 26,
       "value": 2,
       "battles": [
         {
@@ -4162,8 +4086,8 @@
       ]
     },
     {
-      "source": 27,
-      "target": 54,
+      "source": 26,
+      "target": 53,
       "value": 2,
       "battles": [
         {
@@ -4179,8 +4103,8 @@
       ]
     },
     {
-      "source": 27,
-      "target": 45,
+      "source": 26,
+      "target": 44,
       "value": 1,
       "battles": [
         {
@@ -4192,7 +4116,7 @@
     },
     {
       "source": 4,
-      "target": 27,
+      "target": 26,
       "value": 2,
       "battles": [
         {
@@ -4208,8 +4132,8 @@
       ]
     },
     {
-      "source": 22,
-      "target": 27,
+      "source": 21,
+      "target": 26,
       "value": 2,
       "battles": [
         {
@@ -4225,8 +4149,8 @@
       ]
     },
     {
-      "source": 27,
-      "target": 32,
+      "source": 26,
+      "target": 31,
       "value": 2,
       "battles": [
         {
@@ -4242,8 +4166,8 @@
       ]
     },
     {
-      "source": 27,
-      "target": 46,
+      "source": 26,
+      "target": 45,
       "value": 1,
       "battles": [
         {
@@ -4255,7 +4179,7 @@
     },
     {
       "source": 6,
-      "target": 27,
+      "target": 26,
       "value": 1,
       "battles": [
         {
@@ -4267,7 +4191,7 @@
     },
     {
       "source": 6,
-      "target": 34,
+      "target": 33,
       "value": 2,
       "battles": [
         {
@@ -4284,7 +4208,7 @@
     },
     {
       "source": 4,
-      "target": 34,
+      "target": 33,
       "value": 1,
       "battles": [
         {
@@ -4295,20 +4219,8 @@
       ]
     },
     {
-      "source": 22,
-      "target": 34,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "377",
-          "outcome": "Mecha-Naruto self-destructs, destroying Mecha-Kurama and protecting Naruto.",
-          "description": "Multiple ninja attempt to defeat Mecha-Naruto, but it overwhelms them until it sacrifices itself to destroy the Mecha Nine-Tails, revealing Itachi's programming."
-        }
-      ]
-    },
-    {
-      "source": 0,
-      "target": 27,
+      "source": 21,
+      "target": 33,
       "value": 1,
       "battles": [
         {
@@ -4320,7 +4232,55 @@
     },
     {
       "source": 0,
-      "target": 34,
+      "target": 26,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "377",
+          "outcome": "Mecha-Naruto self-destructs, destroying Mecha-Kurama and protecting Naruto.",
+          "description": "Multiple ninja attempt to defeat Mecha-Naruto, but it overwhelms them until it sacrifices itself to destroy the Mecha Nine-Tails, revealing Itachi's programming."
+        }
+      ]
+    },
+    {
+      "source": 0,
+      "target": 33,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "377",
+          "outcome": "Mecha-Naruto self-destructs, destroying Mecha-Kurama and protecting Naruto.",
+          "description": "Multiple ninja attempt to defeat Mecha-Naruto, but it overwhelms them until it sacrifices itself to destroy the Mecha Nine-Tails, revealing Itachi's programming."
+        }
+      ]
+    },
+    {
+      "source": 31,
+      "target": 33,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "377",
+          "outcome": "Mecha-Naruto self-destructs, destroying Mecha-Kurama and protecting Naruto.",
+          "description": "Multiple ninja attempt to defeat Mecha-Naruto, but it overwhelms them until it sacrifices itself to destroy the Mecha Nine-Tails, revealing Itachi's programming."
+        }
+      ]
+    },
+    {
+      "source": 13,
+      "target": 26,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "377",
+          "outcome": "Mecha-Naruto self-destructs, destroying Mecha-Kurama and protecting Naruto.",
+          "description": "Multiple ninja attempt to defeat Mecha-Naruto, but it overwhelms them until it sacrifices itself to destroy the Mecha Nine-Tails, revealing Itachi's programming."
+        }
+      ]
+    },
+    {
+      "source": 13,
+      "target": 33,
       "value": 1,
       "battles": [
         {
@@ -4332,43 +4292,7 @@
     },
     {
       "source": 32,
-      "target": 34,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "377",
-          "outcome": "Mecha-Naruto self-destructs, destroying Mecha-Kurama and protecting Naruto.",
-          "description": "Multiple ninja attempt to defeat Mecha-Naruto, but it overwhelms them until it sacrifices itself to destroy the Mecha Nine-Tails, revealing Itachi's programming."
-        }
-      ]
-    },
-    {
-      "source": 14,
-      "target": 27,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "377",
-          "outcome": "Mecha-Naruto self-destructs, destroying Mecha-Kurama and protecting Naruto.",
-          "description": "Multiple ninja attempt to defeat Mecha-Naruto, but it overwhelms them until it sacrifices itself to destroy the Mecha Nine-Tails, revealing Itachi's programming."
-        }
-      ]
-    },
-    {
-      "source": 14,
-      "target": 34,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "377",
-          "outcome": "Mecha-Naruto self-destructs, destroying Mecha-Kurama and protecting Naruto.",
-          "description": "Multiple ninja attempt to defeat Mecha-Naruto, but it overwhelms them until it sacrifices itself to destroy the Mecha Nine-Tails, revealing Itachi's programming."
-        }
-      ]
-    },
-    {
-      "source": 33,
-      "target": 43,
+      "target": 42,
       "value": 4,
       "battles": [
         {
@@ -4394,8 +4318,8 @@
       ]
     },
     {
-      "source": 26,
-      "target": 30,
+      "source": 25,
+      "target": 29,
       "value": 1,
       "battles": [
         {
@@ -4406,8 +4330,8 @@
       ]
     },
     {
-      "source": 18,
-      "target": 26,
+      "source": 17,
+      "target": 25,
       "value": 2,
       "battles": [
         {
@@ -4423,8 +4347,8 @@
       ]
     },
     {
-      "source": 30,
-      "target": 53,
+      "source": 29,
+      "target": 52,
       "value": 1,
       "battles": [
         {
@@ -4435,8 +4359,8 @@
       ]
     },
     {
-      "source": 19,
-      "target": 26,
+      "source": 18,
+      "target": 25,
       "value": 2,
       "battles": [
         {
@@ -4452,8 +4376,8 @@
       ]
     },
     {
-      "source": 26,
-      "target": 28,
+      "source": 25,
+      "target": 27,
       "value": 3,
       "battles": [
         {
@@ -4474,8 +4398,8 @@
       ]
     },
     {
-      "source": 23,
-      "target": 54,
+      "source": 22,
+      "target": 53,
       "value": 1,
       "battles": [
         {
@@ -4487,7 +4411,7 @@
     },
     {
       "source": 6,
-      "target": 54,
+      "target": 53,
       "value": 1,
       "battles": [
         {
@@ -4498,8 +4422,8 @@
       ]
     },
     {
-      "source": 31,
-      "target": 54,
+      "source": 30,
+      "target": 53,
       "value": 1,
       "battles": [
         {
@@ -4510,8 +4434,8 @@
       ]
     },
     {
-      "source": 34,
-      "target": 52,
+      "source": 33,
+      "target": 51,
       "value": 1,
       "battles": [
         {
@@ -4523,7 +4447,7 @@
     },
     {
       "source": 6,
-      "target": 15,
+      "target": 14,
       "value": 1,
       "battles": [
         {
@@ -4534,8 +4458,8 @@
       ]
     },
     {
-      "source": 15,
-      "target": 52,
+      "source": 14,
+      "target": 51,
       "value": 1,
       "battles": [
         {
@@ -4547,7 +4471,7 @@
     },
     {
       "source": 6,
-      "target": 43,
+      "target": 42,
       "value": 1,
       "battles": [
         {
@@ -4558,8 +4482,8 @@
       ]
     },
     {
-      "source": 43,
-      "target": 52,
+      "source": 42,
+      "target": 51,
       "value": 1,
       "battles": [
         {
@@ -4570,8 +4494,8 @@
       ]
     },
     {
-      "source": 11,
-      "target": 43,
+      "source": 10,
+      "target": 42,
       "value": 1,
       "battles": [
         {
@@ -4582,8 +4506,8 @@
       ]
     },
     {
-      "source": 42,
-      "target": 43,
+      "source": 41,
+      "target": 42,
       "value": 3,
       "battles": [
         {
@@ -4604,8 +4528,8 @@
       ]
     },
     {
-      "source": 42,
-      "target": 45,
+      "source": 41,
+      "target": 44,
       "value": 1,
       "battles": [
         {
@@ -4616,20 +4540,32 @@
       ]
     },
     {
-      "source": 32,
+      "source": 31,
+      "target": 41,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "439",
+          "outcome": "Naruto and his team successfully force Sasori to retreat using Rasengan and shadow clones.",
+          "description": "Naruto utilizes the Rasengan and multiple shadow clones to overwhelm and destroy Sasori's puppets, prompting Sasori to withdraw from the battle."
+        }
+      ]
+    },
+    {
+      "source": 11,
       "target": 42,
       "value": 1,
       "battles": [
         {
-          "episode": "439",
-          "outcome": "Naruto and his team successfully force Sasori to retreat using Rasengan and shadow clones.",
-          "description": "Naruto utilizes the Rasengan and multiple shadow clones to overwhelm and destroy Sasori's puppets, prompting Sasori to withdraw from the battle."
+          "episode": "443",
+          "outcome": "Naruto and his team de-escalate the situation, leading to Sasuke's dismissal from the police force and his departure from the village.",
+          "description": "A tense standoff occurs between Naruto's group and Sasuke's Uchiha unit over their aggressive policing methods, culminating in a political fallout."
         }
       ]
     },
     {
-      "source": 12,
-      "target": 43,
+      "source": 42,
+      "target": 44,
       "value": 1,
       "battles": [
         {
@@ -4640,20 +4576,8 @@
       ]
     },
     {
-      "source": 43,
-      "target": 45,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "443",
-          "outcome": "Naruto and his team de-escalate the situation, leading to Sasuke's dismissal from the police force and his departure from the village.",
-          "description": "A tense standoff occurs between Naruto's group and Sasuke's Uchiha unit over their aggressive policing methods, culminating in a political fallout."
-        }
-      ]
-    },
-    {
-      "source": 25,
-      "target": 43,
+      "source": 24,
+      "target": 42,
       "value": 3,
       "battles": [
         {
@@ -4674,8 +4598,8 @@
       ]
     },
     {
-      "source": 17,
-      "target": 30,
+      "source": 16,
+      "target": 29,
       "value": 4,
       "battles": [
         {
@@ -4701,8 +4625,8 @@
       ]
     },
     {
-      "source": 17,
-      "target": 33,
+      "source": 16,
+      "target": 32,
       "value": 2,
       "battles": [
         {
@@ -4718,8 +4642,8 @@
       ]
     },
     {
-      "source": 17,
-      "target": 40,
+      "source": 16,
+      "target": 39,
       "value": 4,
       "battles": [
         {
@@ -4745,8 +4669,30 @@
       ]
     },
     {
-      "source": 17,
-      "target": 43,
+      "source": 16,
+      "target": 42,
+      "value": 3,
+      "battles": [
+        {
+          "episode": "471",
+          "outcome": "Obito is severely injured protecting Kakashi, while the battle shifts to a high-gravity dimension hindering Kaguya's attacks.",
+          "description": "Kaguya attacks Team 7 with Truth-Seeking Balls and bone attacks in a high-gravity dimension, resulting in Obito sacrificing himself to save Kakashi using Kamui."
+        },
+        {
+          "episode": "473",
+          "outcome": "Team 7 temporarily overwhelms Kaguya, initiating the sealing process.",
+          "description": "Team 7 utilizes a combination of Susanoo, Rasenshuriken, Kamui techniques, and Sakura's strength to attack Kaguya and begin the process of sealing her."
+        },
+        {
+          "episode": "474",
+          "outcome": "Kaguya was sealed back into the Demonic Statue of the Outer Path, effectively ending the battle.",
+          "description": "The alliance successfully applied the Six Paths Chibaku Tensei to Kaguya, sealing her and separating the tailed beasts from her influence."
+        }
+      ]
+    },
+    {
+      "source": 16,
+      "target": 17,
       "value": 3,
       "battles": [
         {
@@ -4768,29 +4714,7 @@
     },
     {
       "source": 17,
-      "target": 18,
-      "value": 3,
-      "battles": [
-        {
-          "episode": "471",
-          "outcome": "Obito is severely injured protecting Kakashi, while the battle shifts to a high-gravity dimension hindering Kaguya's attacks.",
-          "description": "Kaguya attacks Team 7 with Truth-Seeking Balls and bone attacks in a high-gravity dimension, resulting in Obito sacrificing himself to save Kakashi using Kamui."
-        },
-        {
-          "episode": "473",
-          "outcome": "Team 7 temporarily overwhelms Kaguya, initiating the sealing process.",
-          "description": "Team 7 utilizes a combination of Susanoo, Rasenshuriken, Kamui techniques, and Sakura's strength to attack Kaguya and begin the process of sealing her."
-        },
-        {
-          "episode": "474",
-          "outcome": "Kaguya was sealed back into the Demonic Statue of the Outer Path, effectively ending the battle.",
-          "description": "The alliance successfully applied the Six Paths Chibaku Tensei to Kaguya, sealing her and separating the tailed beasts from her influence."
-        }
-      ]
-    },
-    {
-      "source": 18,
-      "target": 30,
+      "target": 29,
       "value": 2,
       "battles": [
         {
@@ -4806,8 +4730,8 @@
       ]
     },
     {
-      "source": 18,
-      "target": 40,
+      "source": 17,
+      "target": 39,
       "value": 1,
       "battles": [
         {
@@ -4818,8 +4742,8 @@
       ]
     },
     {
-      "source": 15,
-      "target": 31,
+      "source": 14,
+      "target": 30,
       "value": 1,
       "battles": [
         {
@@ -4830,20 +4754,20 @@
       ]
     },
     {
-      "source": 15,
-      "target": 41,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "53",
-          "outcome": "Sasuke and his allies retreat, leaving Team Kakashi unharmed",
-          "description": "Team Kakashi confronts Sasuke, who is allied with Orochimaru and Kabuto, but Orochimaru intervenes to prevent Sasuke from using a dangerous technique, leading to their retreat."
-        }
-      ]
-    },
-    {
-      "source": 20,
+      "source": 14,
       "target": 40,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "53",
+          "outcome": "Sasuke and his allies retreat, leaving Team Kakashi unharmed",
+          "description": "Team Kakashi confronts Sasuke, who is allied with Orochimaru and Kabuto, but Orochimaru intervenes to prevent Sasuke from using a dangerous technique, leading to their retreat."
+        }
+      ]
+    },
+    {
+      "source": 19,
+      "target": 39,
       "value": 1,
       "battles": [
         {
@@ -4854,8 +4778,8 @@
       ]
     },
     {
-      "source": 30,
-      "target": 38,
+      "source": 29,
+      "target": 37,
       "value": 2,
       "battles": [
         {
@@ -4871,8 +4795,8 @@
       ]
     },
     {
-      "source": 52,
-      "target": 54,
+      "source": 51,
+      "target": 53,
       "value": 1,
       "battles": [
         {
@@ -4883,8 +4807,8 @@
       ]
     },
     {
-      "source": 39,
-      "target": 52,
+      "source": 38,
+      "target": 51,
       "value": 1,
       "battles": [
         {
@@ -4895,8 +4819,8 @@
       ]
     },
     {
-      "source": 18,
-      "target": 35,
+      "source": 17,
+      "target": 34,
       "value": 2,
       "battles": [
         {
@@ -4912,8 +4836,8 @@
       ]
     },
     {
-      "source": 35,
-      "target": 40,
+      "source": 34,
+      "target": 39,
       "value": 1,
       "battles": [
         {
@@ -4924,8 +4848,8 @@
       ]
     },
     {
-      "source": 29,
-      "target": 31,
+      "source": 28,
+      "target": 30,
       "value": 2,
       "battles": [
         {
@@ -4941,8 +4865,8 @@
       ]
     },
     {
-      "source": 25,
-      "target": 44,
+      "source": 24,
+      "target": 43,
       "value": 1,
       "battles": [
         {
@@ -4953,8 +4877,8 @@
       ]
     },
     {
-      "source": 15,
-      "target": 51,
+      "source": 14,
+      "target": 50,
       "value": 1,
       "battles": [
         {
@@ -4965,8 +4889,8 @@
       ]
     },
     {
-      "source": 10,
-      "target": 18,
+      "source": 9,
+      "target": 17,
       "value": 1,
       "battles": [
         {
@@ -4977,20 +4901,20 @@
       ]
     },
     {
-      "source": 10,
-      "target": 54,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "241",
-          "outcome": "Kakashi proves his identity, ending the conflict",
-          "description": "Guy, suspecting an imposter, attacks Kakashi and his allies until Kakashi reveals a childhood memory confirming his true identity."
-        }
-      ]
-    },
-    {
-      "source": 22,
+      "source": 9,
       "target": 53,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "241",
+          "outcome": "Kakashi proves his identity, ending the conflict",
+          "description": "Guy, suspecting an imposter, attacks Kakashi and his allies until Kakashi reveals a childhood memory confirming his true identity."
+        }
+      ]
+    },
+    {
+      "source": 21,
+      "target": 52,
       "value": 1,
       "battles": [
         {
@@ -5002,7 +4926,7 @@
     },
     {
       "source": 0,
-      "target": 53,
+      "target": 52,
       "value": 1,
       "battles": [
         {
@@ -5013,8 +4937,8 @@
       ]
     },
     {
-      "source": 29,
-      "target": 30,
+      "source": 28,
+      "target": 29,
       "value": 2,
       "battles": [
         {
@@ -5030,8 +4954,8 @@
       ]
     },
     {
-      "source": 13,
-      "target": 23,
+      "source": 12,
+      "target": 22,
       "value": 1,
       "battles": [
         {
@@ -5042,8 +4966,8 @@
       ]
     },
     {
-      "source": 23,
-      "target": 29,
+      "source": 22,
+      "target": 28,
       "value": 1,
       "battles": [
         {
@@ -5055,7 +4979,7 @@
     },
     {
       "source": 2,
-      "target": 29,
+      "target": 28,
       "value": 1,
       "battles": [
         {
@@ -5066,20 +4990,8 @@
       ]
     },
     {
-      "source": 31,
-      "target": 51,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "311",
-          "outcome": "Naruto is subjected to a limited version of the Infinite Tsukuyomi, placing him in a genjutsu.",
-          "description": "Tobi and the Akatsuki initiate a trial run of the Infinite Tsukuyomi on Naruto, utilizing Zetsu clones to trap him in a genjutsu."
-        }
-      ]
-    },
-    {
-      "source": 23,
-      "target": 25,
+      "source": 22,
+      "target": 24,
       "value": 1,
       "battles": [
         {
@@ -5090,8 +5002,8 @@
       ]
     },
     {
-      "source": 23,
-      "target": 33,
+      "source": 22,
+      "target": 32,
       "value": 1,
       "battles": [
         {
@@ -5102,8 +5014,8 @@
       ]
     },
     {
-      "source": 10,
-      "target": 33,
+      "source": 9,
+      "target": 32,
       "value": 1,
       "battles": [
         {
@@ -5114,8 +5026,8 @@
       ]
     },
     {
-      "source": 34,
-      "target": 42,
+      "source": 33,
+      "target": 41,
       "value": 1,
       "battles": [
         {
@@ -5127,7 +5039,7 @@
     },
     {
       "source": 5,
-      "target": 34,
+      "target": 33,
       "value": 1,
       "battles": [
         {
@@ -5138,32 +5050,32 @@
       ]
     },
     {
-      "source": 12,
+      "source": 11,
+      "target": 38,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "493",
+          "outcome": "Shikamaru and his team defeat Gengo, Sai, Rō, and Hinoko",
+          "description": "Shikamaru pins down Gengo while Hinoko disables his jutsu with chakra needles, ending the battle and leading to his capture by Konoha Anbu."
+        }
+      ]
+    },
+    {
+      "source": 38,
+      "target": 47,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "493",
+          "outcome": "Shikamaru and his team defeat Gengo, Sai, Rō, and Hinoko",
+          "description": "Shikamaru pins down Gengo while Hinoko disables his jutsu with chakra needles, ending the battle and leading to his capture by Konoha Anbu."
+        }
+      ]
+    },
+    {
+      "source": 11,
       "target": 39,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "493",
-          "outcome": "Shikamaru and his team defeat Gengo, Sai, Rō, and Hinoko",
-          "description": "Shikamaru pins down Gengo while Hinoko disables his jutsu with chakra needles, ending the battle and leading to his capture by Konoha Anbu."
-        }
-      ]
-    },
-    {
-      "source": 39,
-      "target": 48,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "493",
-          "outcome": "Shikamaru and his team defeat Gengo, Sai, Rō, and Hinoko",
-          "description": "Shikamaru pins down Gengo while Hinoko disables his jutsu with chakra needles, ending the battle and leading to his capture by Konoha Anbu."
-        }
-      ]
-    },
-    {
-      "source": 12,
-      "target": 40,
       "value": 1,
       "battles": [
         {
