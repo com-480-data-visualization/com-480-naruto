@@ -113,6 +113,10 @@ d3.json("./src/cooccurrence/naruto.json").then(function (miserables) {
           battles.sort((a, b) => a.episode - b.episode); // Sort by episode number
           const battleCount = battles.length;
 
+          const svgRect = svg_cooccurence.node().getBoundingClientRect();
+          const cellX = svgRect.left + x_c(d.x) + x_c.bandwidth() / 2 + margin_c.left;
+          const cellY = svgRect.top + x_c(d.y) + x_c.bandwidth() / 2 + margin_c.top + window.scrollY;
+
           if (battleCount > 0) {
             const battleList = battles.map(battle => 
               `<div style="margin-bottom: 5px;">
