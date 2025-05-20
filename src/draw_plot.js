@@ -25,6 +25,31 @@ const x = d3.scalePoint().range([0, width]).padding(1).domain(dimensions);
 
 g.append("g").attr("class", "foreground-layer");
 
+// tooltip position
+function positionTooltip(event, tooltip) {
+  const tooltipNode = tooltip.node();
+  const tooltipWidth = tooltipNode.offsetWidth;
+  const tooltipHeight = tooltipNode.offsetHeight;
+  const xOffset = -20; // Shift slightly left
+  const yOffset = 120;  // Shift slightly downward
+
+  let left = event.clientX + xOffset;
+  let top = event.clientY + yOffset;
+
+  // Prevent overflow on the right
+  if (left + tooltipWidth > window.innerWidth) {
+    left = window.innerWidth - tooltipWidth - 10;
+  }
+
+  // Prevent overflow at the bottom
+  if (top + tooltipHeight > window.innerHeight) {
+    top = window.innerHeight - tooltipHeight - 10;
+  }
+
+  tooltip.style("left", `${left}px`).style("top", `${top}px`);
+}
+
+
 // Handle window resize
 window.addEventListener('resize', () => {
   const newWidth = parseInt(svg.style("width")) - margin.left - margin.right;
@@ -143,7 +168,7 @@ function updateChart(data = null, trackedNames = null, selectedEncyclopedias = n
     .attr("class", "line foreground-line")
     .attr("stroke", d => hashColor(`${d.Name}__${d.Encyclopedia}`))
     .attr("d", d => path(d))
-    .style("stroke-width", 1.5)
+    .style("stroke-width", 3)
     .style("stroke-opacity", 0.7)
     .on("mouseover", function (event, d) {
       // Dim all lines
@@ -155,22 +180,24 @@ function updateChart(data = null, trackedNames = null, selectedEncyclopedias = n
       d3.select(this)
         .raise()
         .transition().duration(200)
-        .style("stroke-width", 3)
+        .style("stroke-width", 5)
         .style("stroke-opacity", 1);
     
-      d3.select("#tooltip")
+      const tooltip = d3.select("#tooltip")
+        .style("display", "block")
         .style("opacity", 1)
-        .html(`<strong>${d.Name}</strong><br>${d.Encyclopedia}`)
-        .style("left", `${event.pageX + 10}px`)
-        .style("top", `${event.pageY}px`);
-    })
+        .html(`<strong>${d.Name}</strong><br>${d.Encyclopedia}`);
+    
+      positionTooltip(event, tooltip);
+        
+    })    
     .on("mouseout", function () {
       d3.selectAll(".foreground-line")
         .transition().duration(300)
         .style("stroke-opacity", 0.7)
-        .style("stroke-width", 1.5);
+        .style("stroke-width", 3);
     
-      d3.select("#tooltip").style("opacity", 0);
+      d3.select("#tooltip").style("opacity", 0).style("display", "none");
     });
 
   // Update existing lines

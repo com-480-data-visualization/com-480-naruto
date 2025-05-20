@@ -1,7 +1,7 @@
 .page-container {
   display: flex;
   min-height: 100vh;
-  background-color: #f3f4f6;
+  background-color: #ffffff;
   margin: 0;
   padding: 0;
 }
@@ -157,7 +157,6 @@ body {
 .content-section {
   background-color: #ffffff;
   border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   margin-bottom: 20px;
   padding: 20px;
 }
@@ -210,13 +209,48 @@ body {
 
 /* Cooccurrence Matrix Styles */
 .cooccurrence-matrix-container {
-  overflow: hidden;
+  overflow: visible;
+  margin-left: 150px;
 }
 
 #cooccurrence-matrix {
   width: 100%;
-  height: 600px;
+  height: 1000px;
+  width: 1000px;
 }
+
+text.active {
+  fill: red;
+}
+
+.matrix-tooltip {
+  position: absolute;
+  text-align: left;
+  width: 300px;
+  max-height: 400px;
+  padding: 10px;
+  font: 12px sans-serif;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  pointer-events: auto; /* Allow scrolling and clicks */
+  overflow-y: auto;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.3);
+}
+
+#tooltip {
+  position: absolute;
+  pointer-events: none;
+  opacity: 0;                /* ensures it's hidden */
+  display: none;             /* prevents layout space */
+  background-color: #fff;
+  border-radius: 4px;
+  padding: 10px;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.3);
+  font-size: 12px;
+  z-index: 999;              /* make sure it's above other elements */
+}
+
 
 /* Utility Classes */
 .naruto-orange {
@@ -344,4 +378,5 @@ body {
   .character-list {
     max-height: 200px;
   }
+
 }

@@ -54,12 +54,10 @@
         <div id="char-plot-container" class="char-plot-container">
           <svg id="char-plot" width="100%" height="600"></svg>
           <!-- Tooltip -->
-          <div id="tooltip"
-            style="position:absolute; pointer-events:none; background:#eee; padding:5px; border:1px solid #ccc; border-radius:4px; opacity:0;">
-          </div>
+          <!-- <div id="tooltip"></div> -->
         </div>
       </div>
-
+      <div id="tooltip"></div>
       <!-- Map/image section -->
       <div class="content-section">
         <div id="image-container" class="image-container">
@@ -67,11 +65,33 @@
         </div>
       </div>
 
+      <div class="content-section description-section">
+        <h2 class="naruto-orange">Battle Matrix</h2>
+        <div class="controls-description">
+          <p>See the characters with most fights and explore the battles between any two. Click on the cell to
+            see the battle details.
+        </div>
+      </div>
+
       <!-- Co-occurrence Matrix -->
       <div class="content-section">
         <div id="cooccurrence-matrix-container" class="cooccurrence-matrix-container">
+          <style>
+            .background {
+              fill: #eee;
+            }
+    
+            line {
+              stroke: #fff;
+            }
+    
+            text.active {
+              fill: red;
+            }
+          </style>
           <svg id="cooccurrence-matrix"></svg>
         </div>
+    
       </div>
     </div>
   </div>
