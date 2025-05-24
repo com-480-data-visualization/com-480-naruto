@@ -417,6 +417,9 @@ text.active {
   .page-container {
     flex-direction: column;
   }
+  .full-page {
+    flex-direction: row;
+  }
 
   .sidebar {
     width: 100%;
@@ -429,4 +432,59 @@ text.active {
     max-height: 200px;
   }
 
+}
+
+.banner {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  width: 100%;
+  padding: 5px 5px;
+  box-sizing: border-box;
+  background-color: #f57c00;
+}
+
+/* Three sections */
+.banner-left,
+.banner-right {
+  display: flex;
+  align-items: flex-end;
+  gap: 30px;
+}
+
+.banner-left {
+  padding-left: 40px;  /* space from the left screen edge */
+}
+
+.banner-right {
+  padding-right: 20px; /* space from the right screen edge */
+}
+
+.banner-center {
+  position: relative;             /* required for top/left to work */
+  margin-left: 0px;           /* horizontal shift */
+  top: -40px;                    /* vertical shift (up) */
+  height: 160px;
+}
+
+.banner-center img {
+  height: 100%;
+  object-fit: contain;
+  background-color: transparent;
+}
+
+.kakashi { height: 245px; }
+.naruto  { height: 250px; }
+.sakura  { height: 240px; }
+.sasuke  { height: 250px; }
+.center  { height: 160px; }
+.jiraya { height: 250px; }
+.tsunade { height: 245px; }
+
+.banner-img.sasuke {
+  margin-right: -20px; /* pull her closer to Sasuke */
+}
+
+.banner-img.sakura {
+  margin-left: -10px;  /* (optional) reduce the space from his side too */
 }
