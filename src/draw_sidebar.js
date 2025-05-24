@@ -5,15 +5,73 @@
 // 4. Managing tracking state for the parallel coordinates plot
 
 // Global state
+const DEFAULT_TRACKED_IDS = [1, 2, 3];
 const selectedEncyclopedias = new Set(["Rin no Sho", "Tō no Sho", "Shō no Sho"]);
 const trackedCharacters = new Set();
 let characters = []; // Will be populated from characters.json
 
+// // On load, restore from localStorage or use defaults
+// function loadTrackedCharacters() {
+//   const stored = localStorage.getItem("trackedCharacters");
+//   console.log("store", stored)
+//   // if (stored) {
+//   const parsed = stored ? JSON.parse(stored) : null;
+
+//   if (parsed && parsed.length > 0) {
+//     JSON.parse(stored).forEach(id => trackedCharacters.add(id));
+//   } else {
+//       console.log("not stored", stored)
+//     DEFAULT_TRACKED_IDS.forEach(id => trackedCharacters.add(id));
+//   }
+// }
+
+// On load, restore from localStorage or use defaults
+function loadTrackedCharacters() {
+  // const stored = localStorage.getItem("trackedCharacters");
+  // console.log("store", stored)
+  // // if (stored) {
+  // const parsed = stored ? JSON.parse(stored) : null;
+
+  // if (parsed && parsed.length > 0) {
+  //   JSON.parse(stored).forEach(id => trackedCharacters.add(id));
+  // } else {
+      // console.log("not stored", stored);
+    DEFAULT_TRACKED_IDS.forEach(id => trackedCharacters.add(id));
+  // }
+}
+
+
 // Initialize sidebar
 async function initSidebar() {
+//   setupEncyclopediaFilters();
+//   await fetchCharacters();
+//   setupCharacterSearch();
+// }
+loadTrackedCharacters(); // <-- Add this line
   setupEncyclopediaFilters();
   await fetchCharacters();
+
   setupCharacterSearch();
+  renderCharacterList();   // <-- To reflect the tracked state in UI
+  updateCharPlot();        // <-- To update the plot on first load
+
+
+
+document.getElementById("track-all-btn").onclick = () => {
+  trackedCharacters.clear();
+  characters.forEach(char => trackedCharacters.add(char.id));
+  localStorage.setItem("trackedCharacters", JSON.stringify(Array.from(trackedCharacters)));
+  renderCharacterList();
+  updateCharPlot();
+};
+
+document.getElementById("untrack-all-btn").onclick = () => {
+  trackedCharacters.clear();
+  localStorage.setItem("trackedCharacters", JSON.stringify([]));
+  renderCharacterList();
+  updateCharPlot();
+};
+
 }
 
 // Setup encyclopedia filters
@@ -135,7 +193,7 @@ function setupCharacterSearch() {
 }
 
 // Update the parallel coordinates plot
-function updateCharPlot() {
+function updateCharPlot(oldX=null) {
   // This function will be defined in draw_plot.js
   // We'll call it here to update the plot when filters change
   if (typeof updateChart === 'function') {
@@ -146,9 +204,10 @@ function updateCharPlot() {
       .forEach(char => trackedNames.add(char.name));
     
     // Call the updateChart function from draw_plot.js
-    updateChart(undefined, trackedNames, selectedEncyclopedias);
+    updateChart(undefined, trackedNames, selectedEncyclopedias, oldX);
   }
 }
+window.updateCharPlot = updateCharPlot;
 
 // Initialize the sidebar when the DOM is ready
 document.addEventListener("DOMContentLoaded", initSidebar);
