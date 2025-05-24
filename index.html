@@ -24,6 +24,10 @@
         <div class="search-container">
           <input type="text" id="character-search" placeholder="Search characters..." class="search-input" />
         </div>
+        <div class="sidebar-buttons">
+          <button id="track-all-btn" class="naruto-orange">Track All</button>
+          <button id="untrack-all-btn" class="naruto-orange">Untrack All</button>
+        </div>
         <div id="character-list" class="character-list"></div>
       </div>
 
@@ -80,18 +84,18 @@
             .background {
               fill: #eee;
             }
-    
+
             line {
               stroke: #fff;
             }
-    
+
             text.active {
               fill: red;
             }
           </style>
           <svg id="cooccurrence-matrix"></svg>
         </div>
-    
+
       </div>
     </div>
   </div>

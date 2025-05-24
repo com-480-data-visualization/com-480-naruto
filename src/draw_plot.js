@@ -1,5 +1,6 @@
 // Modified draw_plot.js to work with the new sidebar interface
 
+
 const dimensions = [
   "Ninjutsu", "Taijutsu", "Genjutsu", "Intelligence", "Strength",
   "Speed", "Chakra", "Hand Seals", "Total Average"
@@ -31,10 +32,10 @@ function positionTooltip(event, tooltip) {
   const tooltipWidth = tooltipNode.offsetWidth;
   const tooltipHeight = tooltipNode.offsetHeight;
   const xOffset = -20; // Shift slightly left
-  const yOffset = 120;  // Shift slightly downward
+  const yOffset = 40;  // Shift slightly downward
 
-  let left = event.clientX + xOffset;
-  let top = event.clientY + yOffset;
+  let left = event.pageX + xOffset;
+  let top = event.pageY + yOffset;
 
   // Prevent overflow on the right
   if (left + tooltipWidth > window.innerWidth) {
@@ -49,14 +50,22 @@ function positionTooltip(event, tooltip) {
   tooltip.style("left", `${left}px`).style("top", `${top}px`);
 }
 
+function safelyRedrawChartOnResize() {
 
-// Handle window resize
-window.addEventListener('resize', () => {
+  // Hide tooltip if visible
+  d3.select("#tooltip").style("opacity", 0).style("display", "none");
+  // Remove all foreground lines to clear event listeners
+  g.select(".foreground-layer").selectAll(".foreground-line").remove();
+
   const newWidth = parseInt(svg.style("width")) - margin.left - margin.right;
   x.range([0, newWidth]);
   drawAxes();
-  updateChart();
-});
+  if (typeof window.updateCharPlot === 'function') {
+    window.updateCharPlot();
+  }
+}
+
+window.addEventListener("resize", safelyRedrawChartOnResize);
 
 // Main function to load data and initialize the plot
 d3.csv("table_data_en.csv").then(data => {
@@ -78,10 +87,10 @@ d3.csv("table_data_en.csv").then(data => {
     const max = dim === "Total Average" ? 5 : d3.max(data, d => d[dim]);
     y[dim] = d3.scaleLinear().domain([0, Math.ceil(max)]).range([height, 0]);
   });
-
+  
   // Draw the axes and update the chart
   drawAxes();
-  updateChart(data);
+  updateChart();
 });
 
 // Draw axes for the parallel coordinates plot
@@ -114,18 +123,39 @@ function drawAxes() {
       .attr("fill", "#666")
       .attr("opacity", 0.8);
   });
-  
-  dimensionGroup.selectAll(".tick text")
-    .style("font-size", "14px");
 
-  dimensionGroup.selectAll(".axis-label")
-    .style("font-size", "15px")
-    .style("font-weight", "bold");
-  
-  dimensionGroup
-    .filter(d => d === "Total Average")
-    .select("text.axis-label")
-    .attr("x", -10);
+// --- ROTATE LABELS IF NEEDED ---
+const axisPositions = dimensions.map(dim => x(dim));
+let minDist = Infinity;
+for (let i = 1; i < axisPositions.length; i++) {
+  minDist = Math.min(minDist, axisPositions[i] - axisPositions[i - 1]);
+}
+const rotate = minDist < 100;
+
+dimensionGroup.selectAll(".axis-label")
+  .attr("text-anchor", rotate ? "end" : "middle")
+  .attr("transform", function() {
+    return rotate ? "rotate(-90)" : null;
+  })
+  .attr("x", function() {
+    return rotate ? -10 : 0;
+  })
+  .attr("y", function() {
+    return rotate ? -5 : -9;
+  })
+  .style("font-size", rotate ? "12px" : "15px")
+  .style("font-weight", "bold");
+
+// Remove the last tick label if rotated
+if (rotate) {
+  dimensionGroup.each(function() {
+    const ticks = d3.select(this).selectAll(".tick text");
+    if (!ticks.empty()) {
+      ticks.filter((d, i, nodes) => i === nodes.length - 1)
+        .style("display", "none");
+    }
+  });
+}
 }
 
 // Update the chart based on tracking and encyclopedia filters
@@ -134,8 +164,6 @@ function updateChart(data = null, trackedNames = null, selectedEncyclopedias = n
   const currentData = data || plotData;
   if (!currentData || currentData.length === 0) return;
   
-  // If trackedNames is not provided, use what's in the trackedCharacters Set
-  // from draw_sidebar.js if available
   const useTrackedNames = trackedNames || 
     (window.trackedCharacters ? 
       new Set(Array.from(window.trackedCharacters).map(id => {
@@ -143,7 +171,7 @@ function updateChart(data = null, trackedNames = null, selectedEncyclopedias = n
         return char ? char.name : null;
       }).filter(Boolean)) : 
       new Set());
-  
+
   // If selectedEncyclopedias is not provided, use what's in the sidebar
   const useSelectedEncyclopedias = selectedEncyclopedias || 
     (window.selectedEncyclopedias || new Set(encyclopediaValues));
@@ -157,6 +185,7 @@ function updateChart(data = null, trackedNames = null, selectedEncyclopedias = n
            !seen.has(key) && seen.add(key);
   });
 
+  const strokeWidth = 5;
   // Update the lines on the plot
   const lines = g.select(".foreground-layer")
     .selectAll(".foreground-line")
@@ -168,7 +197,7 @@ function updateChart(data = null, trackedNames = null, selectedEncyclopedias = n
     .attr("class", "line foreground-line")
     .attr("stroke", d => hashColor(`${d.Name}__${d.Encyclopedia}`))
     .attr("d", d => path(d))
-    .style("stroke-width", 3)
+    .style("stroke-width", strokeWidth)
     .style("stroke-opacity", 0.7)
     .on("mouseover", function (event, d) {
       // Dim all lines
@@ -180,7 +209,7 @@ function updateChart(data = null, trackedNames = null, selectedEncyclopedias = n
       d3.select(this)
         .raise()
         .transition().duration(200)
-        .style("stroke-width", 5)
+        .style("stroke-width", strokeWidth)
         .style("stroke-opacity", 1);
     
       const tooltip = d3.select("#tooltip")
@@ -189,13 +218,12 @@ function updateChart(data = null, trackedNames = null, selectedEncyclopedias = n
         .html(`<strong>${d.Name}</strong><br>${d.Encyclopedia}`);
     
       positionTooltip(event, tooltip);
-        
     })    
     .on("mouseout", function () {
       d3.selectAll(".foreground-line")
         .transition().duration(300)
         .style("stroke-opacity", 0.7)
-        .style("stroke-width", 3);
+        .style("stroke-width", strokeWidth);
     
       d3.select("#tooltip").style("opacity", 0).style("display", "none");
     });
