@@ -31,10 +31,10 @@ function positionTooltip(event, tooltip) {
   const tooltipWidth = tooltipNode.offsetWidth;
   const tooltipHeight = tooltipNode.offsetHeight;
   const xOffset = -20; // Shift slightly left
-  const yOffset = 120;  // Shift slightly downward
+  const yOffset = 40;  // Shift slightly downward
 
-  let left = event.clientX + xOffset;
-  let top = event.clientY + yOffset;
+  let left = event.pageX + xOffset;
+  let top = event.pageY + yOffset;
 
   // Prevent overflow on the right
   if (left + tooltipWidth > window.innerWidth) {
