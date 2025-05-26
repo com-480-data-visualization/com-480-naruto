@@ -46,7 +46,7 @@ function renderList(filter = "") {
 function renderDetails(character) {
     detailsEl.innerHTML = `
             <div class="details-container">
-                <img src="./profile_pictures/${character.name}.jpg" alt="${character.name}" class="avatar">
+                <img src="${character.avatar}" alt="${character.name}" class="avatar">
                 <div>
                     <h2 class="character-name">${character.name}</h2>
                     <p class="character-description">${character.description}</p>
