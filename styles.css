@@ -212,7 +212,8 @@ body {
 }
 
 /* Image Container Styles */
-.image-container {
+.image-container,
+.cooccurrence-matrix-container {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -240,13 +241,13 @@ body {
 /* Cooccurrence Matrix Styles */
 .cooccurrence-matrix-container {
   overflow: visible;
-  margin-left: 150px;
+  margin-left: 140px;
 }
 
 #cooccurrence-matrix {
   width: 100%;
-  height: 1000px;
-  width: 1000px;
+  height: 900px;
+  width: 900px;
 }
 
 text.active {
