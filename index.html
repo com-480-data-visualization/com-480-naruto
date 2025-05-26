@@ -10,114 +10,115 @@
 
 <body>
   <div class="full-page">
-  <div class="banner">
+    <div class="banner">
       <div class="banner-left">
         <img src="banner_pics/tsunade.png" alt="naruto" class="banner-img tsunade">
         <img src="banner_pics/jiraya.png" alt="sakura" class="banner-img jiraya">
         <img src="banner_pics/kakashi.png" alt="kakashi" class="banner-img kakashi">
       </div>
-    
+
       <div class="banner-center">
         <img src="banner_pics/naruto_shippuden.png" alt="Naruto Logo">
       </div>
-    
+
       <div class="banner-right">
         <img src="banner_pics/naruto.png" alt="naruto" class="banner-img naruto">
         <img src="banner_pics/sasuke.png" alt="sasuke" class="banner-img sasuke">
         <img src="banner_pics/sakura.png" alt="sakura" class="banner-img sakura">
       </div>
-    </div>  
-  <div class="page-container">
-    <!-- Persistent Left Sidebar -->
-    <div class="sidebar">
-      <!-- Encyclopedia Filters -->
-      <div class="sidebar-section">
-        <h3 class="naruto-orange">Encyclopedias</h3>
-        <div id="encyclopedia-container" class="filter-container"></div>
-      </div>
-
-      <!-- Character List -->
-      <div class="sidebar-section">
-        <h3 class="naruto-orange">Characters</h3>
-        <div class="search-container">
-          <input type="text" id="character-search" placeholder="Search characters..." class="search-input" />
-        </div>
-        <div class="sidebar-buttons">
-          <button id="track-all-btn" class="naruto-orange">Track All</button>
-          <button id="untrack-all-btn" class="naruto-orange">Untrack All</button>
-        </div>
-        <div id="character-list" class="character-list"></div>
-      </div>
-
-      <!-- Character Details (appears when a character is clicked) -->
-      <div id="character-details" class="character-details">
-        <div class="placeholder-text">Select a character from the list</div>
-      </div>
     </div>
+    <div class="page-container">
+      <!-- Persistent Left Sidebar -->
+      <div class="sidebar">
+        <!-- Encyclopedia Filters -->
+        <div class="sidebar-section">
+          <h3 class="naruto-orange">Encyclopedias</h3>
+          <div id="encyclopedia-container" class="filter-container"></div>
+        </div>
 
-    <!-- Main Content Area -->
-    <div class="main-content">
-      <!-- Description Section -->
-      <div class="content-section description-section">
-        <h2 class="naruto-orange">Shinobi Stat Showdown</h2>
-        <div class="controls-description">
-          <p><strong>Compare your favorite ninja</strong> across the three great tomes: <em>Rin no Sho</em>, <em>Tō
-              no Sho</em>, and <em>Shō no Sho</em>. Choose who enters the fray by using the character list on the left.
-          </p>
-          <p><span class="highlight">Hover over a line</span> to uncover which shinobi's chakra signature you're
-            following.</p>
-          <p class="note">Note: If a selected character does not appear in a chosen encyclopedia, their data will
-            not be shown.</p>
+        <!-- Character List -->
+        <div class="sidebar-section">
+          <h3 class="naruto-orange">Characters</h3>
+          <div class="search-container">
+            <input type="text" id="character-search" placeholder="Search characters..." class="search-input" />
+          </div>
+          <div class="sidebar-buttons">
+            <button id="track-all-btn" class="naruto-orange">Track All</button>
+            <button id="untrack-all-btn" class="naruto-orange">Untrack All</button>
+          </div>
+          <div id="character-list" class="character-list"></div>
+        </div>
+
+        <!-- Character Details (appears when a character is clicked) -->
+        <div id="character-details" class="character-details">
+          <div class="placeholder-text">Select a character from the list</div>
         </div>
       </div>
 
-      <!-- Parallel Coordinates Plot -->
-      <div class="content-section">
-        <div id="char-plot-container" class="char-plot-container">
-          <svg id="char-plot" width="100%" height="600"></svg>
-          <!-- Tooltip -->
-          <!-- <div id="tooltip"></div> -->
-        </div>
-      </div>
-      <div id="tooltip"></div>
-      <!-- Map/image section -->
-      <div class="content-section">
-        <div id="image-container" class="image-container">
-          <img id="extra-image" src="./imgs/map.png" alt="Extra Image" class="extra-image">
-        </div>
-      </div>
-
-      <div class="content-section description-section">
-        <h2 class="naruto-orange">Battle Matrix</h2>
-        <div class="controls-description">
-          <p>See the characters with most fights and explore the battles between any two. Click on the cell to
-            see the battle details.
-        </div>
-      </div>
-
-      <!-- Co-occurrence Matrix -->
-      <div class="content-section">
-        <div id="cooccurrence-matrix-container" class="cooccurrence-matrix-container">
-          <style>
-            .background {
-              fill: #eee;
-            }
-
-            line {
-              stroke: #fff;
-            }
-
-            text.active {
-              fill: red;
-            }
-          </style>
-          <svg id="cooccurrence-matrix"></svg>
+      <!-- Main Content Area -->
+      <div class="main-content">
+        <!-- Description Section -->
+        <div class="content-section description-section">
+          <h2 class="naruto-orange">Shinobi Stat Showdown</h2>
+          <div class="controls-description">
+            <p><strong>Compare your favorite ninja</strong> across the three great tomes: <em>Rin no Sho</em>, <em>Tō
+                no Sho</em>, and <em>Shō no Sho</em>. Choose who enters the fray by using the character list on the
+              left.
+            </p>
+            <p><span class="highlight">Hover over a line</span> to uncover which shinobi's chakra signature you're
+              following.</p>
+            <p class="note">Note: If a selected character does not appear in a chosen encyclopedia, their data will
+              not be shown.</p>
+          </div>
         </div>
 
+        <!-- Parallel Coordinates Plot -->
+        <div class="content-section">
+          <div id="char-plot-container" class="char-plot-container">
+            <svg id="char-plot" width="100%" height="600"></svg>
+            <!-- Tooltip -->
+            <!-- <div id="tooltip"></div> -->
+          </div>
+        </div>
+        <div id="tooltip"></div>
+        <!-- Map/image section -->
+        <div class="content-section">
+          <div id="image-container" class="image-container">
+            <img id="extra-image" src="./imgs/map.png" alt="Extra Image" class="extra-image">
+          </div>
+        </div>
+
+        <div class="content-section description-section">
+          <h2 class="naruto-orange">Battle Matrix</h2>
+          <div class="controls-description">
+            <p>See the characters with most fights and explore the battles between any two. Click on the cell to
+              see the battle details.
+          </div>
+        </div>
+
+        <!-- Co-occurrence Matrix -->
+        <div class="content-section">
+          <div id="cooccurrence-matrix-container" class="cooccurrence-matrix-container">
+            <style>
+              .background {
+                fill: #eee;
+              }
+
+              line {
+                stroke: #fff;
+              }
+
+              text.active {
+                fill: red;
+              }
+            </style>
+            <svg id="cooccurrence-matrix"></svg>
+          </div>
+
+        </div>
       </div>
     </div>
   </div>
-</div>
   <!-- Scripts -->
   <script src="./src/draw_markers.js"></script>
   <script src="./src/draw_sidebar.js"></script>

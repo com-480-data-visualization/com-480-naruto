@@ -81,15 +81,46 @@ d3.json("./src/cooccurrence/naruto.json").then(function (miserables) {
         .on("mouseover", function(event, d) {
           mouseover(d);
           isHoveringTooltip = true;
-        
+
           const sourceName = nodes[d.y].name;
           const targetName = nodes[d.x].name;
-        
+
+          // Set tooltip content first
+          matrixtooltip
+            .html(`Click to see battles between ${sourceName} and ${targetName}`);
+
+          // Get SVG and tooltip bounding boxes
+          const svgRect = svg_cooccurence.node().getBoundingClientRect();
+          const tooltipNode = matrixtooltip.node();
+          const tooltipRect = tooltipNode.getBoundingClientRect();
+
+          // Cell center in page coordinates
+          const cellX = svgRect.left + x_c(d.x) + x_c.bandwidth() / 2 + margin_c.left;
+          const cellY = svgRect.top + x_c(d.y) + x_c.bandwidth() / 2 + margin_c.top + window.scrollY;
+
+          // Default: place tooltip right and below the cell
+          let left = cellX + 10;
+          let top = cellY + 10;
+
+          // Adjust if tooltip would overflow right edge
+          if (left + tooltipRect.width > svgRect.right) {
+            left = cellX - tooltipRect.width - 10;
+            if (left < svgRect.left) left = svgRect.left + 5;
+          }
+          // Adjust if tooltip would overflow bottom edge
+          if (top + tooltipRect.height > svgRect.bottom + window.scrollY) {
+            top = cellY - tooltipRect.height - 10;
+            if (top < svgRect.top + window.scrollY) top = svgRect.top + window.scrollY + 5;
+          }
+          // Adjust if tooltip would overflow left edge
+          if (left < svgRect.left) left = svgRect.left + 5;
+          // Adjust if tooltip would overflow top edge
+          if (top < svgRect.top + window.scrollY) top = svgRect.top + window.scrollY + 5;
+
           matrixtooltip
             .style("opacity", 0.9)
-            .html(`Click to see battles between ${sourceName} and ${targetName}`)
-            .style("left", (event.pageX + 10) + "px")
-            .style("top", (event.pageY + 10) + "px");
+            .style("left", `${left}px`)
+            .style("top", `${top}px`);
         })
         .on("mouseout", function () {
           mouseout();
@@ -102,7 +133,6 @@ d3.json("./src/cooccurrence/naruto.json").then(function (miserables) {
             }
           }, 150); // short delay to avoid flicker
         })
-
         .on("click", function(event, d) {
           // Find all battles between these two characters
           const battles = miserables.links.filter(link => 
@@ -113,10 +143,7 @@ d3.json("./src/cooccurrence/naruto.json").then(function (miserables) {
           battles.sort((a, b) => a.episode - b.episode); // Sort by episode number
           const battleCount = battles.length;
 
-          const svgRect = svg_cooccurence.node().getBoundingClientRect();
-          const cellX = svgRect.left + x_c(d.x) + x_c.bandwidth() / 2 + margin_c.left;
-          const cellY = svgRect.top + x_c(d.y) + x_c.bandwidth() / 2 + margin_c.top + window.scrollY;
-
+          // Set the tooltip content first (so we can measure its size)
           if (battleCount > 0) {
             const battleList = battles.map(battle => 
               `<div style="margin-bottom: 5px;">
@@ -125,24 +152,49 @@ d3.json("./src/cooccurrence/naruto.json").then(function (miserables) {
                 <strong>Outcome:</strong> ${battle.outcome}
               </div>`
             ).join('');
-      
-            matrixtooltip.transition()
-              .style("opacity", .9);
-              matrixtooltip.html(`
+            matrixtooltip.html(`
               <div style="max-height: 300px; overflow-y: auto;">
                 <h4 style="margin-top: 0;">${battleCount} Battle${battleCount !== 1 ? 's' : ''} between ${nodes[d.y].name} and ${nodes[d.x].name}</h4>
-      ${battleList}
+                ${battleList}
               </div>
-            `)
-              .style("left", `${cellX}px`)
-              .style("top", `${cellY}px`);
+            `);
           } else {
-            matrixtooltip.transition()
-              .style("opacity", .9);
-            matrixtooltip.html(`No recorded battles between ${nodes[d.y].name} and ${nodes[d.x].name}`)
-              .style("left", `${cellX}px`)
-              .style("top", `${cellY}px`);
+            matrixtooltip.html(`No recorded battles between ${nodes[d.y].name} and ${nodes[d.x].name}`);
           }
+
+          // Now measure the tooltip
+          const svgRect = svg_cooccurence.node().getBoundingClientRect();
+          const tooltipNode = matrixtooltip.node();
+          const tooltipRect = tooltipNode.getBoundingClientRect();
+
+          // Cell center in page coordinates
+          const cellX = svgRect.left + x_c(d.x) + x_c.bandwidth() / 2 + margin_c.left;
+          const cellY = svgRect.top + x_c(d.y) + x_c.bandwidth() / 2 + margin_c.top + window.scrollY;
+
+          // Default: place tooltip right and below the cell
+          let left = cellX;
+          let top = cellY;
+
+          // Adjust if tooltip would overflow right edge
+          if (left + tooltipRect.width > svgRect.right) {
+            left = cellX - tooltipRect.width;
+            if (left < svgRect.left) left = svgRect.left;
+          }
+          // Adjust if tooltip would overflow bottom edge
+          if (top + tooltipRect.height > svgRect.bottom + window.scrollY) {
+            top = cellY - tooltipRect.height;
+            if (top < svgRect.top + window.scrollY) top = svgRect.top + window.scrollY;
+          }
+          // Adjust if tooltip would overflow left edge
+          if (left < svgRect.left) left = svgRect.left;
+          // Adjust if tooltip would overflow top edge
+          if (top < svgRect.top + window.scrollY) top = svgRect.top + window.scrollY;
+
+          matrixtooltip
+            .transition().style("opacity", .9);
+          matrixtooltip
+            .style("left", `${left}px`)
+            .style("top", `${top}px`);
         });
     });
 
