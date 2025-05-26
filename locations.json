@@ -1,0 +1,44 @@
+[
+  {
+    "location": "Otogakure",
+    "locationEN": "Hidden Sound Village",
+    "x": 460,
+    "y": 220
+  },
+  {
+    "location": "Konohagakure",
+    "locationEN": "Hidden Leaf Village",
+    "x": 445,
+    "y": 360
+  },
+  {
+    "location": "Sunagakure",
+    "locationEN": "Hidden Sand Village",
+    "x": 255,
+    "y": 430
+  },
+  {
+    "location": "Takigakure",
+    "locationEN": "Hidden Waterfall Village",
+    "x": 342,
+    "y": 180
+  },
+  {
+    "location": "Yugakure",
+    "locationEN": "Hidden Hot Water Village",
+    "x": 515,
+    "y": 220
+  },
+  {
+    "location": "Iwagakure",
+    "locationEN": "Village Hidden by Rocks",
+    "x": 260,
+    "y": 135
+  },
+  {
+    "location": "Kirigakure",
+    "locationEN": "Hidden Mist Village",
+    "x": 845,
+    "y": 405
+  }
+]

@@ -151,7 +151,7 @@ function showCharacterDetails(character) {
   
   detailsEl.innerHTML = `
     <div class="details-container">
-      <img src="./profile_pictures/${character.name}.jpg" alt="${character.name}" class="avatar">
+      <img src="${character.avatar}" alt="${character.name}" class="avatar">
       <h3 class="character-name">${character.name}</h3>
       <p class="character-description">${character.description}</p>
     </div>
@@ -201,6 +201,7 @@ function updateCharPlot(oldX=null) {
   
     // Call the updateChart function from draw_plot.js
     updateChart(undefined, trackedNames, selectedEncyclopedias, oldX);
+    updateMap(trackedNames);
   }
 }
 window.updateCharPlot = updateCharPlot;
