@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "name": "Naruto"
+      "name": "Naruto Uzumaki"
     },
     {
       "name": "Kakashi Hatake"
@@ -34,7 +34,7 @@
       "name": "Shikamaru Nara"
     },
     {
-      "name": "Chōji Akimichi"
+      "name": "Choji Akimichi"
     },
     {
       "name": "Ino Yamanaka"
@@ -55,7 +55,13 @@
       "name": "Kakuzu"
     },
     {
+      "name": "Rock Lee"
+    },
+    {
       "name": "White Zetsu"
+    },
+    {
+      "name": "Might Guy"
     },
     {
       "name": "Kiba Inuzuka"
@@ -100,12 +106,6 @@
       "name": "Kisame Hoshigaki"
     },
     {
-      "name": "Guy"
-    },
-    {
-      "name": "Rock Lee"
-    },
-    {
       "name": "Chiyo"
     },
     {
@@ -121,10 +121,7 @@
       "name": "Reanimated Shinobi"
     },
     {
-      "name": "Lee"
-    },
-    {
-      "name": "Danzō Shimura"
+      "name": "Danzo Shimura"
     },
     {
       "name": "Gozu"
@@ -136,7 +133,7 @@
       "name": "Shizune"
     },
     {
-      "name": "Neji"
+      "name": "Neji Hyuga"
     },
     {
       "name": "Temari"
@@ -145,25 +142,28 @@
       "name": "Ten-Tails"
     },
     {
-      "name": "Kankurō"
+      "name": "Kankuro"
     },
     {
-      "name": "Might Guy"
-    },
-    {
-      "name": "Jūgo"
+      "name": "Jugo"
     },
     {
       "name": "Fourth Raikage"
     },
     {
-      "name": "Zabuzā Momochi"
+      "name": "Zabuza Momochi"
     },
     {
       "name": "Mecha-Naruto"
     },
     {
       "name": "Karin"
+    },
+    {
+      "name": "Suigetsu"
+    },
+    {
+      "name": "Konan"
     }
   ],
   "links": [
@@ -223,7 +223,7 @@
     },
     {
       "source": 13,
-      "target": 20,
+      "target": 22,
       "value": 3,
       "battles": [
         {
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "source": 48,
+      "source": 47,
       "target": 14,
       "value": 4,
       "battles": [
@@ -305,26 +305,9 @@
       ]
     },
     {
-      "source": 32,
-      "target": 49,
-      "value": 2,
-      "battles": [
-        {
-          "episode": "12",
-          "outcome": "Battle interrupted before a clear winner could be determined, with both sides preparing for a taijutsu-focused clash.",
-          "description": "Kisame ambushes Team Guy, seeking revenge and a rematch, while Itachi intercepts Team Kakashi, leading to a standoff."
-        },
-        {
-          "episode": "13",
-          "outcome": "Kisame retains his sword and incapacitates Team Guy with Water Prison Technique, battle is a stalemate",
-          "description": "Team Guy engages Kisame in close combat, utilizing Taijutsu and Ninjutsu, but Kisame's Samehada and Water Release techniques prove difficult to overcome, ultimately trapping them."
-        }
-      ]
-    },
-    {
-      "source": 32,
+      "source": 20,
       "target": 34,
-      "value": 2,
+      "value": 5,
       "battles": [
         {
           "episode": "12",
@@ -335,60 +318,7 @@
           "episode": "13",
           "outcome": "Kisame retains his sword and incapacitates Team Guy with Water Prison Technique, battle is a stalemate",
           "description": "Team Guy engages Kisame in close combat, utilizing Taijutsu and Ninjutsu, but Kisame's Samehada and Water Release techniques prove difficult to overcome, ultimately trapping them."
-        }
-      ]
-    },
-    {
-      "source": 32,
-      "target": 25,
-      "value": 3,
-      "battles": [
-        {
-          "episode": "12",
-          "outcome": "Battle interrupted before a clear winner could be determined, with both sides preparing for a taijutsu-focused clash.",
-          "description": "Kisame ambushes Team Guy, seeking revenge and a rematch, while Itachi intercepts Team Kakashi, leading to a standoff."
         },
-        {
-          "episode": "13",
-          "outcome": "Kisame retains his sword and incapacitates Team Guy with Water Prison Technique, battle is a stalemate",
-          "description": "Team Guy engages Kisame in close combat, utilizing Taijutsu and Ninjutsu, but Kisame's Samehada and Water Release techniques prove difficult to overcome, ultimately trapping them."
-        }
-      ]
-    },
-    {
-      "source": 32,
-      "target": 40,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "13",
-          "outcome": "Kisame retains his sword and incapacitates Team Guy with Water Prison Technique, battle is a stalemate",
-          "description": "Team Guy engages Kisame in close combat, utilizing Taijutsu and Ninjutsu, but Kisame's Samehada and Water Release techniques prove difficult to overcome, ultimately trapping them."
-        }
-      ]
-    },
-    {
-      "source": 32,
-      "target": 45,
-      "value": 2,
-      "battles": [
-        {
-          "episode": "13",
-          "outcome": "Kisame retains his sword and incapacitates Team Guy with Water Prison Technique, battle is a stalemate",
-          "description": "Team Guy engages Kisame in close combat, utilizing Taijutsu and Ninjutsu, but Kisame's Samehada and Water Release techniques prove difficult to overcome, ultimately trapping them."
-        },
-        {
-          "episode": "14",
-          "outcome": "Guy and Neji successfully break free from Kisame's attacks and prepare to fight him, with Guy opening the Eight Gates.",
-          "description": "Guy utilizes the Eight Gates to counter Kisame's water techniques, allowing Neji to free his team and prepare for a final assault."
-        }
-      ]
-    },
-    {
-      "source": 32,
-      "target": 33,
-      "value": 3,
-      "battles": [
         {
           "episode": "14",
           "outcome": "Guy and Neji successfully break free from Kisame's attacks and prepare to fight him, with Guy opening the Eight Gates.",
@@ -407,8 +337,59 @@
       ]
     },
     {
+      "source": 34,
+      "target": 18,
+      "value": 3,
+      "battles": [
+        {
+          "episode": "12",
+          "outcome": "Battle interrupted before a clear winner could be determined, with both sides preparing for a taijutsu-focused clash.",
+          "description": "Kisame ambushes Team Guy, seeking revenge and a rematch, while Itachi intercepts Team Kakashi, leading to a standoff."
+        },
+        {
+          "episode": "13",
+          "outcome": "Kisame retains his sword and incapacitates Team Guy with Water Prison Technique, battle is a stalemate",
+          "description": "Team Guy engages Kisame in close combat, utilizing Taijutsu and Ninjutsu, but Kisame's Samehada and Water Release techniques prove difficult to overcome, ultimately trapping them."
+        }
+      ]
+    },
+    {
+      "source": 34,
+      "target": 27,
+      "value": 3,
+      "battles": [
+        {
+          "episode": "12",
+          "outcome": "Battle interrupted before a clear winner could be determined, with both sides preparing for a taijutsu-focused clash.",
+          "description": "Kisame ambushes Team Guy, seeking revenge and a rematch, while Itachi intercepts Team Kakashi, leading to a standoff."
+        },
+        {
+          "episode": "13",
+          "outcome": "Kisame retains his sword and incapacitates Team Guy with Water Prison Technique, battle is a stalemate",
+          "description": "Team Guy engages Kisame in close combat, utilizing Taijutsu and Ninjutsu, but Kisame's Samehada and Water Release techniques prove difficult to overcome, ultimately trapping them."
+        }
+      ]
+    },
+    {
+      "source": 34,
+      "target": 44,
+      "value": 2,
+      "battles": [
+        {
+          "episode": "13",
+          "outcome": "Kisame retains his sword and incapacitates Team Guy with Water Prison Technique, battle is a stalemate",
+          "description": "Team Guy engages Kisame in close combat, utilizing Taijutsu and Ninjutsu, but Kisame's Samehada and Water Release techniques prove difficult to overcome, ultimately trapping them."
+        },
+        {
+          "episode": "14",
+          "outcome": "Guy and Neji successfully break free from Kisame's attacks and prepare to fight him, with Guy opening the Eight Gates.",
+          "description": "Guy utilizes the Eight Gates to counter Kisame's water techniques, allowing Neji to free his team and prepare for a final assault."
+        }
+      ]
+    },
+    {
       "source": 0,
-      "target": 21,
+      "target": 23,
       "value": 4,
       "battles": [
         {
@@ -435,7 +416,7 @@
     },
     {
       "source": 1,
-      "target": 21,
+      "target": 23,
       "value": 2,
       "battles": [
         {
@@ -452,7 +433,7 @@
     },
     {
       "source": 4,
-      "target": 21,
+      "target": 23,
       "value": 2,
       "battles": [
         {
@@ -469,7 +450,7 @@
     },
     {
       "source": 1,
-      "target": 32,
+      "target": 34,
       "value": 1,
       "battles": [
         {
@@ -525,7 +506,7 @@
     },
     {
       "source": 4,
-      "target": 32,
+      "target": 34,
       "value": 1,
       "battles": [
         {
@@ -631,7 +612,7 @@
     },
     {
       "source": 0,
-      "target": 32,
+      "target": 34,
       "value": 2,
       "battles": [
         {
@@ -757,7 +738,7 @@
     },
     {
       "source": 35,
-      "target": 21,
+      "target": 23,
       "value": 1,
       "battles": [
         {
@@ -769,7 +750,7 @@
     },
     {
       "source": 35,
-      "target": 32,
+      "target": 34,
       "value": 1,
       "battles": [
         {
@@ -845,31 +826,46 @@
     },
     {
       "source": 14,
-      "target": 40,
-      "value": 1,
+      "target": 18,
+      "value": 2,
       "battles": [
         {
           "episode": "17",
           "outcome": "Teams Guy and Kakashi are prevented from entering the Akatsuki hideout due to the Five-Seal Barrier, with the Akatsuki preparing for their arrival.",
           "description": "Team Guy and Team Kakashi arrive at the Akatsuki hideout, but are stopped by a powerful barrier seal, while the Akatsuki members prepare to defend against the incoming shinobi."
+        },
+        {
+          "episode": "18",
+          "outcome": "Battle initiated with both sides preparing for engagement, no clear winner yet",
+          "description": "The Kazekage Rescue Team breaches the hideout and immediately confronts Deidara and Sasori, triggering Naruto's partial transformation and the start of a clash."
         }
       ]
     },
     {
       "source": 13,
-      "target": 40,
-      "value": 1,
+      "target": 18,
+      "value": 3,
       "battles": [
         {
           "episode": "17",
           "outcome": "Teams Guy and Kakashi are prevented from entering the Akatsuki hideout due to the Five-Seal Barrier, with the Akatsuki preparing for their arrival.",
           "description": "Team Guy and Team Kakashi arrive at the Akatsuki hideout, but are stopped by a powerful barrier seal, while the Akatsuki members prepare to defend against the incoming shinobi."
+        },
+        {
+          "episode": "18",
+          "outcome": "Battle initiated with both sides preparing for engagement, no clear winner yet",
+          "description": "The Kazekage Rescue Team breaches the hideout and immediately confronts Deidara and Sasori, triggering Naruto's partial transformation and the start of a clash."
+        },
+        {
+          "episode": "30",
+          "outcome": "Deidara's suicide bombing attempt was negated by Kakashi's Kamui, leaving Deidara's fate unknown but effectively removing him from the immediate conflict.",
+          "description": "Deidara attempted a suicide bombing with explosive clay, but Kakashi used Kamui to warp the explosion to another dimension, collapsing from the strain of using his Mangekyō Sharingan."
         }
       ]
     },
     {
       "source": 14,
-      "target": 33,
+      "target": 20,
       "value": 1,
       "battles": [
         {
@@ -881,7 +877,7 @@
     },
     {
       "source": 13,
-      "target": 33,
+      "target": 20,
       "value": 1,
       "battles": [
         {
@@ -989,24 +985,7 @@
     },
     {
       "source": 13,
-      "target": 34,
-      "value": 2,
-      "battles": [
-        {
-          "episode": "18",
-          "outcome": "Battle initiated with both sides preparing for engagement, no clear winner yet",
-          "description": "The Kazekage Rescue Team breaches the hideout and immediately confronts Deidara and Sasori, triggering Naruto's partial transformation and the start of a clash."
-        },
-        {
-          "episode": "30",
-          "outcome": "Deidara's suicide bombing attempt was negated by Kakashi's Kamui, leaving Deidara's fate unknown but effectively removing him from the immediate conflict.",
-          "description": "Deidara attempted a suicide bombing with explosive clay, but Kakashi used Kamui to warp the explosion to another dimension, collapsing from the strain of using his Mangekyō Sharingan."
-        }
-      ]
-    },
-    {
-      "source": 13,
-      "target": 25,
+      "target": 27,
       "value": 2,
       "battles": [
         {
@@ -1023,19 +1002,7 @@
     },
     {
       "source": 14,
-      "target": 34,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "18",
-          "outcome": "Battle initiated with both sides preparing for engagement, no clear winner yet",
-          "description": "The Kazekage Rescue Team breaches the hideout and immediately confronts Deidara and Sasori, triggering Naruto's partial transformation and the start of a clash."
-        }
-      ]
-    },
-    {
-      "source": 14,
-      "target": 25,
+      "target": 27,
       "value": 1,
       "battles": [
         {
@@ -1172,7 +1139,7 @@
     },
     {
       "source": 9,
-      "target": 41,
+      "target": 40,
       "value": 1,
       "battles": [
         {
@@ -1184,7 +1151,7 @@
     },
     {
       "source": 9,
-      "target": 44,
+      "target": 43,
       "value": 1,
       "battles": [
         {
@@ -1196,7 +1163,7 @@
     },
     {
       "source": 0,
-      "target": 41,
+      "target": 40,
       "value": 1,
       "battles": [
         {
@@ -1208,7 +1175,7 @@
     },
     {
       "source": 0,
-      "target": 44,
+      "target": 43,
       "value": 1,
       "battles": [
         {
@@ -1220,7 +1187,7 @@
     },
     {
       "source": 4,
-      "target": 41,
+      "target": 40,
       "value": 1,
       "battles": [
         {
@@ -1232,7 +1199,7 @@
     },
     {
       "source": 4,
-      "target": 44,
+      "target": 43,
       "value": 1,
       "battles": [
         {
@@ -1243,7 +1210,7 @@
       ]
     },
     {
-      "source": 41,
+      "source": 40,
       "target": 5,
       "value": 1,
       "battles": [
@@ -1255,7 +1222,7 @@
       ]
     },
     {
-      "source": 44,
+      "source": 43,
       "target": 5,
       "value": 1,
       "battles": [
@@ -1332,7 +1299,7 @@
     },
     {
       "source": 5,
-      "target": 23,
+      "target": 25,
       "value": 6,
       "battles": [
         {
@@ -1416,7 +1383,7 @@
     },
     {
       "source": 0,
-      "target": 23,
+      "target": 25,
       "value": 6,
       "battles": [
         {
@@ -1495,7 +1462,7 @@
     },
     {
       "source": 4,
-      "target": 23,
+      "target": 25,
       "value": 2,
       "battles": [
         {
@@ -1549,7 +1516,7 @@
     },
     {
       "source": 9,
-      "target": 23,
+      "target": 25,
       "value": 2,
       "battles": [
         {
@@ -1602,7 +1569,7 @@
       ]
     },
     {
-      "source": 23,
+      "source": 25,
       "target": 2,
       "value": 5,
       "battles": [
@@ -1790,7 +1757,7 @@
     },
     {
       "source": 0,
-      "target": 19,
+      "target": 21,
       "value": 2,
       "battles": [
         {
@@ -1807,7 +1774,7 @@
     },
     {
       "source": 0,
-      "target": 27,
+      "target": 29,
       "value": 1,
       "battles": [
         {
@@ -1818,8 +1785,8 @@
       ]
     },
     {
-      "source": 34,
-      "target": 19,
+      "source": 18,
+      "target": 21,
       "value": 1,
       "battles": [
         {
@@ -1830,20 +1797,8 @@
       ]
     },
     {
-      "source": 34,
-      "target": 27,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "62",
-          "outcome": "Asuma and Shikamaru intervened, stopping the fight and leading the team to barbecue, with no clear victor.",
-          "description": "A training exercise between Team 10 and Kiba escalates into a chaotic free-for-all, showcasing various techniques like Shadow Clone, Multi-Size, and Wind Release, before being halted by Asuma and Shikamaru."
-        }
-      ]
-    },
-    {
-      "source": 11,
-      "target": 19,
+      "source": 18,
+      "target": 29,
       "value": 1,
       "battles": [
         {
@@ -1855,7 +1810,19 @@
     },
     {
       "source": 11,
-      "target": 27,
+      "target": 21,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "62",
+          "outcome": "Asuma and Shikamaru intervened, stopping the fight and leading the team to barbecue, with no clear victor.",
+          "description": "A training exercise between Team 10 and Kiba escalates into a chaotic free-for-all, showcasing various techniques like Shadow Clone, Multi-Size, and Wind Release, before being halted by Asuma and Shikamaru."
+        }
+      ]
+    },
+    {
+      "source": 11,
+      "target": 29,
       "value": 1,
       "battles": [
         {
@@ -2358,7 +2325,7 @@
     },
     {
       "source": 1,
-      "target": 42,
+      "target": 41,
       "value": 4,
       "battles": [
         {
@@ -2406,8 +2373,8 @@
       ]
     },
     {
-      "source": 30,
-      "target": 42,
+      "source": 32,
+      "target": 41,
       "value": 1,
       "battles": [
         {
@@ -2418,7 +2385,7 @@
       ]
     },
     {
-      "source": 30,
+      "source": 32,
       "target": 36,
       "value": 1,
       "battles": [
@@ -2430,8 +2397,8 @@
       ]
     },
     {
-      "source": 19,
-      "target": 42,
+      "source": 21,
+      "target": 41,
       "value": 2,
       "battles": [
         {
@@ -2447,7 +2414,7 @@
       ]
     },
     {
-      "source": 19,
+      "source": 21,
       "target": 36,
       "value": 3,
       "battles": [
@@ -2469,8 +2436,8 @@
       ]
     },
     {
-      "source": 27,
-      "target": 42,
+      "source": 29,
+      "target": 41,
       "value": 2,
       "battles": [
         {
@@ -2486,7 +2453,7 @@
       ]
     },
     {
-      "source": 27,
+      "source": 29,
       "target": 36,
       "value": 3,
       "battles": [
@@ -2508,8 +2475,8 @@
       ]
     },
     {
-      "source": 30,
-      "target": 24,
+      "source": 32,
+      "target": 26,
       "value": 2,
       "battles": [
         {
@@ -2520,8 +2487,8 @@
       ]
     },
     {
-      "source": 19,
-      "target": 24,
+      "source": 21,
+      "target": 26,
       "value": 3,
       "battles": [
         {
@@ -2537,8 +2504,8 @@
       ]
     },
     {
-      "source": 24,
-      "target": 22,
+      "source": 26,
+      "target": 24,
       "value": 6,
       "battles": [
         {
@@ -2570,7 +2537,7 @@
     },
     {
       "source": 0,
-      "target": 24,
+      "target": 26,
       "value": 5,
       "battles": [
         {
@@ -2602,7 +2569,7 @@
     },
     {
       "source": 0,
-      "target": 42,
+      "target": 41,
       "value": 3,
       "battles": [
         {
@@ -2624,7 +2591,7 @@
     },
     {
       "source": 8,
-      "target": 19,
+      "target": 21,
       "value": 1,
       "battles": [
         {
@@ -2636,7 +2603,7 @@
     },
     {
       "source": 8,
-      "target": 22,
+      "target": 24,
       "value": 2,
       "battles": [
         {
@@ -2652,8 +2619,8 @@
       ]
     },
     {
-      "source": 42,
-      "target": 22,
+      "source": 41,
+      "target": 24,
       "value": 3,
       "battles": [
         {
@@ -2675,7 +2642,7 @@
     },
     {
       "source": 1,
-      "target": 24,
+      "target": 26,
       "value": 3,
       "battles": [
         {
@@ -2718,8 +2685,8 @@
       ]
     },
     {
-      "source": 27,
-      "target": 24,
+      "source": 29,
+      "target": 26,
       "value": 1,
       "battles": [
         {
@@ -2731,7 +2698,7 @@
     },
     {
       "source": 8,
-      "target": 27,
+      "target": 29,
       "value": 1,
       "battles": [
         {
@@ -2786,7 +2753,7 @@
       ]
     },
     {
-      "source": 40,
+      "source": 18,
       "target": 36,
       "value": 3,
       "battles": [
@@ -2808,7 +2775,7 @@
       ]
     },
     {
-      "source": 25,
+      "source": 27,
       "target": 36,
       "value": 3,
       "battles": [
@@ -2831,7 +2798,7 @@
     },
     {
       "source": 36,
-      "target": 22,
+      "target": 24,
       "value": 3,
       "battles": [
         {
@@ -2853,7 +2820,7 @@
     },
     {
       "source": 9,
-      "target": 42,
+      "target": 41,
       "value": 2,
       "battles": [
         {
@@ -2870,7 +2837,7 @@
     },
     {
       "source": 9,
-      "target": 24,
+      "target": 26,
       "value": 2,
       "battles": [
         {
@@ -2903,8 +2870,8 @@
       ]
     },
     {
-      "source": 40,
-      "target": 42,
+      "source": 18,
+      "target": 41,
       "value": 1,
       "battles": [
         {
@@ -2915,8 +2882,8 @@
       ]
     },
     {
-      "source": 40,
-      "target": 24,
+      "source": 18,
+      "target": 26,
       "value": 2,
       "battles": [
         {
@@ -2932,7 +2899,7 @@
       ]
     },
     {
-      "source": 40,
+      "source": 18,
       "target": 8,
       "value": 1,
       "battles": [
@@ -2944,8 +2911,8 @@
       ]
     },
     {
-      "source": 25,
-      "target": 42,
+      "source": 27,
+      "target": 41,
       "value": 1,
       "battles": [
         {
@@ -2956,8 +2923,8 @@
       ]
     },
     {
-      "source": 25,
-      "target": 24,
+      "source": 27,
+      "target": 26,
       "value": 2,
       "battles": [
         {
@@ -2973,7 +2940,7 @@
       ]
     },
     {
-      "source": 25,
+      "source": 27,
       "target": 8,
       "value": 1,
       "battles": [
@@ -2985,8 +2952,8 @@
       ]
     },
     {
-      "source": 44,
-      "target": 42,
+      "source": 43,
+      "target": 41,
       "value": 1,
       "battles": [
         {
@@ -2997,8 +2964,8 @@
       ]
     },
     {
-      "source": 44,
-      "target": 24,
+      "source": 43,
+      "target": 26,
       "value": 1,
       "battles": [
         {
@@ -3009,7 +2976,7 @@
       ]
     },
     {
-      "source": 44,
+      "source": 43,
       "target": 36,
       "value": 1,
       "battles": [
@@ -3021,7 +2988,7 @@
       ]
     },
     {
-      "source": 44,
+      "source": 43,
       "target": 8,
       "value": 1,
       "battles": [
@@ -3033,7 +3000,7 @@
       ]
     },
     {
-      "source": 24,
+      "source": 26,
       "target": 38,
       "value": 2,
       "battles": [
@@ -3079,7 +3046,7 @@
       ]
     },
     {
-      "source": 22,
+      "source": 24,
       "target": 38,
       "value": 1,
       "battles": [
@@ -3091,7 +3058,7 @@
       ]
     },
     {
-      "source": 44,
+      "source": 43,
       "target": 38,
       "value": 1,
       "battles": [
@@ -3127,7 +3094,7 @@
       ]
     },
     {
-      "source": 30,
+      "source": 32,
       "target": 38,
       "value": 1,
       "battles": [
@@ -3174,7 +3141,7 @@
     },
     {
       "source": 2,
-      "target": 50,
+      "target": 48,
       "value": 3,
       "battles": [
         {
@@ -3195,8 +3162,25 @@
       ]
     },
     {
-      "source": 50,
-      "target": 54,
+      "source": 53,
+      "target": 48,
+      "value": 2,
+      "battles": [
+        {
+          "episode": "117",
+          "outcome": "Sasuke successfully repels Jūgo's initial attack and begins to negotiate, halting the fight without a clear victor but establishing dominance.",
+          "description": "Sasuke and Jūgo engage in a brief but intense clash, both activating partial transformations of their cursed seals before Sasuke de-escalates the situation with words."
+        },
+        {
+          "episode": "118",
+          "outcome": "Sasuke subdues Jūgo with his Binding Snake Glare Spell, leading to Jūgo's voluntary containment and agreement to join Sasuke's team.",
+          "description": "Sasuke confronts Jūgo, utilizing his Binding Snake Glare Spell to restrain him and ultimately recruit him to join his team, mirroring Kimimaro's role as Jūgo's restraint."
+        }
+      ]
+    },
+    {
+      "source": 48,
+      "target": 52,
       "value": 3,
       "battles": [
         {
@@ -3292,7 +3276,19 @@
     },
     {
       "source": 2,
-      "target": 54,
+      "target": 53,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "125",
+          "outcome": "Sasuke escapes using Manda, but Manda dies due to Sasuke's control and usage as a shield.",
+          "description": "Sasuke summons Manda to escape Deidara's explosion, utilizing the snake as a shield before abandoning it, resulting in Manda's death."
+        }
+      ]
+    },
+    {
+      "source": 2,
+      "target": 52,
       "value": 2,
       "battles": [
         {
@@ -3308,8 +3304,8 @@
       ]
     },
     {
-      "source": 21,
-      "target": 19,
+      "source": 23,
+      "target": 21,
       "value": 2,
       "battles": [
         {
@@ -3320,8 +3316,8 @@
       ]
     },
     {
-      "source": 21,
-      "target": 30,
+      "source": 23,
+      "target": 32,
       "value": 1,
       "battles": [
         {
@@ -3332,8 +3328,8 @@
       ]
     },
     {
-      "source": 21,
-      "target": 22,
+      "source": 23,
+      "target": 24,
       "value": 1,
       "battles": [
         {
@@ -3344,7 +3340,24 @@
       ]
     },
     {
-      "source": 31,
+      "source": 33,
+      "target": 54,
+      "value": 2,
+      "battles": [
+        {
+          "episode": "128",
+          "outcome": "The Ame Orphans defeated Jiraiya's shadow clone, prompting him to leave them in their care.",
+          "description": "Jiraiya engages in a training battle with Yahiko, Konan, and Nagato, ultimately acknowledging their growth and departing to return to Konoha."
+        },
+        {
+          "episode": "130",
+          "outcome": "Battle is ongoing with both sides exchanging attacks and summoning techniques, leaving the outcome unresolved.",
+          "description": "Jiraiya and Gamaken engage Pain and Konan in a fierce battle utilizing summoning techniques, fire release, and water release, with Pain revealing his ideology of achieving peace through pain."
+        }
+      ]
+    },
+    {
+      "source": 33,
       "target": 7,
       "value": 5,
       "battles": [
@@ -3376,7 +3389,7 @@
       ]
     },
     {
-      "source": 21,
+      "source": 23,
       "target": 2,
       "value": 4,
       "battles": [
@@ -3403,7 +3416,7 @@
       ]
     },
     {
-      "source": 22,
+      "source": 24,
       "target": 3,
       "value": 2,
       "battles": [
@@ -3437,7 +3450,7 @@
       ]
     },
     {
-      "source": 30,
+      "source": 32,
       "target": 3,
       "value": 4,
       "battles": [
@@ -3464,7 +3477,7 @@
       ]
     },
     {
-      "source": 19,
+      "source": 21,
       "target": 3,
       "value": 2,
       "battles": [
@@ -3671,7 +3684,7 @@
       ]
     },
     {
-      "source": 50,
+      "source": 48,
       "target": 16,
       "value": 2,
       "battles": [
@@ -3688,7 +3701,24 @@
       ]
     },
     {
-      "source": 54,
+      "source": 53,
+      "target": 16,
+      "value": 2,
+      "battles": [
+        {
+          "episode": "143",
+          "outcome": "Taka captures a weakened Killer B, though sustaining significant injuries and revealing their Akatsuki affiliation to Kumogakure shinobi.",
+          "description": "Taka battles Killer B, utilizing a combination of jutsu including Amatarasu, Chidori, and Suigetsu's water techniques, ultimately subduing him but attracting the attention of Kumogakure scouts."
+        },
+        {
+          "episode": "142",
+          "outcome": "Killer B defeats Suigetsu and Jūgo, and the battle with Sasuke is ongoing.",
+          "description": "Sasuke and Team Taka confront Killer B, the jinchūriki of the Eight-Tails, resulting in Suigetsu and Jūgo being defeated while Sasuke prepares to battle him."
+        }
+      ]
+    },
+    {
+      "source": 52,
       "target": 16,
       "value": 1,
       "battles": [
@@ -3701,7 +3731,7 @@
     },
     {
       "source": 7,
-      "target": 43,
+      "target": 42,
       "value": 1,
       "battles": [
         {
@@ -3724,7 +3754,7 @@
       ]
     },
     {
-      "source": 21,
+      "source": 23,
       "target": 7,
       "value": 2,
       "battles": [
@@ -3763,7 +3793,19 @@
       ]
     },
     {
-      "source": 32,
+      "source": 54,
+      "target": 16,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "155",
+          "outcome": "Akatsuki successfully sealed the Eight-Tails, though it was revealed to be a clone, leaving the real Jinchuriki's location unknown.",
+          "description": "The Akatsuki members initiate the sealing of the Eight-Tails using the Demonic Statue of the Outer Path, only to discover they were sealing a clone created with the Octopus Leg Clone Technique."
+        }
+      ]
+    },
+    {
+      "source": 34,
       "target": 16,
       "value": 3,
       "battles": [
@@ -3828,7 +3870,7 @@
     },
     {
       "source": 16,
-      "target": 18,
+      "target": 19,
       "value": 1,
       "battles": [
         {
@@ -3840,7 +3882,7 @@
     },
     {
       "source": 7,
-      "target": 44,
+      "target": 43,
       "value": 1,
       "battles": [
         {
@@ -3864,7 +3906,7 @@
     },
     {
       "source": 7,
-      "target": 30,
+      "target": 32,
       "value": 3,
       "battles": [
         {
@@ -3886,7 +3928,7 @@
     },
     {
       "source": 7,
-      "target": 41,
+      "target": 40,
       "value": 2,
       "battles": [
         {
@@ -3902,8 +3944,20 @@
       ]
     },
     {
+      "source": 40,
+      "target": 54,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "173",
+          "outcome": "Nagato and Konan decisively defeat Hanzō and Danzō's forces, with Nagato summoning the Demonic Statue of the Outer Path to absorb their souls.",
+          "description": "Following Yahiko's death, Nagato summons the Demonic Statue of the Outer Path, utilizing its power to obliterate Hanzō and Danzō's forces, though at a significant physical cost to himself."
+        }
+      ]
+    },
+    {
       "source": 0,
-      "target": 20,
+      "target": 22,
       "value": 1,
       "battles": [
         {
@@ -3915,7 +3969,7 @@
     },
     {
       "source": 0,
-      "target": 50,
+      "target": 48,
       "value": 1,
       "battles": [
         {
@@ -3927,7 +3981,19 @@
     },
     {
       "source": 0,
-      "target": 54,
+      "target": 52,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "202",
+          "outcome": "The battle is ongoing with both sides sustaining injuries and utilizing various techniques, but Sasuke and his team manage to hold their ground against the combined forces of Naruto, Sakura, and Kakashi.",
+          "description": "Sasuke, along with Jūgo, Karin, and Suigetsu, engages in a fierce battle against Naruto, Sakura, and Kakashi, showcasing a variety of jutsu including Sage Transformation, Kubikiribōchō, and Lightning Release techniques."
+        }
+      ]
+    },
+    {
+      "source": 0,
+      "target": 53,
       "value": 1,
       "battles": [
         {
@@ -3966,7 +4032,7 @@
     },
     {
       "source": 4,
-      "target": 50,
+      "target": 48,
       "value": 1,
       "battles": [
         {
@@ -3978,7 +4044,7 @@
     },
     {
       "source": 4,
-      "target": 54,
+      "target": 52,
       "value": 2,
       "battles": [
         {
@@ -3990,6 +4056,18 @@
           "episode": "212",
           "outcome": "Sakura interrupts Sasuke's attempt to kill Karin, declaring her desertion from Konoha and intention to join him.",
           "description": "Sakura confronts Sasuke as he prepares to eliminate Karin, showcasing her resolve to side with him despite his actions."
+        }
+      ]
+    },
+    {
+      "source": 4,
+      "target": 53,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "202",
+          "outcome": "The battle is ongoing with both sides sustaining injuries and utilizing various techniques, but Sasuke and his team manage to hold their ground against the combined forces of Naruto, Sakura, and Kakashi.",
+          "description": "Sasuke, along with Jūgo, Karin, and Suigetsu, engages in a fierce battle against Naruto, Sakura, and Kakashi, showcasing a variety of jutsu including Sage Transformation, Kubikiribōchō, and Lightning Release techniques."
         }
       ]
     },
@@ -4022,7 +4100,7 @@
     },
     {
       "source": 1,
-      "target": 50,
+      "target": 48,
       "value": 1,
       "battles": [
         {
@@ -4034,7 +4112,7 @@
     },
     {
       "source": 1,
-      "target": 54,
+      "target": 52,
       "value": 1,
       "battles": [
         {
@@ -4045,7 +4123,19 @@
       ]
     },
     {
-      "source": 20,
+      "source": 1,
+      "target": 53,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "202",
+          "outcome": "The battle is ongoing with both sides sustaining injuries and utilizing various techniques, but Sasuke and his team manage to hold their ground against the combined forces of Naruto, Sakura, and Kakashi.",
+          "description": "Sasuke, along with Jūgo, Karin, and Suigetsu, engages in a fierce battle against Naruto, Sakura, and Kakashi, showcasing a variety of jutsu including Sage Transformation, Kubikiribōchō, and Lightning Release techniques."
+        }
+      ]
+    },
+    {
+      "source": 22,
       "target": 2,
       "value": 2,
       "battles": [
@@ -4062,7 +4152,7 @@
       ]
     },
     {
-      "source": 48,
+      "source": 47,
       "target": 2,
       "value": 1,
       "battles": [
@@ -4075,7 +4165,7 @@
     },
     {
       "source": 2,
-      "target": 46,
+      "target": 45,
       "value": 1,
       "battles": [
         {
@@ -4086,7 +4176,7 @@
       ]
     },
     {
-      "source": 41,
+      "source": 40,
       "target": 2,
       "value": 5,
       "battles": [
@@ -4118,7 +4208,7 @@
       ]
     },
     {
-      "source": 41,
+      "source": 40,
       "target": 16,
       "value": 1,
       "battles": [
@@ -4130,8 +4220,8 @@
       ]
     },
     {
-      "source": 41,
-      "target": 51,
+      "source": 40,
+      "target": 49,
       "value": 1,
       "battles": [
         {
@@ -4143,7 +4233,7 @@
     },
     {
       "source": 16,
-      "target": 51,
+      "target": 49,
       "value": 2,
       "battles": [
         {
@@ -4159,7 +4249,7 @@
       ]
     },
     {
-      "source": 33,
+      "source": 20,
       "target": 38,
       "value": 1,
       "battles": [
@@ -4243,7 +4333,7 @@
       ]
     },
     {
-      "source": 32,
+      "source": 34,
       "target": 5,
       "value": 1,
       "battles": [
@@ -4294,9 +4384,9 @@
       ]
     },
     {
-      "source": 33,
+      "source": 20,
       "target": 6,
-      "value": 4,
+      "value": 7,
       "battles": [
         {
           "episode": "251",
@@ -4317,12 +4407,27 @@
           "episode": "362",
           "outcome": "The Demonic Statue of the Outer Path was destroyed, but the Ten-Tails was revived, shifting the conflict's focus.",
           "description": "Naruto and Killer B combined a Tailed Beast Ball to destroy the Demonic Statue, while Kakashi and Guy engaged Obito and Madara with Lightning Cutter and Daytime Tiger respectively, ultimately failing to prevent the Ten-Tails' revival."
+        },
+        {
+          "episode": "417",
+          "outcome": "Madara is temporarily stalled, and Kakashi is saved by Guy's intervention.",
+          "description": "Madara attacks Kakashi with Truth-Seeking Balls, but Guy arrives in time to save him, while Obito uses Kamui to escape to another dimension."
+        },
+        {
+          "episode": "418",
+          "outcome": "Madara Uchiha withstands Guy's attack, leaving Guy to prepare for the Gate of Death.",
+          "description": "Might Guy opens the Gate of Wonder in an attempt to damage Madara, but Madara effortlessly blocks the attack, prompting Guy to resolve to open the Gate of Death."
+        },
+        {
+          "episode": "421",
+          "outcome": "Madara is severely wounded but survives due to regeneration, while Guy is saved from death by Naruto's new powers.",
+          "description": "Might Guy unleashes the Night Guy technique, a devastating attack that nearly kills Madara, but Naruto intervenes with his Six Paths Sage Mode to save Guy from the backlash."
         }
       ]
     },
     {
       "source": 8,
-      "target": 28,
+      "target": 30,
       "value": 2,
       "battles": [
         {
@@ -4334,7 +4439,7 @@
     },
     {
       "source": 3,
-      "target": 28,
+      "target": 30,
       "value": 8,
       "battles": [
         {
@@ -4375,8 +4480,8 @@
       ]
     },
     {
-      "source": 28,
-      "target": 29,
+      "source": 30,
+      "target": 31,
       "value": 2,
       "battles": [
         {
@@ -4387,7 +4492,7 @@
       ]
     },
     {
-      "source": 28,
+      "source": 30,
       "target": 39,
       "value": 2,
       "battles": [
@@ -4399,8 +4504,8 @@
       ]
     },
     {
-      "source": 18,
-      "target": 28,
+      "source": 19,
+      "target": 30,
       "value": 2,
       "battles": [
         {
@@ -4412,7 +4517,7 @@
     },
     {
       "source": 1,
-      "target": 29,
+      "target": 31,
       "value": 1,
       "battles": [
         {
@@ -4436,7 +4541,7 @@
     },
     {
       "source": 1,
-      "target": 18,
+      "target": 19,
       "value": 2,
       "battles": [
         {
@@ -4482,7 +4587,7 @@
     },
     {
       "source": 10,
-      "target": 29,
+      "target": 31,
       "value": 1,
       "battles": [
         {
@@ -4506,7 +4611,7 @@
     },
     {
       "source": 10,
-      "target": 18,
+      "target": 19,
       "value": 2,
       "battles": [
         {
@@ -4522,7 +4627,7 @@
       ]
     },
     {
-      "source": 20,
+      "source": 22,
       "target": 8,
       "value": 2,
       "battles": [
@@ -4539,7 +4644,7 @@
       ]
     },
     {
-      "source": 20,
+      "source": 22,
       "target": 3,
       "value": 3,
       "battles": [
@@ -4561,8 +4666,8 @@
       ]
     },
     {
-      "source": 20,
-      "target": 29,
+      "source": 22,
+      "target": 31,
       "value": 1,
       "battles": [
         {
@@ -4573,7 +4678,7 @@
       ]
     },
     {
-      "source": 20,
+      "source": 22,
       "target": 39,
       "value": 1,
       "battles": [
@@ -4585,8 +4690,8 @@
       ]
     },
     {
-      "source": 20,
-      "target": 18,
+      "source": 22,
+      "target": 19,
       "value": 2,
       "battles": [
         {
@@ -4603,7 +4708,7 @@
     },
     {
       "source": 8,
-      "target": 46,
+      "target": 45,
       "value": 1,
       "battles": [
         {
@@ -4615,7 +4720,7 @@
     },
     {
       "source": 3,
-      "target": 46,
+      "target": 45,
       "value": 1,
       "battles": [
         {
@@ -4626,8 +4731,8 @@
       ]
     },
     {
-      "source": 46,
-      "target": 29,
+      "source": 45,
+      "target": 31,
       "value": 1,
       "battles": [
         {
@@ -4638,7 +4743,7 @@
       ]
     },
     {
-      "source": 46,
+      "source": 45,
       "target": 39,
       "value": 1,
       "battles": [
@@ -4650,8 +4755,8 @@
       ]
     },
     {
-      "source": 18,
-      "target": 46,
+      "source": 19,
+      "target": 45,
       "value": 1,
       "battles": [
         {
@@ -4662,7 +4767,7 @@
       ]
     },
     {
-      "source": 48,
+      "source": 47,
       "target": 8,
       "value": 1,
       "battles": [
@@ -4674,7 +4779,7 @@
       ]
     },
     {
-      "source": 48,
+      "source": 47,
       "target": 3,
       "value": 1,
       "battles": [
@@ -4686,8 +4791,8 @@
       ]
     },
     {
-      "source": 48,
-      "target": 29,
+      "source": 47,
+      "target": 31,
       "value": 1,
       "battles": [
         {
@@ -4698,7 +4803,7 @@
       ]
     },
     {
-      "source": 48,
+      "source": 47,
       "target": 39,
       "value": 1,
       "battles": [
@@ -4710,8 +4815,8 @@
       ]
     },
     {
-      "source": 48,
-      "target": 18,
+      "source": 47,
+      "target": 19,
       "value": 1,
       "battles": [
         {
@@ -4747,7 +4852,7 @@
     },
     {
       "source": 35,
-      "target": 29,
+      "target": 31,
       "value": 1,
       "battles": [
         {
@@ -4771,7 +4876,7 @@
     },
     {
       "source": 35,
-      "target": 18,
+      "target": 19,
       "value": 1,
       "battles": [
         {
@@ -4807,7 +4912,7 @@
     },
     {
       "source": 37,
-      "target": 29,
+      "target": 31,
       "value": 1,
       "battles": [
         {
@@ -4831,7 +4936,7 @@
     },
     {
       "source": 37,
-      "target": 18,
+      "target": 19,
       "value": 1,
       "battles": [
         {
@@ -4843,7 +4948,7 @@
     },
     {
       "source": 8,
-      "target": 52,
+      "target": 50,
       "value": 1,
       "battles": [
         {
@@ -4855,7 +4960,7 @@
     },
     {
       "source": 3,
-      "target": 52,
+      "target": 50,
       "value": 1,
       "battles": [
         {
@@ -4866,8 +4971,8 @@
       ]
     },
     {
-      "source": 29,
-      "target": 52,
+      "source": 31,
+      "target": 50,
       "value": 1,
       "battles": [
         {
@@ -4879,7 +4984,7 @@
     },
     {
       "source": 39,
-      "target": 52,
+      "target": 50,
       "value": 1,
       "battles": [
         {
@@ -4890,8 +4995,8 @@
       ]
     },
     {
-      "source": 18,
-      "target": 52,
+      "source": 19,
+      "target": 50,
       "value": 1,
       "battles": [
         {
@@ -4915,7 +5020,7 @@
     },
     {
       "source": 13,
-      "target": 29,
+      "target": 31,
       "value": 1,
       "battles": [
         {
@@ -4939,7 +5044,7 @@
     },
     {
       "source": 13,
-      "target": 18,
+      "target": 19,
       "value": 1,
       "battles": [
         {
@@ -4950,7 +5055,7 @@
       ]
     },
     {
-      "source": 21,
+      "source": 23,
       "target": 8,
       "value": 4,
       "battles": [
@@ -4977,7 +5082,7 @@
       ]
     },
     {
-      "source": 21,
+      "source": 23,
       "target": 3,
       "value": 1,
       "battles": [
@@ -4989,8 +5094,8 @@
       ]
     },
     {
-      "source": 21,
-      "target": 29,
+      "source": 23,
+      "target": 31,
       "value": 1,
       "battles": [
         {
@@ -5001,7 +5106,7 @@
       ]
     },
     {
-      "source": 21,
+      "source": 23,
       "target": 39,
       "value": 1,
       "battles": [
@@ -5013,8 +5118,8 @@
       ]
     },
     {
-      "source": 21,
-      "target": 18,
+      "source": 23,
+      "target": 19,
       "value": 1,
       "battles": [
         {
@@ -5050,7 +5155,7 @@
     },
     {
       "source": 14,
-      "target": 29,
+      "target": 31,
       "value": 1,
       "battles": [
         {
@@ -5074,7 +5179,7 @@
     },
     {
       "source": 14,
-      "target": 18,
+      "target": 19,
       "value": 1,
       "battles": [
         {
@@ -5110,7 +5215,7 @@
     },
     {
       "source": 17,
-      "target": 29,
+      "target": 31,
       "value": 1,
       "battles": [
         {
@@ -5134,7 +5239,7 @@
     },
     {
       "source": 17,
-      "target": 18,
+      "target": 19,
       "value": 1,
       "battles": [
         {
@@ -5175,7 +5280,7 @@
     },
     {
       "source": 7,
-      "target": 29,
+      "target": 31,
       "value": 1,
       "battles": [
         {
@@ -5199,7 +5304,7 @@
     },
     {
       "source": 7,
-      "target": 18,
+      "target": 19,
       "value": 1,
       "battles": [
         {
@@ -5211,7 +5316,7 @@
     },
     {
       "source": 2,
-      "target": 19,
+      "target": 21,
       "value": 1,
       "battles": [
         {
@@ -5223,7 +5328,7 @@
     },
     {
       "source": 2,
-      "target": 27,
+      "target": 29,
       "value": 1,
       "battles": [
         {
@@ -5235,7 +5340,7 @@
     },
     {
       "source": 13,
-      "target": 48,
+      "target": 47,
       "value": 2,
       "battles": [
         {
@@ -5301,7 +5406,7 @@
     },
     {
       "source": 1,
-      "target": 52,
+      "target": 50,
       "value": 3,
       "battles": [
         {
@@ -5317,8 +5422,8 @@
       ]
     },
     {
-      "source": 49,
-      "target": 52,
+      "source": 20,
+      "target": 50,
       "value": 2,
       "battles": [
         {
@@ -5329,8 +5434,8 @@
       ]
     },
     {
-      "source": 34,
-      "target": 52,
+      "source": 18,
+      "target": 50,
       "value": 2,
       "battles": [
         {
@@ -5393,7 +5498,7 @@
     },
     {
       "source": 12,
-      "target": 18,
+      "target": 19,
       "value": 1,
       "battles": [
         {
@@ -5405,7 +5510,7 @@
     },
     {
       "source": 11,
-      "target": 18,
+      "target": 19,
       "value": 1,
       "battles": [
         {
@@ -5417,7 +5522,7 @@
     },
     {
       "source": 4,
-      "target": 18,
+      "target": 19,
       "value": 1,
       "battles": [
         {
@@ -5429,7 +5534,7 @@
     },
     {
       "source": 0,
-      "target": 51,
+      "target": 49,
       "value": 3,
       "battles": [
         {
@@ -5462,8 +5567,8 @@
       ]
     },
     {
-      "source": 44,
-      "target": 51,
+      "source": 43,
+      "target": 49,
       "value": 1,
       "battles": [
         {
@@ -5497,7 +5602,7 @@
     },
     {
       "source": 0,
-      "target": 49,
+      "target": 20,
       "value": 1,
       "battles": [
         {
@@ -5509,7 +5614,7 @@
     },
     {
       "source": 0,
-      "target": 34,
+      "target": 18,
       "value": 2,
       "battles": [
         {
@@ -5521,7 +5626,7 @@
     },
     {
       "source": 0,
-      "target": 22,
+      "target": 24,
       "value": 1,
       "battles": [
         {
@@ -5572,7 +5677,7 @@
     },
     {
       "source": 0,
-      "target": 30,
+      "target": 32,
       "value": 1,
       "battles": [
         {
@@ -5606,7 +5711,7 @@
     },
     {
       "source": 0,
-      "target": 25,
+      "target": 27,
       "value": 1,
       "battles": [
         {
@@ -5692,7 +5797,7 @@
       ]
     },
     {
-      "source": 48,
+      "source": 47,
       "target": 35,
       "value": 1,
       "battles": [
@@ -5704,7 +5809,7 @@
       ]
     },
     {
-      "source": 20,
+      "source": 22,
       "target": 6,
       "value": 8,
       "battles": [
@@ -5751,7 +5856,7 @@
       ]
     },
     {
-      "source": 46,
+      "source": 45,
       "target": 6,
       "value": 1,
       "battles": [
@@ -5764,7 +5869,7 @@
     },
     {
       "source": 6,
-      "target": 28,
+      "target": 30,
       "value": 5,
       "battles": [
         {
@@ -5795,7 +5900,7 @@
       ]
     },
     {
-      "source": 51,
+      "source": 49,
       "target": 6,
       "value": 4,
       "battles": [
@@ -5823,7 +5928,7 @@
     },
     {
       "source": 0,
-      "target": 29,
+      "target": 31,
       "value": 1,
       "battles": [
         {
@@ -5835,7 +5940,7 @@
     },
     {
       "source": 16,
-      "target": 29,
+      "target": 31,
       "value": 1,
       "battles": [
         {
@@ -5847,7 +5952,7 @@
     },
     {
       "source": 0,
-      "target": 43,
+      "target": 42,
       "value": 3,
       "battles": [
         {
@@ -5869,7 +5974,7 @@
     },
     {
       "source": 16,
-      "target": 43,
+      "target": 42,
       "value": 2,
       "battles": [
         {
@@ -5886,7 +5991,7 @@
     },
     {
       "source": 1,
-      "target": 43,
+      "target": 42,
       "value": 2,
       "battles": [
         {
@@ -5902,8 +6007,8 @@
       ]
     },
     {
-      "source": 33,
-      "target": 43,
+      "source": 20,
+      "target": 42,
       "value": 2,
       "battles": [
         {
@@ -5919,7 +6024,7 @@
       ]
     },
     {
-      "source": 33,
+      "source": 20,
       "target": 3,
       "value": 4,
       "battles": [
@@ -5947,7 +6052,7 @@
     },
     {
       "source": 2,
-      "target": 18,
+      "target": 19,
       "value": 1,
       "battles": [
         {
@@ -6001,7 +6106,7 @@
     },
     {
       "source": 1,
-      "target": 23,
+      "target": 25,
       "value": 3,
       "battles": [
         {
@@ -6023,7 +6128,7 @@
     },
     {
       "source": 1,
-      "target": 41,
+      "target": 40,
       "value": 2,
       "battles": [
         {
@@ -6040,19 +6145,24 @@
     },
     {
       "source": 1,
-      "target": 49,
-      "value": 1,
+      "target": 20,
+      "value": 2,
       "battles": [
         {
           "episode": "357",
           "outcome": "Konoha-nin (Kakashi and Itachi) defeat and eliminate the Prajñā Group",
           "description": "Kakashi and Itachi were tasked with assassinating the Prajñā Group under the guise of a scroll exchange mission, resulting in a swift defeat of the opposing ninja."
+        },
+        {
+          "episode": "241",
+          "outcome": "Kakashi proves his identity, ending the conflict",
+          "description": "Guy, suspecting an imposter, attacks Kakashi and his allies until Kakashi reveals a childhood memory confirming his true identity."
         }
       ]
     },
     {
-      "source": 49,
-      "target": 21,
+      "source": 20,
+      "target": 23,
       "value": 1,
       "battles": [
         {
@@ -6064,7 +6174,7 @@
     },
     {
       "source": 0,
-      "target": 47,
+      "target": 46,
       "value": 3,
       "battles": [
         {
@@ -6086,7 +6196,7 @@
     },
     {
       "source": 1,
-      "target": 47,
+      "target": 46,
       "value": 1,
       "battles": [
         {
@@ -6098,7 +6208,7 @@
     },
     {
       "source": 16,
-      "target": 47,
+      "target": 46,
       "value": 1,
       "battles": [
         {
@@ -6139,7 +6249,7 @@
     },
     {
       "source": 12,
-      "target": 47,
+      "target": 46,
       "value": 1,
       "battles": [
         {
@@ -6150,7 +6260,7 @@
       ]
     },
     {
-      "source": 30,
+      "source": 32,
       "target": 6,
       "value": 2,
       "battles": [
@@ -6167,8 +6277,8 @@
       ]
     },
     {
-      "source": 30,
-      "target": 47,
+      "source": 32,
+      "target": 46,
       "value": 2,
       "battles": [
         {
@@ -6184,8 +6294,8 @@
       ]
     },
     {
-      "source": 28,
-      "target": 47,
+      "source": 30,
+      "target": 46,
       "value": 4,
       "battles": [
         {
@@ -6212,7 +6322,7 @@
     },
     {
       "source": 2,
-      "target": 47,
+      "target": 46,
       "value": 1,
       "battles": [
         {
@@ -6224,7 +6334,7 @@
     },
     {
       "source": 4,
-      "target": 47,
+      "target": 46,
       "value": 1,
       "battles": [
         {
@@ -6236,7 +6346,7 @@
     },
     {
       "source": 0,
-      "target": 53,
+      "target": 51,
       "value": 2,
       "battles": [
         {
@@ -6253,7 +6363,7 @@
     },
     {
       "source": 1,
-      "target": 53,
+      "target": 51,
       "value": 2,
       "battles": [
         {
@@ -6270,7 +6380,7 @@
     },
     {
       "source": 5,
-      "target": 53,
+      "target": 51,
       "value": 2,
       "battles": [
         {
@@ -6287,7 +6397,7 @@
     },
     {
       "source": 10,
-      "target": 53,
+      "target": 51,
       "value": 1,
       "battles": [
         {
@@ -6299,7 +6409,7 @@
     },
     {
       "source": 11,
-      "target": 53,
+      "target": 51,
       "value": 2,
       "battles": [
         {
@@ -6315,8 +6425,8 @@
       ]
     },
     {
-      "source": 19,
-      "target": 53,
+      "source": 21,
+      "target": 51,
       "value": 2,
       "battles": [
         {
@@ -6332,8 +6442,8 @@
       ]
     },
     {
-      "source": 45,
-      "target": 53,
+      "source": 44,
+      "target": 51,
       "value": 2,
       "battles": [
         {
@@ -6341,6 +6451,30 @@
           "outcome": "Mecha-Naruto overwhelms the Konoha team, forcing their retreat and continuing its pursuit of Naruto",
           "description": "Mecha-Naruto engages Team Konoha in a series of skirmishes, utilizing its strength and chakra-siphoning abilities to defeat several ninja and relentlessly pursue Naruto."
         },
+        {
+          "episode": "377",
+          "outcome": "Mecha-Naruto self-destructs, destroying Mecha-Kurama and protecting Naruto.",
+          "description": "Multiple ninja attempt to defeat Mecha-Naruto, but it overwhelms them until it sacrifices itself to destroy the Mecha Nine-Tails, revealing Itachi's programming."
+        }
+      ]
+    },
+    {
+      "source": 24,
+      "target": 51,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "376",
+          "outcome": "Mecha-Naruto overwhelms the Konoha team, forcing their retreat and continuing its pursuit of Naruto",
+          "description": "Mecha-Naruto engages Team Konoha in a series of skirmishes, utilizing its strength and chakra-siphoning abilities to defeat several ninja and relentlessly pursue Naruto."
+        }
+      ]
+    },
+    {
+      "source": 22,
+      "target": 51,
+      "value": 1,
+      "battles": [
         {
           "episode": "377",
           "outcome": "Mecha-Naruto self-destructs, destroying Mecha-Kurama and protecting Naruto.",
@@ -6350,31 +6484,7 @@
     },
     {
       "source": 22,
-      "target": 53,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "376",
-          "outcome": "Mecha-Naruto overwhelms the Konoha team, forcing their retreat and continuing its pursuit of Naruto",
-          "description": "Mecha-Naruto engages Team Konoha in a series of skirmishes, utilizing its strength and chakra-siphoning abilities to defeat several ninja and relentlessly pursue Naruto."
-        }
-      ]
-    },
-    {
-      "source": 20,
-      "target": 53,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "377",
-          "outcome": "Mecha-Naruto self-destructs, destroying Mecha-Kurama and protecting Naruto.",
-          "description": "Multiple ninja attempt to defeat Mecha-Naruto, but it overwhelms them until it sacrifices itself to destroy the Mecha Nine-Tails, revealing Itachi's programming."
-        }
-      ]
-    },
-    {
-      "source": 20,
-      "target": 23,
+      "target": 25,
       "value": 2,
       "battles": [
         {
@@ -6391,7 +6501,7 @@
     },
     {
       "source": 11,
-      "target": 23,
+      "target": 25,
       "value": 1,
       "battles": [
         {
@@ -6402,8 +6512,8 @@
       ]
     },
     {
-      "source": 23,
-      "target": 19,
+      "source": 25,
+      "target": 21,
       "value": 1,
       "battles": [
         {
@@ -6414,8 +6524,8 @@
       ]
     },
     {
-      "source": 27,
-      "target": 53,
+      "source": 29,
+      "target": 51,
       "value": 1,
       "battles": [
         {
@@ -6426,8 +6536,8 @@
       ]
     },
     {
-      "source": 23,
-      "target": 27,
+      "source": 25,
+      "target": 29,
       "value": 1,
       "battles": [
         {
@@ -6438,8 +6548,8 @@
       ]
     },
     {
-      "source": 45,
-      "target": 23,
+      "source": 44,
+      "target": 25,
       "value": 1,
       "battles": [
         {
@@ -6450,8 +6560,8 @@
       ]
     },
     {
-      "source": 31,
-      "target": 53,
+      "source": 33,
+      "target": 51,
       "value": 1,
       "battles": [
         {
@@ -6462,8 +6572,8 @@
       ]
     },
     {
-      "source": 31,
-      "target": 23,
+      "source": 33,
+      "target": 25,
       "value": 1,
       "battles": [
         {
@@ -6475,7 +6585,7 @@
     },
     {
       "source": 3,
-      "target": 50,
+      "target": 48,
       "value": 1,
       "battles": [
         {
@@ -6498,7 +6608,7 @@
       ]
     },
     {
-      "source": 34,
+      "source": 18,
       "target": 3,
       "value": 1,
       "battles": [
@@ -6510,7 +6620,7 @@
       ]
     },
     {
-      "source": 25,
+      "source": 27,
       "target": 3,
       "value": 1,
       "battles": [
@@ -6550,7 +6660,7 @@
     },
     {
       "source": 6,
-      "target": 29,
+      "target": 31,
       "value": 1,
       "battles": [
         {
@@ -6562,7 +6672,7 @@
     },
     {
       "source": 0,
-      "target": 18,
+      "target": 19,
       "value": 1,
       "battles": [
         {
@@ -6573,8 +6683,8 @@
       ]
     },
     {
-      "source": 18,
-      "target": 29,
+      "source": 19,
+      "target": 31,
       "value": 1,
       "battles": [
         {
@@ -6586,7 +6696,7 @@
     },
     {
       "source": 3,
-      "target": 54,
+      "target": 52,
       "value": 1,
       "battles": [
         {
@@ -6597,24 +6707,19 @@
       ]
     },
     {
-      "source": 49,
-      "target": 6,
-      "value": 3,
+      "source": 53,
+      "target": 52,
+      "value": 2,
       "battles": [
         {
-          "episode": "417",
-          "outcome": "Madara is temporarily stalled, and Kakashi is saved by Guy's intervention.",
-          "description": "Madara attacks Kakashi with Truth-Seeking Balls, but Guy arrives in time to save him, while Obito uses Kamui to escape to another dimension."
+          "episode": "414",
+          "outcome": "Karin escapes with injuries, and Tobī temporarily paralyzed by Orochimaru.",
+          "description": "Karin is attacked by Tobī and his allies, but manages to heal herself and evade capture with the help of Suigetsu and Jūgo, while Orochimaru briefly incapacitates Tobī."
         },
         {
-          "episode": "418",
-          "outcome": "Madara Uchiha withstands Guy's attack, leaving Guy to prepare for the Gate of Death.",
-          "description": "Might Guy opens the Gate of Wonder in an attempt to damage Madara, but Madara effortlessly blocks the attack, prompting Guy to resolve to open the Gate of Death."
-        },
-        {
-          "episode": "421",
-          "outcome": "Madara is severely wounded but survives due to regeneration, while Guy is saved from death by Naruto's new powers.",
-          "description": "Might Guy unleashes the Night Guy technique, a devastating attack that nearly kills Madara, but Naruto intervenes with his Six Paths Sage Mode to save Guy from the backlash."
+          "episode": "116",
+          "outcome": "Karin reluctantly joins Sasuke and Suigetsu's team after a verbal confrontation and display of her attraction to Sasuke",
+          "description": "Sasuke and Suigetsu convince Karin to join their team, showcasing her unique chakra sensing abilities and a past encounter where Sasuke saved her, though she initially reverts to her cold demeanor before ultimately agreeing to accompany them."
         }
       ]
     },
@@ -6631,7 +6736,7 @@
       ]
     },
     {
-      "source": 20,
+      "source": 22,
       "target": 5,
       "value": 1,
       "battles": [
@@ -6643,8 +6748,8 @@
       ]
     },
     {
-      "source": 23,
-      "target": 43,
+      "source": 25,
+      "target": 42,
       "value": 1,
       "battles": [
         {
@@ -6656,7 +6761,7 @@
     },
     {
       "source": 8,
-      "target": 43,
+      "target": 42,
       "value": 1,
       "battles": [
         {
@@ -6668,7 +6773,7 @@
     },
     {
       "source": 2,
-      "target": 43,
+      "target": 42,
       "value": 1,
       "battles": [
         {
@@ -6691,7 +6796,7 @@
       ]
     },
     {
-      "source": 31,
+      "source": 33,
       "target": 10,
       "value": 1,
       "battles": [
@@ -6703,7 +6808,7 @@
       ]
     },
     {
-      "source": 31,
+      "source": 33,
       "target": 12,
       "value": 1,
       "battles": [
@@ -6715,7 +6820,7 @@
       ]
     },
     {
-      "source": 31,
+      "source": 33,
       "target": 11,
       "value": 1,
       "battles": [
@@ -6774,7 +6879,7 @@
     },
     {
       "source": 14,
-      "target": 45,
+      "target": 44,
       "value": 1,
       "battles": [
         {
@@ -6810,7 +6915,7 @@
     },
     {
       "source": 0,
-      "target": 26,
+      "target": 28,
       "value": 7,
       "battles": [
         {
@@ -6852,7 +6957,7 @@
     },
     {
       "source": 2,
-      "target": 26,
+      "target": 28,
       "value": 6,
       "battles": [
         {
@@ -6889,7 +6994,7 @@
     },
     {
       "source": 1,
-      "target": 26,
+      "target": 28,
       "value": 6,
       "battles": [
         {
@@ -6926,7 +7031,7 @@
     },
     {
       "source": 4,
-      "target": 26,
+      "target": 28,
       "value": 6,
       "battles": [
         {
@@ -6963,7 +7068,7 @@
     },
     {
       "source": 3,
-      "target": 26,
+      "target": 28,
       "value": 3,
       "battles": [
         {
@@ -6984,8 +7089,8 @@
       ]
     },
     {
-      "source": 29,
-      "target": 26,
+      "source": 31,
+      "target": 28,
       "value": 1,
       "battles": [
         {
@@ -7025,8 +7130,20 @@
       ]
     },
     {
+      "source": 34,
+      "target": 53,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "134",
+          "outcome": "Kisame dominates the fight, showcasing his skill with Samehada and overwhelming Suigetsu's water techniques.",
+          "description": "Suigetsu challenges Kisame to a fight while waiting for Sasuke to enter the Uchiha Hideout, resulting in a display of Kisame's swordsmanship and water-based abilities."
+        }
+      ]
+    },
+    {
       "source": 5,
-      "target": 43,
+      "target": 42,
       "value": 1,
       "battles": [
         {
@@ -7038,7 +7155,7 @@
     },
     {
       "source": 9,
-      "target": 43,
+      "target": 42,
       "value": 1,
       "battles": [
         {
@@ -7061,8 +7178,20 @@
       ]
     },
     {
+      "source": 4,
+      "target": 54,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "162",
+          "outcome": "Konoha is almost entirely destroyed by Pain's Shinra Tensei, leaving few survivors and the village in ruins.",
+          "description": "Pain uses the Shinra Tensei to obliterate Konoha after a tense exchange with Tsunade, while Naruto and the toads arrive just after the devastation."
+        }
+      ]
+    },
+    {
       "source": 3,
-      "target": 51,
+      "target": 49,
       "value": 1,
       "battles": [
         {
@@ -7085,19 +7214,7 @@
       ]
     },
     {
-      "source": 1,
-      "target": 33,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "241",
-          "outcome": "Kakashi proves his identity, ending the conflict",
-          "description": "Guy, suspecting an imposter, attacks Kakashi and his allies until Kakashi reveals a childhood memory confirming his true identity."
-        }
-      ]
-    },
-    {
-      "source": 33,
+      "source": 20,
       "target": 5,
       "value": 1,
       "battles": [
@@ -7109,31 +7226,48 @@
       ]
     },
     {
-      "source": 19,
-      "target": 18,
-      "value": 1,
+      "source": 3,
+      "target": 54,
+      "value": 2,
       "battles": [
         {
-          "episode": "264",
-          "outcome": "Allied Shinobi Forces successfully uncovered and engaged the White Zetsu Army",
-          "description": "The Allied Shinobi Forces utilized Earth Release techniques to unearth the White Zetsu Army, initiating a direct confrontation."
-        }
-      ]
-    },
-    {
-      "source": 27,
-      "target": 18,
-      "value": 1,
-      "battles": [
+          "episode": "252",
+          "outcome": "Both combatants sustain severe injuries, resulting in a stalemate with Konan losing the lower half of her body and Tobi losing his right arm and having his mask damaged.",
+          "description": "Konan and Tobi engage in a fierce battle utilizing paper techniques, Kamui, and explosive tags, leading to significant injuries for both sides and a split lake."
+        },
         {
-          "episode": "264",
-          "outcome": "Allied Shinobi Forces successfully uncovered and engaged the White Zetsu Army",
-          "description": "The Allied Shinobi Forces utilized Earth Release techniques to unearth the White Zetsu Army, initiating a direct confrontation."
+          "episode": "253",
+          "outcome": "Tobi defeats and captures Konan, though she manages to damage him significantly before being subdued.",
+          "description": "Tobi engages Konan in a fierce battle utilizing Kamui and his Sharingan, ultimately overpowering her with a combination of attacks and strategic maneuvers."
         }
       ]
     },
     {
       "source": 21,
+      "target": 19,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "264",
+          "outcome": "Allied Shinobi Forces successfully uncovered and engaged the White Zetsu Army",
+          "description": "The Allied Shinobi Forces utilized Earth Release techniques to unearth the White Zetsu Army, initiating a direct confrontation."
+        }
+      ]
+    },
+    {
+      "source": 29,
+      "target": 19,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "264",
+          "outcome": "Allied Shinobi Forces successfully uncovered and engaged the White Zetsu Army",
+          "description": "The Allied Shinobi Forces utilized Earth Release techniques to unearth the White Zetsu Army, initiating a direct confrontation."
+        }
+      ]
+    },
+    {
+      "source": 23,
       "target": 16,
       "value": 1,
       "battles": [
@@ -7145,8 +7279,8 @@
       ]
     },
     {
-      "source": 25,
-      "target": 30,
+      "source": 27,
+      "target": 32,
       "value": 1,
       "battles": [
         {
@@ -7158,7 +7292,7 @@
     },
     {
       "source": 14,
-      "target": 23,
+      "target": 25,
       "value": 1,
       "battles": [
         {
@@ -7170,7 +7304,7 @@
     },
     {
       "source": 13,
-      "target": 23,
+      "target": 25,
       "value": 1,
       "battles": [
         {
@@ -7194,7 +7328,7 @@
     },
     {
       "source": 9,
-      "target": 46,
+      "target": 45,
       "value": 1,
       "battles": [
         {
