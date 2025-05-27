@@ -796,9 +796,6 @@
       "name": "Uchiha Clan"
     },
     {
-      "name": "Obito"
-    },
-    {
       "name": "Ten-Tails"
     },
     {
@@ -6128,7 +6125,7 @@
     {
       "source": 33,
       "target": 78,
-      "value": 5,
+      "value": 9,
       "battles": [
         {
           "episode": "122",
@@ -6154,6 +6151,26 @@
           "episode": "197",
           "outcome": "Obito and Zetsu block Taka's path, asserting their continued involvement despite Taka's departure from Akatsuki.",
           "description": "Obito Uchiha and Zetsu intercept Taka, revealing their continued control over the group and informing Sasuke of the Five Kage Summit and Danzo's appointment as Hokage."
+        },
+        {
+          "episode": "379",
+          "outcome": "Obito sustains damage and is confirmed vulnerable to Senjutsu-infused attacks, but remains largely unharmed due to Yin-Yang Release.",
+          "description": "Naruto, Sasuke, Minato, and Tobirama combine attacks against Obito, discovering his Truth-Seeking Balls nullify ninjutsu and that Senjutsu-infused Rasenshuken can bypass this defense."
+        },
+        {
+          "episode": "382",
+          "outcome": "Battle ongoing with Sasuke and Jūgo utilizing Sage Transformation against Obito, but no clear winner",
+          "description": "Sasuke and Jūgo engage Obito in battle, with Jūgo activating Sage Transformation on Sasuke's Susanoo to enhance their attack power."
+        },
+        {
+          "episode": "387",
+          "outcome": "Obito is subdued and powers are temporarily sealed, though the conflict remains ongoing with Madara's presence.",
+          "description": "Naruto and the Allied Shinobi Forces successfully free the Tailed Beasts, leading to Obito's defeat and temporary incapacitation, while Kakashi and Minato debate Obito's fate."
+        },
+        {
+          "episode": "383",
+          "outcome": "Obito overwhelms Naruto and Sasuke, forcing them out of their Tailed Beast Mode and Susanoo",
+          "description": "Naruto and Sasuke clash with Obito, who easily evades their attacks and uses his Tailed Beast Chakra Arms to subdue them, reverting them to their base forms."
         }
       ]
     },
@@ -6747,12 +6764,22 @@
     {
       "source": 62,
       "target": 78,
-      "value": 2,
+      "value": 4,
       "battles": [
         {
           "episode": "139",
           "outcome": "Tobi escapes unharmed due to Kamui and the revelation of Sasuke killing Itachi, effectively ending the confrontation.",
           "description": "Despite attacks from the Eight Man Squad, Tobi phases through them with Kamui, and the battle is interrupted by the news of Itachi's death, causing Tobi to reveal a new demeanor."
+        },
+        {
+          "episode": "363",
+          "outcome": "The Allied Shinobi Forces temporarily bind the Ten-Tails using a coordinated strategy, though the beast begins to transform.",
+          "description": "The Allied Shinobi Forces launch a coordinated attack to blind and restrain the Ten-Tails, utilizing quicklime and water, while Naruto attempts to reason with Obito."
+        },
+        {
+          "episode": "365",
+          "outcome": "The Ten-Tails' connection to Obito is severed, forcing a retreat for both Obito and Madara.",
+          "description": "Empowered by Kurama's chakra, the Allied Shinobi Forces launch a coordinated attack using Rasenshurikens and Nara shadow techniques, successfully disrupting Obito's control over the Ten-Tails."
         },
         {
           "episode": "384",
@@ -6798,7 +6825,7 @@
     {
       "source": 0,
       "target": 78,
-      "value": 8,
+      "value": 15,
       "battles": [
         {
           "episode": "139",
@@ -6831,6 +6858,41 @@
           "description": "Naruto, in Tailed Beast Mode, attacks Obito with Rasengan and Tailed Beast Ball, while Kakashi and Guy assist, leading to Obito's mask shattering and reveal, before Madara's unexpected arrival."
         },
         {
+          "episode": "363",
+          "outcome": "The Allied Shinobi Forces temporarily bind the Ten-Tails using a coordinated strategy, though the beast begins to transform.",
+          "description": "The Allied Shinobi Forces launch a coordinated attack to blind and restrain the Ten-Tails, utilizing quicklime and water, while Naruto attempts to reason with Obito."
+        },
+        {
+          "episode": "365",
+          "outcome": "The Ten-Tails' connection to Obito is severed, forcing a retreat for both Obito and Madara.",
+          "description": "Empowered by Kurama's chakra, the Allied Shinobi Forces launch a coordinated attack using Rasenshurikens and Nara shadow techniques, successfully disrupting Obito's control over the Ten-Tails."
+        },
+        {
+          "episode": "379",
+          "outcome": "Obito sustains damage and is confirmed vulnerable to Senjutsu-infused attacks, but remains largely unharmed due to Yin-Yang Release.",
+          "description": "Naruto, Sasuke, Minato, and Tobirama combine attacks against Obito, discovering his Truth-Seeking Balls nullify ninjutsu and that Senjutsu-infused Rasenshuken can bypass this defense."
+        },
+        {
+          "episode": "381",
+          "outcome": "Obito successfully defends against the combined attack and initiates the final phase of his plan, releasing the Ten-Tails and activating the Six Red Yang Formation.",
+          "description": "Naruto and Minato land a Parent and Child Rasengan on Obito, followed by a natural energy-infused Tailed Beast Ball, but Obito counters by releasing the Ten-Tails and initiating the Six Red Yang Formation to drain the Shinobi Alliance's chakra."
+        },
+        {
+          "episode": "387",
+          "outcome": "Obito is subdued and powers are temporarily sealed, though the conflict remains ongoing with Madara's presence.",
+          "description": "Naruto and the Allied Shinobi Forces successfully free the Tailed Beasts, leading to Obito's defeat and temporary incapacitation, while Kakashi and Minato debate Obito's fate."
+        },
+        {
+          "episode": "362",
+          "outcome": "The Demonic Statue of the Outer Path was destroyed, but the Ten-Tails was revived, shifting the conflict's focus.",
+          "description": "Naruto and Killer B combined a Tailed Beast Ball to destroy the Demonic Statue, while Kakashi and Guy engaged Obito and Madara with Lightning Cutter and Daytime Tiger respectively, ultimately failing to prevent the Ten-Tails' revival."
+        },
+        {
+          "episode": "383",
+          "outcome": "Obito overwhelms Naruto and Sasuke, forcing them out of their Tailed Beast Mode and Susanoo",
+          "description": "Naruto and Sasuke clash with Obito, who easily evades their attacks and uses his Tailed Beast Chakra Arms to subdue them, reverting them to their base forms."
+        },
+        {
           "episode": "384",
           "outcome": "The tailed beasts' chakra is extracted from Obito, leaving him weakened and vulnerable.",
           "description": "Naruto and Sasuke, aided by the Konoha 11 and Shinobi Alliance, launch a combined assault using Rasengan and Tailed Beast Mode to pull the chakra of the Tailed Beasts from Obito."
@@ -6840,7 +6902,7 @@
     {
       "source": 4,
       "target": 78,
-      "value": 6,
+      "value": 11,
       "battles": [
         {
           "episode": "139",
@@ -6866,6 +6928,31 @@
           "episode": "343",
           "outcome": "Tobi/Obito escapes into Kamui's Dimension, and Madara arrives, shifting the battle dynamic.",
           "description": "Naruto, in Tailed Beast Mode, attacks Obito with Rasengan and Tailed Beast Ball, while Kakashi and Guy assist, leading to Obito's mask shattering and reveal, before Madara's unexpected arrival."
+        },
+        {
+          "episode": "363",
+          "outcome": "The Allied Shinobi Forces temporarily bind the Ten-Tails using a coordinated strategy, though the beast begins to transform.",
+          "description": "The Allied Shinobi Forces launch a coordinated attack to blind and restrain the Ten-Tails, utilizing quicklime and water, while Naruto attempts to reason with Obito."
+        },
+        {
+          "episode": "387",
+          "outcome": "Obito is subdued and powers are temporarily sealed, though the conflict remains ongoing with Madara's presence.",
+          "description": "Naruto and the Allied Shinobi Forces successfully free the Tailed Beasts, leading to Obito's defeat and temporary incapacitation, while Kakashi and Minato debate Obito's fate."
+        },
+        {
+          "episode": "362",
+          "outcome": "The Demonic Statue of the Outer Path was destroyed, but the Ten-Tails was revived, shifting the conflict's focus.",
+          "description": "Naruto and Killer B combined a Tailed Beast Ball to destroy the Demonic Statue, while Kakashi and Guy engaged Obito and Madara with Lightning Cutter and Daytime Tiger respectively, ultimately failing to prevent the Ten-Tails' revival."
+        },
+        {
+          "episode": "371",
+          "outcome": "The battle is interrupted with no clear winner, focusing on a psychological clash and revelation of Rin's death.",
+          "description": "Kakashi and Obito engage in a fierce battle within Kamui's dimension, with Obito revealing the truth behind Rin's death and attempting to break Kakashi's spirit."
+        },
+        {
+          "episode": "375",
+          "outcome": "Obito becomes the Ten-Tails' Jinchūriki, resisting Madara's control and transforming into a powerful new form",
+          "description": "Kakashi and Minato engage Obito in a fierce battle, revealing his identity as the masked man before he absorbs the Ten-Tails, becoming its Jinchūriki."
         },
         {
           "episode": "415",
@@ -7258,7 +7345,7 @@
     {
       "source": 78,
       "target": 99,
-      "value": 5,
+      "value": 7,
       "battles": [
         {
           "episode": "155",
@@ -7284,6 +7371,16 @@
           "episode": "343",
           "outcome": "Tobi/Obito escapes into Kamui's Dimension, and Madara arrives, shifting the battle dynamic.",
           "description": "Naruto, in Tailed Beast Mode, attacks Obito with Rasengan and Tailed Beast Ball, while Kakashi and Guy assist, leading to Obito's mask shattering and reveal, before Madara's unexpected arrival."
+        },
+        {
+          "episode": "363",
+          "outcome": "The Allied Shinobi Forces temporarily bind the Ten-Tails using a coordinated strategy, though the beast begins to transform.",
+          "description": "The Allied Shinobi Forces launch a coordinated attack to blind and restrain the Ten-Tails, utilizing quicklime and water, while Naruto attempts to reason with Obito."
+        },
+        {
+          "episode": "362",
+          "outcome": "The Demonic Statue of the Outer Path was destroyed, but the Ten-Tails was revived, shifting the conflict's focus.",
+          "description": "Naruto and Killer B combined a Tailed Beast Ball to destroy the Demonic Statue, while Kakashi and Guy engaged Obito and Madara with Lightning Cutter and Daytime Tiger respectively, ultimately failing to prevent the Ten-Tails' revival."
         }
       ]
     },
@@ -9484,12 +9581,27 @@
     {
       "source": 78,
       "target": 84,
-      "value": 3,
+      "value": 6,
       "battles": [
         {
           "episode": "248",
           "outcome": "Minato successfully brands Tobi with a Contract Seal, wresting control of the Nine-Tails from him.",
           "description": "Minato utilizes his Flying Thunder God technique and Rasengan to wound Tobi, then seals him with a Contract Seal, regaining control of the Nine-Tails."
+        },
+        {
+          "episode": "379",
+          "outcome": "Obito sustains damage and is confirmed vulnerable to Senjutsu-infused attacks, but remains largely unharmed due to Yin-Yang Release.",
+          "description": "Naruto, Sasuke, Minato, and Tobirama combine attacks against Obito, discovering his Truth-Seeking Balls nullify ninjutsu and that Senjutsu-infused Rasenshuken can bypass this defense."
+        },
+        {
+          "episode": "381",
+          "outcome": "Obito successfully defends against the combined attack and initiates the final phase of his plan, releasing the Ten-Tails and activating the Six Red Yang Formation.",
+          "description": "Naruto and Minato land a Parent and Child Rasengan on Obito, followed by a natural energy-infused Tailed Beast Ball, but Obito counters by releasing the Ten-Tails and initiating the Six Red Yang Formation to drain the Shinobi Alliance's chakra."
+        },
+        {
+          "episode": "375",
+          "outcome": "Obito becomes the Ten-Tails' Jinchūriki, resisting Madara's control and transforming into a powerful new form",
+          "description": "Kakashi and Minato engage Obito in a fierce battle, revealing his identity as the masked man before he absorbs the Ten-Tails, becoming its Jinchūriki."
         },
         {
           "episode": "415",
@@ -9865,12 +9977,27 @@
     {
       "source": 78,
       "target": 177,
-      "value": 5,
+      "value": 8,
       "battles": [
         {
           "episode": "256",
           "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
           "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
+        },
+        {
+          "episode": "363",
+          "outcome": "The Allied Shinobi Forces temporarily bind the Ten-Tails using a coordinated strategy, though the beast begins to transform.",
+          "description": "The Allied Shinobi Forces launch a coordinated attack to blind and restrain the Ten-Tails, utilizing quicklime and water, while Naruto attempts to reason with Obito."
+        },
+        {
+          "episode": "365",
+          "outcome": "The Ten-Tails' connection to Obito is severed, forcing a retreat for both Obito and Madara.",
+          "description": "Empowered by Kurama's chakra, the Allied Shinobi Forces launch a coordinated attack using Rasenshurikens and Nara shadow techniques, successfully disrupting Obito's control over the Ten-Tails."
+        },
+        {
+          "episode": "387",
+          "outcome": "Obito is subdued and powers are temporarily sealed, though the conflict remains ongoing with Madara's presence.",
+          "description": "Naruto and the Allied Shinobi Forces successfully free the Tailed Beasts, leading to Obito's defeat and temporary incapacitation, while Kakashi and Minato debate Obito's fate."
         },
         {
           "episode": "380",
@@ -14824,7 +14951,7 @@
     {
       "source": 17,
       "target": 78,
-      "value": 3,
+      "value": 4,
       "battles": [
         {
           "episode": "325",
@@ -14840,6 +14967,11 @@
           "episode": "343",
           "outcome": "Tobi/Obito escapes into Kamui's Dimension, and Madara arrives, shifting the battle dynamic.",
           "description": "Naruto, in Tailed Beast Mode, attacks Obito with Rasengan and Tailed Beast Ball, while Kakashi and Guy assist, leading to Obito's mask shattering and reveal, before Madara's unexpected arrival."
+        },
+        {
+          "episode": "362",
+          "outcome": "The Demonic Statue of the Outer Path was destroyed, but the Ten-Tails was revived, shifting the conflict's focus.",
+          "description": "Naruto and Killer B combined a Tailed Beast Ball to destroy the Demonic Statue, while Kakashi and Guy engaged Obito and Madara with Lightning Cutter and Daytime Tiger respectively, ultimately failing to prevent the Ten-Tails' revival."
         }
       ]
     },
@@ -15008,12 +15140,17 @@
     {
       "source": 78,
       "target": 258,
-      "value": 1,
+      "value": 2,
       "battles": [
         {
           "episode": "345",
           "outcome": "Obito Uchiha decisively defeats the Kirigakure-nin",
           "description": "Obito, awakened with the Mangekyō Sharingan and utilizing Wood Release, massacres the Kirigakure-nin after witnessing Rin's death at the hands of Kakashi."
+        },
+        {
+          "episode": "363",
+          "outcome": "The Allied Shinobi Forces temporarily bind the Ten-Tails using a coordinated strategy, though the beast begins to transform.",
+          "description": "The Allied Shinobi Forces launch a coordinated attack to blind and restrain the Ten-Tails, utilizing quicklime and water, while Naruto attempts to reason with Obito."
         }
       ]
     },
@@ -15304,48 +15441,6 @@
     {
       "source": 0,
       "target": 265,
-      "value": 7,
-      "battles": [
-        {
-          "episode": "363",
-          "outcome": "The Allied Shinobi Forces temporarily bind the Ten-Tails using a coordinated strategy, though the beast begins to transform.",
-          "description": "The Allied Shinobi Forces launch a coordinated attack to blind and restrain the Ten-Tails, utilizing quicklime and water, while Naruto attempts to reason with Obito."
-        },
-        {
-          "episode": "365",
-          "outcome": "The Ten-Tails' connection to Obito is severed, forcing a retreat for both Obito and Madara.",
-          "description": "Empowered by Kurama's chakra, the Allied Shinobi Forces launch a coordinated attack using Rasenshurikens and Nara shadow techniques, successfully disrupting Obito's control over the Ten-Tails."
-        },
-        {
-          "episode": "379",
-          "outcome": "Obito sustains damage and is confirmed vulnerable to Senjutsu-infused attacks, but remains largely unharmed due to Yin-Yang Release.",
-          "description": "Naruto, Sasuke, Minato, and Tobirama combine attacks against Obito, discovering his Truth-Seeking Balls nullify ninjutsu and that Senjutsu-infused Rasenshuken can bypass this defense."
-        },
-        {
-          "episode": "381",
-          "outcome": "Obito successfully defends against the combined attack and initiates the final phase of his plan, releasing the Ten-Tails and activating the Six Red Yang Formation.",
-          "description": "Naruto and Minato land a Parent and Child Rasengan on Obito, followed by a natural energy-infused Tailed Beast Ball, but Obito counters by releasing the Ten-Tails and initiating the Six Red Yang Formation to drain the Shinobi Alliance's chakra."
-        },
-        {
-          "episode": "387",
-          "outcome": "Obito is subdued and powers are temporarily sealed, though the conflict remains ongoing with Madara's presence.",
-          "description": "Naruto and the Allied Shinobi Forces successfully free the Tailed Beasts, leading to Obito's defeat and temporary incapacitation, while Kakashi and Minato debate Obito's fate."
-        },
-        {
-          "episode": "362",
-          "outcome": "The Demonic Statue of the Outer Path was destroyed, but the Ten-Tails was revived, shifting the conflict's focus.",
-          "description": "Naruto and Killer B combined a Tailed Beast Ball to destroy the Demonic Statue, while Kakashi and Guy engaged Obito and Madara with Lightning Cutter and Daytime Tiger respectively, ultimately failing to prevent the Ten-Tails' revival."
-        },
-        {
-          "episode": "383",
-          "outcome": "Obito overwhelms Naruto and Sasuke, forcing them out of their Tailed Beast Mode and Susanoo",
-          "description": "Naruto and Sasuke clash with Obito, who easily evades their attacks and uses his Tailed Beast Chakra Arms to subdue them, reverting them to their base forms."
-        }
-      ]
-    },
-    {
-      "source": 0,
-      "target": 266,
       "value": 3,
       "battles": [
         {
@@ -15368,38 +15463,6 @@
     {
       "source": 4,
       "target": 265,
-      "value": 5,
-      "battles": [
-        {
-          "episode": "363",
-          "outcome": "The Allied Shinobi Forces temporarily bind the Ten-Tails using a coordinated strategy, though the beast begins to transform.",
-          "description": "The Allied Shinobi Forces launch a coordinated attack to blind and restrain the Ten-Tails, utilizing quicklime and water, while Naruto attempts to reason with Obito."
-        },
-        {
-          "episode": "387",
-          "outcome": "Obito is subdued and powers are temporarily sealed, though the conflict remains ongoing with Madara's presence.",
-          "description": "Naruto and the Allied Shinobi Forces successfully free the Tailed Beasts, leading to Obito's defeat and temporary incapacitation, while Kakashi and Minato debate Obito's fate."
-        },
-        {
-          "episode": "362",
-          "outcome": "The Demonic Statue of the Outer Path was destroyed, but the Ten-Tails was revived, shifting the conflict's focus.",
-          "description": "Naruto and Killer B combined a Tailed Beast Ball to destroy the Demonic Statue, while Kakashi and Guy engaged Obito and Madara with Lightning Cutter and Daytime Tiger respectively, ultimately failing to prevent the Ten-Tails' revival."
-        },
-        {
-          "episode": "371",
-          "outcome": "The battle is interrupted with no clear winner, focusing on a psychological clash and revelation of Rin's death.",
-          "description": "Kakashi and Obito engage in a fierce battle within Kamui's dimension, with Obito revealing the truth behind Rin's death and attempting to break Kakashi's spirit."
-        },
-        {
-          "episode": "375",
-          "outcome": "Obito becomes the Ten-Tails' Jinchūriki, resisting Madara's control and transforming into a powerful new form",
-          "description": "Kakashi and Minato engage Obito in a fierce battle, revealing his identity as the masked man before he absorbs the Ten-Tails, becoming its Jinchūriki."
-        }
-      ]
-    },
-    {
-      "source": 4,
-      "target": 266,
       "value": 1,
       "battles": [
         {
@@ -15412,23 +15475,6 @@
     {
       "source": 99,
       "target": 265,
-      "value": 2,
-      "battles": [
-        {
-          "episode": "363",
-          "outcome": "The Allied Shinobi Forces temporarily bind the Ten-Tails using a coordinated strategy, though the beast begins to transform.",
-          "description": "The Allied Shinobi Forces launch a coordinated attack to blind and restrain the Ten-Tails, utilizing quicklime and water, while Naruto attempts to reason with Obito."
-        },
-        {
-          "episode": "362",
-          "outcome": "The Demonic Statue of the Outer Path was destroyed, but the Ten-Tails was revived, shifting the conflict's focus.",
-          "description": "Naruto and Killer B combined a Tailed Beast Ball to destroy the Demonic Statue, while Kakashi and Guy engaged Obito and Madara with Lightning Cutter and Daytime Tiger respectively, ultimately failing to prevent the Ten-Tails' revival."
-        }
-      ]
-    },
-    {
-      "source": 99,
-      "target": 266,
       "value": 1,
       "battles": [
         {
@@ -15452,19 +15498,24 @@
     },
     {
       "source": 50,
-      "target": 265,
-      "value": 1,
+      "target": 78,
+      "value": 2,
       "battles": [
         {
           "episode": "363",
           "outcome": "The Allied Shinobi Forces temporarily bind the Ten-Tails using a coordinated strategy, though the beast begins to transform.",
           "description": "The Allied Shinobi Forces launch a coordinated attack to blind and restrain the Ten-Tails, utilizing quicklime and water, while Naruto attempts to reason with Obito."
+        },
+        {
+          "episode": "384",
+          "outcome": "The tailed beasts' chakra is extracted from Obito, leaving him weakened and vulnerable.",
+          "description": "Naruto and Sasuke, aided by the Konoha 11 and Shinobi Alliance, launch a combined assault using Rasengan and Tailed Beast Mode to pull the chakra of the Tailed Beasts from Obito."
         }
       ]
     },
     {
       "source": 50,
-      "target": 266,
+      "target": 265,
       "value": 1,
       "battles": [
         {
@@ -15494,23 +15545,6 @@
     {
       "source": 62,
       "target": 265,
-      "value": 2,
-      "battles": [
-        {
-          "episode": "363",
-          "outcome": "The Allied Shinobi Forces temporarily bind the Ten-Tails using a coordinated strategy, though the beast begins to transform.",
-          "description": "The Allied Shinobi Forces launch a coordinated attack to blind and restrain the Ten-Tails, utilizing quicklime and water, while Naruto attempts to reason with Obito."
-        },
-        {
-          "episode": "365",
-          "outcome": "The Ten-Tails' connection to Obito is severed, forcing a retreat for both Obito and Madara.",
-          "description": "Empowered by Kurama's chakra, the Allied Shinobi Forces launch a coordinated attack using Rasenshurikens and Nara shadow techniques, successfully disrupting Obito's control over the Ten-Tails."
-        }
-      ]
-    },
-    {
-      "source": 62,
-      "target": 266,
       "value": 2,
       "battles": [
         {
@@ -15527,7 +15561,19 @@
     },
     {
       "source": 174,
-      "target": 267,
+      "target": 266,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "363",
+          "outcome": "The Allied Shinobi Forces temporarily bind the Ten-Tails using a coordinated strategy, though the beast begins to transform.",
+          "description": "The Allied Shinobi Forces launch a coordinated attack to blind and restrain the Ten-Tails, utilizing quicklime and water, while Naruto attempts to reason with Obito."
+        }
+      ]
+    },
+    {
+      "source": 78,
+      "target": 266,
       "value": 1,
       "battles": [
         {
@@ -15539,19 +15585,7 @@
     },
     {
       "source": 265,
-      "target": 267,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "363",
-          "outcome": "The Allied Shinobi Forces temporarily bind the Ten-Tails using a coordinated strategy, though the beast begins to transform.",
-          "description": "The Allied Shinobi Forces launch a coordinated attack to blind and restrain the Ten-Tails, utilizing quicklime and water, while Naruto attempts to reason with Obito."
-        }
-      ]
-    },
-    {
-      "source": 266,
-      "target": 267,
+      "target": 266,
       "value": 1,
       "battles": [
         {
@@ -15586,42 +15620,8 @@
       ]
     },
     {
-      "source": 258,
-      "target": 266,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "363",
-          "outcome": "The Allied Shinobi Forces temporarily bind the Ten-Tails using a coordinated strategy, though the beast begins to transform.",
-          "description": "The Allied Shinobi Forces launch a coordinated attack to blind and restrain the Ten-Tails, utilizing quicklime and water, while Naruto attempts to reason with Obito."
-        }
-      ]
-    },
-    {
       "source": 177,
       "target": 265,
-      "value": 3,
-      "battles": [
-        {
-          "episode": "363",
-          "outcome": "The Allied Shinobi Forces temporarily bind the Ten-Tails using a coordinated strategy, though the beast begins to transform.",
-          "description": "The Allied Shinobi Forces launch a coordinated attack to blind and restrain the Ten-Tails, utilizing quicklime and water, while Naruto attempts to reason with Obito."
-        },
-        {
-          "episode": "365",
-          "outcome": "The Ten-Tails' connection to Obito is severed, forcing a retreat for both Obito and Madara.",
-          "description": "Empowered by Kurama's chakra, the Allied Shinobi Forces launch a coordinated attack using Rasenshurikens and Nara shadow techniques, successfully disrupting Obito's control over the Ten-Tails."
-        },
-        {
-          "episode": "387",
-          "outcome": "Obito is subdued and powers are temporarily sealed, though the conflict remains ongoing with Madara's presence.",
-          "description": "Naruto and the Allied Shinobi Forces successfully free the Tailed Beasts, leading to Obito's defeat and temporary incapacitation, while Kakashi and Minato debate Obito's fate."
-        }
-      ]
-    },
-    {
-      "source": 177,
-      "target": 266,
       "value": 4,
       "battles": [
         {
@@ -15648,7 +15648,7 @@
     },
     {
       "source": 264,
-      "target": 268,
+      "target": 267,
       "value": 1,
       "battles": [
         {
@@ -15660,7 +15660,7 @@
     },
     {
       "source": 174,
-      "target": 269,
+      "target": 268,
       "value": 4,
       "battles": [
         {
@@ -15686,7 +15686,19 @@
       ]
     },
     {
-      "source": 269,
+      "source": 268,
+      "target": 269,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "368",
+          "outcome": "Senju clan victorious, Uchiha clan surrenders, peace treaty established",
+          "description": "A series of battles between the Senju and Uchiha clans culminated in Izuna's mortal wounding by Tobirama, leading to Madara acquiring the Eternal Mangekyō Sharingan and ultimately a peace treaty brokered by Hashirama and Madara."
+        }
+      ]
+    },
+    {
+      "source": 268,
       "target": 270,
       "value": 1,
       "battles": [
@@ -15698,7 +15710,7 @@
       ]
     },
     {
-      "source": 269,
+      "source": 268,
       "target": 271,
       "value": 1,
       "battles": [
@@ -15706,6 +15718,23 @@
           "episode": "368",
           "outcome": "Senju clan victorious, Uchiha clan surrenders, peace treaty established",
           "description": "A series of battles between the Senju and Uchiha clans culminated in Izuna's mortal wounding by Tobirama, leading to Madara acquiring the Eternal Mangekyō Sharingan and ultimately a peace treaty brokered by Hashirama and Madara."
+        }
+      ]
+    },
+    {
+      "source": 174,
+      "target": 272,
+      "value": 2,
+      "battles": [
+        {
+          "episode": "368",
+          "outcome": "Senju clan victorious, Uchiha clan surrenders, peace treaty established",
+          "description": "A series of battles between the Senju and Uchiha clans culminated in Izuna's mortal wounding by Tobirama, leading to Madara acquiring the Eternal Mangekyō Sharingan and ultimately a peace treaty brokered by Hashirama and Madara."
+        },
+        {
+          "episode": "393",
+          "outcome": "Madara gains the upper hand, incapacitating Tobirama.",
+          "description": "Tobirama engages Madara in battle using the Flying Thunder God Slash, but Madara proves too powerful and overpowers him."
         }
       ]
     },
@@ -15722,25 +15751,8 @@
       ]
     },
     {
-      "source": 174,
-      "target": 273,
-      "value": 2,
-      "battles": [
-        {
-          "episode": "368",
-          "outcome": "Senju clan victorious, Uchiha clan surrenders, peace treaty established",
-          "description": "A series of battles between the Senju and Uchiha clans culminated in Izuna's mortal wounding by Tobirama, leading to Madara acquiring the Eternal Mangekyō Sharingan and ultimately a peace treaty brokered by Hashirama and Madara."
-        },
-        {
-          "episode": "393",
-          "outcome": "Madara gains the upper hand, incapacitating Tobirama.",
-          "description": "Tobirama engages Madara in battle using the Flying Thunder God Slash, but Madara proves too powerful and overpowers him."
-        }
-      ]
-    },
-    {
       "source": 270,
-      "target": 273,
+      "target": 272,
       "value": 1,
       "battles": [
         {
@@ -15752,7 +15764,7 @@
     },
     {
       "source": 271,
-      "target": 273,
+      "target": 272,
       "value": 1,
       "battles": [
         {
@@ -15763,20 +15775,8 @@
       ]
     },
     {
-      "source": 272,
+      "source": 265,
       "target": 273,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "368",
-          "outcome": "Senju clan victorious, Uchiha clan surrenders, peace treaty established",
-          "description": "A series of battles between the Senju and Uchiha clans culminated in Izuna's mortal wounding by Tobirama, leading to Madara acquiring the Eternal Mangekyō Sharingan and ultimately a peace treaty brokered by Hashirama and Madara."
-        }
-      ]
-    },
-    {
-      "source": 266,
-      "target": 274,
       "value": 1,
       "battles": [
         {
@@ -15788,7 +15788,7 @@
     },
     {
       "source": 22,
-      "target": 275,
+      "target": 274,
       "value": 1,
       "battles": [
         {
@@ -15800,7 +15800,7 @@
     },
     {
       "source": 33,
-      "target": 266,
+      "target": 265,
       "value": 1,
       "battles": [
         {
@@ -15812,7 +15812,7 @@
     },
     {
       "source": 2,
-      "target": 266,
+      "target": 265,
       "value": 1,
       "battles": [
         {
@@ -15824,7 +15824,7 @@
     },
     {
       "source": 0,
-      "target": 276,
+      "target": 275,
       "value": 2,
       "battles": [
         {
@@ -15841,7 +15841,7 @@
     },
     {
       "source": 4,
-      "target": 276,
+      "target": 275,
       "value": 2,
       "battles": [
         {
@@ -15858,7 +15858,7 @@
     },
     {
       "source": 29,
-      "target": 276,
+      "target": 275,
       "value": 2,
       "battles": [
         {
@@ -15875,7 +15875,7 @@
     },
     {
       "source": 24,
-      "target": 276,
+      "target": 275,
       "value": 1,
       "battles": [
         {
@@ -15887,7 +15887,7 @@
     },
     {
       "source": 23,
-      "target": 276,
+      "target": 275,
       "value": 2,
       "battles": [
         {
@@ -15904,7 +15904,7 @@
     },
     {
       "source": 39,
-      "target": 276,
+      "target": 275,
       "value": 2,
       "battles": [
         {
@@ -15921,7 +15921,7 @@
     },
     {
       "source": 16,
-      "target": 276,
+      "target": 275,
       "value": 2,
       "battles": [
         {
@@ -15938,7 +15938,7 @@
     },
     {
       "source": 69,
-      "target": 276,
+      "target": 275,
       "value": 1,
       "battles": [
         {
@@ -15950,7 +15950,7 @@
     },
     {
       "source": 0,
-      "target": 277,
+      "target": 276,
       "value": 1,
       "battles": [
         {
@@ -15962,7 +15962,7 @@
     },
     {
       "source": 6,
-      "target": 276,
+      "target": 275,
       "value": 1,
       "battles": [
         {
@@ -15991,7 +15991,7 @@
     },
     {
       "source": 6,
-      "target": 277,
+      "target": 276,
       "value": 1,
       "battles": [
         {
@@ -16003,7 +16003,7 @@
     },
     {
       "source": 4,
-      "target": 277,
+      "target": 276,
       "value": 1,
       "battles": [
         {
@@ -16027,7 +16027,7 @@
     },
     {
       "source": 23,
-      "target": 277,
+      "target": 276,
       "value": 1,
       "battles": [
         {
@@ -16051,7 +16051,7 @@
     },
     {
       "source": 39,
-      "target": 277,
+      "target": 276,
       "value": 1,
       "battles": [
         {
@@ -16063,7 +16063,7 @@
     },
     {
       "source": 40,
-      "target": 276,
+      "target": 275,
       "value": 1,
       "battles": [
         {
@@ -16087,7 +16087,7 @@
     },
     {
       "source": 40,
-      "target": 277,
+      "target": 276,
       "value": 1,
       "battles": [
         {
@@ -16111,7 +16111,7 @@
     },
     {
       "source": 16,
-      "target": 277,
+      "target": 276,
       "value": 1,
       "battles": [
         {
@@ -16123,7 +16123,31 @@
     },
     {
       "source": 29,
-      "target": 277,
+      "target": 276,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "377",
+          "outcome": "Mecha-Naruto self-destructs, destroying Mecha-Kurama and protecting Naruto.",
+          "description": "Multiple ninja attempt to defeat Mecha-Naruto, but it overwhelms them until it sacrifices itself to destroy the Mecha Nine-Tails, revealing Itachi's programming."
+        }
+      ]
+    },
+    {
+      "source": 3,
+      "target": 275,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "377",
+          "outcome": "Mecha-Naruto self-destructs, destroying Mecha-Kurama and protecting Naruto.",
+          "description": "Multiple ninja attempt to defeat Mecha-Naruto, but it overwhelms them until it sacrifices itself to destroy the Mecha Nine-Tails, revealing Itachi's programming."
+        }
+      ]
+    },
+    {
+      "source": 3,
+      "target": 30,
       "value": 1,
       "battles": [
         {
@@ -16146,33 +16170,9 @@
       ]
     },
     {
-      "source": 3,
-      "target": 30,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "377",
-          "outcome": "Mecha-Naruto self-destructs, destroying Mecha-Kurama and protecting Naruto.",
-          "description": "Multiple ninja attempt to defeat Mecha-Naruto, but it overwhelms them until it sacrifices itself to destroy the Mecha Nine-Tails, revealing Itachi's programming."
-        }
-      ]
-    },
-    {
-      "source": 3,
-      "target": 277,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "377",
-          "outcome": "Mecha-Naruto self-destructs, destroying Mecha-Kurama and protecting Naruto.",
-          "description": "Multiple ninja attempt to defeat Mecha-Naruto, but it overwhelms them until it sacrifices itself to destroy the Mecha Nine-Tails, revealing Itachi's programming."
-        }
-      ]
-    },
-    {
-      "source": 33,
-      "target": 265,
-      "value": 4,
+      "source": 78,
+      "target": 272,
+      "value": 2,
       "battles": [
         {
           "episode": "379",
@@ -16180,59 +16180,15 @@
           "description": "Naruto, Sasuke, Minato, and Tobirama combine attacks against Obito, discovering his Truth-Seeking Balls nullify ninjutsu and that Senjutsu-infused Rasenshuken can bypass this defense."
         },
         {
-          "episode": "382",
-          "outcome": "Battle ongoing with Sasuke and Jūgo utilizing Sage Transformation against Obito, but no clear winner",
-          "description": "Sasuke and Jūgo engage Obito in battle, with Jūgo activating Sage Transformation on Sasuke's Susanoo to enhance their attack power."
-        },
-        {
-          "episode": "387",
-          "outcome": "Obito is subdued and powers are temporarily sealed, though the conflict remains ongoing with Madara's presence.",
-          "description": "Naruto and the Allied Shinobi Forces successfully free the Tailed Beasts, leading to Obito's defeat and temporary incapacitation, while Kakashi and Minato debate Obito's fate."
-        },
-        {
-          "episode": "383",
-          "outcome": "Obito overwhelms Naruto and Sasuke, forcing them out of their Tailed Beast Mode and Susanoo",
-          "description": "Naruto and Sasuke clash with Obito, who easily evades their attacks and uses his Tailed Beast Chakra Arms to subdue them, reverting them to their base forms."
+          "episode": "378",
+          "outcome": "Obito overwhelms the reincarnated Hokage, destroying the barrier and incapacitating them with the Ten-Tails' power.",
+          "description": "Obito, now the Ten-Tails' jinchūriki, breaks free from restraints and defeats the reincarnated Hokage with overwhelming chakra arms and the Ten-Tails' abilities."
         }
       ]
     },
     {
-      "source": 84,
-      "target": 265,
-      "value": 3,
-      "battles": [
-        {
-          "episode": "379",
-          "outcome": "Obito sustains damage and is confirmed vulnerable to Senjutsu-infused attacks, but remains largely unharmed due to Yin-Yang Release.",
-          "description": "Naruto, Sasuke, Minato, and Tobirama combine attacks against Obito, discovering his Truth-Seeking Balls nullify ninjutsu and that Senjutsu-infused Rasenshuken can bypass this defense."
-        },
-        {
-          "episode": "381",
-          "outcome": "Obito successfully defends against the combined attack and initiates the final phase of his plan, releasing the Ten-Tails and activating the Six Red Yang Formation.",
-          "description": "Naruto and Minato land a Parent and Child Rasengan on Obito, followed by a natural energy-infused Tailed Beast Ball, but Obito counters by releasing the Ten-Tails and initiating the Six Red Yang Formation to drain the Shinobi Alliance's chakra."
-        },
-        {
-          "episode": "375",
-          "outcome": "Obito becomes the Ten-Tails' Jinchūriki, resisting Madara's control and transforming into a powerful new form",
-          "description": "Kakashi and Minato engage Obito in a fierce battle, revealing his identity as the masked man before he absorbs the Ten-Tails, becoming its Jinchūriki."
-        }
-      ]
-    },
-    {
-      "source": 265,
-      "target": 273,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "379",
-          "outcome": "Obito sustains damage and is confirmed vulnerable to Senjutsu-infused attacks, but remains largely unharmed due to Yin-Yang Release.",
-          "description": "Naruto, Sasuke, Minato, and Tobirama combine attacks against Obito, discovering his Truth-Seeking Balls nullify ninjutsu and that Senjutsu-infused Rasenshuken can bypass this defense."
-        }
-      ]
-    },
-    {
-      "source": 81,
-      "target": 265,
+      "source": 78,
+      "target": 81,
       "value": 1,
       "battles": [
         {
@@ -16280,18 +16236,6 @@
     },
     {
       "source": 14,
-      "target": 78,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "384",
-          "outcome": "The tailed beasts' chakra is extracted from Obito, leaving him weakened and vulnerable.",
-          "description": "Naruto and Sasuke, aided by the Konoha 11 and Shinobi Alliance, launch a combined assault using Rasengan and Tailed Beast Mode to pull the chakra of the Tailed Beasts from Obito."
-        }
-      ]
-    },
-    {
-      "source": 50,
       "target": 78,
       "value": 1,
       "battles": [
@@ -16343,7 +16287,7 @@
     },
     {
       "source": 174,
-      "target": 278,
+      "target": 277,
       "value": 1,
       "battles": [
         {
@@ -16367,7 +16311,7 @@
     },
     {
       "source": 109,
-      "target": 278,
+      "target": 277,
       "value": 1,
       "battles": [
         {
@@ -16403,7 +16347,7 @@
     },
     {
       "source": 6,
-      "target": 279,
+      "target": 278,
       "value": 1,
       "battles": [
         {
@@ -16414,8 +16358,8 @@
       ]
     },
     {
-      "source": 278,
-      "target": 279,
+      "source": 277,
+      "target": 278,
       "value": 1,
       "battles": [
         {
@@ -16427,7 +16371,7 @@
     },
     {
       "source": 0,
-      "target": 279,
+      "target": 278,
       "value": 2,
       "battles": [
         {
@@ -16444,7 +16388,7 @@
     },
     {
       "source": 178,
-      "target": 279,
+      "target": 278,
       "value": 1,
       "battles": [
         {
@@ -16456,7 +16400,7 @@
     },
     {
       "source": 4,
-      "target": 279,
+      "target": 278,
       "value": 1,
       "battles": [
         {
@@ -16468,7 +16412,7 @@
     },
     {
       "source": 2,
-      "target": 280,
+      "target": 279,
       "value": 2,
       "battles": [
         {
@@ -16485,7 +16429,7 @@
     },
     {
       "source": 50,
-      "target": 280,
+      "target": 279,
       "value": 1,
       "battles": [
         {
@@ -16497,7 +16441,7 @@
     },
     {
       "source": 23,
-      "target": 280,
+      "target": 279,
       "value": 2,
       "battles": [
         {
@@ -16514,7 +16458,7 @@
     },
     {
       "source": 12,
-      "target": 281,
+      "target": 280,
       "value": 1,
       "battles": [
         {
@@ -16526,7 +16470,7 @@
     },
     {
       "source": 13,
-      "target": 281,
+      "target": 280,
       "value": 1,
       "battles": [
         {
@@ -16538,7 +16482,7 @@
     },
     {
       "source": 14,
-      "target": 281,
+      "target": 280,
       "value": 1,
       "battles": [
         {
@@ -16550,7 +16494,7 @@
     },
     {
       "source": 12,
-      "target": 282,
+      "target": 281,
       "value": 1,
       "battles": [
         {
@@ -16562,7 +16506,7 @@
     },
     {
       "source": 13,
-      "target": 282,
+      "target": 281,
       "value": 1,
       "battles": [
         {
@@ -16574,7 +16518,19 @@
     },
     {
       "source": 14,
-      "target": 282,
+      "target": 281,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "399",
+          "outcome": "Team Guy intervenes, rescuing Team Shira from Team Goji after a series of genjutsu and failed ambushes.",
+          "description": "Team Shira attempts to manipulate other teams to retrieve scrolls, but is betrayed and cornered, leading to Team Guy's intervention and revealing Shira's recent shinobi status."
+        }
+      ]
+    },
+    {
+      "source": 16,
+      "target": 280,
       "value": 1,
       "battles": [
         {
@@ -16597,20 +16553,8 @@
       ]
     },
     {
-      "source": 16,
-      "target": 282,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "399",
-          "outcome": "Team Guy intervenes, rescuing Team Shira from Team Goji after a series of genjutsu and failed ambushes.",
-          "description": "Team Shira attempts to manipulate other teams to retrieve scrolls, but is betrayed and cornered, leading to Team Guy's intervention and revealing Shira's recent shinobi status."
-        }
-      ]
-    },
-    {
       "source": 15,
-      "target": 283,
+      "target": 282,
       "value": 2,
       "battles": [
         {
@@ -16627,7 +16571,7 @@
     },
     {
       "source": 62,
-      "target": 284,
+      "target": 283,
       "value": 2,
       "battles": [
         {
@@ -16644,7 +16588,7 @@
     },
     {
       "source": 39,
-      "target": 284,
+      "target": 283,
       "value": 2,
       "battles": [
         {
@@ -16661,7 +16605,7 @@
     },
     {
       "source": 69,
-      "target": 284,
+      "target": 283,
       "value": 2,
       "battles": [
         {
@@ -16677,8 +16621,8 @@
       ]
     },
     {
-      "source": 285,
-      "target": 286,
+      "source": 284,
+      "target": 285,
       "value": 1,
       "battles": [
         {
@@ -16689,8 +16633,8 @@
       ]
     },
     {
-      "source": 285,
-      "target": 287,
+      "source": 284,
+      "target": 286,
       "value": 1,
       "battles": [
         {
@@ -16702,7 +16646,7 @@
     },
     {
       "source": 12,
-      "target": 287,
+      "target": 286,
       "value": 1,
       "battles": [
         {
@@ -16714,7 +16658,7 @@
     },
     {
       "source": 13,
-      "target": 287,
+      "target": 286,
       "value": 1,
       "battles": [
         {
@@ -16726,7 +16670,7 @@
     },
     {
       "source": 14,
-      "target": 287,
+      "target": 286,
       "value": 1,
       "battles": [
         {
@@ -16738,6 +16682,18 @@
     },
     {
       "source": 2,
+      "target": 287,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "407",
+          "outcome": "Team Asuma defeats Team Ameno",
+          "description": "Team Asuma overcomes Team Ameno's invisibility and sensing barrier through Mind Body Transmission, allowing them to counter attacks and secure victory."
+        }
+      ]
+    },
+    {
+      "source": 2,
       "target": 288,
       "value": 1,
       "battles": [
@@ -16761,8 +16717,8 @@
       ]
     },
     {
-      "source": 2,
-      "target": 290,
+      "source": 23,
+      "target": 287,
       "value": 1,
       "battles": [
         {
@@ -16797,8 +16753,8 @@
       ]
     },
     {
-      "source": 23,
-      "target": 290,
+      "source": 50,
+      "target": 287,
       "value": 1,
       "battles": [
         {
@@ -16835,12 +16791,17 @@
     {
       "source": 50,
       "target": 290,
-      "value": 1,
+      "value": 2,
       "battles": [
         {
-          "episode": "407",
-          "outcome": "Team Asuma defeats Team Ameno",
-          "description": "Team Asuma overcomes Team Ameno's invisibility and sensing barrier through Mind Body Transmission, allowing them to counter attacks and secure victory."
+          "episode": "408",
+          "outcome": "Ino and Choji regain control with Sakura's assistance, forcing Team Saya to retreat.",
+          "description": "Saya utilizes her Puppet Imitation Technique to control Ino and Chōji, but Ino's Mind Body Switch Technique and Sakura's support allow her teammates to break free."
+        },
+        {
+          "episode": "409",
+          "outcome": "Sakura defeats Team Saya with a single blow after replenishing her chakra.",
+          "description": "Sakura, utilizing her enhanced strength and the Cherry Blossom Impact technique, swiftly defeats the opposing team after overcoming her chakra exhaustion."
         }
       ]
     },
@@ -16879,8 +16840,8 @@
       ]
     },
     {
-      "source": 50,
-      "target": 293,
+      "source": 23,
+      "target": 290,
       "value": 2,
       "battles": [
         {
@@ -16930,8 +16891,8 @@
       ]
     },
     {
-      "source": 23,
-      "target": 293,
+      "source": 2,
+      "target": 290,
       "value": 2,
       "battles": [
         {
@@ -16966,23 +16927,6 @@
     {
       "source": 2,
       "target": 292,
-      "value": 2,
-      "battles": [
-        {
-          "episode": "408",
-          "outcome": "Ino and Choji regain control with Sakura's assistance, forcing Team Saya to retreat.",
-          "description": "Saya utilizes her Puppet Imitation Technique to control Ino and Chōji, but Ino's Mind Body Switch Technique and Sakura's support allow her teammates to break free."
-        },
-        {
-          "episode": "409",
-          "outcome": "Sakura defeats Team Saya with a single blow after replenishing her chakra.",
-          "description": "Sakura, utilizing her enhanced strength and the Cherry Blossom Impact technique, swiftly defeats the opposing team after overcoming her chakra exhaustion."
-        }
-      ]
-    },
-    {
-      "source": 2,
-      "target": 293,
       "value": 2,
       "battles": [
         {
@@ -16999,7 +16943,7 @@
     },
     {
       "source": 51,
-      "target": 294,
+      "target": 293,
       "value": 1,
       "battles": [
         {
@@ -17011,7 +16955,7 @@
     },
     {
       "source": 53,
-      "target": 294,
+      "target": 293,
       "value": 1,
       "battles": [
         {
@@ -17052,7 +16996,7 @@
     },
     {
       "source": 78,
-      "target": 295,
+      "target": 294,
       "value": 1,
       "battles": [
         {
@@ -17064,7 +17008,7 @@
     },
     {
       "source": 84,
-      "target": 295,
+      "target": 294,
       "value": 1,
       "battles": [
         {
@@ -17097,8 +17041,8 @@
       ]
     },
     {
-      "source": 296,
-      "target": 297,
+      "source": 295,
+      "target": 296,
       "value": 1,
       "battles": [
         {
@@ -17122,7 +17066,7 @@
     },
     {
       "source": 46,
-      "target": 298,
+      "target": 297,
       "value": 1,
       "battles": [
         {
@@ -17134,7 +17078,7 @@
     },
     {
       "source": 46,
-      "target": 299,
+      "target": 298,
       "value": 1,
       "battles": [
         {
@@ -17146,7 +17090,7 @@
     },
     {
       "source": 115,
-      "target": 300,
+      "target": 299,
       "value": 1,
       "battles": [
         {
@@ -17157,8 +17101,8 @@
       ]
     },
     {
-      "source": 300,
-      "target": 301,
+      "source": 299,
+      "target": 300,
       "value": 1,
       "battles": [
         {
@@ -17283,7 +17227,7 @@
     },
     {
       "source": 30,
-      "target": 302,
+      "target": 301,
       "value": 1,
       "battles": [
         {
@@ -17331,7 +17275,7 @@
     },
     {
       "source": 31,
-      "target": 302,
+      "target": 301,
       "value": 1,
       "battles": [
         {
@@ -17379,7 +17323,7 @@
     },
     {
       "source": 33,
-      "target": 302,
+      "target": 301,
       "value": 1,
       "battles": [
         {
@@ -17403,7 +17347,7 @@
     },
     {
       "source": 99,
-      "target": 303,
+      "target": 302,
       "value": 1,
       "battles": [
         {
@@ -17415,7 +17359,7 @@
     },
     {
       "source": 26,
-      "target": 303,
+      "target": 302,
       "value": 1,
       "battles": [
         {
@@ -17475,7 +17419,7 @@
     },
     {
       "source": 3,
-      "target": 304,
+      "target": 303,
       "value": 1,
       "battles": [
         {
@@ -17487,7 +17431,7 @@
     },
     {
       "source": 0,
-      "target": 304,
+      "target": 303,
       "value": 1,
       "battles": [
         {
@@ -17499,7 +17443,7 @@
     },
     {
       "source": 23,
-      "target": 304,
+      "target": 303,
       "value": 1,
       "battles": [
         {
@@ -17533,7 +17477,7 @@
     },
     {
       "source": 0,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -17557,7 +17501,7 @@
     },
     {
       "source": 24,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -17581,7 +17525,7 @@
     },
     {
       "source": 23,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -17605,7 +17549,7 @@
     },
     {
       "source": 16,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -17689,7 +17633,7 @@
     },
     {
       "source": 0,
-      "target": 306,
+      "target": 305,
       "value": 1,
       "battles": [
         {
@@ -17701,7 +17645,7 @@
     },
     {
       "source": 24,
-      "target": 306,
+      "target": 305,
       "value": 1,
       "battles": [
         {
@@ -17737,13 +17681,25 @@
     },
     {
       "source": 33,
-      "target": 307,
+      "target": 306,
       "value": 3,
       "battles": [
         {
           "episode": "446",
           "outcome": "Sasuke lands a blow on Naruto, and awakens the Mangekyō Sharingan, while Itachi intercepts the attack",
           "description": "Naruto and Sasuke clash with Rasenshuriken versus Kirin, culminating in Itachi seemingly sacrificing himself to protect Sasuke."
+        }
+      ]
+    },
+    {
+      "source": 20,
+      "target": 307,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "447",
+          "outcome": "Naruto is trapped within another Chibaku Tensei, after briefly defeating five Pain paths and Hinata's intervention",
+          "description": "Naruto enters Sage Mode and engages the Six Paths of Pain, managing to defeat five before being subdued by the Deva Path and subsequently trapped in a second Chibaku Tensei, following Hinata's attempt to rescue him."
         }
       ]
     },
@@ -17762,18 +17718,6 @@
     {
       "source": 20,
       "target": 309,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "447",
-          "outcome": "Naruto is trapped within another Chibaku Tensei, after briefly defeating five Pain paths and Hinata's intervention",
-          "description": "Naruto enters Sage Mode and engages the Six Paths of Pain, managing to defeat five before being subdued by the Deva Path and subsequently trapped in a second Chibaku Tensei, following Hinata's attempt to rescue him."
-        }
-      ]
-    },
-    {
-      "source": 20,
-      "target": 310,
       "value": 1,
       "battles": [
         {
@@ -17808,14 +17752,26 @@
       ]
     },
     {
-      "source": 273,
-      "target": 311,
+      "source": 272,
+      "target": 310,
       "value": 1,
       "battles": [
         {
           "episode": "451",
           "outcome": "Tobirama fails to free the shinobi",
           "description": "Tobirama attempts to sever the roots of the God Tree binding the shinobi, but is unsuccessful in freeing them from the Infinite Tsukuyomi's grasp."
+        }
+      ]
+    },
+    {
+      "source": 18,
+      "target": 311,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "452",
+          "outcome": "Itachi's Shadow Clone was defeated, showcasing Itachi's advanced skill despite being a clone.",
+          "description": "Itachi utilized a Shadow Clone to attend the Academy, but the clone was targeted and defeated by Dokan and other older students seeking revenge."
         }
       ]
     },
@@ -17834,18 +17790,6 @@
     {
       "source": 18,
       "target": 313,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "452",
-          "outcome": "Itachi's Shadow Clone was defeated, showcasing Itachi's advanced skill despite being a clone.",
-          "description": "Itachi utilized a Shadow Clone to attend the Academy, but the clone was targeted and defeated by Dokan and other older students seeking revenge."
-        }
-      ]
-    },
-    {
-      "source": 18,
-      "target": 314,
       "value": 2,
       "battles": [
         {
@@ -17857,7 +17801,7 @@
     },
     {
       "source": 18,
-      "target": 315,
+      "target": 314,
       "value": 1,
       "battles": [
         {
@@ -17869,7 +17813,7 @@
     },
     {
       "source": 18,
-      "target": 316,
+      "target": 315,
       "value": 1,
       "battles": [
         {
@@ -17905,7 +17849,7 @@
     },
     {
       "source": 253,
-      "target": 317,
+      "target": 316,
       "value": 1,
       "battles": [
         {
@@ -17917,7 +17861,7 @@
     },
     {
       "source": 258,
-      "target": 317,
+      "target": 316,
       "value": 1,
       "battles": [
         {
@@ -17929,7 +17873,7 @@
     },
     {
       "source": 0,
-      "target": 318,
+      "target": 317,
       "value": 2,
       "battles": [
         {
@@ -17946,7 +17890,7 @@
     },
     {
       "source": 33,
-      "target": 318,
+      "target": 317,
       "value": 1,
       "battles": [
         {
@@ -17958,7 +17902,7 @@
     },
     {
       "source": 0,
-      "target": 319,
+      "target": 318,
       "value": 7,
       "battles": [
         {
@@ -18000,7 +17944,7 @@
     },
     {
       "source": 33,
-      "target": 319,
+      "target": 318,
       "value": 6,
       "battles": [
         {
@@ -18037,7 +17981,7 @@
     },
     {
       "source": 4,
-      "target": 319,
+      "target": 318,
       "value": 6,
       "battles": [
         {
@@ -18074,7 +18018,7 @@
     },
     {
       "source": 2,
-      "target": 319,
+      "target": 318,
       "value": 6,
       "battles": [
         {
@@ -18110,7 +18054,19 @@
       ]
     },
     {
-      "source": 319,
+      "source": 318,
+      "target": 319,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "460",
+          "outcome": "Kaguya overwhelms and defeats the combined forces, activating the Infinite Tsukuyomi",
+          "description": "Kaguya effortlessly deflects arrows and slaughters soldiers before consuming the chakra fruit and gaining the Rinne Sharingan to cast the Infinite Tsukuyomi."
+        }
+      ]
+    },
+    {
+      "source": 318,
       "target": 320,
       "value": 1,
       "battles": [
@@ -18122,23 +18078,11 @@
       ]
     },
     {
-      "source": 319,
+      "source": 318,
       "target": 321,
       "value": 1,
       "battles": [
         {
-          "episode": "460",
-          "outcome": "Kaguya overwhelms and defeats the combined forces, activating the Infinite Tsukuyomi",
-          "description": "Kaguya effortlessly deflects arrows and slaughters soldiers before consuming the chakra fruit and gaining the Rinne Sharingan to cast the Infinite Tsukuyomi."
-        }
-      ]
-    },
-    {
-      "source": 319,
-      "target": 322,
-      "value": 1,
-      "battles": [
-        {
           "episode": "462",
           "outcome": "Kaguya was sealed, and the Ten-Tails were split into nine tailed beasts",
           "description": "Hagoromo battled Kaguya, her controlled brother Hamura, and the newly formed Ten-Tails, ultimately sealing Kaguya after a prolonged conflict."
@@ -18146,19 +18090,7 @@
       ]
     },
     {
-      "source": 322,
-      "target": 323,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "462",
-          "outcome": "Kaguya was sealed, and the Ten-Tails were split into nine tailed beasts",
-          "description": "Hagoromo battled Kaguya, her controlled brother Hamura, and the newly formed Ten-Tails, ultimately sealing Kaguya after a prolonged conflict."
-        }
-      ]
-    },
-    {
-      "source": 266,
+      "source": 321,
       "target": 322,
       "value": 1,
       "battles": [
@@ -18171,7 +18103,19 @@
     },
     {
       "source": 265,
-      "target": 319,
+      "target": 321,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "462",
+          "outcome": "Kaguya was sealed, and the Ten-Tails were split into nine tailed beasts",
+          "description": "Hagoromo battled Kaguya, her controlled brother Hamura, and the newly formed Ten-Tails, ultimately sealing Kaguya after a prolonged conflict."
+        }
+      ]
+    },
+    {
+      "source": 78,
+      "target": 318,
       "value": 3,
       "battles": [
         {
@@ -18192,8 +18136,8 @@
       ]
     },
     {
-      "source": 324,
-      "target": 325,
+      "source": 323,
+      "target": 324,
       "value": 1,
       "battles": [
         {
@@ -18204,8 +18148,8 @@
       ]
     },
     {
-      "source": 324,
-      "target": 326,
+      "source": 323,
+      "target": 325,
       "value": 2,
       "battles": [
         {
@@ -18221,8 +18165,8 @@
       ]
     },
     {
-      "source": 327,
-      "target": 328,
+      "source": 326,
+      "target": 327,
       "value": 1,
       "battles": [
         {
@@ -18233,8 +18177,8 @@
       ]
     },
     {
-      "source": 322,
-      "target": 324,
+      "source": 321,
+      "target": 323,
       "value": 1,
       "battles": [
         {
@@ -18245,8 +18189,8 @@
       ]
     },
     {
-      "source": 324,
-      "target": 329,
+      "source": 323,
+      "target": 328,
       "value": 1,
       "battles": [
         {
@@ -18257,8 +18201,8 @@
       ]
     },
     {
-      "source": 265,
-      "target": 318,
+      "source": 78,
+      "target": 317,
       "value": 1,
       "battles": [
         {
@@ -18270,7 +18214,7 @@
     },
     {
       "source": 2,
-      "target": 318,
+      "target": 317,
       "value": 1,
       "battles": [
         {
@@ -18282,7 +18226,7 @@
     },
     {
       "source": 4,
-      "target": 318,
+      "target": 317,
       "value": 1,
       "battles": [
         {
@@ -18294,7 +18238,7 @@
     },
     {
       "source": 178,
-      "target": 319,
+      "target": 318,
       "value": 1,
       "battles": [
         {
@@ -18306,13 +18250,25 @@
     },
     {
       "source": 33,
-      "target": 330,
+      "target": 329,
       "value": 1,
       "battles": [
         {
           "episode": "485",
           "outcome": "Fight interrupted before a clear winner could be determined due to the discovery of an exploding human among the audience.",
           "description": "Sasuke engages in a brief fight with Futsu, a Boil Release user, at a fighting club, but the battle is halted when Sasuke recognizes the signs of an exploding human in the crowd."
+        }
+      ]
+    },
+    {
+      "source": 33,
+      "target": 330,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "486",
+          "outcome": "Sasuke defeats Nowaki and subdues the exploding humans",
+          "description": "Sasuke utilizes Susanoo and Amaterasu to overcome Nowaki's attacks and discovers Nowaki is Fūshin, the assailant from Bamboo Village, while also incapacitating numerous exploding humans."
         }
       ]
     },
@@ -18329,7 +18285,7 @@
       ]
     },
     {
-      "source": 33,
+      "source": 330,
       "target": 332,
       "value": 1,
       "battles": [
@@ -18342,7 +18298,7 @@
     },
     {
       "source": 331,
-      "target": 333,
+      "target": 332,
       "value": 1,
       "battles": [
         {
@@ -18353,7 +18309,7 @@
       ]
     },
     {
-      "source": 332,
+      "source": 330,
       "target": 333,
       "value": 1,
       "battles": [
@@ -18366,19 +18322,7 @@
     },
     {
       "source": 331,
-      "target": 334,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "486",
-          "outcome": "Sasuke defeats Nowaki and subdues the exploding humans",
-          "description": "Sasuke utilizes Susanoo and Amaterasu to overcome Nowaki's attacks and discovers Nowaki is Fūshin, the assailant from Bamboo Village, while also incapacitating numerous exploding humans."
-        }
-      ]
-    },
-    {
-      "source": 332,
-      "target": 334,
+      "target": 333,
       "value": 1,
       "battles": [
         {
@@ -18390,7 +18334,7 @@
     },
     {
       "source": 33,
-      "target": 335,
+      "target": 334,
       "value": 1,
       "battles": [
         {
@@ -18401,6 +18345,30 @@
       ]
     },
     {
+      "source": 335,
+      "target": 336,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "490",
+          "outcome": "Hinoko defeats the Tobari Guards, proving her skill and successfully infiltrating Tobari.",
+          "description": "Hinoko utilizes her Chakra Needles to quickly incapacitate and kill the Tobari Guards, showcasing her deadly precision and convincing them she is a capable operative."
+        }
+      ]
+    },
+    {
+      "source": 24,
+      "target": 336,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "490",
+          "outcome": "Hinoko defeats the Tobari Guards, proving her skill and successfully infiltrating Tobari.",
+          "description": "Hinoko utilizes her Chakra Needles to quickly incapacitate and kill the Tobari Guards, showcasing her deadly precision and convincing them she is a capable operative."
+        }
+      ]
+    },
+    {
       "source": 336,
       "target": 337,
       "value": 1,
@@ -18414,13 +18382,30 @@
     },
     {
       "source": 24,
+      "target": 338,
+      "value": 2,
+      "battles": [
+        {
+          "episode": "491",
+          "outcome": "Gengo and Sai subdue Shikamaru, Rō, and Hinoko, demonstrating Gengo's control over others.",
+          "description": "Shikamaru, Rō, and Hinoko attempt to rescue Sai from Gengo, but Sai, influenced by Gengo's ideology, and Gengo himself overpower them using mind control and physical restraint."
+        },
+        {
+          "episode": "493",
+          "outcome": "Shikamaru and his team defeat Gengo, Sai, Rō, and Hinoko",
+          "description": "Shikamaru pins down Gengo while Hinoko disables his jutsu with chakra needles, ending the battle and leading to his capture by Konoha Anbu."
+        }
+      ]
+    },
+    {
+      "source": 22,
       "target": 337,
       "value": 1,
       "battles": [
         {
-          "episode": "490",
-          "outcome": "Hinoko defeats the Tobari Guards, proving her skill and successfully infiltrating Tobari.",
-          "description": "Hinoko utilizes her Chakra Needles to quickly incapacitate and kill the Tobari Guards, showcasing her deadly precision and convincing them she is a capable operative."
+          "episode": "491",
+          "outcome": "Gengo and Sai subdue Shikamaru, Rō, and Hinoko, demonstrating Gengo's control over others.",
+          "description": "Shikamaru, Rō, and Hinoko attempt to rescue Sai from Gengo, but Sai, influenced by Gengo's ideology, and Gengo himself overpower them using mind control and physical restraint."
         }
       ]
     },
@@ -18430,31 +18415,26 @@
       "value": 1,
       "battles": [
         {
-          "episode": "490",
-          "outcome": "Hinoko defeats the Tobari Guards, proving her skill and successfully infiltrating Tobari.",
-          "description": "Hinoko utilizes her Chakra Needles to quickly incapacitate and kill the Tobari Guards, showcasing her deadly precision and convincing them she is a capable operative."
-        }
-      ]
-    },
-    {
-      "source": 24,
-      "target": 339,
-      "value": 2,
-      "battles": [
-        {
           "episode": "491",
           "outcome": "Gengo and Sai subdue Shikamaru, Rō, and Hinoko, demonstrating Gengo's control over others.",
           "description": "Shikamaru, Rō, and Hinoko attempt to rescue Sai from Gengo, but Sai, influenced by Gengo's ideology, and Gengo himself overpower them using mind control and physical restraint."
-        },
-        {
-          "episode": "493",
-          "outcome": "Shikamaru and his team defeat Gengo, Sai, Rō, and Hinoko",
-          "description": "Shikamaru pins down Gengo while Hinoko disables his jutsu with chakra needles, ending the battle and leading to his capture by Konoha Anbu."
         }
       ]
     },
     {
       "source": 22,
+      "target": 335,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "491",
+          "outcome": "Gengo and Sai subdue Shikamaru, Rō, and Hinoko, demonstrating Gengo's control over others.",
+          "description": "Shikamaru, Rō, and Hinoko attempt to rescue Sai from Gengo, but Sai, influenced by Gengo's ideology, and Gengo himself overpower them using mind control and physical restraint."
+        }
+      ]
+    },
+    {
+      "source": 335,
       "target": 338,
       "value": 1,
       "battles": [
@@ -18466,44 +18446,8 @@
       ]
     },
     {
-      "source": 338,
-      "target": 339,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "491",
-          "outcome": "Gengo and Sai subdue Shikamaru, Rō, and Hinoko, demonstrating Gengo's control over others.",
-          "description": "Shikamaru, Rō, and Hinoko attempt to rescue Sai from Gengo, but Sai, influenced by Gengo's ideology, and Gengo himself overpower them using mind control and physical restraint."
-        }
-      ]
-    },
-    {
-      "source": 22,
-      "target": 336,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "491",
-          "outcome": "Gengo and Sai subdue Shikamaru, Rō, and Hinoko, demonstrating Gengo's control over others.",
-          "description": "Shikamaru, Rō, and Hinoko attempt to rescue Sai from Gengo, but Sai, influenced by Gengo's ideology, and Gengo himself overpower them using mind control and physical restraint."
-        }
-      ]
-    },
-    {
-      "source": 336,
-      "target": 339,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "491",
-          "outcome": "Gengo and Sai subdue Shikamaru, Rō, and Hinoko, demonstrating Gengo's control over others.",
-          "description": "Shikamaru, Rō, and Hinoko attempt to rescue Sai from Gengo, but Sai, influenced by Gengo's ideology, and Gengo himself overpower them using mind control and physical restraint."
-        }
-      ]
-    },
-    {
       "source": 24,
-      "target": 338,
+      "target": 337,
       "value": 2,
       "battles": [
         {
@@ -18520,7 +18464,7 @@
     },
     {
       "source": 24,
-      "target": 336,
+      "target": 335,
       "value": 2,
       "battles": [
         {
@@ -18536,7 +18480,19 @@
       ]
     },
     {
-      "source": 340,
+      "source": 339,
+      "target": 340,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "494",
+          "outcome": "Iruka successfully recovers the Scroll of Seals and resolves the issue with the vandals, leading to their understanding and promise to improve.",
+          "description": "Iruka confronts the students who stole the Scroll of Seals, discovering their motives stemmed from seeking attention, and uses the situation to reflect on his teaching methods."
+        }
+      ]
+    },
+    {
+      "source": 339,
       "target": 341,
       "value": 1,
       "battles": [
@@ -18548,7 +18504,7 @@
       ]
     },
     {
-      "source": 340,
+      "source": 339,
       "target": 342,
       "value": 1,
       "battles": [
@@ -18560,20 +18516,8 @@
       ]
     },
     {
-      "source": 340,
-      "target": 343,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "494",
-          "outcome": "Iruka successfully recovers the Scroll of Seals and resolves the issue with the vandals, leading to their understanding and promise to improve.",
-          "description": "Iruka confronts the students who stole the Scroll of Seals, discovering their motives stemmed from seeking attention, and uses the situation to reflect on his teaching methods."
-        }
-      ]
-    },
-    {
       "source": 69,
-      "target": 344,
+      "target": 343,
       "value": 1,
       "battles": [
         {
@@ -18585,7 +18529,7 @@
     },
     {
       "source": 9,
-      "target": 345,
+      "target": 344,
       "value": 1,
       "battles": [
         {
@@ -18597,7 +18541,7 @@
     },
     {
       "source": 2,
-      "target": 345,
+      "target": 344,
       "value": 1,
       "battles": [
         {
@@ -18633,6 +18577,18 @@
     },
     {
       "source": 34,
+      "target": 345,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "66",
+          "outcome": "Battle is ongoing with both sides engaging, but no clear winner yet",
+          "description": "Asuma, Yamato, and Sakura confront the reanimated Twelve Guardian Ninja, who are attempting to use the Limelight technique, while Fudō ensnares Yamato with his Rock Armour and Chakra Enhanced Strength."
+        }
+      ]
+    },
+    {
+      "source": 34,
       "target": 346,
       "value": 1,
       "battles": [
@@ -18668,8 +18624,8 @@
       ]
     },
     {
-      "source": 34,
-      "target": 349,
+      "source": 29,
+      "target": 345,
       "value": 1,
       "battles": [
         {
@@ -18716,8 +18672,8 @@
       ]
     },
     {
-      "source": 29,
-      "target": 349,
+      "source": 2,
+      "target": 345,
       "value": 1,
       "battles": [
         {
@@ -18754,18 +18710,6 @@
     {
       "source": 2,
       "target": 348,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "66",
-          "outcome": "Battle is ongoing with both sides engaging, but no clear winner yet",
-          "description": "Asuma, Yamato, and Sakura confront the reanimated Twelve Guardian Ninja, who are attempting to use the Limelight technique, while Fudō ensnares Yamato with his Rock Armour and Chakra Enhanced Strength."
-        }
-      ]
-    },
-    {
-      "source": 2,
-      "target": 349,
       "value": 1,
       "battles": [
         {
@@ -18789,7 +18733,7 @@
     },
     {
       "source": 0,
-      "target": 350,
+      "target": 349,
       "value": 1,
       "battles": [
         {
@@ -18801,7 +18745,7 @@
     },
     {
       "source": 32,
-      "target": 350,
+      "target": 349,
       "value": 1,
       "battles": [
         {
@@ -18813,7 +18757,7 @@
     },
     {
       "source": 29,
-      "target": 351,
+      "target": 350,
       "value": 1,
       "battles": [
         {
@@ -18849,7 +18793,7 @@
     },
     {
       "source": 39,
-      "target": 352,
+      "target": 351,
       "value": 1,
       "battles": [
         {
@@ -18861,7 +18805,7 @@
     },
     {
       "source": 40,
-      "target": 352,
+      "target": 351,
       "value": 1,
       "battles": [
         {
@@ -18950,7 +18894,7 @@
     },
     {
       "source": 4,
-      "target": 353,
+      "target": 352,
       "value": 1,
       "battles": [
         {
@@ -18962,18 +18906,6 @@
     },
     {
       "source": 4,
-      "target": 354,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "120",
-          "outcome": "Kakashi and Obito defeat Kakkō and Taiseki, but Obito is fatally wounded and buried in a cave-in",
-          "description": "Team Minato battles Iwa-nin within a cave, resulting in Obito's sacrifice, the awakening of his Sharingan, and Kakashi receiving Obito's Sharingan transplant."
-        }
-      ]
-    },
-    {
-      "source": 265,
       "target": 353,
       "value": 1,
       "battles": [
@@ -18985,8 +18917,8 @@
       ]
     },
     {
-      "source": 265,
-      "target": 354,
+      "source": 78,
+      "target": 352,
       "value": 1,
       "battles": [
         {
@@ -18997,8 +18929,20 @@
       ]
     },
     {
-      "source": 135,
-      "target": 265,
+      "source": 78,
+      "target": 353,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "120",
+          "outcome": "Kakashi and Obito defeat Kakkō and Taiseki, but Obito is fatally wounded and buried in a cave-in",
+          "description": "Team Minato battles Iwa-nin within a cave, resulting in Obito's sacrifice, the awakening of his Sharingan, and Kakashi receiving Obito's Sharingan transplant."
+        }
+      ]
+    },
+    {
+      "source": 78,
+      "target": 135,
       "value": 1,
       "battles": [
         {
@@ -19058,7 +19002,7 @@
     },
     {
       "source": 105,
-      "target": 355,
+      "target": 354,
       "value": 1,
       "battles": [
         {
@@ -19106,7 +19050,7 @@
     },
     {
       "source": 258,
-      "target": 356,
+      "target": 355,
       "value": 1,
       "battles": [
         {
@@ -19118,7 +19062,7 @@
     },
     {
       "source": 33,
-      "target": 357,
+      "target": 356,
       "value": 1,
       "battles": [
         {
@@ -19130,7 +19074,19 @@
     },
     {
       "source": 33,
-      "target": 358,
+      "target": 357,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "156",
+          "outcome": "Team Akatsuki defeats J and his partner, securing their hideout.",
+          "description": "Sasuke, Jūgo, and Karin fend off an attack by Kumo shinobi J, showcasing Sasuke's Sharingan and sword skills."
+        }
+      ]
+    },
+    {
+      "source": 81,
+      "target": 356,
       "value": 1,
       "battles": [
         {
@@ -19153,8 +19109,8 @@
       ]
     },
     {
-      "source": 81,
-      "target": 358,
+      "source": 82,
+      "target": 356,
       "value": 1,
       "battles": [
         {
@@ -19167,18 +19123,6 @@
     {
       "source": 82,
       "target": 357,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "156",
-          "outcome": "Team Akatsuki defeats J and his partner, securing their hideout.",
-          "description": "Sasuke, Jūgo, and Karin fend off an attack by Kumo shinobi J, showcasing Sasuke's Sharingan and sword skills."
-        }
-      ]
-    },
-    {
-      "source": 82,
-      "target": 358,
       "value": 1,
       "battles": [
         {
@@ -19191,6 +19135,18 @@
     {
       "source": 20,
       "target": 23,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "159",
+          "outcome": "Pain defeats Kakashi and his team, resulting in multiple casualties and a strategic retreat.",
+          "description": "Kakashi and a team of shinobi engage Pain, utilizing various techniques like the Double Human Bullet Tank and Kamui, but are ultimately overwhelmed by Pain's abilities and strategic counters."
+        }
+      ]
+    },
+    {
+      "source": 20,
+      "target": 358,
       "value": 1,
       "battles": [
         {
@@ -19215,18 +19171,6 @@
     {
       "source": 20,
       "target": 360,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "159",
-          "outcome": "Pain defeats Kakashi and his team, resulting in multiple casualties and a strategic retreat.",
-          "description": "Kakashi and a team of shinobi engage Pain, utilizing various techniques like the Double Human Bullet Tank and Kamui, but are ultimately overwhelmed by Pain's abilities and strategic counters."
-        }
-      ]
-    },
-    {
-      "source": 20,
-      "target": 361,
       "value": 1,
       "battles": [
         {
@@ -19274,7 +19218,7 @@
     },
     {
       "source": 0,
-      "target": 362,
+      "target": 361,
       "value": 1,
       "battles": [
         {
@@ -19286,7 +19230,7 @@
     },
     {
       "source": 2,
-      "target": 362,
+      "target": 361,
       "value": 1,
       "battles": [
         {
@@ -19298,7 +19242,7 @@
     },
     {
       "source": 24,
-      "target": 362,
+      "target": 361,
       "value": 1,
       "battles": [
         {
@@ -19310,7 +19254,7 @@
     },
     {
       "source": 23,
-      "target": 362,
+      "target": 361,
       "value": 1,
       "battles": [
         {
@@ -19322,7 +19266,7 @@
     },
     {
       "source": 50,
-      "target": 362,
+      "target": 361,
       "value": 1,
       "battles": [
         {
@@ -19334,7 +19278,7 @@
     },
     {
       "source": 0,
-      "target": 363,
+      "target": 362,
       "value": 1,
       "battles": [
         {
@@ -19346,7 +19290,7 @@
     },
     {
       "source": 0,
-      "target": 364,
+      "target": 363,
       "value": 1,
       "battles": [
         {
@@ -19357,14 +19301,26 @@
       ]
     },
     {
-      "source": 340,
-      "target": 364,
+      "source": 339,
+      "target": 363,
       "value": 1,
       "battles": [
         {
           "episode": "178",
           "outcome": "Kakashi defeats the Kunoichi",
           "description": "Kakashi swiftly defeats the three Kunoichi with his Lightning Cutter technique, rescuing Naruto and Iruka."
+        }
+      ]
+    },
+    {
+      "source": 0,
+      "target": 364,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "180",
+          "outcome": "Naruto and Sasuke defeated Akane and Yamabuki",
+          "description": "Naruto utilized the Multiple Shadow Clone Technique and Sasuke employed the Fūma Shuriken and Shadow Shuriken Technique to subdue the thugs who were bullying Inari."
         }
       ]
     },
@@ -19381,8 +19337,8 @@
       ]
     },
     {
-      "source": 0,
-      "target": 366,
+      "source": 33,
+      "target": 364,
       "value": 1,
       "battles": [
         {
@@ -19395,18 +19351,6 @@
     {
       "source": 33,
       "target": 365,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "180",
-          "outcome": "Naruto and Sasuke defeated Akane and Yamabuki",
-          "description": "Naruto utilized the Multiple Shadow Clone Technique and Sasuke employed the Fūma Shuriken and Shadow Shuriken Technique to subdue the thugs who were bullying Inari."
-        }
-      ]
-    },
-    {
-      "source": 33,
-      "target": 366,
       "value": 1,
       "battles": [
         {
@@ -19430,7 +19374,7 @@
     },
     {
       "source": 0,
-      "target": 367,
+      "target": 366,
       "value": 1,
       "battles": [
         {
@@ -19442,18 +19386,6 @@
     },
     {
       "source": 0,
-      "target": 368,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "194",
-          "outcome": "Naruto and Sasuke win",
-          "description": "Naruto and Sasuke, despite their hands being stuck together, coordinate to defeat Jako and his bandit group, showcasing early teamwork."
-        }
-      ]
-    },
-    {
-      "source": 33,
       "target": 367,
       "value": 1,
       "battles": [
@@ -19466,7 +19398,19 @@
     },
     {
       "source": 33,
-      "target": 368,
+      "target": 366,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "194",
+          "outcome": "Naruto and Sasuke win",
+          "description": "Naruto and Sasuke, despite their hands being stuck together, coordinate to defeat Jako and his bandit group, showcasing early teamwork."
+        }
+      ]
+    },
+    {
+      "source": 33,
+      "target": 367,
       "value": 1,
       "battles": [
         {
@@ -19490,7 +19434,7 @@
     },
     {
       "source": 78,
-      "target": 369,
+      "target": 368,
       "value": 1,
       "battles": [
         {
@@ -19502,7 +19446,7 @@
     },
     {
       "source": 259,
-      "target": 369,
+      "target": 368,
       "value": 1,
       "battles": [
         {
@@ -19514,7 +19458,7 @@
     },
     {
       "source": 33,
-      "target": 370,
+      "target": 369,
       "value": 1,
       "battles": [
         {
@@ -19526,7 +19470,7 @@
     },
     {
       "source": 109,
-      "target": 370,
+      "target": 369,
       "value": 1,
       "battles": [
         {
@@ -19550,7 +19494,7 @@
     },
     {
       "source": 78,
-      "target": 371,
+      "target": 370,
       "value": 1,
       "battles": [
         {
@@ -19598,7 +19542,7 @@
     },
     {
       "source": 259,
-      "target": 371,
+      "target": 370,
       "value": 1,
       "battles": [
         {
@@ -19622,7 +19566,7 @@
     },
     {
       "source": 26,
-      "target": 372,
+      "target": 371,
       "value": 1,
       "battles": [
         {
@@ -19646,7 +19590,7 @@
     },
     {
       "source": 0,
-      "target": 373,
+      "target": 372,
       "value": 1,
       "battles": [
         {
@@ -19658,7 +19602,7 @@
     },
     {
       "source": 29,
-      "target": 373,
+      "target": 372,
       "value": 1,
       "battles": [
         {
@@ -19670,7 +19614,7 @@
     },
     {
       "source": 17,
-      "target": 373,
+      "target": 372,
       "value": 1,
       "battles": [
         {
@@ -19694,7 +19638,7 @@
     },
     {
       "source": 149,
-      "target": 298,
+      "target": 297,
       "value": 1,
       "battles": [
         {
@@ -19706,7 +19650,7 @@
     },
     {
       "source": 149,
-      "target": 299,
+      "target": 298,
       "value": 1,
       "battles": [
         {
@@ -19718,7 +19662,7 @@
     },
     {
       "source": 50,
-      "target": 374,
+      "target": 373,
       "value": 1,
       "battles": [
         {
@@ -19730,7 +19674,7 @@
     },
     {
       "source": 24,
-      "target": 374,
+      "target": 373,
       "value": 1,
       "battles": [
         {
@@ -19742,19 +19686,7 @@
     },
     {
       "source": 23,
-      "target": 374,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "239",
-          "outcome": "Team Asuma defeated the Oto-nin",
-          "description": "Team Asuma and their fathers combined techniques—Multi-Size, Shadow Sewing, and Mind Body Disturbance—to trap and confuse the Oto-nin, causing them to fight each other."
-        }
-      ]
-    },
-    {
-      "source": 309,
-      "target": 374,
+      "target": 373,
       "value": 1,
       "battles": [
         {
@@ -19766,7 +19698,7 @@
     },
     {
       "source": 308,
-      "target": 374,
+      "target": 373,
       "value": 1,
       "battles": [
         {
@@ -19777,8 +19709,20 @@
       ]
     },
     {
-      "source": 359,
-      "target": 374,
+      "source": 307,
+      "target": 373,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "239",
+          "outcome": "Team Asuma defeated the Oto-nin",
+          "description": "Team Asuma and their fathers combined techniques—Multi-Size, Shadow Sewing, and Mind Body Disturbance—to trap and confuse the Oto-nin, causing them to fight each other."
+        }
+      ]
+    },
+    {
+      "source": 358,
+      "target": 373,
       "value": 1,
       "battles": [
         {
@@ -19790,7 +19734,7 @@
     },
     {
       "source": 39,
-      "target": 375,
+      "target": 374,
       "value": 1,
       "battles": [
         {
@@ -19802,7 +19746,7 @@
     },
     {
       "source": 40,
-      "target": 375,
+      "target": 374,
       "value": 1,
       "battles": [
         {
@@ -19850,6 +19794,18 @@
     },
     {
       "source": 0,
+      "target": 375,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "242",
+          "outcome": "Ganryū surrenders and is spared execution, with the conflict stemming from the Tragedy of Yosuga Pass resolved through apology and return of a personal belonging.",
+          "description": "A battle erupts between Team Ganryū and Naruto's group, ultimately ending with Ganryū's surrender after Naruto intervenes and the revelation of a peace offering from the Tsuchikage."
+        }
+      ]
+    },
+    {
+      "source": 375,
       "target": 376,
       "value": 1,
       "battles": [
@@ -19861,7 +19817,7 @@
       ]
     },
     {
-      "source": 376,
+      "source": 375,
       "target": 377,
       "value": 1,
       "battles": [
@@ -19873,20 +19829,8 @@
       ]
     },
     {
-      "source": 376,
-      "target": 378,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "242",
-          "outcome": "Ganryū surrenders and is spared execution, with the conflict stemming from the Tragedy of Yosuga Pass resolved through apology and return of a personal belonging.",
-          "description": "A battle erupts between Team Ganryū and Naruto's group, ultimately ending with Ganryū's surrender after Naruto intervenes and the revelation of a peace offering from the Tsuchikage."
-        }
-      ]
-    },
-    {
       "source": 211,
-      "target": 376,
+      "target": 375,
       "value": 1,
       "battles": [
         {
@@ -19927,7 +19871,7 @@
     },
     {
       "source": 5,
-      "target": 378,
+      "target": 377,
       "value": 1,
       "battles": [
         {
@@ -19939,7 +19883,7 @@
     },
     {
       "source": 33,
-      "target": 379,
+      "target": 378,
       "value": 1,
       "battles": [
         {
@@ -19951,7 +19895,7 @@
     },
     {
       "source": 109,
-      "target": 380,
+      "target": 379,
       "value": 1,
       "battles": [
         {
@@ -19987,7 +19931,7 @@
     },
     {
       "source": 109,
-      "target": 381,
+      "target": 380,
       "value": 1,
       "battles": [
         {
@@ -19999,7 +19943,7 @@
     },
     {
       "source": 109,
-      "target": 382,
+      "target": 381,
       "value": 1,
       "battles": [
         {
@@ -20011,7 +19955,7 @@
     },
     {
       "source": 205,
-      "target": 383,
+      "target": 382,
       "value": 1,
       "battles": [
         {
@@ -20023,7 +19967,7 @@
     },
     {
       "source": 206,
-      "target": 383,
+      "target": 382,
       "value": 1,
       "battles": [
         {
@@ -20035,7 +19979,7 @@
     },
     {
       "source": 205,
-      "target": 384,
+      "target": 383,
       "value": 1,
       "battles": [
         {
@@ -20047,13 +19991,25 @@
     },
     {
       "source": 206,
-      "target": 384,
+      "target": 383,
       "value": 1,
       "battles": [
         {
           "episode": "269",
           "outcome": "Ginkaku is sealed by Darui, while Kinkaku transforms into his six-tailed jinchūriki form.",
           "description": "Darui utilizes the Shichiseiken and Benihisago to seal Ginkaku after exploiting his most-uttered word, leading Kinkaku to transform in a rage."
+        }
+      ]
+    },
+    {
+      "source": 0,
+      "target": 384,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "275",
+          "outcome": "Naruto and Eight-Tails break through the barrier despite the Kumo Barrier Team's efforts",
+          "description": "Naruto enters Nine-Tails Chakra Mode and, with the Eight-Tails' assistance, overcomes the Self-Repairing Barrier using a Tailed Beast Ball."
         }
       ]
     },
@@ -20070,7 +20026,7 @@
       ]
     },
     {
-      "source": 0,
+      "source": 384,
       "target": 386,
       "value": 1,
       "battles": [
@@ -20083,19 +20039,7 @@
     },
     {
       "source": 385,
-      "target": 387,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "275",
-          "outcome": "Naruto and Eight-Tails break through the barrier despite the Kumo Barrier Team's efforts",
-          "description": "Naruto enters Nine-Tails Chakra Mode and, with the Eight-Tails' assistance, overcomes the Self-Repairing Barrier using a Tailed Beast Ball."
-        }
-      ]
-    },
-    {
-      "source": 386,
-      "target": 387,
+      "target": 386,
       "value": 1,
       "battles": [
         {
@@ -20167,7 +20111,7 @@
     },
     {
       "source": 174,
-      "target": 388,
+      "target": 387,
       "value": 1,
       "battles": [
         {
@@ -20178,8 +20122,8 @@
       ]
     },
     {
-      "source": 279,
-      "target": 389,
+      "source": 278,
+      "target": 388,
       "value": 1,
       "battles": [
         {
@@ -20203,7 +20147,7 @@
     },
     {
       "source": 87,
-      "target": 390,
+      "target": 389,
       "value": 1,
       "battles": [
         {
@@ -20227,7 +20171,7 @@
     },
     {
       "source": 88,
-      "target": 390,
+      "target": 389,
       "value": 1,
       "battles": [
         {
@@ -20239,7 +20183,7 @@
     },
     {
       "source": 20,
-      "target": 390,
+      "target": 389,
       "value": 1,
       "battles": [
         {
@@ -20250,8 +20194,8 @@
       ]
     },
     {
-      "source": 391,
-      "target": 392,
+      "source": 390,
+      "target": 391,
       "value": 1,
       "battles": [
         {
@@ -20262,20 +20206,8 @@
       ]
     },
     {
-      "source": 17,
-      "target": 265,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "362",
-          "outcome": "The Demonic Statue of the Outer Path was destroyed, but the Ten-Tails was revived, shifting the conflict's focus.",
-          "description": "Naruto and Killer B combined a Tailed Beast Ball to destroy the Demonic Statue, while Kakashi and Guy engaged Obito and Madara with Lightning Cutter and Daytime Tiger respectively, ultimately failing to prevent the Ten-Tails' revival."
-        }
-      ]
-    },
-    {
-      "source": 269,
-      "target": 273,
+      "source": 268,
+      "target": 272,
       "value": 1,
       "battles": [
         {
@@ -20287,19 +20219,7 @@
     },
     {
       "source": 78,
-      "target": 269,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "378",
-          "outcome": "Obito overwhelms the reincarnated Hokage, destroying the barrier and incapacitating them with the Ten-Tails' power.",
-          "description": "Obito, now the Ten-Tails' jinchūriki, breaks free from restraints and defeats the reincarnated Hokage with overwhelming chakra arms and the Ten-Tails' abilities."
-        }
-      ]
-    },
-    {
-      "source": 78,
-      "target": 273,
+      "target": 268,
       "value": 1,
       "battles": [
         {
@@ -20311,7 +20231,7 @@
     },
     {
       "source": 62,
-      "target": 393,
+      "target": 392,
       "value": 1,
       "battles": [
         {
@@ -20323,7 +20243,7 @@
     },
     {
       "source": 6,
-      "target": 394,
+      "target": 393,
       "value": 2,
       "battles": [
         {
@@ -20340,7 +20260,7 @@
     },
     {
       "source": 153,
-      "target": 394,
+      "target": 393,
       "value": 1,
       "battles": [
         {
@@ -20352,7 +20272,7 @@
     },
     {
       "source": 12,
-      "target": 394,
+      "target": 393,
       "value": 1,
       "battles": [
         {
@@ -20364,7 +20284,7 @@
     },
     {
       "source": 13,
-      "target": 394,
+      "target": 393,
       "value": 1,
       "battles": [
         {
@@ -20376,6 +20296,18 @@
     },
     {
       "source": 14,
+      "target": 393,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "412",
+          "outcome": "Hōichi is defeated and his chakra is sealed by Neji, freeing him from the chains.",
+          "description": "Team Guy, Matsuri, Yōrō, and Kegon work together to break through Hōichi’s barrier and Neji uses the Gentle Fist to halt the chakra absorption and ultimately free Hōichi."
+        }
+      ]
+    },
+    {
+      "source": 393,
       "target": 394,
       "value": 1,
       "battles": [
@@ -20387,7 +20319,7 @@
       ]
     },
     {
-      "source": 394,
+      "source": 393,
       "target": 395,
       "value": 1,
       "battles": [
@@ -20399,20 +20331,8 @@
       ]
     },
     {
-      "source": 394,
+      "source": 393,
       "target": 396,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "412",
-          "outcome": "Hōichi is defeated and his chakra is sealed by Neji, freeing him from the chains.",
-          "description": "Team Guy, Matsuri, Yōrō, and Kegon work together to break through Hōichi’s barrier and Neji uses the Gentle Fist to halt the chakra absorption and ultimately free Hōichi."
-        }
-      ]
-    },
-    {
-      "source": 394,
-      "target": 397,
       "value": 1,
       "battles": [
         {
@@ -20448,7 +20368,7 @@
     },
     {
       "source": 14,
-      "target": 398,
+      "target": 397,
       "value": 1,
       "battles": [
         {
@@ -20460,7 +20380,7 @@
     },
     {
       "source": 0,
-      "target": 399,
+      "target": 398,
       "value": 2,
       "battles": [
         {
@@ -20472,7 +20392,7 @@
     },
     {
       "source": 2,
-      "target": 399,
+      "target": 398,
       "value": 2,
       "battles": [
         {
@@ -20484,7 +20404,7 @@
     },
     {
       "source": 22,
-      "target": 399,
+      "target": 398,
       "value": 1,
       "battles": [
         {
@@ -20496,7 +20416,7 @@
     },
     {
       "source": 29,
-      "target": 399,
+      "target": 398,
       "value": 1,
       "battles": [
         {
@@ -20508,7 +20428,7 @@
     },
     {
       "source": 0,
-      "target": 400,
+      "target": 399,
       "value": 2,
       "battles": [
         {
@@ -20520,7 +20440,7 @@
     },
     {
       "source": 2,
-      "target": 400,
+      "target": 399,
       "value": 2,
       "battles": [
         {
@@ -20532,7 +20452,7 @@
     },
     {
       "source": 22,
-      "target": 400,
+      "target": 399,
       "value": 1,
       "battles": [
         {
@@ -20544,18 +20464,6 @@
     },
     {
       "source": 29,
-      "target": 400,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "449",
-          "outcome": "Sasori and all his puppets are destroyed by Team Kakashi, Naruto, and Sasuke.",
-          "description": "The battle culminates with Naruto and Sasuke combining their Rasenshuriken and Kagutsuchi techniques to obliterate Sasori's true puppet form, ending the intense fight against the Akatsuki member and his army of puppets."
-        }
-      ]
-    },
-    {
-      "source": 33,
       "target": 399,
       "value": 1,
       "battles": [
@@ -20568,7 +20476,19 @@
     },
     {
       "source": 33,
-      "target": 400,
+      "target": 398,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "449",
+          "outcome": "Sasori and all his puppets are destroyed by Team Kakashi, Naruto, and Sasuke.",
+          "description": "The battle culminates with Naruto and Sasuke combining their Rasenshuriken and Kagutsuchi techniques to obliterate Sasori's true puppet form, ending the intense fight against the Akatsuki member and his army of puppets."
+        }
+      ]
+    },
+    {
+      "source": 33,
+      "target": 399,
       "value": 1,
       "battles": [
         {
@@ -20592,7 +20512,7 @@
     },
     {
       "source": 41,
-      "target": 392,
+      "target": 391,
       "value": 1,
       "battles": [
         {
@@ -20616,7 +20536,7 @@
     },
     {
       "source": 8,
-      "target": 401,
+      "target": 400,
       "value": 1,
       "battles": [
         {
@@ -20640,7 +20560,7 @@
     },
     {
       "source": 5,
-      "target": 401,
+      "target": 400,
       "value": 1,
       "battles": [
         {
@@ -20651,8 +20571,8 @@
       ]
     },
     {
-      "source": 323,
-      "target": 402,
+      "source": 322,
+      "target": 401,
       "value": 1,
       "battles": [
         {
@@ -20700,6 +20620,18 @@
     },
     {
       "source": 33,
+      "target": 332,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "484",
+          "outcome": "Sasuke easily defeats Chino and Nowaki, showcasing his superior skills and Sharingan.",
+          "description": "Sasuke engages in a brief skirmish with Chino and Nowaki, utilizing Fire Release and his Sharingan to quickly subdue them, revealing their affiliation with the Lightning Group."
+        }
+      ]
+    },
+    {
+      "source": 33,
       "target": 333,
       "value": 1,
       "battles": [
@@ -20712,19 +20644,7 @@
     },
     {
       "source": 33,
-      "target": 334,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "484",
-          "outcome": "Sasuke easily defeats Chino and Nowaki, showcasing his superior skills and Sharingan.",
-          "description": "Sasuke engages in a brief skirmish with Chino and Nowaki, utilizing Fire Release and his Sharingan to quickly subdue them, revealing their affiliation with the Lightning Group."
-        }
-      ]
-    },
-    {
-      "source": 33,
-      "target": 403,
+      "target": 402,
       "value": 1,
       "battles": [
         {
@@ -20736,7 +20656,7 @@
     },
     {
       "source": 50,
-      "target": 339,
+      "target": 338,
       "value": 1,
       "battles": [
         {
@@ -20760,7 +20680,7 @@
     },
     {
       "source": 50,
-      "target": 338,
+      "target": 337,
       "value": 1,
       "battles": [
         {
@@ -20772,19 +20692,7 @@
     },
     {
       "source": 50,
-      "target": 336,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "493",
-          "outcome": "Shikamaru and his team defeat Gengo, Sai, Rō, and Hinoko",
-          "description": "Shikamaru pins down Gengo while Hinoko disables his jutsu with chakra needles, ending the battle and leading to his capture by Konoha Anbu."
-        }
-      ]
-    },
-    {
-      "source": 23,
-      "target": 339,
+      "target": 335,
       "value": 1,
       "battles": [
         {
@@ -20808,7 +20716,19 @@
     },
     {
       "source": 23,
-      "target": 336,
+      "target": 337,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "493",
+          "outcome": "Shikamaru and his team defeat Gengo, Sai, Rō, and Hinoko",
+          "description": "Shikamaru pins down Gengo while Hinoko disables his jutsu with chakra needles, ending the battle and leading to his capture by Konoha Anbu."
+        }
+      ]
+    },
+    {
+      "source": 23,
+      "target": 335,
       "value": 1,
       "battles": [
         {
@@ -20820,7 +20740,7 @@
     },
     {
       "source": 149,
-      "target": 339,
+      "target": 338,
       "value": 1,
       "battles": [
         {
@@ -20844,7 +20764,7 @@
     },
     {
       "source": 149,
-      "target": 338,
+      "target": 337,
       "value": 1,
       "battles": [
         {
@@ -20856,7 +20776,7 @@
     },
     {
       "source": 149,
-      "target": 336,
+      "target": 335,
       "value": 1,
       "battles": [
         {

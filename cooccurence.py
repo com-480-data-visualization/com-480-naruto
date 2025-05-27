@@ -64,8 +64,6 @@ def is_valid_opponents(opponents):
 # Apply the filter
 valid_mask = df['opponents'].apply(is_valid_opponents)
 df_clean = df[valid_mask].copy()  # keep only valid rows
-
-# Optional: reset index if you want clean indexing
 df_clean.reset_index(drop=True, inplace=True)
 
 # Print how many rows were dropped
@@ -86,7 +84,7 @@ for _, row in df_clean.iterrows():
     outcome = row['outcome']
     description = row['description']
 
-    # If it's still a string (just in case), evaluate it
+    # If it's still a string, evaluate it
     if isinstance(opponents, str):
         try:
             opponents = ast.literal_eval(opponents)
@@ -132,40 +130,3 @@ with open("character_fights_with_battles.json", "w", encoding="utf-8") as f:
     json.dump(output, f, indent=2, ensure_ascii=False)
 
 print("✅ character_fights_with_battles.json successfully created with battle details.")
-
-from collections import Counter
-
-# Count total appearance per character in links
-char_counter = Counter()
-
-for (src, tgt), data in co_occurrence.items():
-    char_counter[src] += data['count']
-    char_counter[tgt] += data['count']
-
-# Filter characters appearing more than 15 times (adjust as needed)
-frequent_chars = {char for char, count in char_counter.items() if count > 15}
-
-# Create nodes list with just frequent characters
-nodes = [{"name": name} for name in sorted(frequent_chars)]
-name_to_index = {node['name']: i for i, node in enumerate(nodes)}
-
-# Create links using integer indices, including battle info
-links = []
-for (name1, name2), data in co_occurrence.items():
-    if name1 in name_to_index and name2 in name_to_index:
-        links.append({
-            "source": name_to_index[name1],
-            "target": name_to_index[name2],
-            "value": data['count'],
-            "battles": data['battles']
-        })
-
-output = {
-    "nodes": nodes,
-    "links": links
-}
-
-with open("character_fights_filtered_with_battles.json", "w", encoding="utf-8") as f:
-    json.dump(output, f, indent=2, ensure_ascii=False)
-
-print(f"✅ Exported {len(nodes)} nodes and {len(links)} links with battle details.")

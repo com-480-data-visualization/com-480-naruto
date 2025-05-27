@@ -784,9 +784,6 @@
       "name": "Nurui"
     },
     {
-      "name": "Obito"
-    },
-    {
       "name": "Older Students"
     },
     {
@@ -1282,7 +1279,7 @@
   "links": [
     {
       "source": 245,
-      "target": 402,
+      "target": 401,
       "value": 1,
       "battles": [
         {
@@ -1293,8 +1290,8 @@
       ]
     },
     {
-      "source": 298,
-      "target": 402,
+      "source": 297,
+      "target": 401,
       "value": 1,
       "battles": [
         {
@@ -1306,7 +1303,7 @@
     },
     {
       "source": 161,
-      "target": 402,
+      "target": 401,
       "value": 1,
       "battles": [
         {
@@ -1345,7 +1342,7 @@
     },
     {
       "source": 169,
-      "target": 298,
+      "target": 297,
       "value": 2,
       "battles": [
         {
@@ -1384,7 +1381,7 @@
     },
     {
       "source": 177,
-      "target": 303,
+      "target": 302,
       "value": 4,
       "battles": [
         {
@@ -1462,7 +1459,7 @@
     },
     {
       "source": 190,
-      "target": 370,
+      "target": 369,
       "value": 2,
       "battles": [
         {
@@ -1508,7 +1505,7 @@
     },
     {
       "source": 190,
-      "target": 382,
+      "target": 381,
       "value": 1,
       "battles": [
         {
@@ -1569,7 +1566,7 @@
     },
     {
       "source": 245,
-      "target": 420,
+      "target": 419,
       "value": 1,
       "battles": [
         {
@@ -1598,7 +1595,7 @@
     },
     {
       "source": 169,
-      "target": 420,
+      "target": 419,
       "value": 1,
       "battles": [
         {
@@ -1610,7 +1607,7 @@
     },
     {
       "source": 151,
-      "target": 298,
+      "target": 297,
       "value": 2,
       "battles": [
         {
@@ -1626,8 +1623,8 @@
       ]
     },
     {
-      "source": 298,
-      "target": 420,
+      "source": 297,
+      "target": 419,
       "value": 1,
       "battles": [
         {
@@ -1651,7 +1648,7 @@
     },
     {
       "source": 169,
-      "target": 303,
+      "target": 302,
       "value": 3,
       "battles": [
         {
@@ -1695,7 +1692,7 @@
     },
     {
       "source": 190,
-      "target": 298,
+      "target": 297,
       "value": 1,
       "battles": [
         {
@@ -1706,8 +1703,8 @@
       ]
     },
     {
-      "source": 298,
-      "target": 303,
+      "source": 297,
+      "target": 302,
       "value": 13,
       "battles": [
         {
@@ -1779,7 +1776,7 @@
     },
     {
       "source": 60,
-      "target": 298,
+      "target": 297,
       "value": 3,
       "battles": [
         {
@@ -1818,7 +1815,7 @@
     },
     {
       "source": 245,
-      "target": 303,
+      "target": 302,
       "value": 6,
       "battles": [
         {
@@ -1951,7 +1948,7 @@
     },
     {
       "source": 40,
-      "target": 303,
+      "target": 302,
       "value": 9,
       "battles": [
         {
@@ -2015,7 +2012,7 @@
     },
     {
       "source": 213,
-      "target": 303,
+      "target": 302,
       "value": 1,
       "battles": [
         {
@@ -2039,7 +2036,7 @@
     },
     {
       "source": 117,
-      "target": 303,
+      "target": 302,
       "value": 1,
       "battles": [
         {
@@ -2132,7 +2129,7 @@
     },
     {
       "source": 57,
-      "target": 298,
+      "target": 297,
       "value": 4,
       "battles": [
         {
@@ -2159,7 +2156,7 @@
     },
     {
       "source": 57,
-      "target": 370,
+      "target": 369,
       "value": 2,
       "battles": [
         {
@@ -2175,8 +2172,8 @@
       ]
     },
     {
-      "source": 303,
-      "target": 370,
+      "source": 302,
+      "target": 369,
       "value": 1,
       "battles": [
         {
@@ -2188,7 +2185,7 @@
     },
     {
       "source": 47,
-      "target": 370,
+      "target": 369,
       "value": 1,
       "battles": [
         {
@@ -2200,7 +2197,7 @@
     },
     {
       "source": 40,
-      "target": 298,
+      "target": 297,
       "value": 1,
       "battles": [
         {
@@ -2212,7 +2209,7 @@
     },
     {
       "source": 245,
-      "target": 295,
+      "target": 294,
       "value": 6,
       "battles": [
         {
@@ -2249,7 +2246,7 @@
     },
     {
       "source": 41,
-      "target": 295,
+      "target": 294,
       "value": 2,
       "battles": [
         {
@@ -2265,8 +2262,8 @@
       ]
     },
     {
-      "source": 295,
-      "target": 321,
+      "source": 294,
+      "target": 320,
       "value": 5,
       "battles": [
         {
@@ -2298,7 +2295,7 @@
     },
     {
       "source": 245,
-      "target": 322,
+      "target": 321,
       "value": 1,
       "battles": [
         {
@@ -2309,8 +2306,8 @@
       ]
     },
     {
-      "source": 295,
-      "target": 298,
+      "source": 294,
+      "target": 297,
       "value": 3,
       "battles": [
         {
@@ -2331,8 +2328,8 @@
       ]
     },
     {
-      "source": 298,
-      "target": 322,
+      "source": 297,
+      "target": 321,
       "value": 1,
       "battles": [
         {
@@ -2344,7 +2341,7 @@
     },
     {
       "source": 53,
-      "target": 295,
+      "target": 294,
       "value": 1,
       "battles": [
         {
@@ -2355,8 +2352,8 @@
       ]
     },
     {
-      "source": 295,
-      "target": 334,
+      "source": 294,
+      "target": 333,
       "value": 1,
       "battles": [
         {
@@ -2367,8 +2364,8 @@
       ]
     },
     {
-      "source": 295,
-      "target": 397,
+      "source": 294,
+      "target": 396,
       "value": 1,
       "battles": [
         {
@@ -2392,7 +2389,7 @@
     },
     {
       "source": 245,
-      "target": 334,
+      "target": 333,
       "value": 1,
       "battles": [
         {
@@ -2404,7 +2401,7 @@
     },
     {
       "source": 245,
-      "target": 397,
+      "target": 396,
       "value": 1,
       "battles": [
         {
@@ -2416,7 +2413,7 @@
     },
     {
       "source": 53,
-      "target": 298,
+      "target": 297,
       "value": 1,
       "battles": [
         {
@@ -2427,8 +2424,8 @@
       ]
     },
     {
-      "source": 298,
-      "target": 334,
+      "source": 297,
+      "target": 333,
       "value": 1,
       "battles": [
         {
@@ -2439,8 +2436,8 @@
       ]
     },
     {
-      "source": 298,
-      "target": 397,
+      "source": 297,
+      "target": 396,
       "value": 1,
       "battles": [
         {
@@ -2452,7 +2449,7 @@
     },
     {
       "source": 53,
-      "target": 412,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -2463,8 +2460,8 @@
       ]
     },
     {
-      "source": 334,
-      "target": 412,
+      "source": 333,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -2475,8 +2472,8 @@
       ]
     },
     {
-      "source": 397,
-      "target": 412,
+      "source": 396,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -2488,7 +2485,7 @@
     },
     {
       "source": 245,
-      "target": 412,
+      "target": 411,
       "value": 7,
       "battles": [
         {
@@ -2529,8 +2526,8 @@
       ]
     },
     {
-      "source": 295,
-      "target": 412,
+      "source": 294,
+      "target": 411,
       "value": 3,
       "battles": [
         {
@@ -2551,8 +2548,8 @@
       ]
     },
     {
-      "source": 265,
-      "target": 412,
+      "source": 264,
+      "target": 411,
       "value": 6,
       "battles": [
         {
@@ -2589,7 +2586,7 @@
     },
     {
       "source": 165,
-      "target": 412,
+      "target": 411,
       "value": 7,
       "battles": [
         {
@@ -2631,7 +2628,7 @@
     },
     {
       "source": 245,
-      "target": 265,
+      "target": 264,
       "value": 6,
       "battles": [
         {
@@ -2709,8 +2706,8 @@
       ]
     },
     {
-      "source": 265,
-      "target": 298,
+      "source": 264,
+      "target": 297,
       "value": 2,
       "battles": [
         {
@@ -2727,7 +2724,7 @@
     },
     {
       "source": 165,
-      "target": 298,
+      "target": 297,
       "value": 6,
       "battles": [
         {
@@ -2763,8 +2760,8 @@
       ]
     },
     {
-      "source": 265,
-      "target": 295,
+      "source": 264,
+      "target": 294,
       "value": 2,
       "battles": [
         {
@@ -2781,7 +2778,7 @@
     },
     {
       "source": 165,
-      "target": 295,
+      "target": 294,
       "value": 5,
       "battles": [
         {
@@ -2813,7 +2810,7 @@
     },
     {
       "source": 207,
-      "target": 412,
+      "target": 411,
       "value": 2,
       "battles": [
         {
@@ -2829,8 +2826,8 @@
       ]
     },
     {
-      "source": 265,
-      "target": 305,
+      "source": 264,
+      "target": 304,
       "value": 5,
       "battles": [
         {
@@ -2862,7 +2859,7 @@
     },
     {
       "source": 165,
-      "target": 305,
+      "target": 304,
       "value": 4,
       "battles": [
         {
@@ -2888,8 +2885,8 @@
       ]
     },
     {
-      "source": 295,
-      "target": 305,
+      "source": 294,
+      "target": 304,
       "value": 2,
       "battles": [
         {
@@ -2905,8 +2902,8 @@
       ]
     },
     {
-      "source": 305,
-      "target": 412,
+      "source": 304,
+      "target": 411,
       "value": 2,
       "battles": [
         {
@@ -2923,7 +2920,7 @@
     },
     {
       "source": 245,
-      "target": 305,
+      "target": 304,
       "value": 20,
       "battles": [
         {
@@ -3042,7 +3039,7 @@
     },
     {
       "source": 75,
-      "target": 412,
+      "target": 411,
       "value": 2,
       "battles": [
         {
@@ -3059,7 +3056,7 @@
     },
     {
       "source": 75,
-      "target": 295,
+      "target": 294,
       "value": 1,
       "battles": [
         {
@@ -3071,7 +3068,7 @@
     },
     {
       "source": 85,
-      "target": 340,
+      "target": 339,
       "value": 1,
       "battles": [
         {
@@ -3083,7 +3080,7 @@
     },
     {
       "source": 75,
-      "target": 340,
+      "target": 339,
       "value": 1,
       "battles": [
         {
@@ -3095,7 +3092,7 @@
     },
     {
       "source": 76,
-      "target": 340,
+      "target": 339,
       "value": 1,
       "battles": [
         {
@@ -3172,7 +3169,7 @@
     },
     {
       "source": 182,
-      "target": 340,
+      "target": 339,
       "value": 1,
       "battles": [
         {
@@ -3184,7 +3181,7 @@
     },
     {
       "source": 2,
-      "target": 340,
+      "target": 339,
       "value": 1,
       "battles": [
         {
@@ -3196,7 +3193,7 @@
     },
     {
       "source": 182,
-      "target": 286,
+      "target": 285,
       "value": 1,
       "battles": [
         {
@@ -3208,7 +3205,7 @@
     },
     {
       "source": 2,
-      "target": 286,
+      "target": 285,
       "value": 1,
       "battles": [
         {
@@ -3244,7 +3241,7 @@
     },
     {
       "source": 245,
-      "target": 340,
+      "target": 339,
       "value": 3,
       "battles": [
         {
@@ -3266,7 +3263,7 @@
     },
     {
       "source": 21,
-      "target": 340,
+      "target": 339,
       "value": 1,
       "battles": [
         {
@@ -3277,8 +3274,8 @@
       ]
     },
     {
-      "source": 334,
-      "target": 340,
+      "source": 333,
+      "target": 339,
       "value": 1,
       "battles": [
         {
@@ -3289,8 +3286,8 @@
       ]
     },
     {
-      "source": 287,
-      "target": 340,
+      "source": 286,
+      "target": 339,
       "value": 1,
       "battles": [
         {
@@ -3302,7 +3299,7 @@
     },
     {
       "source": 197,
-      "target": 340,
+      "target": 339,
       "value": 1,
       "battles": [
         {
@@ -3343,7 +3340,7 @@
     },
     {
       "source": 79,
-      "target": 334,
+      "target": 333,
       "value": 1,
       "battles": [
         {
@@ -3355,7 +3352,7 @@
     },
     {
       "source": 79,
-      "target": 287,
+      "target": 286,
       "value": 1,
       "battles": [
         {
@@ -3427,7 +3424,7 @@
     },
     {
       "source": 80,
-      "target": 365,
+      "target": 364,
       "value": 1,
       "battles": [
         {
@@ -3439,7 +3436,7 @@
     },
     {
       "source": 75,
-      "target": 365,
+      "target": 364,
       "value": 1,
       "battles": [
         {
@@ -3451,7 +3448,7 @@
     },
     {
       "source": 76,
-      "target": 365,
+      "target": 364,
       "value": 1,
       "battles": [
         {
@@ -3463,7 +3460,7 @@
     },
     {
       "source": 85,
-      "target": 365,
+      "target": 364,
       "value": 1,
       "battles": [
         {
@@ -3475,7 +3472,7 @@
     },
     {
       "source": 79,
-      "target": 298,
+      "target": 297,
       "value": 2,
       "battles": [
         {
@@ -3492,7 +3489,7 @@
     },
     {
       "source": 213,
-      "target": 275,
+      "target": 274,
       "value": 1,
       "battles": [
         {
@@ -3503,8 +3500,8 @@
       ]
     },
     {
-      "source": 275,
-      "target": 321,
+      "source": 274,
+      "target": 320,
       "value": 1,
       "battles": [
         {
@@ -3516,7 +3513,7 @@
     },
     {
       "source": 41,
-      "target": 275,
+      "target": 274,
       "value": 1,
       "battles": [
         {
@@ -3528,7 +3525,7 @@
     },
     {
       "source": 182,
-      "target": 275,
+      "target": 274,
       "value": 1,
       "battles": [
         {
@@ -3540,7 +3537,7 @@
     },
     {
       "source": 245,
-      "target": 341,
+      "target": 340,
       "value": 1,
       "battles": [
         {
@@ -3552,7 +3549,7 @@
     },
     {
       "source": 21,
-      "target": 341,
+      "target": 340,
       "value": 1,
       "battles": [
         {
@@ -3563,8 +3560,8 @@
       ]
     },
     {
-      "source": 341,
-      "target": 412,
+      "source": 340,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -3575,8 +3572,8 @@
       ]
     },
     {
-      "source": 321,
-      "target": 341,
+      "source": 320,
+      "target": 340,
       "value": 1,
       "battles": [
         {
@@ -3588,7 +3585,7 @@
     },
     {
       "source": 41,
-      "target": 341,
+      "target": 340,
       "value": 1,
       "battles": [
         {
@@ -3600,7 +3597,7 @@
     },
     {
       "source": 147,
-      "target": 341,
+      "target": 340,
       "value": 1,
       "battles": [
         {
@@ -3611,8 +3608,8 @@
       ]
     },
     {
-      "source": 298,
-      "target": 341,
+      "source": 297,
+      "target": 340,
       "value": 1,
       "battles": [
         {
@@ -3624,7 +3621,7 @@
     },
     {
       "source": 133,
-      "target": 415,
+      "target": 414,
       "value": 2,
       "battles": [
         {
@@ -3641,7 +3638,7 @@
     },
     {
       "source": 173,
-      "target": 415,
+      "target": 414,
       "value": 2,
       "battles": [
         {
@@ -3670,7 +3667,7 @@
     },
     {
       "source": 133,
-      "target": 316,
+      "target": 315,
       "value": 1,
       "battles": [
         {
@@ -3694,7 +3691,7 @@
     },
     {
       "source": 173,
-      "target": 316,
+      "target": 315,
       "value": 1,
       "battles": [
         {
@@ -3728,7 +3725,7 @@
     },
     {
       "source": 133,
-      "target": 321,
+      "target": 320,
       "value": 7,
       "battles": [
         {
@@ -3821,7 +3818,7 @@
     },
     {
       "source": 173,
-      "target": 321,
+      "target": 320,
       "value": 5,
       "battles": [
         {
@@ -3901,7 +3898,7 @@
     },
     {
       "source": 133,
-      "target": 273,
+      "target": 272,
       "value": 1,
       "battles": [
         {
@@ -3913,7 +3910,7 @@
     },
     {
       "source": 173,
-      "target": 273,
+      "target": 272,
       "value": 1,
       "battles": [
         {
@@ -4097,7 +4094,7 @@
     },
     {
       "source": 173,
-      "target": 364,
+      "target": 363,
       "value": 1,
       "battles": [
         {
@@ -4109,7 +4106,7 @@
     },
     {
       "source": 173,
-      "target": 372,
+      "target": 371,
       "value": 1,
       "battles": [
         {
@@ -4121,7 +4118,7 @@
     },
     {
       "source": 133,
-      "target": 364,
+      "target": 363,
       "value": 2,
       "battles": [
         {
@@ -4138,7 +4135,7 @@
     },
     {
       "source": 133,
-      "target": 372,
+      "target": 371,
       "value": 2,
       "battles": [
         {
@@ -4172,7 +4169,7 @@
     },
     {
       "source": 173,
-      "target": 412,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -4183,8 +4180,8 @@
       ]
     },
     {
-      "source": 305,
-      "target": 388,
+      "source": 304,
+      "target": 387,
       "value": 1,
       "battles": [
         {
@@ -4196,7 +4193,7 @@
     },
     {
       "source": 72,
-      "target": 373,
+      "target": 372,
       "value": 1,
       "battles": [
         {
@@ -4235,7 +4232,7 @@
     },
     {
       "source": 169,
-      "target": 285,
+      "target": 284,
       "value": 3,
       "battles": [
         {
@@ -4320,7 +4317,7 @@
     },
     {
       "source": 134,
-      "target": 285,
+      "target": 284,
       "value": 1,
       "battles": [
         {
@@ -4385,7 +4382,7 @@
     },
     {
       "source": 182,
-      "target": 285,
+      "target": 284,
       "value": 3,
       "battles": [
         {
@@ -4470,7 +4467,7 @@
     },
     {
       "source": 2,
-      "target": 285,
+      "target": 284,
       "value": 3,
       "battles": [
         {
@@ -4538,7 +4535,7 @@
     },
     {
       "source": 116,
-      "target": 361,
+      "target": 360,
       "value": 2,
       "battles": [
         {
@@ -4587,7 +4584,7 @@
     },
     {
       "source": 245,
-      "target": 419,
+      "target": 418,
       "value": 1,
       "battles": [
         {
@@ -4645,7 +4642,7 @@
     },
     {
       "source": 182,
-      "target": 419,
+      "target": 418,
       "value": 1,
       "battles": [
         {
@@ -4657,7 +4654,7 @@
     },
     {
       "source": 116,
-      "target": 326,
+      "target": 325,
       "value": 4,
       "battles": [
         {
@@ -4684,7 +4681,7 @@
     },
     {
       "source": 165,
-      "target": 326,
+      "target": 325,
       "value": 2,
       "battles": [
         {
@@ -4700,8 +4697,8 @@
       ]
     },
     {
-      "source": 326,
-      "target": 419,
+      "source": 325,
+      "target": 418,
       "value": 2,
       "battles": [
         {
@@ -4718,7 +4715,7 @@
     },
     {
       "source": 115,
-      "target": 326,
+      "target": 325,
       "value": 3,
       "battles": [
         {
@@ -4784,7 +4781,7 @@
     },
     {
       "source": 169,
-      "target": 419,
+      "target": 418,
       "value": 2,
       "battles": [
         {
@@ -4825,7 +4822,7 @@
     },
     {
       "source": 2,
-      "target": 419,
+      "target": 418,
       "value": 1,
       "battles": [
         {
@@ -4881,7 +4878,7 @@
     },
     {
       "source": 91,
-      "target": 419,
+      "target": 418,
       "value": 2,
       "battles": [
         {
@@ -4915,7 +4912,7 @@
     },
     {
       "source": 245,
-      "target": 389,
+      "target": 388,
       "value": 5,
       "battles": [
         {
@@ -4947,7 +4944,7 @@
     },
     {
       "source": 91,
-      "target": 389,
+      "target": 388,
       "value": 2,
       "battles": [
         {
@@ -4988,7 +4985,7 @@
     },
     {
       "source": 92,
-      "target": 389,
+      "target": 388,
       "value": 2,
       "battles": [
         {
@@ -5005,7 +5002,7 @@
     },
     {
       "source": 116,
-      "target": 318,
+      "target": 317,
       "value": 1,
       "battles": [
         {
@@ -5017,7 +5014,7 @@
     },
     {
       "source": 115,
-      "target": 318,
+      "target": 317,
       "value": 1,
       "battles": [
         {
@@ -5028,8 +5025,8 @@
       ]
     },
     {
-      "source": 318,
-      "target": 412,
+      "source": 317,
+      "target": 411,
       "value": 2,
       "battles": [
         {
@@ -5046,7 +5043,7 @@
     },
     {
       "source": 184,
-      "target": 412,
+      "target": 411,
       "value": 2,
       "battles": [
         {
@@ -5062,8 +5059,8 @@
       ]
     },
     {
-      "source": 285,
-      "target": 412,
+      "source": 284,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -5075,7 +5072,7 @@
     },
     {
       "source": 185,
-      "target": 412,
+      "target": 411,
       "value": 2,
       "battles": [
         {
@@ -5091,8 +5088,8 @@
       ]
     },
     {
-      "source": 369,
-      "target": 412,
+      "source": 368,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -5116,7 +5113,7 @@
     },
     {
       "source": 213,
-      "target": 285,
+      "target": 284,
       "value": 3,
       "battles": [
         {
@@ -5150,7 +5147,7 @@
     },
     {
       "source": 213,
-      "target": 369,
+      "target": 368,
       "value": 1,
       "battles": [
         {
@@ -5162,7 +5159,7 @@
     },
     {
       "source": 184,
-      "target": 382,
+      "target": 381,
       "value": 1,
       "battles": [
         {
@@ -5173,8 +5170,8 @@
       ]
     },
     {
-      "source": 285,
-      "target": 382,
+      "source": 284,
+      "target": 381,
       "value": 3,
       "battles": [
         {
@@ -5196,7 +5193,7 @@
     },
     {
       "source": 185,
-      "target": 382,
+      "target": 381,
       "value": 1,
       "battles": [
         {
@@ -5207,8 +5204,8 @@
       ]
     },
     {
-      "source": 369,
-      "target": 382,
+      "source": 368,
+      "target": 381,
       "value": 1,
       "battles": [
         {
@@ -5220,7 +5217,7 @@
     },
     {
       "source": 182,
-      "target": 369,
+      "target": 368,
       "value": 1,
       "battles": [
         {
@@ -5232,7 +5229,7 @@
     },
     {
       "source": 2,
-      "target": 369,
+      "target": 368,
       "value": 1,
       "battles": [
         {
@@ -5243,8 +5240,8 @@
       ]
     },
     {
-      "source": 285,
-      "target": 326,
+      "source": 284,
+      "target": 325,
       "value": 3,
       "battles": [
         {
@@ -5266,7 +5263,7 @@
     },
     {
       "source": 115,
-      "target": 295,
+      "target": 294,
       "value": 2,
       "battles": [
         {
@@ -5283,7 +5280,7 @@
     },
     {
       "source": 116,
-      "target": 295,
+      "target": 294,
       "value": 2,
       "battles": [
         {
@@ -5299,8 +5296,8 @@
       ]
     },
     {
-      "source": 285,
-      "target": 295,
+      "source": 284,
+      "target": 294,
       "value": 2,
       "battles": [
         {
@@ -5316,8 +5313,8 @@
       ]
     },
     {
-      "source": 295,
-      "target": 419,
+      "source": 294,
+      "target": 418,
       "value": 1,
       "battles": [
         {
@@ -5370,7 +5367,7 @@
     },
     {
       "source": 213,
-      "target": 419,
+      "target": 418,
       "value": 1,
       "battles": [
         {
@@ -5382,7 +5379,7 @@
     },
     {
       "source": 115,
-      "target": 382,
+      "target": 381,
       "value": 1,
       "battles": [
         {
@@ -5394,7 +5391,7 @@
     },
     {
       "source": 116,
-      "target": 382,
+      "target": 381,
       "value": 2,
       "battles": [
         {
@@ -5411,7 +5408,7 @@
     },
     {
       "source": 165,
-      "target": 382,
+      "target": 381,
       "value": 1,
       "battles": [
         {
@@ -5422,8 +5419,8 @@
       ]
     },
     {
-      "source": 382,
-      "target": 419,
+      "source": 381,
+      "target": 418,
       "value": 1,
       "battles": [
         {
@@ -5435,7 +5432,7 @@
     },
     {
       "source": 115,
-      "target": 334,
+      "target": 333,
       "value": 1,
       "battles": [
         {
@@ -5447,7 +5444,7 @@
     },
     {
       "source": 116,
-      "target": 334,
+      "target": 333,
       "value": 1,
       "battles": [
         {
@@ -5458,8 +5455,8 @@
       ]
     },
     {
-      "source": 285,
-      "target": 334,
+      "source": 284,
+      "target": 333,
       "value": 1,
       "battles": [
         {
@@ -5471,7 +5468,7 @@
     },
     {
       "source": 165,
-      "target": 334,
+      "target": 333,
       "value": 1,
       "battles": [
         {
@@ -5482,8 +5479,8 @@
       ]
     },
     {
-      "source": 334,
-      "target": 419,
+      "source": 333,
+      "target": 418,
       "value": 1,
       "battles": [
         {
@@ -5495,7 +5492,7 @@
     },
     {
       "source": 116,
-      "target": 389,
+      "target": 388,
       "value": 2,
       "battles": [
         {
@@ -5512,7 +5509,7 @@
     },
     {
       "source": 213,
-      "target": 368,
+      "target": 367,
       "value": 1,
       "battles": [
         {
@@ -5523,8 +5520,8 @@
       ]
     },
     {
-      "source": 368,
-      "target": 382,
+      "source": 367,
+      "target": 381,
       "value": 1,
       "battles": [
         {
@@ -5536,7 +5533,7 @@
     },
     {
       "source": 182,
-      "target": 368,
+      "target": 367,
       "value": 1,
       "battles": [
         {
@@ -5548,7 +5545,7 @@
     },
     {
       "source": 2,
-      "target": 368,
+      "target": 367,
       "value": 1,
       "battles": [
         {
@@ -5560,7 +5557,7 @@
     },
     {
       "source": 169,
-      "target": 389,
+      "target": 388,
       "value": 1,
       "battles": [
         {
@@ -5572,7 +5569,7 @@
     },
     {
       "source": 169,
-      "target": 367,
+      "target": 366,
       "value": 1,
       "battles": [
         {
@@ -5583,8 +5580,8 @@
       ]
     },
     {
-      "source": 389,
-      "target": 412,
+      "source": 388,
+      "target": 411,
       "value": 2,
       "battles": [
         {
@@ -5600,8 +5597,8 @@
       ]
     },
     {
-      "source": 367,
-      "target": 412,
+      "source": 366,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -5612,8 +5609,8 @@
       ]
     },
     {
-      "source": 326,
-      "target": 389,
+      "source": 325,
+      "target": 388,
       "value": 1,
       "battles": [
         {
@@ -5624,8 +5621,8 @@
       ]
     },
     {
-      "source": 326,
-      "target": 367,
+      "source": 325,
+      "target": 366,
       "value": 1,
       "battles": [
         {
@@ -5636,8 +5633,8 @@
       ]
     },
     {
-      "source": 334,
-      "target": 389,
+      "source": 333,
+      "target": 388,
       "value": 1,
       "battles": [
         {
@@ -5648,20 +5645,8 @@
       ]
     },
     {
-      "source": 334,
-      "target": 367,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "109",
-          "outcome": "Battle ongoing; sealing interrupted by Team Guren",
-          "description": "Konoha shinobi attempt to seal the Three-Tails but are intercepted by Team Guren, who disrupt the sealing using smoke techniques and viscous water attacks."
-        }
-      ]
-    },
-    {
-      "source": 147,
-      "target": 389,
+      "source": 333,
+      "target": 366,
       "value": 1,
       "battles": [
         {
@@ -5673,7 +5658,7 @@
     },
     {
       "source": 147,
-      "target": 367,
+      "target": 388,
       "value": 1,
       "battles": [
         {
@@ -5684,8 +5669,8 @@
       ]
     },
     {
-      "source": 298,
-      "target": 389,
+      "source": 147,
+      "target": 366,
       "value": 1,
       "battles": [
         {
@@ -5696,8 +5681,20 @@
       ]
     },
     {
-      "source": 298,
-      "target": 367,
+      "source": 297,
+      "target": 388,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "109",
+          "outcome": "Battle ongoing; sealing interrupted by Team Guren",
+          "description": "Konoha shinobi attempt to seal the Three-Tails but are intercepted by Team Guren, who disrupt the sealing using smoke techniques and viscous water attacks."
+        }
+      ]
+    },
+    {
+      "source": 297,
+      "target": 366,
       "value": 1,
       "battles": [
         {
@@ -5709,7 +5706,7 @@
     },
     {
       "source": 134,
-      "target": 389,
+      "target": 388,
       "value": 1,
       "battles": [
         {
@@ -5721,7 +5718,7 @@
     },
     {
       "source": 134,
-      "target": 367,
+      "target": 366,
       "value": 1,
       "battles": [
         {
@@ -5733,7 +5730,7 @@
     },
     {
       "source": 57,
-      "target": 389,
+      "target": 388,
       "value": 1,
       "battles": [
         {
@@ -5766,8 +5763,8 @@
       ]
     },
     {
-      "source": 343,
-      "target": 383,
+      "source": 342,
+      "target": 382,
       "value": 2,
       "battles": [
         {
@@ -5784,7 +5781,7 @@
     },
     {
       "source": 163,
-      "target": 305,
+      "target": 304,
       "value": 3,
       "battles": [
         {
@@ -5806,7 +5803,7 @@
     },
     {
       "source": 163,
-      "target": 343,
+      "target": 342,
       "value": 2,
       "battles": [
         {
@@ -5869,7 +5866,7 @@
     },
     {
       "source": 57,
-      "target": 305,
+      "target": 304,
       "value": 3,
       "battles": [
         {
@@ -5891,8 +5888,8 @@
     },
     {
       "source": 221,
-      "target": 305,
-      "value": 5,
+      "target": 304,
+      "value": 9,
       "battles": [
         {
           "episode": "122",
@@ -5918,12 +5915,32 @@
           "episode": "197",
           "outcome": "Obito and Zetsu block Taka's path, asserting their continued involvement despite Taka's departure from Akatsuki.",
           "description": "Obito Uchiha and Zetsu intercept Taka, revealing their continued control over the group and informing Sasuke of the Five Kage Summit and Danzo's appointment as Hokage."
+        },
+        {
+          "episode": "379",
+          "outcome": "Obito sustains damage and is confirmed vulnerable to Senjutsu-infused attacks, but remains largely unharmed due to Yin-Yang Release.",
+          "description": "Naruto, Sasuke, Minato, and Tobirama combine attacks against Obito, discovering his Truth-Seeking Balls nullify ninjutsu and that Senjutsu-infused Rasenshuken can bypass this defense."
+        },
+        {
+          "episode": "382",
+          "outcome": "Battle ongoing with Sasuke and Jūgo utilizing Sage Transformation against Obito, but no clear winner",
+          "description": "Sasuke and Jūgo engage Obito in battle, with Jūgo activating Sage Transformation on Sasuke's Susanoo to enhance their attack power."
+        },
+        {
+          "episode": "387",
+          "outcome": "Obito is subdued and powers are temporarily sealed, though the conflict remains ongoing with Madara's presence.",
+          "description": "Naruto and the Allied Shinobi Forces successfully free the Tailed Beasts, leading to Obito's defeat and temporary incapacitation, while Kakashi and Minato debate Obito's fate."
+        },
+        {
+          "episode": "383",
+          "outcome": "Obito overwhelms Naruto and Sasuke, forcing them out of their Tailed Beast Mode and Susanoo",
+          "description": "Naruto and Sasuke clash with Obito, who easily evades their attacks and uses his Tailed Beast Chakra Arms to subdue them, reverting them to their base forms."
         }
       ]
     },
     {
-      "source": 305,
-      "target": 343,
+      "source": 304,
+      "target": 342,
       "value": 1,
       "battles": [
         {
@@ -5935,7 +5952,7 @@
     },
     {
       "source": 178,
-      "target": 305,
+      "target": 304,
       "value": 2,
       "battles": [
         {
@@ -5952,7 +5969,7 @@
     },
     {
       "source": 219,
-      "target": 343,
+      "target": 342,
       "value": 1,
       "battles": [
         {
@@ -6000,7 +6017,7 @@
     },
     {
       "source": 151,
-      "target": 360,
+      "target": 359,
       "value": 1,
       "battles": [
         {
@@ -6012,7 +6029,7 @@
     },
     {
       "source": 161,
-      "target": 337,
+      "target": 336,
       "value": 1,
       "battles": [
         {
@@ -6024,7 +6041,7 @@
     },
     {
       "source": 161,
-      "target": 410,
+      "target": 409,
       "value": 1,
       "battles": [
         {
@@ -6085,7 +6102,7 @@
     },
     {
       "source": 161,
-      "target": 290,
+      "target": 289,
       "value": 1,
       "battles": [
         {
@@ -6097,7 +6114,7 @@
     },
     {
       "source": 161,
-      "target": 417,
+      "target": 416,
       "value": 1,
       "battles": [
         {
@@ -6350,7 +6367,7 @@
     },
     {
       "source": 60,
-      "target": 323,
+      "target": 322,
       "value": 4,
       "battles": [
         {
@@ -6377,7 +6394,7 @@
     },
     {
       "source": 105,
-      "target": 323,
+      "target": 322,
       "value": 1,
       "battles": [
         {
@@ -6389,7 +6406,7 @@
     },
     {
       "source": 109,
-      "target": 323,
+      "target": 322,
       "value": 1,
       "battles": [
         {
@@ -6401,7 +6418,7 @@
     },
     {
       "source": 103,
-      "target": 323,
+      "target": 322,
       "value": 1,
       "battles": [
         {
@@ -6413,7 +6430,7 @@
     },
     {
       "source": 106,
-      "target": 323,
+      "target": 322,
       "value": 1,
       "battles": [
         {
@@ -6425,7 +6442,7 @@
     },
     {
       "source": 107,
-      "target": 323,
+      "target": 322,
       "value": 1,
       "battles": [
         {
@@ -6437,7 +6454,7 @@
     },
     {
       "source": 151,
-      "target": 305,
+      "target": 304,
       "value": 4,
       "battles": [
         {
@@ -6476,7 +6493,7 @@
     },
     {
       "source": 25,
-      "target": 305,
+      "target": 304,
       "value": 3,
       "battles": [
         {
@@ -6515,7 +6532,7 @@
     },
     {
       "source": 25,
-      "target": 343,
+      "target": 342,
       "value": 2,
       "battles": [
         {
@@ -6556,7 +6573,7 @@
     },
     {
       "source": 142,
-      "target": 412,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -6568,7 +6585,7 @@
     },
     {
       "source": 142,
-      "target": 295,
+      "target": 294,
       "value": 1,
       "battles": [
         {
@@ -6628,7 +6645,7 @@
     },
     {
       "source": 46,
-      "target": 405,
+      "target": 404,
       "value": 1,
       "battles": [
         {
@@ -6640,7 +6657,7 @@
     },
     {
       "source": 27,
-      "target": 405,
+      "target": 404,
       "value": 1,
       "battles": [
         {
@@ -6652,7 +6669,7 @@
     },
     {
       "source": 28,
-      "target": 405,
+      "target": 404,
       "value": 1,
       "battles": [
         {
@@ -6664,7 +6681,7 @@
     },
     {
       "source": 29,
-      "target": 405,
+      "target": 404,
       "value": 1,
       "battles": [
         {
@@ -6676,7 +6693,7 @@
     },
     {
       "source": 245,
-      "target": 329,
+      "target": 328,
       "value": 1,
       "battles": [
         {
@@ -6711,8 +6728,8 @@
       ]
     },
     {
-      "source": 329,
-      "target": 405,
+      "source": 328,
+      "target": 404,
       "value": 1,
       "battles": [
         {
@@ -6724,7 +6741,7 @@
     },
     {
       "source": 215,
-      "target": 405,
+      "target": 404,
       "value": 1,
       "battles": [
         {
@@ -6736,7 +6753,7 @@
     },
     {
       "source": 220,
-      "target": 405,
+      "target": 404,
       "value": 1,
       "battles": [
         {
@@ -6748,7 +6765,7 @@
     },
     {
       "source": 60,
-      "target": 405,
+      "target": 404,
       "value": 1,
       "battles": [
         {
@@ -6760,7 +6777,7 @@
     },
     {
       "source": 60,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -6950,7 +6967,7 @@
     },
     {
       "source": 60,
-      "target": 334,
+      "target": 333,
       "value": 1,
       "battles": [
         {
@@ -6962,7 +6979,7 @@
     },
     {
       "source": 107,
-      "target": 334,
+      "target": 333,
       "value": 1,
       "battles": [
         {
@@ -6974,7 +6991,7 @@
     },
     {
       "source": 106,
-      "target": 334,
+      "target": 333,
       "value": 1,
       "battles": [
         {
@@ -6986,7 +7003,7 @@
     },
     {
       "source": 105,
-      "target": 334,
+      "target": 333,
       "value": 1,
       "battles": [
         {
@@ -6998,7 +7015,7 @@
     },
     {
       "source": 109,
-      "target": 334,
+      "target": 333,
       "value": 1,
       "battles": [
         {
@@ -7010,7 +7027,7 @@
     },
     {
       "source": 103,
-      "target": 334,
+      "target": 333,
       "value": 1,
       "battles": [
         {
@@ -7186,7 +7203,7 @@
     },
     {
       "source": 12,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -7198,7 +7215,7 @@
     },
     {
       "source": 60,
-      "target": 403,
+      "target": 402,
       "value": 1,
       "battles": [
         {
@@ -7246,7 +7263,7 @@
     },
     {
       "source": 60,
-      "target": 288,
+      "target": 287,
       "value": 1,
       "battles": [
         {
@@ -7294,7 +7311,7 @@
     },
     {
       "source": 195,
-      "target": 288,
+      "target": 287,
       "value": 1,
       "battles": [
         {
@@ -7306,7 +7323,7 @@
     },
     {
       "source": 175,
-      "target": 358,
+      "target": 357,
       "value": 1,
       "battles": [
         {
@@ -7318,7 +7335,7 @@
     },
     {
       "source": 174,
-      "target": 358,
+      "target": 357,
       "value": 1,
       "battles": [
         {
@@ -7354,7 +7371,7 @@
     },
     {
       "source": 175,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -7366,7 +7383,7 @@
     },
     {
       "source": 174,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -7378,7 +7395,7 @@
     },
     {
       "source": 175,
-      "target": 298,
+      "target": 297,
       "value": 1,
       "battles": [
         {
@@ -7390,7 +7407,7 @@
     },
     {
       "source": 174,
-      "target": 298,
+      "target": 297,
       "value": 1,
       "battles": [
         {
@@ -7426,7 +7443,7 @@
     },
     {
       "source": 87,
-      "target": 349,
+      "target": 348,
       "value": 1,
       "battles": [
         {
@@ -7438,7 +7455,7 @@
     },
     {
       "source": 201,
-      "target": 349,
+      "target": 348,
       "value": 1,
       "battles": [
         {
@@ -7449,8 +7466,8 @@
       ]
     },
     {
-      "source": 349,
-      "target": 413,
+      "source": 348,
+      "target": 412,
       "value": 1,
       "battles": [
         {
@@ -7551,7 +7568,7 @@
     },
     {
       "source": 49,
-      "target": 326,
+      "target": 325,
       "value": 2,
       "battles": [
         {
@@ -7568,7 +7585,7 @@
     },
     {
       "source": 100,
-      "target": 326,
+      "target": 325,
       "value": 1,
       "battles": [
         {
@@ -7580,7 +7597,7 @@
     },
     {
       "source": 35,
-      "target": 326,
+      "target": 325,
       "value": 1,
       "battles": [
         {
@@ -7744,7 +7761,7 @@
     },
     {
       "source": 176,
-      "target": 354,
+      "target": 353,
       "value": 1,
       "battles": [
         {
@@ -7756,7 +7773,7 @@
     },
     {
       "source": 48,
-      "target": 354,
+      "target": 353,
       "value": 1,
       "battles": [
         {
@@ -7768,7 +7785,7 @@
     },
     {
       "source": 251,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -7780,7 +7797,7 @@
     },
     {
       "source": 252,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -7816,7 +7833,7 @@
     },
     {
       "source": 251,
-      "target": 298,
+      "target": 297,
       "value": 1,
       "battles": [
         {
@@ -7828,7 +7845,7 @@
     },
     {
       "source": 252,
-      "target": 298,
+      "target": 297,
       "value": 1,
       "battles": [
         {
@@ -7900,7 +7917,7 @@
     },
     {
       "source": 250,
-      "target": 312,
+      "target": 311,
       "value": 1,
       "battles": [
         {
@@ -7912,7 +7929,19 @@
     },
     {
       "source": 250,
-      "target": 313,
+      "target": 312,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "192",
+          "outcome": "Neji and Hiashi successfully defeat the Kumo shinobi, preventing Hinata's capture.",
+          "description": "Neji and Hiashi intercept the Kumo shinobi attempting to kidnap Hinata, showcasing techniques like the Gentle Fist, Eight Trigrams Palms Revolving Heaven, and Violent Heavenly Earth Needle."
+        }
+      ]
+    },
+    {
+      "source": 131,
+      "target": 311,
       "value": 1,
       "battles": [
         {
@@ -7935,20 +7964,8 @@
       ]
     },
     {
-      "source": 131,
-      "target": 313,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "192",
-          "outcome": "Neji and Hiashi successfully defeat the Kumo shinobi, preventing Hinata's capture.",
-          "description": "Neji and Hiashi intercept the Kumo shinobi attempting to kidnap Hinata, showcasing techniques like the Gentle Fist, Eight Trigrams Palms Revolving Heaven, and Violent Heavenly Earth Needle."
-        }
-      ]
-    },
-    {
       "source": 191,
-      "target": 293,
+      "target": 292,
       "value": 1,
       "battles": [
         {
@@ -7984,7 +8001,7 @@
     },
     {
       "source": 246,
-      "target": 294,
+      "target": 293,
       "value": 1,
       "battles": [
         {
@@ -8020,7 +8037,7 @@
     },
     {
       "source": 245,
-      "target": 376,
+      "target": 375,
       "value": 1,
       "battles": [
         {
@@ -8056,7 +8073,7 @@
     },
     {
       "source": 169,
-      "target": 376,
+      "target": 375,
       "value": 1,
       "battles": [
         {
@@ -8068,7 +8085,7 @@
     },
     {
       "source": 179,
-      "target": 412,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -8080,7 +8097,7 @@
     },
     {
       "source": 56,
-      "target": 412,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -8091,8 +8108,8 @@
       ]
     },
     {
-      "source": 376,
-      "target": 412,
+      "source": 375,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -8140,7 +8157,7 @@
     },
     {
       "source": 245,
-      "target": 343,
+      "target": 342,
       "value": 1,
       "battles": [
         {
@@ -8151,8 +8168,8 @@
       ]
     },
     {
-      "source": 298,
-      "target": 305,
+      "source": 297,
+      "target": 304,
       "value": 4,
       "battles": [
         {
@@ -8179,7 +8196,7 @@
     },
     {
       "source": 163,
-      "target": 298,
+      "target": 297,
       "value": 1,
       "battles": [
         {
@@ -8191,7 +8208,7 @@
     },
     {
       "source": 178,
-      "target": 298,
+      "target": 297,
       "value": 2,
       "battles": [
         {
@@ -8207,8 +8224,8 @@
       ]
     },
     {
-      "source": 298,
-      "target": 343,
+      "source": 297,
+      "target": 342,
       "value": 1,
       "battles": [
         {
@@ -8220,7 +8237,7 @@
     },
     {
       "source": 169,
-      "target": 305,
+      "target": 304,
       "value": 3,
       "battles": [
         {
@@ -8266,7 +8283,7 @@
     },
     {
       "source": 169,
-      "target": 343,
+      "target": 342,
       "value": 1,
       "battles": [
         {
@@ -8278,7 +8295,7 @@
     },
     {
       "source": 56,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -8290,7 +8307,7 @@
     },
     {
       "source": 87,
-      "target": 305,
+      "target": 304,
       "value": 2,
       "battles": [
         {
@@ -8307,7 +8324,7 @@
     },
     {
       "source": 177,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -8318,8 +8335,8 @@
       ]
     },
     {
-      "source": 305,
-      "target": 379,
+      "source": 304,
+      "target": 378,
       "value": 1,
       "battles": [
         {
@@ -8348,7 +8365,7 @@
     },
     {
       "source": 53,
-      "target": 305,
+      "target": 304,
       "value": 5,
       "battles": [
         {
@@ -8428,7 +8445,7 @@
     },
     {
       "source": 84,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -8488,7 +8505,7 @@
     },
     {
       "source": 18,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -8560,7 +8577,7 @@
     },
     {
       "source": 221,
-      "target": 394,
+      "target": 393,
       "value": 1,
       "battles": [
         {
@@ -8571,8 +8588,8 @@
       ]
     },
     {
-      "source": 305,
-      "target": 318,
+      "source": 304,
+      "target": 317,
       "value": 2,
       "battles": [
         {
@@ -8618,7 +8635,7 @@
     },
     {
       "source": 104,
-      "target": 412,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -8642,7 +8659,7 @@
     },
     {
       "source": 104,
-      "target": 421,
+      "target": 420,
       "value": 1,
       "battles": [
         {
@@ -8702,7 +8719,7 @@
     },
     {
       "source": 245,
-      "target": 271,
+      "target": 270,
       "value": 1,
       "battles": [
         {
@@ -8714,7 +8731,7 @@
     },
     {
       "source": 97,
-      "target": 412,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -8726,7 +8743,7 @@
     },
     {
       "source": 98,
-      "target": 412,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -8737,8 +8754,8 @@
       ]
     },
     {
-      "source": 271,
-      "target": 412,
+      "source": 270,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -8774,7 +8791,7 @@
     },
     {
       "source": 198,
-      "target": 271,
+      "target": 270,
       "value": 1,
       "battles": [
         {
@@ -8786,7 +8803,7 @@
     },
     {
       "source": 117,
-      "target": 389,
+      "target": 388,
       "value": 1,
       "battles": [
         {
@@ -8798,7 +8815,7 @@
     },
     {
       "source": 19,
-      "target": 389,
+      "target": 388,
       "value": 1,
       "battles": [
         {
@@ -8809,8 +8826,8 @@
       ]
     },
     {
-      "source": 346,
-      "target": 389,
+      "source": 345,
+      "target": 388,
       "value": 1,
       "battles": [
         {
@@ -8822,7 +8839,7 @@
     },
     {
       "source": 241,
-      "target": 321,
+      "target": 320,
       "value": 1,
       "battles": [
         {
@@ -8834,7 +8851,7 @@
     },
     {
       "source": 242,
-      "target": 321,
+      "target": 320,
       "value": 1,
       "battles": [
         {
@@ -8870,7 +8887,7 @@
     },
     {
       "source": 241,
-      "target": 382,
+      "target": 381,
       "value": 1,
       "battles": [
         {
@@ -8882,7 +8899,7 @@
     },
     {
       "source": 242,
-      "target": 382,
+      "target": 381,
       "value": 1,
       "battles": [
         {
@@ -8906,7 +8923,7 @@
     },
     {
       "source": 245,
-      "target": 333,
+      "target": 332,
       "value": 1,
       "battles": [
         {
@@ -8917,8 +8934,8 @@
       ]
     },
     {
-      "source": 318,
-      "target": 333,
+      "source": 317,
+      "target": 332,
       "value": 1,
       "battles": [
         {
@@ -8929,8 +8946,8 @@
       ]
     },
     {
-      "source": 326,
-      "target": 344,
+      "source": 325,
+      "target": 343,
       "value": 1,
       "battles": [
         {
@@ -8942,7 +8959,7 @@
     },
     {
       "source": 182,
-      "target": 344,
+      "target": 343,
       "value": 1,
       "battles": [
         {
@@ -8954,7 +8971,7 @@
     },
     {
       "source": 134,
-      "target": 344,
+      "target": 343,
       "value": 1,
       "battles": [
         {
@@ -8966,7 +8983,7 @@
     },
     {
       "source": 2,
-      "target": 344,
+      "target": 343,
       "value": 1,
       "battles": [
         {
@@ -8990,7 +9007,7 @@
     },
     {
       "source": 111,
-      "target": 412,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -9030,12 +9047,27 @@
     {
       "source": 221,
       "target": 237,
-      "value": 2,
+      "value": 5,
       "battles": [
         {
           "episode": "248",
           "outcome": "Minato successfully brands Tobi with a Contract Seal, wresting control of the Nine-Tails from him.",
           "description": "Minato utilizes his Flying Thunder God technique and Rasengan to wound Tobi, then seals him with a Contract Seal, regaining control of the Nine-Tails."
+        },
+        {
+          "episode": "379",
+          "outcome": "Obito sustains damage and is confirmed vulnerable to Senjutsu-infused attacks, but remains largely unharmed due to Yin-Yang Release.",
+          "description": "Naruto, Sasuke, Minato, and Tobirama combine attacks against Obito, discovering his Truth-Seeking Balls nullify ninjutsu and that Senjutsu-infused Rasenshuken can bypass this defense."
+        },
+        {
+          "episode": "381",
+          "outcome": "Obito successfully defends against the combined attack and initiates the final phase of his plan, releasing the Ten-Tails and activating the Six Red Yang Formation.",
+          "description": "Naruto and Minato land a Parent and Child Rasengan on Obito, followed by a natural energy-infused Tailed Beast Ball, but Obito counters by releasing the Ten-Tails and initiating the Six Red Yang Formation to drain the Shinobi Alliance's chakra."
+        },
+        {
+          "episode": "375",
+          "outcome": "Obito becomes the Ten-Tails' Jinchūriki, resisting Madara's control and transforming into a powerful new form",
+          "description": "Kakashi and Minato engage Obito in a fierce battle, revealing his identity as the masked man before he absorbs the Ten-Tails, becoming its Jinchūriki."
         },
         {
           "episode": "415",
@@ -9058,7 +9090,7 @@
     },
     {
       "source": 237,
-      "target": 325,
+      "target": 324,
       "value": 1,
       "battles": [
         {
@@ -9082,7 +9114,7 @@
     },
     {
       "source": 210,
-      "target": 325,
+      "target": 324,
       "value": 1,
       "battles": [
         {
@@ -9106,7 +9138,7 @@
     },
     {
       "source": 19,
-      "target": 319,
+      "target": 318,
       "value": 2,
       "battles": [
         {
@@ -9135,7 +9167,7 @@
     },
     {
       "source": 245,
-      "target": 319,
+      "target": 318,
       "value": 2,
       "battles": [
         {
@@ -9224,7 +9256,7 @@
     },
     {
       "source": 190,
-      "target": 412,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -9235,8 +9267,8 @@
       ]
     },
     {
-      "source": 319,
-      "target": 412,
+      "source": 318,
+      "target": 411,
       "value": 2,
       "battles": [
         {
@@ -9253,7 +9285,7 @@
     },
     {
       "source": 214,
-      "target": 412,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -9265,7 +9297,7 @@
     },
     {
       "source": 25,
-      "target": 319,
+      "target": 318,
       "value": 2,
       "battles": [
         {
@@ -9309,7 +9341,7 @@
     },
     {
       "source": 117,
-      "target": 319,
+      "target": 318,
       "value": 2,
       "battles": [
         {
@@ -9365,7 +9397,7 @@
     },
     {
       "source": 240,
-      "target": 319,
+      "target": 318,
       "value": 2,
       "battles": [
         {
@@ -9394,7 +9426,7 @@
     },
     {
       "source": 165,
-      "target": 425,
+      "target": 424,
       "value": 1,
       "battles": [
         {
@@ -9406,7 +9438,7 @@
     },
     {
       "source": 57,
-      "target": 425,
+      "target": 424,
       "value": 2,
       "battles": [
         {
@@ -9441,7 +9473,7 @@
     {
       "source": 10,
       "target": 221,
-      "value": 5,
+      "value": 8,
       "battles": [
         {
           "episode": "256",
@@ -9452,6 +9484,21 @@
           "episode": "256",
           "outcome": "The Fourth Shinobi World War officially begins with the deployment of a massive reanimated army and the Tailed Beasts, setting the stage for a large-scale conflict.",
           "description": "Kabuto and Tobi initiate the Fourth Shinobi World War by reanimating powerful deceased shinobi and summoning the Tailed Beasts, overwhelming the Allied Shinobi Forces with sheer numbers and formidable opponents."
+        },
+        {
+          "episode": "363",
+          "outcome": "The Allied Shinobi Forces temporarily bind the Ten-Tails using a coordinated strategy, though the beast begins to transform.",
+          "description": "The Allied Shinobi Forces launch a coordinated attack to blind and restrain the Ten-Tails, utilizing quicklime and water, while Naruto attempts to reason with Obito."
+        },
+        {
+          "episode": "365",
+          "outcome": "The Ten-Tails' connection to Obito is severed, forcing a retreat for both Obito and Madara.",
+          "description": "Empowered by Kurama's chakra, the Allied Shinobi Forces launch a coordinated attack using Rasenshurikens and Nara shadow techniques, successfully disrupting Obito's control over the Ten-Tails."
+        },
+        {
+          "episode": "387",
+          "outcome": "Obito is subdued and powers are temporarily sealed, though the conflict remains ongoing with Madara's presence.",
+          "description": "Naruto and the Allied Shinobi Forces successfully free the Tailed Beasts, leading to Obito's defeat and temporary incapacitation, while Kakashi and Minato debate Obito's fate."
         },
         {
           "episode": "380",
@@ -9472,7 +9519,7 @@
     },
     {
       "source": 10,
-      "target": 267,
+      "target": 266,
       "value": 2,
       "battles": [
         {
@@ -9489,7 +9536,7 @@
     },
     {
       "source": 10,
-      "target": 277,
+      "target": 276,
       "value": 2,
       "battles": [
         {
@@ -9506,7 +9553,7 @@
     },
     {
       "source": 10,
-      "target": 406,
+      "target": 405,
       "value": 2,
       "battles": [
         {
@@ -9524,7 +9571,7 @@
     {
       "source": 169,
       "target": 221,
-      "value": 5,
+      "value": 10,
       "battles": [
         {
           "episode": "256",
@@ -9547,6 +9594,31 @@
           "description": "Naruto, in Tailed Beast Mode, attacks Obito with Rasengan and Tailed Beast Ball, while Kakashi and Guy assist, leading to Obito's mask shattering and reveal, before Madara's unexpected arrival."
         },
         {
+          "episode": "363",
+          "outcome": "The Allied Shinobi Forces temporarily bind the Ten-Tails using a coordinated strategy, though the beast begins to transform.",
+          "description": "The Allied Shinobi Forces launch a coordinated attack to blind and restrain the Ten-Tails, utilizing quicklime and water, while Naruto attempts to reason with Obito."
+        },
+        {
+          "episode": "387",
+          "outcome": "Obito is subdued and powers are temporarily sealed, though the conflict remains ongoing with Madara's presence.",
+          "description": "Naruto and the Allied Shinobi Forces successfully free the Tailed Beasts, leading to Obito's defeat and temporary incapacitation, while Kakashi and Minato debate Obito's fate."
+        },
+        {
+          "episode": "362",
+          "outcome": "The Demonic Statue of the Outer Path was destroyed, but the Ten-Tails was revived, shifting the conflict's focus.",
+          "description": "Naruto and Killer B combined a Tailed Beast Ball to destroy the Demonic Statue, while Kakashi and Guy engaged Obito and Madara with Lightning Cutter and Daytime Tiger respectively, ultimately failing to prevent the Ten-Tails' revival."
+        },
+        {
+          "episode": "371",
+          "outcome": "The battle is interrupted with no clear winner, focusing on a psychological clash and revelation of Rin's death.",
+          "description": "Kakashi and Obito engage in a fierce battle within Kamui's dimension, with Obito revealing the truth behind Rin's death and attempting to break Kakashi's spirit."
+        },
+        {
+          "episode": "375",
+          "outcome": "Obito becomes the Ten-Tails' Jinchūriki, resisting Madara's control and transforming into a powerful new form",
+          "description": "Kakashi and Minato engage Obito in a fierce battle, revealing his identity as the masked man before he absorbs the Ten-Tails, becoming its Jinchūriki."
+        },
+        {
           "episode": "415",
           "outcome": "Madara effortlessly defends against the attacks, and Obito ultimately stabs Madara, disrupting the planned handover.",
           "description": "Minato, Kakashi, and Gaara attempt to hinder Madara and Obito's meeting, but Madara easily blocks their attacks while Obito unexpectedly attacks Madara."
@@ -9555,7 +9627,7 @@
     },
     {
       "source": 169,
-      "target": 267,
+      "target": 266,
       "value": 1,
       "battles": [
         {
@@ -9567,7 +9639,7 @@
     },
     {
       "source": 169,
-      "target": 277,
+      "target": 276,
       "value": 1,
       "battles": [
         {
@@ -9579,7 +9651,7 @@
     },
     {
       "source": 169,
-      "target": 406,
+      "target": 405,
       "value": 2,
       "battles": [
         {
@@ -9596,7 +9668,7 @@
     },
     {
       "source": 165,
-      "target": 321,
+      "target": 320,
       "value": 1,
       "battles": [
         {
@@ -9608,7 +9680,7 @@
     },
     {
       "source": 221,
-      "target": 321,
+      "target": 320,
       "value": 1,
       "battles": [
         {
@@ -9619,8 +9691,8 @@
       ]
     },
     {
-      "source": 267,
-      "target": 321,
+      "source": 266,
+      "target": 320,
       "value": 1,
       "battles": [
         {
@@ -9631,8 +9703,8 @@
       ]
     },
     {
-      "source": 277,
-      "target": 321,
+      "source": 276,
+      "target": 320,
       "value": 1,
       "battles": [
         {
@@ -9643,8 +9715,8 @@
       ]
     },
     {
-      "source": 321,
-      "target": 406,
+      "source": 320,
+      "target": 405,
       "value": 2,
       "battles": [
         {
@@ -9700,7 +9772,7 @@
     },
     {
       "source": 87,
-      "target": 267,
+      "target": 266,
       "value": 1,
       "battles": [
         {
@@ -9712,7 +9784,7 @@
     },
     {
       "source": 87,
-      "target": 277,
+      "target": 276,
       "value": 1,
       "battles": [
         {
@@ -9724,7 +9796,7 @@
     },
     {
       "source": 87,
-      "target": 406,
+      "target": 405,
       "value": 2,
       "battles": [
         {
@@ -9741,7 +9813,7 @@
     },
     {
       "source": 165,
-      "target": 379,
+      "target": 378,
       "value": 1,
       "battles": [
         {
@@ -9753,7 +9825,7 @@
     },
     {
       "source": 221,
-      "target": 379,
+      "target": 378,
       "value": 1,
       "battles": [
         {
@@ -9764,8 +9836,8 @@
       ]
     },
     {
-      "source": 267,
-      "target": 379,
+      "source": 266,
+      "target": 378,
       "value": 1,
       "battles": [
         {
@@ -9776,8 +9848,8 @@
       ]
     },
     {
-      "source": 277,
-      "target": 379,
+      "source": 276,
+      "target": 378,
       "value": 1,
       "battles": [
         {
@@ -9788,8 +9860,8 @@
       ]
     },
     {
-      "source": 379,
-      "target": 406,
+      "source": 378,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -9825,7 +9897,7 @@
     },
     {
       "source": 177,
-      "target": 267,
+      "target": 266,
       "value": 1,
       "battles": [
         {
@@ -9837,7 +9909,7 @@
     },
     {
       "source": 177,
-      "target": 277,
+      "target": 276,
       "value": 1,
       "battles": [
         {
@@ -9849,7 +9921,7 @@
     },
     {
       "source": 177,
-      "target": 406,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -9885,7 +9957,7 @@
     },
     {
       "source": 40,
-      "target": 267,
+      "target": 266,
       "value": 1,
       "battles": [
         {
@@ -9897,7 +9969,7 @@
     },
     {
       "source": 40,
-      "target": 277,
+      "target": 276,
       "value": 1,
       "battles": [
         {
@@ -9909,7 +9981,7 @@
     },
     {
       "source": 40,
-      "target": 406,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -9945,7 +10017,7 @@
     },
     {
       "source": 21,
-      "target": 267,
+      "target": 266,
       "value": 1,
       "battles": [
         {
@@ -9957,7 +10029,7 @@
     },
     {
       "source": 21,
-      "target": 277,
+      "target": 276,
       "value": 1,
       "battles": [
         {
@@ -9969,7 +10041,7 @@
     },
     {
       "source": 21,
-      "target": 406,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -10005,7 +10077,7 @@
     },
     {
       "source": 138,
-      "target": 267,
+      "target": 266,
       "value": 1,
       "battles": [
         {
@@ -10017,7 +10089,7 @@
     },
     {
       "source": 138,
-      "target": 277,
+      "target": 276,
       "value": 1,
       "battles": [
         {
@@ -10029,7 +10101,7 @@
     },
     {
       "source": 138,
-      "target": 406,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -10065,7 +10137,7 @@
     },
     {
       "source": 52,
-      "target": 267,
+      "target": 266,
       "value": 1,
       "battles": [
         {
@@ -10077,7 +10149,7 @@
     },
     {
       "source": 52,
-      "target": 277,
+      "target": 276,
       "value": 1,
       "battles": [
         {
@@ -10089,7 +10161,7 @@
     },
     {
       "source": 52,
-      "target": 406,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -10125,7 +10197,7 @@
     },
     {
       "source": 186,
-      "target": 267,
+      "target": 266,
       "value": 1,
       "battles": [
         {
@@ -10137,7 +10209,7 @@
     },
     {
       "source": 186,
-      "target": 277,
+      "target": 276,
       "value": 1,
       "battles": [
         {
@@ -10149,7 +10221,7 @@
     },
     {
       "source": 186,
-      "target": 406,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -10185,7 +10257,7 @@
     },
     {
       "source": 95,
-      "target": 267,
+      "target": 266,
       "value": 1,
       "battles": [
         {
@@ -10197,7 +10269,7 @@
     },
     {
       "source": 95,
-      "target": 277,
+      "target": 276,
       "value": 1,
       "battles": [
         {
@@ -10209,7 +10281,7 @@
     },
     {
       "source": 95,
-      "target": 406,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -10221,7 +10293,7 @@
     },
     {
       "source": 165,
-      "target": 422,
+      "target": 421,
       "value": 1,
       "battles": [
         {
@@ -10233,7 +10305,7 @@
     },
     {
       "source": 221,
-      "target": 422,
+      "target": 421,
       "value": 1,
       "battles": [
         {
@@ -10244,8 +10316,8 @@
       ]
     },
     {
-      "source": 267,
-      "target": 422,
+      "source": 266,
+      "target": 421,
       "value": 1,
       "battles": [
         {
@@ -10256,8 +10328,8 @@
       ]
     },
     {
-      "source": 277,
-      "target": 422,
+      "source": 276,
+      "target": 421,
       "value": 1,
       "battles": [
         {
@@ -10268,8 +10340,8 @@
       ]
     },
     {
-      "source": 406,
-      "target": 422,
+      "source": 405,
+      "target": 421,
       "value": 1,
       "battles": [
         {
@@ -10305,7 +10377,7 @@
     },
     {
       "source": 121,
-      "target": 267,
+      "target": 266,
       "value": 1,
       "battles": [
         {
@@ -10317,7 +10389,7 @@
     },
     {
       "source": 121,
-      "target": 277,
+      "target": 276,
       "value": 1,
       "battles": [
         {
@@ -10329,7 +10401,7 @@
     },
     {
       "source": 121,
-      "target": 406,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -10353,7 +10425,7 @@
     },
     {
       "source": 57,
-      "target": 267,
+      "target": 266,
       "value": 1,
       "battles": [
         {
@@ -10365,7 +10437,7 @@
     },
     {
       "source": 57,
-      "target": 277,
+      "target": 276,
       "value": 1,
       "battles": [
         {
@@ -10377,7 +10449,7 @@
     },
     {
       "source": 57,
-      "target": 406,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -10428,7 +10500,7 @@
     },
     {
       "source": 151,
-      "target": 267,
+      "target": 266,
       "value": 1,
       "battles": [
         {
@@ -10440,7 +10512,7 @@
     },
     {
       "source": 151,
-      "target": 277,
+      "target": 276,
       "value": 1,
       "battles": [
         {
@@ -10452,7 +10524,7 @@
     },
     {
       "source": 151,
-      "target": 406,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -10464,7 +10536,7 @@
     },
     {
       "source": 165,
-      "target": 303,
+      "target": 302,
       "value": 1,
       "battles": [
         {
@@ -10476,7 +10548,7 @@
     },
     {
       "source": 221,
-      "target": 303,
+      "target": 302,
       "value": 1,
       "battles": [
         {
@@ -10487,8 +10559,8 @@
       ]
     },
     {
-      "source": 267,
-      "target": 303,
+      "source": 266,
+      "target": 302,
       "value": 1,
       "battles": [
         {
@@ -10499,8 +10571,8 @@
       ]
     },
     {
-      "source": 277,
-      "target": 303,
+      "source": 276,
+      "target": 302,
       "value": 1,
       "battles": [
         {
@@ -10511,8 +10583,8 @@
       ]
     },
     {
-      "source": 303,
-      "target": 406,
+      "source": 302,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -10548,7 +10620,7 @@
     },
     {
       "source": 173,
-      "target": 267,
+      "target": 266,
       "value": 1,
       "battles": [
         {
@@ -10560,7 +10632,7 @@
     },
     {
       "source": 173,
-      "target": 277,
+      "target": 276,
       "value": 1,
       "battles": [
         {
@@ -10572,7 +10644,7 @@
     },
     {
       "source": 173,
-      "target": 406,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -10608,7 +10680,7 @@
     },
     {
       "source": 60,
-      "target": 267,
+      "target": 266,
       "value": 1,
       "battles": [
         {
@@ -10620,7 +10692,7 @@
     },
     {
       "source": 60,
-      "target": 277,
+      "target": 276,
       "value": 1,
       "battles": [
         {
@@ -10632,7 +10704,7 @@
     },
     {
       "source": 60,
-      "target": 406,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -10668,7 +10740,7 @@
     },
     {
       "source": 74,
-      "target": 267,
+      "target": 266,
       "value": 1,
       "battles": [
         {
@@ -10680,7 +10752,7 @@
     },
     {
       "source": 74,
-      "target": 277,
+      "target": 276,
       "value": 1,
       "battles": [
         {
@@ -10692,7 +10764,7 @@
     },
     {
       "source": 74,
-      "target": 406,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -10704,7 +10776,7 @@
     },
     {
       "source": 165,
-      "target": 386,
+      "target": 385,
       "value": 1,
       "battles": [
         {
@@ -10716,7 +10788,7 @@
     },
     {
       "source": 221,
-      "target": 386,
+      "target": 385,
       "value": 1,
       "battles": [
         {
@@ -10727,8 +10799,8 @@
       ]
     },
     {
-      "source": 267,
-      "target": 386,
+      "source": 266,
+      "target": 385,
       "value": 1,
       "battles": [
         {
@@ -10739,8 +10811,8 @@
       ]
     },
     {
-      "source": 277,
-      "target": 386,
+      "source": 276,
+      "target": 385,
       "value": 1,
       "battles": [
         {
@@ -10751,8 +10823,8 @@
       ]
     },
     {
-      "source": 386,
-      "target": 406,
+      "source": 385,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -10764,7 +10836,7 @@
     },
     {
       "source": 165,
-      "target": 310,
+      "target": 309,
       "value": 1,
       "battles": [
         {
@@ -10776,7 +10848,7 @@
     },
     {
       "source": 221,
-      "target": 310,
+      "target": 309,
       "value": 1,
       "battles": [
         {
@@ -10787,8 +10859,8 @@
       ]
     },
     {
-      "source": 267,
-      "target": 310,
+      "source": 266,
+      "target": 309,
       "value": 1,
       "battles": [
         {
@@ -10799,8 +10871,8 @@
       ]
     },
     {
-      "source": 277,
-      "target": 310,
+      "source": 276,
+      "target": 309,
       "value": 1,
       "battles": [
         {
@@ -10811,8 +10883,8 @@
       ]
     },
     {
-      "source": 310,
-      "target": 406,
+      "source": 309,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -10848,7 +10920,7 @@
     },
     {
       "source": 126,
-      "target": 267,
+      "target": 266,
       "value": 1,
       "battles": [
         {
@@ -10860,7 +10932,7 @@
     },
     {
       "source": 126,
-      "target": 277,
+      "target": 276,
       "value": 1,
       "battles": [
         {
@@ -10872,7 +10944,7 @@
     },
     {
       "source": 126,
-      "target": 406,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -10884,7 +10956,7 @@
     },
     {
       "source": 182,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -10896,7 +10968,7 @@
     },
     {
       "source": 2,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -10908,7 +10980,7 @@
     },
     {
       "source": 245,
-      "target": 330,
+      "target": 329,
       "value": 1,
       "battles": [
         {
@@ -10920,7 +10992,7 @@
     },
     {
       "source": 182,
-      "target": 330,
+      "target": 329,
       "value": 1,
       "battles": [
         {
@@ -10932,7 +11004,7 @@
     },
     {
       "source": 2,
-      "target": 330,
+      "target": 329,
       "value": 1,
       "battles": [
         {
@@ -10943,8 +11015,8 @@
       ]
     },
     {
-      "source": 305,
-      "target": 342,
+      "source": 304,
+      "target": 341,
       "value": 1,
       "battles": [
         {
@@ -10956,7 +11028,7 @@
     },
     {
       "source": 245,
-      "target": 342,
+      "target": 341,
       "value": 1,
       "battles": [
         {
@@ -10968,7 +11040,7 @@
     },
     {
       "source": 245,
-      "target": 266,
+      "target": 265,
       "value": 1,
       "battles": [
         {
@@ -10980,7 +11052,7 @@
     },
     {
       "source": 207,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -10992,7 +11064,7 @@
     },
     {
       "source": 207,
-      "target": 266,
+      "target": 265,
       "value": 1,
       "battles": [
         {
@@ -11021,7 +11093,7 @@
     },
     {
       "source": 177,
-      "target": 274,
+      "target": 273,
       "value": 1,
       "battles": [
         {
@@ -11033,7 +11105,7 @@
     },
     {
       "source": 177,
-      "target": 393,
+      "target": 392,
       "value": 1,
       "battles": [
         {
@@ -11045,7 +11117,7 @@
     },
     {
       "source": 177,
-      "target": 324,
+      "target": 323,
       "value": 1,
       "battles": [
         {
@@ -11056,8 +11128,8 @@
       ]
     },
     {
-      "source": 263,
-      "target": 303,
+      "source": 262,
+      "target": 302,
       "value": 2,
       "battles": [
         {
@@ -11074,7 +11146,7 @@
     },
     {
       "source": 57,
-      "target": 263,
+      "target": 262,
       "value": 2,
       "battles": [
         {
@@ -11090,8 +11162,8 @@
       ]
     },
     {
-      "source": 263,
-      "target": 274,
+      "source": 262,
+      "target": 273,
       "value": 1,
       "battles": [
         {
@@ -11102,8 +11174,8 @@
       ]
     },
     {
-      "source": 263,
-      "target": 393,
+      "source": 262,
+      "target": 392,
       "value": 1,
       "battles": [
         {
@@ -11114,8 +11186,8 @@
       ]
     },
     {
-      "source": 263,
-      "target": 324,
+      "source": 262,
+      "target": 323,
       "value": 1,
       "battles": [
         {
@@ -11126,8 +11198,8 @@
       ]
     },
     {
-      "source": 303,
-      "target": 423,
+      "source": 302,
+      "target": 422,
       "value": 1,
       "battles": [
         {
@@ -11139,7 +11211,7 @@
     },
     {
       "source": 57,
-      "target": 423,
+      "target": 422,
       "value": 1,
       "battles": [
         {
@@ -11150,8 +11222,8 @@
       ]
     },
     {
-      "source": 274,
-      "target": 423,
+      "source": 273,
+      "target": 422,
       "value": 1,
       "battles": [
         {
@@ -11162,8 +11234,8 @@
       ]
     },
     {
-      "source": 393,
-      "target": 423,
+      "source": 392,
+      "target": 422,
       "value": 1,
       "battles": [
         {
@@ -11174,8 +11246,8 @@
       ]
     },
     {
-      "source": 324,
-      "target": 423,
+      "source": 323,
+      "target": 422,
       "value": 1,
       "battles": [
         {
@@ -11187,7 +11259,7 @@
     },
     {
       "source": 152,
-      "target": 303,
+      "target": 302,
       "value": 1,
       "battles": [
         {
@@ -11211,7 +11283,7 @@
     },
     {
       "source": 152,
-      "target": 274,
+      "target": 273,
       "value": 1,
       "battles": [
         {
@@ -11223,7 +11295,7 @@
     },
     {
       "source": 152,
-      "target": 393,
+      "target": 392,
       "value": 1,
       "battles": [
         {
@@ -11235,7 +11307,7 @@
     },
     {
       "source": 152,
-      "target": 324,
+      "target": 323,
       "value": 1,
       "battles": [
         {
@@ -11246,8 +11318,8 @@
       ]
     },
     {
-      "source": 295,
-      "target": 303,
+      "source": 294,
+      "target": 302,
       "value": 2,
       "battles": [
         {
@@ -11264,7 +11336,7 @@
     },
     {
       "source": 57,
-      "target": 295,
+      "target": 294,
       "value": 3,
       "battles": [
         {
@@ -11285,8 +11357,8 @@
       ]
     },
     {
-      "source": 274,
-      "target": 295,
+      "source": 273,
+      "target": 294,
       "value": 1,
       "battles": [
         {
@@ -11297,8 +11369,8 @@
       ]
     },
     {
-      "source": 295,
-      "target": 393,
+      "source": 294,
+      "target": 392,
       "value": 1,
       "battles": [
         {
@@ -11309,8 +11381,8 @@
       ]
     },
     {
-      "source": 295,
-      "target": 324,
+      "source": 294,
+      "target": 323,
       "value": 1,
       "battles": [
         {
@@ -11322,7 +11394,7 @@
     },
     {
       "source": 169,
-      "target": 422,
+      "target": 421,
       "value": 2,
       "battles": [
         {
@@ -11356,7 +11428,7 @@
     },
     {
       "source": 169,
-      "target": 270,
+      "target": 269,
       "value": 1,
       "battles": [
         {
@@ -11380,7 +11452,7 @@
     },
     {
       "source": 169,
-      "target": 281,
+      "target": 280,
       "value": 1,
       "battles": [
         {
@@ -11392,7 +11464,7 @@
     },
     {
       "source": 235,
-      "target": 422,
+      "target": 421,
       "value": 1,
       "battles": [
         {
@@ -11416,7 +11488,7 @@
     },
     {
       "source": 235,
-      "target": 270,
+      "target": 269,
       "value": 1,
       "battles": [
         {
@@ -11440,7 +11512,7 @@
     },
     {
       "source": 235,
-      "target": 281,
+      "target": 280,
       "value": 1,
       "battles": [
         {
@@ -11451,68 +11523,8 @@
       ]
     },
     {
-      "source": 286,
-      "target": 422,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "265",
-          "outcome": "Battle is ongoing with the summoning of the Seven Ninja Swordsmen shifting the momentum towards Kabuto's forces",
-          "description": "Kabuto summons the Seven Ninja Swordsmen of the Mist to overwhelm the Third Division, while Pakura and Gari demonstrate their unique Kekkei Genkai, forcing Kakashi, Might Guy, and Rock Lee to intervene."
-        }
-      ]
-    },
-    {
-      "source": 121,
-      "target": 286,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "265",
-          "outcome": "Battle is ongoing with the summoning of the Seven Ninja Swordsmen shifting the momentum towards Kabuto's forces",
-          "description": "Kabuto summons the Seven Ninja Swordsmen of the Mist to overwhelm the Third Division, while Pakura and Gari demonstrate their unique Kekkei Genkai, forcing Kakashi, Might Guy, and Rock Lee to intervene."
-        }
-      ]
-    },
-    {
-      "source": 270,
-      "target": 286,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "265",
-          "outcome": "Battle is ongoing with the summoning of the Seven Ninja Swordsmen shifting the momentum towards Kabuto's forces",
-          "description": "Kabuto summons the Seven Ninja Swordsmen of the Mist to overwhelm the Third Division, while Pakura and Gari demonstrate their unique Kekkei Genkai, forcing Kakashi, Might Guy, and Rock Lee to intervene."
-        }
-      ]
-    },
-    {
-      "source": 95,
-      "target": 286,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "265",
-          "outcome": "Battle is ongoing with the summoning of the Seven Ninja Swordsmen shifting the momentum towards Kabuto's forces",
-          "description": "Kabuto summons the Seven Ninja Swordsmen of the Mist to overwhelm the Third Division, while Pakura and Gari demonstrate their unique Kekkei Genkai, forcing Kakashi, Might Guy, and Rock Lee to intervene."
-        }
-      ]
-    },
-    {
-      "source": 281,
-      "target": 286,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "265",
-          "outcome": "Battle is ongoing with the summoning of the Seven Ninja Swordsmen shifting the momentum towards Kabuto's forces",
-          "description": "Kabuto summons the Seven Ninja Swordsmen of the Mist to overwhelm the Third Division, while Pakura and Gari demonstrate their unique Kekkei Genkai, forcing Kakashi, Might Guy, and Rock Lee to intervene."
-        }
-      ]
-    },
-    {
-      "source": 384,
-      "target": 422,
+      "source": 285,
+      "target": 421,
       "value": 1,
       "battles": [
         {
@@ -11524,7 +11536,7 @@
     },
     {
       "source": 121,
-      "target": 384,
+      "target": 285,
       "value": 1,
       "battles": [
         {
@@ -11535,8 +11547,8 @@
       ]
     },
     {
-      "source": 270,
-      "target": 384,
+      "source": 269,
+      "target": 285,
       "value": 1,
       "battles": [
         {
@@ -11548,7 +11560,7 @@
     },
     {
       "source": 95,
-      "target": 384,
+      "target": 285,
       "value": 1,
       "battles": [
         {
@@ -11559,8 +11571,8 @@
       ]
     },
     {
-      "source": 281,
-      "target": 384,
+      "source": 280,
+      "target": 285,
       "value": 1,
       "battles": [
         {
@@ -11571,8 +11583,68 @@
       ]
     },
     {
-      "source": 302,
-      "target": 422,
+      "source": 383,
+      "target": 421,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "265",
+          "outcome": "Battle is ongoing with the summoning of the Seven Ninja Swordsmen shifting the momentum towards Kabuto's forces",
+          "description": "Kabuto summons the Seven Ninja Swordsmen of the Mist to overwhelm the Third Division, while Pakura and Gari demonstrate their unique Kekkei Genkai, forcing Kakashi, Might Guy, and Rock Lee to intervene."
+        }
+      ]
+    },
+    {
+      "source": 121,
+      "target": 383,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "265",
+          "outcome": "Battle is ongoing with the summoning of the Seven Ninja Swordsmen shifting the momentum towards Kabuto's forces",
+          "description": "Kabuto summons the Seven Ninja Swordsmen of the Mist to overwhelm the Third Division, while Pakura and Gari demonstrate their unique Kekkei Genkai, forcing Kakashi, Might Guy, and Rock Lee to intervene."
+        }
+      ]
+    },
+    {
+      "source": 269,
+      "target": 383,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "265",
+          "outcome": "Battle is ongoing with the summoning of the Seven Ninja Swordsmen shifting the momentum towards Kabuto's forces",
+          "description": "Kabuto summons the Seven Ninja Swordsmen of the Mist to overwhelm the Third Division, while Pakura and Gari demonstrate their unique Kekkei Genkai, forcing Kakashi, Might Guy, and Rock Lee to intervene."
+        }
+      ]
+    },
+    {
+      "source": 95,
+      "target": 383,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "265",
+          "outcome": "Battle is ongoing with the summoning of the Seven Ninja Swordsmen shifting the momentum towards Kabuto's forces",
+          "description": "Kabuto summons the Seven Ninja Swordsmen of the Mist to overwhelm the Third Division, while Pakura and Gari demonstrate their unique Kekkei Genkai, forcing Kakashi, Might Guy, and Rock Lee to intervene."
+        }
+      ]
+    },
+    {
+      "source": 280,
+      "target": 383,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "265",
+          "outcome": "Battle is ongoing with the summoning of the Seven Ninja Swordsmen shifting the momentum towards Kabuto's forces",
+          "description": "Kabuto summons the Seven Ninja Swordsmen of the Mist to overwhelm the Third Division, while Pakura and Gari demonstrate their unique Kekkei Genkai, forcing Kakashi, Might Guy, and Rock Lee to intervene."
+        }
+      ]
+    },
+    {
+      "source": 301,
+      "target": 421,
       "value": 1,
       "battles": [
         {
@@ -11584,7 +11656,7 @@
     },
     {
       "source": 121,
-      "target": 302,
+      "target": 301,
       "value": 1,
       "battles": [
         {
@@ -11596,7 +11668,7 @@
     },
     {
       "source": 67,
-      "target": 422,
+      "target": 421,
       "value": 1,
       "battles": [
         {
@@ -11620,7 +11692,7 @@
     },
     {
       "source": 217,
-      "target": 422,
+      "target": 421,
       "value": 1,
       "battles": [
         {
@@ -11644,7 +11716,7 @@
     },
     {
       "source": 10,
-      "target": 386,
+      "target": 385,
       "value": 2,
       "battles": [
         {
@@ -11661,7 +11733,7 @@
     },
     {
       "source": 10,
-      "target": 309,
+      "target": 308,
       "value": 1,
       "battles": [
         {
@@ -11736,7 +11808,7 @@
     },
     {
       "source": 187,
-      "target": 321,
+      "target": 320,
       "value": 1,
       "battles": [
         {
@@ -11789,7 +11861,7 @@
     },
     {
       "source": 21,
-      "target": 321,
+      "target": 320,
       "value": 2,
       "battles": [
         {
@@ -11823,7 +11895,7 @@
     },
     {
       "source": 147,
-      "target": 406,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -11835,7 +11907,7 @@
     },
     {
       "source": 41,
-      "target": 406,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -11858,8 +11930,8 @@
       ]
     },
     {
-      "source": 298,
-      "target": 406,
+      "source": 297,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -11871,7 +11943,7 @@
     },
     {
       "source": 145,
-      "target": 362,
+      "target": 361,
       "value": 1,
       "battles": [
         {
@@ -11919,7 +11991,7 @@
     },
     {
       "source": 208,
-      "target": 406,
+      "target": 405,
       "value": 2,
       "battles": [
         {
@@ -11936,7 +12008,7 @@
     },
     {
       "source": 231,
-      "target": 406,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -11948,7 +12020,7 @@
     },
     {
       "source": 198,
-      "target": 406,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -11960,7 +12032,7 @@
     },
     {
       "source": 9,
-      "target": 347,
+      "target": 346,
       "value": 1,
       "battles": [
         {
@@ -11972,7 +12044,7 @@
     },
     {
       "source": 200,
-      "target": 347,
+      "target": 346,
       "value": 1,
       "battles": [
         {
@@ -12029,8 +12101,8 @@
       ]
     },
     {
-      "source": 263,
-      "target": 270,
+      "source": 262,
+      "target": 269,
       "value": 1,
       "battles": [
         {
@@ -12041,20 +12113,8 @@
       ]
     },
     {
-      "source": 270,
-      "target": 423,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "285",
-          "outcome": "Pakura and Gari are incapacitated and have their memories erased, allowing the Allied Shinobi Forces to retreat.",
-          "description": "Omoi and Zaji coordinate a successful attack to incapacitate Pakura, while Pakura uses her Scorch Release to corner Gari and ensure Maki's escape."
-        }
-      ]
-    },
-    {
-      "source": 95,
-      "target": 263,
+      "source": 269,
+      "target": 422,
       "value": 1,
       "battles": [
         {
@@ -12066,7 +12126,19 @@
     },
     {
       "source": 95,
-      "target": 423,
+      "target": 262,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "285",
+          "outcome": "Pakura and Gari are incapacitated and have their memories erased, allowing the Allied Shinobi Forces to retreat.",
+          "description": "Omoi and Zaji coordinate a successful attack to incapacitate Pakura, while Pakura uses her Scorch Release to corner Gari and ensure Maki's escape."
+        }
+      ]
+    },
+    {
+      "source": 95,
+      "target": 422,
       "value": 1,
       "battles": [
         {
@@ -12078,7 +12150,7 @@
     },
     {
       "source": 0,
-      "target": 397,
+      "target": 396,
       "value": 1,
       "battles": [
         {
@@ -12090,7 +12162,7 @@
     },
     {
       "source": 0,
-      "target": 334,
+      "target": 333,
       "value": 1,
       "battles": [
         {
@@ -12150,7 +12222,7 @@
     },
     {
       "source": 14,
-      "target": 263,
+      "target": 262,
       "value": 1,
       "battles": [
         {
@@ -12186,7 +12258,7 @@
     },
     {
       "source": 245,
-      "target": 282,
+      "target": 281,
       "value": 1,
       "battles": [
         {
@@ -12209,8 +12281,8 @@
       ]
     },
     {
-      "source": 282,
-      "target": 298,
+      "source": 281,
+      "target": 297,
       "value": 1,
       "battles": [
         {
@@ -12222,7 +12294,7 @@
     },
     {
       "source": 101,
-      "target": 298,
+      "target": 297,
       "value": 1,
       "battles": [
         {
@@ -12233,32 +12305,8 @@
       ]
     },
     {
-      "source": 282,
-      "target": 412,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "290",
-          "outcome": "Kabuto overwhelms Team Kakashi, dragging Naruto underwater and forcing a retreat",
-          "description": "Kabuto reveals his army of reincarnated shinobi and experiments with the Hole's water, initiating a fight where he uses a giant snake clone to pull Naruto into the depths."
-        }
-      ]
-    },
-    {
-      "source": 101,
-      "target": 412,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "290",
-          "outcome": "Kabuto overwhelms Team Kakashi, dragging Naruto underwater and forcing a retreat",
-          "description": "Kabuto reveals his army of reincarnated shinobi and experiments with the Hole's water, initiating a fight where he uses a giant snake clone to pull Naruto into the depths."
-        }
-      ]
-    },
-    {
-      "source": 282,
-      "target": 295,
+      "source": 281,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -12270,7 +12318,31 @@
     },
     {
       "source": 101,
-      "target": 295,
+      "target": 411,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "290",
+          "outcome": "Kabuto overwhelms Team Kakashi, dragging Naruto underwater and forcing a retreat",
+          "description": "Kabuto reveals his army of reincarnated shinobi and experiments with the Hole's water, initiating a fight where he uses a giant snake clone to pull Naruto into the depths."
+        }
+      ]
+    },
+    {
+      "source": 281,
+      "target": 294,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "290",
+          "outcome": "Kabuto overwhelms Team Kakashi, dragging Naruto underwater and forcing a retreat",
+          "description": "Kabuto reveals his army of reincarnated shinobi and experiments with the Hole's water, initiating a fight where he uses a giant snake clone to pull Naruto into the depths."
+        }
+      ]
+    },
+    {
+      "source": 101,
+      "target": 294,
       "value": 1,
       "battles": [
         {
@@ -12304,7 +12376,7 @@
     },
     {
       "source": 133,
-      "target": 298,
+      "target": 297,
       "value": 2,
       "battles": [
         {
@@ -12321,7 +12393,7 @@
     },
     {
       "source": 165,
-      "target": 372,
+      "target": 371,
       "value": 1,
       "battles": [
         {
@@ -12333,7 +12405,7 @@
     },
     {
       "source": 57,
-      "target": 372,
+      "target": 371,
       "value": 1,
       "battles": [
         {
@@ -12356,8 +12428,32 @@
       ]
     },
     {
-      "source": 278,
-      "target": 412,
+      "source": 277,
+      "target": 411,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "292",
+          "outcome": "Battle is interrupted by Miina forcing a transformation in Naruto, shifting the conflict's focus.",
+          "description": "Yamato, Sai, and the Hachō Village Militia confront the reincarnated Deidara and Hidan, but the battle is halted when Miina triggers a partial transformation of Naruto into a four-tailed Version 2."
+        }
+      ]
+    },
+    {
+      "source": 277,
+      "target": 294,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "292",
+          "outcome": "Battle is interrupted by Miina forcing a transformation in Naruto, shifting the conflict's focus.",
+          "description": "Yamato, Sai, and the Hachō Village Militia confront the reincarnated Deidara and Hidan, but the battle is halted when Miina triggers a partial transformation of Naruto into a four-tailed Version 2."
+        }
+      ]
+    },
+    {
+      "source": 119,
+      "target": 277,
       "value": 1,
       "battles": [
         {
@@ -12369,7 +12465,19 @@
     },
     {
       "source": 278,
-      "target": 295,
+      "target": 411,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "292",
+          "outcome": "Battle is interrupted by Miina forcing a transformation in Naruto, shifting the conflict's focus.",
+          "description": "Yamato, Sai, and the Hachō Village Militia confront the reincarnated Deidara and Hidan, but the battle is halted when Miina triggers a partial transformation of Naruto into a four-tailed Version 2."
+        }
+      ]
+    },
+    {
+      "source": 278,
+      "target": 294,
       "value": 1,
       "battles": [
         {
@@ -12382,42 +12490,6 @@
     {
       "source": 119,
       "target": 278,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "292",
-          "outcome": "Battle is interrupted by Miina forcing a transformation in Naruto, shifting the conflict's focus.",
-          "description": "Yamato, Sai, and the Hachō Village Militia confront the reincarnated Deidara and Hidan, but the battle is halted when Miina triggers a partial transformation of Naruto into a four-tailed Version 2."
-        }
-      ]
-    },
-    {
-      "source": 279,
-      "target": 412,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "292",
-          "outcome": "Battle is interrupted by Miina forcing a transformation in Naruto, shifting the conflict's focus.",
-          "description": "Yamato, Sai, and the Hachō Village Militia confront the reincarnated Deidara and Hidan, but the battle is halted when Miina triggers a partial transformation of Naruto into a four-tailed Version 2."
-        }
-      ]
-    },
-    {
-      "source": 279,
-      "target": 295,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "292",
-          "outcome": "Battle is interrupted by Miina forcing a transformation in Naruto, shifting the conflict's focus.",
-          "description": "Yamato, Sai, and the Hachō Village Militia confront the reincarnated Deidara and Hidan, but the battle is halted when Miina triggers a partial transformation of Naruto into a four-tailed Version 2."
-        }
-      ]
-    },
-    {
-      "source": 119,
-      "target": 279,
       "value": 1,
       "battles": [
         {
@@ -12441,7 +12513,7 @@
     },
     {
       "source": 245,
-      "target": 286,
+      "target": 285,
       "value": 1,
       "battles": [
         {
@@ -12499,7 +12571,7 @@
     },
     {
       "source": 245,
-      "target": 284,
+      "target": 283,
       "value": 1,
       "battles": [
         {
@@ -12523,7 +12595,7 @@
     },
     {
       "source": 169,
-      "target": 284,
+      "target": 283,
       "value": 1,
       "battles": [
         {
@@ -12535,7 +12607,7 @@
     },
     {
       "source": 245,
-      "target": 321,
+      "target": 320,
       "value": 1,
       "battles": [
         {
@@ -12547,7 +12619,7 @@
     },
     {
       "source": 57,
-      "target": 321,
+      "target": 320,
       "value": 1,
       "battles": [
         {
@@ -12559,7 +12631,7 @@
     },
     {
       "source": 129,
-      "target": 321,
+      "target": 320,
       "value": 2,
       "battles": [
         {
@@ -12575,8 +12647,8 @@
       ]
     },
     {
-      "source": 284,
-      "target": 321,
+      "source": 283,
+      "target": 320,
       "value": 1,
       "battles": [
         {
@@ -12588,7 +12660,7 @@
     },
     {
       "source": 245,
-      "target": 364,
+      "target": 363,
       "value": 1,
       "battles": [
         {
@@ -12600,7 +12672,7 @@
     },
     {
       "source": 57,
-      "target": 364,
+      "target": 363,
       "value": 1,
       "battles": [
         {
@@ -12612,7 +12684,7 @@
     },
     {
       "source": 129,
-      "target": 364,
+      "target": 363,
       "value": 1,
       "battles": [
         {
@@ -12623,8 +12695,8 @@
       ]
     },
     {
-      "source": 284,
-      "target": 364,
+      "source": 283,
+      "target": 363,
       "value": 1,
       "battles": [
         {
@@ -12636,7 +12708,7 @@
     },
     {
       "source": 245,
-      "target": 298,
+      "target": 297,
       "value": 1,
       "battles": [
         {
@@ -12648,7 +12720,7 @@
     },
     {
       "source": 129,
-      "target": 298,
+      "target": 297,
       "value": 2,
       "battles": [
         {
@@ -12664,8 +12736,8 @@
       ]
     },
     {
-      "source": 284,
-      "target": 298,
+      "source": 283,
+      "target": 297,
       "value": 1,
       "battles": [
         {
@@ -12677,7 +12749,7 @@
     },
     {
       "source": 133,
-      "target": 412,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -12689,7 +12761,7 @@
     },
     {
       "source": 57,
-      "target": 412,
+      "target": 411,
       "value": 2,
       "battles": [
         {
@@ -12706,7 +12778,7 @@
     },
     {
       "source": 129,
-      "target": 412,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -12717,8 +12789,8 @@
       ]
     },
     {
-      "source": 284,
-      "target": 412,
+      "source": 283,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -12730,7 +12802,7 @@
     },
     {
       "source": 133,
-      "target": 295,
+      "target": 294,
       "value": 1,
       "battles": [
         {
@@ -12742,7 +12814,7 @@
     },
     {
       "source": 129,
-      "target": 295,
+      "target": 294,
       "value": 1,
       "battles": [
         {
@@ -12753,8 +12825,8 @@
       ]
     },
     {
-      "source": 284,
-      "target": 295,
+      "source": 283,
+      "target": 294,
       "value": 1,
       "battles": [
         {
@@ -12766,7 +12838,7 @@
     },
     {
       "source": 87,
-      "target": 386,
+      "target": 385,
       "value": 1,
       "battles": [
         {
@@ -12778,7 +12850,7 @@
     },
     {
       "source": 87,
-      "target": 309,
+      "target": 308,
       "value": 2,
       "battles": [
         {
@@ -12821,8 +12893,8 @@
       ]
     },
     {
-      "source": 386,
-      "target": 425,
+      "source": 385,
+      "target": 424,
       "value": 1,
       "battles": [
         {
@@ -12833,8 +12905,8 @@
       ]
     },
     {
-      "source": 309,
-      "target": 425,
+      "source": 308,
+      "target": 424,
       "value": 1,
       "battles": [
         {
@@ -12846,7 +12918,7 @@
     },
     {
       "source": 244,
-      "target": 425,
+      "target": 424,
       "value": 3,
       "battles": [
         {
@@ -12892,7 +12964,7 @@
     },
     {
       "source": 245,
-      "target": 386,
+      "target": 385,
       "value": 1,
       "battles": [
         {
@@ -12904,7 +12976,7 @@
     },
     {
       "source": 61,
-      "target": 386,
+      "target": 385,
       "value": 1,
       "battles": [
         {
@@ -12915,8 +12987,8 @@
       ]
     },
     {
-      "source": 309,
-      "target": 395,
+      "source": 308,
+      "target": 394,
       "value": 1,
       "battles": [
         {
@@ -12927,8 +12999,8 @@
       ]
     },
     {
-      "source": 306,
-      "target": 342,
+      "source": 305,
+      "target": 341,
       "value": 1,
       "battles": [
         {
@@ -12940,7 +13012,7 @@
     },
     {
       "source": 198,
-      "target": 342,
+      "target": 341,
       "value": 1,
       "battles": [
         {
@@ -12952,7 +13024,7 @@
     },
     {
       "source": 183,
-      "target": 326,
+      "target": 325,
       "value": 1,
       "battles": [
         {
@@ -12964,7 +13036,7 @@
     },
     {
       "source": 162,
-      "target": 326,
+      "target": 325,
       "value": 1,
       "battles": [
         {
@@ -12975,8 +13047,8 @@
       ]
     },
     {
-      "source": 297,
-      "target": 326,
+      "source": 296,
+      "target": 325,
       "value": 1,
       "battles": [
         {
@@ -12987,8 +13059,8 @@
       ]
     },
     {
-      "source": 326,
-      "target": 356,
+      "source": 325,
+      "target": 355,
       "value": 1,
       "battles": [
         {
@@ -13024,7 +13096,7 @@
     },
     {
       "source": 147,
-      "target": 297,
+      "target": 296,
       "value": 1,
       "battles": [
         {
@@ -13036,7 +13108,7 @@
     },
     {
       "source": 147,
-      "target": 356,
+      "target": 355,
       "value": 1,
       "battles": [
         {
@@ -13072,7 +13144,7 @@
     },
     {
       "source": 41,
-      "target": 297,
+      "target": 296,
       "value": 1,
       "battles": [
         {
@@ -13084,7 +13156,7 @@
     },
     {
       "source": 41,
-      "target": 356,
+      "target": 355,
       "value": 1,
       "battles": [
         {
@@ -13096,7 +13168,7 @@
     },
     {
       "source": 183,
-      "target": 286,
+      "target": 285,
       "value": 1,
       "battles": [
         {
@@ -13108,7 +13180,7 @@
     },
     {
       "source": 162,
-      "target": 286,
+      "target": 285,
       "value": 1,
       "battles": [
         {
@@ -13119,8 +13191,8 @@
       ]
     },
     {
-      "source": 286,
-      "target": 297,
+      "source": 285,
+      "target": 296,
       "value": 1,
       "battles": [
         {
@@ -13131,8 +13203,8 @@
       ]
     },
     {
-      "source": 286,
-      "target": 356,
+      "source": 285,
+      "target": 355,
       "value": 1,
       "battles": [
         {
@@ -13168,7 +13240,7 @@
     },
     {
       "source": 250,
-      "target": 297,
+      "target": 296,
       "value": 1,
       "battles": [
         {
@@ -13180,7 +13252,7 @@
     },
     {
       "source": 250,
-      "target": 356,
+      "target": 355,
       "value": 1,
       "battles": [
         {
@@ -13192,7 +13264,7 @@
     },
     {
       "source": 183,
-      "target": 382,
+      "target": 381,
       "value": 1,
       "battles": [
         {
@@ -13204,7 +13276,7 @@
     },
     {
       "source": 162,
-      "target": 382,
+      "target": 381,
       "value": 1,
       "battles": [
         {
@@ -13215,8 +13287,8 @@
       ]
     },
     {
-      "source": 297,
-      "target": 382,
+      "source": 296,
+      "target": 381,
       "value": 1,
       "battles": [
         {
@@ -13227,8 +13299,8 @@
       ]
     },
     {
-      "source": 356,
-      "target": 382,
+      "source": 355,
+      "target": 381,
       "value": 1,
       "battles": [
         {
@@ -13252,7 +13324,7 @@
     },
     {
       "source": 68,
-      "target": 298,
+      "target": 297,
       "value": 1,
       "battles": [
         {
@@ -13288,7 +13360,7 @@
     },
     {
       "source": 225,
-      "target": 348,
+      "target": 347,
       "value": 1,
       "battles": [
         {
@@ -13312,7 +13384,7 @@
     },
     {
       "source": 129,
-      "target": 418,
+      "target": 417,
       "value": 1,
       "battles": [
         {
@@ -13324,7 +13396,7 @@
     },
     {
       "source": 165,
-      "target": 418,
+      "target": 417,
       "value": 1,
       "battles": [
         {
@@ -13336,7 +13408,7 @@
     },
     {
       "source": 245,
-      "target": 355,
+      "target": 354,
       "value": 1,
       "battles": [
         {
@@ -13360,7 +13432,7 @@
     },
     {
       "source": 245,
-      "target": 336,
+      "target": 335,
       "value": 1,
       "battles": [
         {
@@ -13371,44 +13443,8 @@
       ]
     },
     {
-      "source": 355,
-      "target": 364,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "309",
-          "outcome": "Team Asuma successfully completes the mission to kidnap Shū, utilizing strategic techniques and deception.",
-          "description": "Naruto and Team Asuma execute a plan involving an eating contest and mind control to capture Shū, employing the Transformation Technique and Shadow Imitation Technique."
-        }
-      ]
-    },
-    {
-      "source": 150,
-      "target": 364,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "309",
-          "outcome": "Team Asuma successfully completes the mission to kidnap Shū, utilizing strategic techniques and deception.",
-          "description": "Naruto and Team Asuma execute a plan involving an eating contest and mind control to capture Shū, employing the Transformation Technique and Shadow Imitation Technique."
-        }
-      ]
-    },
-    {
-      "source": 336,
-      "target": 364,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "309",
-          "outcome": "Team Asuma successfully completes the mission to kidnap Shū, utilizing strategic techniques and deception.",
-          "description": "Naruto and Team Asuma execute a plan involving an eating contest and mind control to capture Shū, employing the Transformation Technique and Shadow Imitation Technique."
-        }
-      ]
-    },
-    {
-      "source": 321,
-      "target": 355,
+      "source": 354,
+      "target": 363,
       "value": 1,
       "battles": [
         {
@@ -13420,7 +13456,7 @@
     },
     {
       "source": 150,
-      "target": 321,
+      "target": 363,
       "value": 1,
       "battles": [
         {
@@ -13431,8 +13467,44 @@
       ]
     },
     {
-      "source": 321,
-      "target": 336,
+      "source": 335,
+      "target": 363,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "309",
+          "outcome": "Team Asuma successfully completes the mission to kidnap Shū, utilizing strategic techniques and deception.",
+          "description": "Naruto and Team Asuma execute a plan involving an eating contest and mind control to capture Shū, employing the Transformation Technique and Shadow Imitation Technique."
+        }
+      ]
+    },
+    {
+      "source": 320,
+      "target": 354,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "309",
+          "outcome": "Team Asuma successfully completes the mission to kidnap Shū, utilizing strategic techniques and deception.",
+          "description": "Naruto and Team Asuma execute a plan involving an eating contest and mind control to capture Shū, employing the Transformation Technique and Shadow Imitation Technique."
+        }
+      ]
+    },
+    {
+      "source": 150,
+      "target": 320,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "309",
+          "outcome": "Team Asuma successfully completes the mission to kidnap Shū, utilizing strategic techniques and deception.",
+          "description": "Naruto and Team Asuma execute a plan involving an eating contest and mind control to capture Shū, employing the Transformation Technique and Shadow Imitation Technique."
+        }
+      ]
+    },
+    {
+      "source": 320,
+      "target": 335,
       "value": 1,
       "battles": [
         {
@@ -13444,7 +13516,7 @@
     },
     {
       "source": 41,
-      "target": 355,
+      "target": 354,
       "value": 1,
       "battles": [
         {
@@ -13468,7 +13540,7 @@
     },
     {
       "source": 41,
-      "target": 336,
+      "target": 335,
       "value": 1,
       "battles": [
         {
@@ -13480,7 +13552,7 @@
     },
     {
       "source": 147,
-      "target": 355,
+      "target": 354,
       "value": 1,
       "battles": [
         {
@@ -13504,7 +13576,7 @@
     },
     {
       "source": 147,
-      "target": 336,
+      "target": 335,
       "value": 1,
       "battles": [
         {
@@ -13515,8 +13587,8 @@
       ]
     },
     {
-      "source": 303,
-      "target": 412,
+      "source": 302,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -13540,7 +13612,7 @@
     },
     {
       "source": 38,
-      "target": 286,
+      "target": 285,
       "value": 1,
       "battles": [
         {
@@ -13551,8 +13623,8 @@
       ]
     },
     {
-      "source": 321,
-      "target": 414,
+      "source": 320,
+      "target": 413,
       "value": 1,
       "battles": [
         {
@@ -13564,7 +13636,7 @@
     },
     {
       "source": 41,
-      "target": 414,
+      "target": 413,
       "value": 1,
       "battles": [
         {
@@ -13576,7 +13648,7 @@
     },
     {
       "source": 147,
-      "target": 414,
+      "target": 413,
       "value": 2,
       "battles": [
         {
@@ -13610,7 +13682,7 @@
     },
     {
       "source": 15,
-      "target": 321,
+      "target": 320,
       "value": 1,
       "battles": [
         {
@@ -13670,7 +13742,7 @@
     },
     {
       "source": 15,
-      "target": 298,
+      "target": 297,
       "value": 1,
       "battles": [
         {
@@ -13682,7 +13754,7 @@
     },
     {
       "source": 51,
-      "target": 379,
+      "target": 378,
       "value": 1,
       "battles": [
         {
@@ -13694,7 +13766,7 @@
     },
     {
       "source": 45,
-      "target": 379,
+      "target": 378,
       "value": 1,
       "battles": [
         {
@@ -13705,8 +13777,8 @@
       ]
     },
     {
-      "source": 379,
-      "target": 394,
+      "source": 378,
+      "target": 393,
       "value": 1,
       "battles": [
         {
@@ -13717,8 +13789,8 @@
       ]
     },
     {
-      "source": 326,
-      "target": 394,
+      "source": 325,
+      "target": 393,
       "value": 1,
       "battles": [
         {
@@ -13730,7 +13802,7 @@
     },
     {
       "source": 245,
-      "target": 394,
+      "target": 393,
       "value": 1,
       "battles": [
         {
@@ -13801,8 +13873,8 @@
       ]
     },
     {
-      "source": 263,
-      "target": 406,
+      "source": 262,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -13813,8 +13885,8 @@
       ]
     },
     {
-      "source": 390,
-      "target": 406,
+      "source": 389,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -13826,7 +13898,7 @@
     },
     {
       "source": 214,
-      "target": 425,
+      "target": 424,
       "value": 6,
       "battles": [
         {
@@ -13910,7 +13982,7 @@
     },
     {
       "source": 214,
-      "target": 379,
+      "target": 378,
       "value": 1,
       "battles": [
         {
@@ -13922,7 +13994,7 @@
     },
     {
       "source": 244,
-      "target": 379,
+      "target": 378,
       "value": 1,
       "battles": [
         {
@@ -14075,7 +14147,7 @@
     },
     {
       "source": 245,
-      "target": 267,
+      "target": 266,
       "value": 1,
       "battles": [
         {
@@ -14088,7 +14160,7 @@
     {
       "source": 221,
       "target": 245,
-      "value": 6,
+      "value": 13,
       "battles": [
         {
           "episode": "324",
@@ -14116,6 +14188,41 @@
           "description": "Naruto, in Tailed Beast Mode, attacks Obito with Rasengan and Tailed Beast Ball, while Kakashi and Guy assist, leading to Obito's mask shattering and reveal, before Madara's unexpected arrival."
         },
         {
+          "episode": "363",
+          "outcome": "The Allied Shinobi Forces temporarily bind the Ten-Tails using a coordinated strategy, though the beast begins to transform.",
+          "description": "The Allied Shinobi Forces launch a coordinated attack to blind and restrain the Ten-Tails, utilizing quicklime and water, while Naruto attempts to reason with Obito."
+        },
+        {
+          "episode": "365",
+          "outcome": "The Ten-Tails' connection to Obito is severed, forcing a retreat for both Obito and Madara.",
+          "description": "Empowered by Kurama's chakra, the Allied Shinobi Forces launch a coordinated attack using Rasenshurikens and Nara shadow techniques, successfully disrupting Obito's control over the Ten-Tails."
+        },
+        {
+          "episode": "379",
+          "outcome": "Obito sustains damage and is confirmed vulnerable to Senjutsu-infused attacks, but remains largely unharmed due to Yin-Yang Release.",
+          "description": "Naruto, Sasuke, Minato, and Tobirama combine attacks against Obito, discovering his Truth-Seeking Balls nullify ninjutsu and that Senjutsu-infused Rasenshuken can bypass this defense."
+        },
+        {
+          "episode": "381",
+          "outcome": "Obito successfully defends against the combined attack and initiates the final phase of his plan, releasing the Ten-Tails and activating the Six Red Yang Formation.",
+          "description": "Naruto and Minato land a Parent and Child Rasengan on Obito, followed by a natural energy-infused Tailed Beast Ball, but Obito counters by releasing the Ten-Tails and initiating the Six Red Yang Formation to drain the Shinobi Alliance's chakra."
+        },
+        {
+          "episode": "387",
+          "outcome": "Obito is subdued and powers are temporarily sealed, though the conflict remains ongoing with Madara's presence.",
+          "description": "Naruto and the Allied Shinobi Forces successfully free the Tailed Beasts, leading to Obito's defeat and temporary incapacitation, while Kakashi and Minato debate Obito's fate."
+        },
+        {
+          "episode": "362",
+          "outcome": "The Demonic Statue of the Outer Path was destroyed, but the Ten-Tails was revived, shifting the conflict's focus.",
+          "description": "Naruto and Killer B combined a Tailed Beast Ball to destroy the Demonic Statue, while Kakashi and Guy engaged Obito and Madara with Lightning Cutter and Daytime Tiger respectively, ultimately failing to prevent the Ten-Tails' revival."
+        },
+        {
+          "episode": "383",
+          "outcome": "Obito overwhelms Naruto and Sasuke, forcing them out of their Tailed Beast Mode and Susanoo",
+          "description": "Naruto and Sasuke clash with Obito, who easily evades their attacks and uses his Tailed Beast Chakra Arms to subdue them, reverting them to their base forms."
+        },
+        {
           "episode": "384",
           "outcome": "The tailed beasts' chakra is extracted from Obito, leaving him weakened and vulnerable.",
           "description": "Naruto and Sasuke, aided by the Konoha 11 and Shinobi Alliance, launch a combined assault using Rasengan and Tailed Beast Mode to pull the chakra of the Tailed Beasts from Obito."
@@ -14124,7 +14231,7 @@
     },
     {
       "source": 25,
-      "target": 267,
+      "target": 266,
       "value": 1,
       "battles": [
         {
@@ -14137,7 +14244,7 @@
     {
       "source": 25,
       "target": 221,
-      "value": 4,
+      "value": 6,
       "battles": [
         {
           "episode": "324",
@@ -14158,12 +14265,22 @@
           "episode": "343",
           "outcome": "Tobi/Obito escapes into Kamui's Dimension, and Madara arrives, shifting the battle dynamic.",
           "description": "Naruto, in Tailed Beast Mode, attacks Obito with Rasengan and Tailed Beast Ball, while Kakashi and Guy assist, leading to Obito's mask shattering and reveal, before Madara's unexpected arrival."
+        },
+        {
+          "episode": "363",
+          "outcome": "The Allied Shinobi Forces temporarily bind the Ten-Tails using a coordinated strategy, though the beast begins to transform.",
+          "description": "The Allied Shinobi Forces launch a coordinated attack to blind and restrain the Ten-Tails, utilizing quicklime and water, while Naruto attempts to reason with Obito."
+        },
+        {
+          "episode": "362",
+          "outcome": "The Demonic Statue of the Outer Path was destroyed, but the Ten-Tails was revived, shifting the conflict's focus.",
+          "description": "Naruto and Killer B combined a Tailed Beast Ball to destroy the Demonic Statue, while Kakashi and Guy engaged Obito and Madara with Lightning Cutter and Daytime Tiger respectively, ultimately failing to prevent the Ten-Tails' revival."
         }
       ]
     },
     {
       "source": 245,
-      "target": 409,
+      "target": 408,
       "value": 1,
       "battles": [
         {
@@ -14175,7 +14292,7 @@
     },
     {
       "source": 245,
-      "target": 405,
+      "target": 404,
       "value": 3,
       "battles": [
         {
@@ -14197,7 +14314,7 @@
     },
     {
       "source": 245,
-      "target": 292,
+      "target": 291,
       "value": 2,
       "battles": [
         {
@@ -14226,7 +14343,7 @@
     },
     {
       "source": 245,
-      "target": 415,
+      "target": 414,
       "value": 1,
       "battles": [
         {
@@ -14238,7 +14355,7 @@
     },
     {
       "source": 25,
-      "target": 409,
+      "target": 408,
       "value": 1,
       "battles": [
         {
@@ -14250,7 +14367,7 @@
     },
     {
       "source": 25,
-      "target": 405,
+      "target": 404,
       "value": 2,
       "battles": [
         {
@@ -14267,7 +14384,7 @@
     },
     {
       "source": 25,
-      "target": 292,
+      "target": 291,
       "value": 2,
       "battles": [
         {
@@ -14296,7 +14413,7 @@
     },
     {
       "source": 25,
-      "target": 415,
+      "target": 414,
       "value": 1,
       "battles": [
         {
@@ -14308,7 +14425,7 @@
     },
     {
       "source": 169,
-      "target": 409,
+      "target": 408,
       "value": 1,
       "battles": [
         {
@@ -14320,7 +14437,7 @@
     },
     {
       "source": 169,
-      "target": 405,
+      "target": 404,
       "value": 2,
       "battles": [
         {
@@ -14337,7 +14454,7 @@
     },
     {
       "source": 169,
-      "target": 292,
+      "target": 291,
       "value": 2,
       "battles": [
         {
@@ -14366,7 +14483,7 @@
     },
     {
       "source": 169,
-      "target": 415,
+      "target": 414,
       "value": 1,
       "battles": [
         {
@@ -14378,7 +14495,7 @@
     },
     {
       "source": 117,
-      "target": 409,
+      "target": 408,
       "value": 1,
       "battles": [
         {
@@ -14390,7 +14507,7 @@
     },
     {
       "source": 117,
-      "target": 405,
+      "target": 404,
       "value": 2,
       "battles": [
         {
@@ -14407,7 +14524,7 @@
     },
     {
       "source": 117,
-      "target": 292,
+      "target": 291,
       "value": 2,
       "battles": [
         {
@@ -14436,7 +14553,7 @@
     },
     {
       "source": 117,
-      "target": 415,
+      "target": 414,
       "value": 1,
       "battles": [
         {
@@ -14449,7 +14566,7 @@
     {
       "source": 117,
       "target": 221,
-      "value": 3,
+      "value": 4,
       "battles": [
         {
           "episode": "325",
@@ -14465,12 +14582,17 @@
           "episode": "343",
           "outcome": "Tobi/Obito escapes into Kamui's Dimension, and Madara arrives, shifting the battle dynamic.",
           "description": "Naruto, in Tailed Beast Mode, attacks Obito with Rasengan and Tailed Beast Ball, while Kakashi and Guy assist, leading to Obito's mask shattering and reveal, before Madara's unexpected arrival."
+        },
+        {
+          "episode": "362",
+          "outcome": "The Demonic Statue of the Outer Path was destroyed, but the Ten-Tails was revived, shifting the conflict's focus.",
+          "description": "Naruto and Killer B combined a Tailed Beast Ball to destroy the Demonic Statue, while Kakashi and Guy engaged Obito and Madara with Lightning Cutter and Daytime Tiger respectively, ultimately failing to prevent the Ten-Tails' revival."
         }
       ]
     },
     {
       "source": 221,
-      "target": 339,
+      "target": 338,
       "value": 1,
       "battles": [
         {
@@ -14529,8 +14651,8 @@
       ]
     },
     {
-      "source": 305,
-      "target": 406,
+      "source": 304,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -14542,7 +14664,7 @@
     },
     {
       "source": 214,
-      "target": 397,
+      "target": 396,
       "value": 1,
       "battles": [
         {
@@ -14554,7 +14676,7 @@
     },
     {
       "source": 214,
-      "target": 395,
+      "target": 394,
       "value": 1,
       "battles": [
         {
@@ -14633,12 +14755,17 @@
     {
       "source": 189,
       "target": 221,
-      "value": 1,
+      "value": 2,
       "battles": [
         {
           "episode": "345",
           "outcome": "Obito Uchiha decisively defeats the Kirigakure-nin",
           "description": "Obito, awakened with the Mangekyō Sharingan and utilizing Wood Release, massacres the Kirigakure-nin after witnessing Rin's death at the hands of Kakashi."
+        },
+        {
+          "episode": "363",
+          "outcome": "The Allied Shinobi Forces temporarily bind the Ten-Tails using a coordinated strategy, though the beast begins to transform.",
+          "description": "The Allied Shinobi Forces launch a coordinated attack to blind and restrain the Ten-Tails, utilizing quicklime and water, while Naruto attempts to reason with Obito."
         }
       ]
     },
@@ -14656,7 +14783,7 @@
     },
     {
       "source": 169,
-      "target": 272,
+      "target": 271,
       "value": 1,
       "battles": [
         {
@@ -14697,7 +14824,7 @@
     },
     {
       "source": 169,
-      "target": 265,
+      "target": 264,
       "value": 3,
       "battles": [
         {
@@ -14719,7 +14846,7 @@
     },
     {
       "source": 188,
-      "target": 265,
+      "target": 264,
       "value": 1,
       "battles": [
         {
@@ -14743,7 +14870,7 @@
     },
     {
       "source": 169,
-      "target": 287,
+      "target": 286,
       "value": 1,
       "battles": [
         {
@@ -14771,8 +14898,8 @@
       ]
     },
     {
-      "source": 287,
-      "target": 418,
+      "source": 286,
+      "target": 417,
       "value": 1,
       "battles": [
         {
@@ -14784,7 +14911,7 @@
     },
     {
       "source": 53,
-      "target": 418,
+      "target": 417,
       "value": 1,
       "battles": [
         {
@@ -14844,7 +14971,7 @@
     },
     {
       "source": 169,
-      "target": 398,
+      "target": 397,
       "value": 1,
       "battles": [
         {
@@ -14856,7 +14983,7 @@
     },
     {
       "source": 151,
-      "target": 398,
+      "target": 397,
       "value": 1,
       "battles": [
         {
@@ -14868,7 +14995,7 @@
     },
     {
       "source": 151,
-      "target": 400,
+      "target": 399,
       "value": 1,
       "battles": [
         {
@@ -14880,49 +15007,7 @@
     },
     {
       "source": 245,
-      "target": 261,
-      "value": 7,
-      "battles": [
-        {
-          "episode": "363",
-          "outcome": "The Allied Shinobi Forces temporarily bind the Ten-Tails using a coordinated strategy, though the beast begins to transform.",
-          "description": "The Allied Shinobi Forces launch a coordinated attack to blind and restrain the Ten-Tails, utilizing quicklime and water, while Naruto attempts to reason with Obito."
-        },
-        {
-          "episode": "365",
-          "outcome": "The Ten-Tails' connection to Obito is severed, forcing a retreat for both Obito and Madara.",
-          "description": "Empowered by Kurama's chakra, the Allied Shinobi Forces launch a coordinated attack using Rasenshurikens and Nara shadow techniques, successfully disrupting Obito's control over the Ten-Tails."
-        },
-        {
-          "episode": "379",
-          "outcome": "Obito sustains damage and is confirmed vulnerable to Senjutsu-infused attacks, but remains largely unharmed due to Yin-Yang Release.",
-          "description": "Naruto, Sasuke, Minato, and Tobirama combine attacks against Obito, discovering his Truth-Seeking Balls nullify ninjutsu and that Senjutsu-infused Rasenshuken can bypass this defense."
-        },
-        {
-          "episode": "381",
-          "outcome": "Obito successfully defends against the combined attack and initiates the final phase of his plan, releasing the Ten-Tails and activating the Six Red Yang Formation.",
-          "description": "Naruto and Minato land a Parent and Child Rasengan on Obito, followed by a natural energy-infused Tailed Beast Ball, but Obito counters by releasing the Ten-Tails and initiating the Six Red Yang Formation to drain the Shinobi Alliance's chakra."
-        },
-        {
-          "episode": "387",
-          "outcome": "Obito is subdued and powers are temporarily sealed, though the conflict remains ongoing with Madara's presence.",
-          "description": "Naruto and the Allied Shinobi Forces successfully free the Tailed Beasts, leading to Obito's defeat and temporary incapacitation, while Kakashi and Minato debate Obito's fate."
-        },
-        {
-          "episode": "362",
-          "outcome": "The Demonic Statue of the Outer Path was destroyed, but the Ten-Tails was revived, shifting the conflict's focus.",
-          "description": "Naruto and Killer B combined a Tailed Beast Ball to destroy the Demonic Statue, while Kakashi and Guy engaged Obito and Madara with Lightning Cutter and Daytime Tiger respectively, ultimately failing to prevent the Ten-Tails' revival."
-        },
-        {
-          "episode": "383",
-          "outcome": "Obito overwhelms Naruto and Sasuke, forcing them out of their Tailed Beast Mode and Susanoo",
-          "description": "Naruto and Sasuke clash with Obito, who easily evades their attacks and uses his Tailed Beast Chakra Arms to subdue them, reverting them to their base forms."
-        }
-      ]
-    },
-    {
-      "source": 245,
-      "target": 380,
+      "target": 379,
       "value": 3,
       "battles": [
         {
@@ -14944,39 +15029,7 @@
     },
     {
       "source": 169,
-      "target": 261,
-      "value": 5,
-      "battles": [
-        {
-          "episode": "363",
-          "outcome": "The Allied Shinobi Forces temporarily bind the Ten-Tails using a coordinated strategy, though the beast begins to transform.",
-          "description": "The Allied Shinobi Forces launch a coordinated attack to blind and restrain the Ten-Tails, utilizing quicklime and water, while Naruto attempts to reason with Obito."
-        },
-        {
-          "episode": "387",
-          "outcome": "Obito is subdued and powers are temporarily sealed, though the conflict remains ongoing with Madara's presence.",
-          "description": "Naruto and the Allied Shinobi Forces successfully free the Tailed Beasts, leading to Obito's defeat and temporary incapacitation, while Kakashi and Minato debate Obito's fate."
-        },
-        {
-          "episode": "362",
-          "outcome": "The Demonic Statue of the Outer Path was destroyed, but the Ten-Tails was revived, shifting the conflict's focus.",
-          "description": "Naruto and Killer B combined a Tailed Beast Ball to destroy the Demonic Statue, while Kakashi and Guy engaged Obito and Madara with Lightning Cutter and Daytime Tiger respectively, ultimately failing to prevent the Ten-Tails' revival."
-        },
-        {
-          "episode": "371",
-          "outcome": "The battle is interrupted with no clear winner, focusing on a psychological clash and revelation of Rin's death.",
-          "description": "Kakashi and Obito engage in a fierce battle within Kamui's dimension, with Obito revealing the truth behind Rin's death and attempting to break Kakashi's spirit."
-        },
-        {
-          "episode": "375",
-          "outcome": "Obito becomes the Ten-Tails' Jinchūriki, resisting Madara's control and transforming into a powerful new form",
-          "description": "Kakashi and Minato engage Obito in a fierce battle, revealing his identity as the masked man before he absorbs the Ten-Tails, becoming its Jinchūriki."
-        }
-      ]
-    },
-    {
-      "source": 169,
-      "target": 380,
+      "target": 379,
       "value": 1,
       "battles": [
         {
@@ -14988,24 +15041,7 @@
     },
     {
       "source": 25,
-      "target": 261,
-      "value": 2,
-      "battles": [
-        {
-          "episode": "363",
-          "outcome": "The Allied Shinobi Forces temporarily bind the Ten-Tails using a coordinated strategy, though the beast begins to transform.",
-          "description": "The Allied Shinobi Forces launch a coordinated attack to blind and restrain the Ten-Tails, utilizing quicklime and water, while Naruto attempts to reason with Obito."
-        },
-        {
-          "episode": "362",
-          "outcome": "The Demonic Statue of the Outer Path was destroyed, but the Ten-Tails was revived, shifting the conflict's focus.",
-          "description": "Naruto and Killer B combined a Tailed Beast Ball to destroy the Demonic Statue, while Kakashi and Guy engaged Obito and Madara with Lightning Cutter and Daytime Tiger respectively, ultimately failing to prevent the Ten-Tails' revival."
-        }
-      ]
-    },
-    {
-      "source": 25,
-      "target": 380,
+      "target": 379,
       "value": 1,
       "battles": [
         {
@@ -15029,7 +15065,7 @@
     },
     {
       "source": 147,
-      "target": 261,
+      "target": 221,
       "value": 1,
       "battles": [
         {
@@ -15041,7 +15077,7 @@
     },
     {
       "source": 147,
-      "target": 380,
+      "target": 379,
       "value": 1,
       "battles": [
         {
@@ -15070,7 +15106,7 @@
     },
     {
       "source": 134,
-      "target": 261,
+      "target": 221,
       "value": 2,
       "battles": [
         {
@@ -15087,7 +15123,7 @@
     },
     {
       "source": 134,
-      "target": 380,
+      "target": 379,
       "value": 2,
       "battles": [
         {
@@ -15116,7 +15152,7 @@
     },
     {
       "source": 1,
-      "target": 261,
+      "target": 221,
       "value": 1,
       "battles": [
         {
@@ -15128,7 +15164,7 @@
     },
     {
       "source": 1,
-      "target": 380,
+      "target": 379,
       "value": 1,
       "battles": [
         {
@@ -15152,19 +15188,7 @@
     },
     {
       "source": 189,
-      "target": 261,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "363",
-          "outcome": "The Allied Shinobi Forces temporarily bind the Ten-Tails using a coordinated strategy, though the beast begins to transform.",
-          "description": "The Allied Shinobi Forces launch a coordinated attack to blind and restrain the Ten-Tails, utilizing quicklime and water, while Naruto attempts to reason with Obito."
-        }
-      ]
-    },
-    {
-      "source": 189,
-      "target": 380,
+      "target": 379,
       "value": 1,
       "battles": [
         {
@@ -15176,29 +15200,7 @@
     },
     {
       "source": 10,
-      "target": 261,
-      "value": 3,
-      "battles": [
-        {
-          "episode": "363",
-          "outcome": "The Allied Shinobi Forces temporarily bind the Ten-Tails using a coordinated strategy, though the beast begins to transform.",
-          "description": "The Allied Shinobi Forces launch a coordinated attack to blind and restrain the Ten-Tails, utilizing quicklime and water, while Naruto attempts to reason with Obito."
-        },
-        {
-          "episode": "365",
-          "outcome": "The Ten-Tails' connection to Obito is severed, forcing a retreat for both Obito and Madara.",
-          "description": "Empowered by Kurama's chakra, the Allied Shinobi Forces launch a coordinated attack using Rasenshurikens and Nara shadow techniques, successfully disrupting Obito's control over the Ten-Tails."
-        },
-        {
-          "episode": "387",
-          "outcome": "Obito is subdued and powers are temporarily sealed, though the conflict remains ongoing with Madara's presence.",
-          "description": "Naruto and the Allied Shinobi Forces successfully free the Tailed Beasts, leading to Obito's defeat and temporary incapacitation, while Kakashi and Minato debate Obito's fate."
-        }
-      ]
-    },
-    {
-      "source": 10,
-      "target": 380,
+      "target": 379,
       "value": 4,
       "battles": [
         {
@@ -15224,8 +15226,8 @@
       ]
     },
     {
-      "source": 315,
-      "target": 400,
+      "source": 314,
+      "target": 399,
       "value": 1,
       "battles": [
         {
@@ -15276,7 +15278,7 @@
     },
     {
       "source": 128,
-      "target": 351,
+      "target": 350,
       "value": 1,
       "battles": [
         {
@@ -15300,7 +15302,7 @@
     },
     {
       "source": 214,
-      "target": 392,
+      "target": 391,
       "value": 2,
       "battles": [
         {
@@ -15317,7 +15319,7 @@
     },
     {
       "source": 156,
-      "target": 392,
+      "target": 391,
       "value": 1,
       "battles": [
         {
@@ -15328,8 +15330,8 @@
       ]
     },
     {
-      "source": 351,
-      "target": 392,
+      "source": 350,
+      "target": 391,
       "value": 1,
       "battles": [
         {
@@ -15341,7 +15343,7 @@
     },
     {
       "source": 36,
-      "target": 392,
+      "target": 391,
       "value": 1,
       "battles": [
         {
@@ -15353,7 +15355,7 @@
     },
     {
       "source": 139,
-      "target": 380,
+      "target": 379,
       "value": 1,
       "battles": [
         {
@@ -15364,8 +15366,8 @@
       ]
     },
     {
-      "source": 295,
-      "target": 381,
+      "source": 294,
+      "target": 380,
       "value": 1,
       "battles": [
         {
@@ -15376,8 +15378,8 @@
       ]
     },
     {
-      "source": 305,
-      "target": 380,
+      "source": 304,
+      "target": 379,
       "value": 1,
       "battles": [
         {
@@ -15388,8 +15390,8 @@
       ]
     },
     {
-      "source": 298,
-      "target": 380,
+      "source": 297,
+      "target": 379,
       "value": 1,
       "battles": [
         {
@@ -15435,7 +15437,7 @@
     },
     {
       "source": 224,
-      "target": 412,
+      "target": 411,
       "value": 2,
       "battles": [
         {
@@ -15452,7 +15454,7 @@
     },
     {
       "source": 224,
-      "target": 321,
+      "target": 320,
       "value": 1,
       "battles": [
         {
@@ -15515,7 +15517,7 @@
     },
     {
       "source": 224,
-      "target": 326,
+      "target": 325,
       "value": 1,
       "battles": [
         {
@@ -15551,7 +15553,7 @@
     },
     {
       "source": 87,
-      "target": 265,
+      "target": 264,
       "value": 2,
       "battles": [
         {
@@ -15592,7 +15594,7 @@
     },
     {
       "source": 41,
-      "target": 265,
+      "target": 264,
       "value": 1,
       "battles": [
         {
@@ -15616,7 +15618,7 @@
     },
     {
       "source": 182,
-      "target": 265,
+      "target": 264,
       "value": 1,
       "battles": [
         {
@@ -15652,7 +15654,7 @@
     },
     {
       "source": 2,
-      "target": 265,
+      "target": 264,
       "value": 1,
       "battles": [
         {
@@ -15676,7 +15678,7 @@
     },
     {
       "source": 250,
-      "target": 265,
+      "target": 264,
       "value": 1,
       "battles": [
         {
@@ -15700,7 +15702,7 @@
     },
     {
       "source": 223,
-      "target": 412,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -15724,7 +15726,7 @@
     },
     {
       "source": 161,
-      "target": 265,
+      "target": 264,
       "value": 1,
       "battles": [
         {
@@ -15747,57 +15749,8 @@
       ]
     },
     {
-      "source": 261,
-      "target": 305,
-      "value": 4,
-      "battles": [
-        {
-          "episode": "379",
-          "outcome": "Obito sustains damage and is confirmed vulnerable to Senjutsu-infused attacks, but remains largely unharmed due to Yin-Yang Release.",
-          "description": "Naruto, Sasuke, Minato, and Tobirama combine attacks against Obito, discovering his Truth-Seeking Balls nullify ninjutsu and that Senjutsu-infused Rasenshuken can bypass this defense."
-        },
-        {
-          "episode": "382",
-          "outcome": "Battle ongoing with Sasuke and Jūgo utilizing Sage Transformation against Obito, but no clear winner",
-          "description": "Sasuke and Jūgo engage Obito in battle, with Jūgo activating Sage Transformation on Sasuke's Susanoo to enhance their attack power."
-        },
-        {
-          "episode": "387",
-          "outcome": "Obito is subdued and powers are temporarily sealed, though the conflict remains ongoing with Madara's presence.",
-          "description": "Naruto and the Allied Shinobi Forces successfully free the Tailed Beasts, leading to Obito's defeat and temporary incapacitation, while Kakashi and Minato debate Obito's fate."
-        },
-        {
-          "episode": "383",
-          "outcome": "Obito overwhelms Naruto and Sasuke, forcing them out of their Tailed Beast Mode and Susanoo",
-          "description": "Naruto and Sasuke clash with Obito, who easily evades their attacks and uses his Tailed Beast Chakra Arms to subdue them, reverting them to their base forms."
-        }
-      ]
-    },
-    {
-      "source": 237,
-      "target": 261,
-      "value": 3,
-      "battles": [
-        {
-          "episode": "379",
-          "outcome": "Obito sustains damage and is confirmed vulnerable to Senjutsu-infused attacks, but remains largely unharmed due to Yin-Yang Release.",
-          "description": "Naruto, Sasuke, Minato, and Tobirama combine attacks against Obito, discovering his Truth-Seeking Balls nullify ninjutsu and that Senjutsu-infused Rasenshuken can bypass this defense."
-        },
-        {
-          "episode": "381",
-          "outcome": "Obito successfully defends against the combined attack and initiates the final phase of his plan, releasing the Ten-Tails and activating the Six Red Yang Formation.",
-          "description": "Naruto and Minato land a Parent and Child Rasengan on Obito, followed by a natural energy-infused Tailed Beast Ball, but Obito counters by releasing the Ten-Tails and initiating the Six Red Yang Formation to drain the Shinobi Alliance's chakra."
-        },
-        {
-          "episode": "375",
-          "outcome": "Obito becomes the Ten-Tails' Jinchūriki, resisting Madara's control and transforming into a powerful new form",
-          "description": "Kakashi and Minato engage Obito in a fierce battle, revealing his identity as the masked man before he absorbs the Ten-Tails, becoming its Jinchūriki."
-        }
-      ]
-    },
-    {
-      "source": 261,
-      "target": 392,
+      "source": 221,
+      "target": 391,
       "value": 1,
       "battles": [
         {
@@ -15809,7 +15762,7 @@
     },
     {
       "source": 163,
-      "target": 261,
+      "target": 221,
       "value": 1,
       "battles": [
         {
@@ -15833,7 +15786,7 @@
     },
     {
       "source": 221,
-      "target": 327,
+      "target": 326,
       "value": 1,
       "battles": [
         {
@@ -15845,7 +15798,7 @@
     },
     {
       "source": 214,
-      "target": 305,
+      "target": 304,
       "value": 4,
       "battles": [
         {
@@ -15872,7 +15825,7 @@
     },
     {
       "source": 214,
-      "target": 335,
+      "target": 334,
       "value": 1,
       "battles": [
         {
@@ -15884,7 +15837,7 @@
     },
     {
       "source": 214,
-      "target": 267,
+      "target": 266,
       "value": 1,
       "battles": [
         {
@@ -15895,8 +15848,8 @@
       ]
     },
     {
-      "source": 335,
-      "target": 406,
+      "source": 334,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -15908,7 +15861,7 @@
     },
     {
       "source": 245,
-      "target": 406,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -15919,8 +15872,8 @@
       ]
     },
     {
-      "source": 267,
-      "target": 406,
+      "source": 266,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -15944,7 +15897,7 @@
     },
     {
       "source": 59,
-      "target": 335,
+      "target": 334,
       "value": 1,
       "battles": [
         {
@@ -15973,7 +15926,7 @@
     },
     {
       "source": 59,
-      "target": 267,
+      "target": 266,
       "value": 1,
       "battles": [
         {
@@ -15997,7 +15950,7 @@
     },
     {
       "source": 108,
-      "target": 298,
+      "target": 297,
       "value": 2,
       "battles": [
         {
@@ -16042,8 +15995,8 @@
       ]
     },
     {
-      "source": 370,
-      "target": 378,
+      "source": 369,
+      "target": 377,
       "value": 1,
       "battles": [
         {
@@ -16054,20 +16007,8 @@
       ]
     },
     {
-      "source": 366,
-      "target": 370,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "399",
-          "outcome": "Team Guy intervenes, rescuing Team Shira from Team Goji after a series of genjutsu and failed ambushes.",
-          "description": "Team Shira attempts to manipulate other teams to retrieve scrolls, but is betrayed and cornered, leading to Team Guy's intervention and revealing Shira's recent shinobi status."
-        }
-      ]
-    },
-    {
-      "source": 250,
-      "target": 378,
+      "source": 365,
+      "target": 369,
       "value": 1,
       "battles": [
         {
@@ -16079,7 +16020,19 @@
     },
     {
       "source": 250,
-      "target": 366,
+      "target": 377,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "399",
+          "outcome": "Team Guy intervenes, rescuing Team Shira from Team Goji after a series of genjutsu and failed ambushes.",
+          "description": "Team Shira attempts to manipulate other teams to retrieve scrolls, but is betrayed and cornered, leading to Team Guy's intervention and revealing Shira's recent shinobi status."
+        }
+      ]
+    },
+    {
+      "source": 250,
+      "target": 365,
       "value": 1,
       "battles": [
         {
@@ -16091,7 +16044,7 @@
     },
     {
       "source": 213,
-      "target": 328,
+      "target": 327,
       "value": 2,
       "battles": [
         {
@@ -16107,8 +16060,8 @@
       ]
     },
     {
-      "source": 374,
-      "target": 377,
+      "source": 373,
+      "target": 376,
       "value": 2,
       "battles": [
         {
@@ -16124,8 +16077,8 @@
       ]
     },
     {
-      "source": 363,
-      "target": 375,
+      "source": 362,
+      "target": 374,
       "value": 1,
       "battles": [
         {
@@ -16137,7 +16090,7 @@
     },
     {
       "source": 17,
-      "target": 363,
+      "target": 362,
       "value": 1,
       "battles": [
         {
@@ -16149,7 +16102,7 @@
     },
     {
       "source": 17,
-      "target": 370,
+      "target": 369,
       "value": 1,
       "battles": [
         {
@@ -16161,7 +16114,7 @@
     },
     {
       "source": 13,
-      "target": 298,
+      "target": 297,
       "value": 1,
       "battles": [
         {
@@ -16172,8 +16125,8 @@
       ]
     },
     {
-      "source": 298,
-      "target": 331,
+      "source": 297,
+      "target": 330,
       "value": 1,
       "battles": [
         {
@@ -16185,7 +16138,7 @@
     },
     {
       "source": 212,
-      "target": 298,
+      "target": 297,
       "value": 1,
       "battles": [
         {
@@ -16209,7 +16162,7 @@
     },
     {
       "source": 41,
-      "target": 331,
+      "target": 330,
       "value": 1,
       "battles": [
         {
@@ -16245,7 +16198,7 @@
     },
     {
       "source": 147,
-      "target": 331,
+      "target": 330,
       "value": 1,
       "battles": [
         {
@@ -16269,7 +16222,7 @@
     },
     {
       "source": 147,
-      "target": 307,
+      "target": 306,
       "value": 2,
       "battles": [
         {
@@ -16303,7 +16256,7 @@
     },
     {
       "source": 147,
-      "target": 300,
+      "target": 299,
       "value": 2,
       "battles": [
         {
@@ -16320,7 +16273,7 @@
     },
     {
       "source": 41,
-      "target": 307,
+      "target": 306,
       "value": 2,
       "battles": [
         {
@@ -16354,7 +16307,7 @@
     },
     {
       "source": 41,
-      "target": 300,
+      "target": 299,
       "value": 2,
       "battles": [
         {
@@ -16370,8 +16323,8 @@
       ]
     },
     {
-      "source": 298,
-      "target": 307,
+      "source": 297,
+      "target": 306,
       "value": 2,
       "battles": [
         {
@@ -16388,7 +16341,7 @@
     },
     {
       "source": 218,
-      "target": 298,
+      "target": 297,
       "value": 2,
       "battles": [
         {
@@ -16404,8 +16357,8 @@
       ]
     },
     {
-      "source": 298,
-      "target": 300,
+      "source": 297,
+      "target": 299,
       "value": 2,
       "battles": [
         {
@@ -16458,7 +16411,7 @@
     },
     {
       "source": 178,
-      "target": 343,
+      "target": 342,
       "value": 2,
       "battles": [
         {
@@ -16521,7 +16474,7 @@
     },
     {
       "source": 234,
-      "target": 317,
+      "target": 316,
       "value": 1,
       "battles": [
         {
@@ -16557,7 +16510,7 @@
     },
     {
       "source": 63,
-      "target": 401,
+      "target": 400,
       "value": 1,
       "battles": [
         {
@@ -16581,7 +16534,7 @@
     },
     {
       "source": 228,
-      "target": 345,
+      "target": 344,
       "value": 1,
       "battles": [
         {
@@ -16593,7 +16546,7 @@
     },
     {
       "source": 25,
-      "target": 412,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -16605,7 +16558,7 @@
     },
     {
       "source": 25,
-      "target": 418,
+      "target": 417,
       "value": 1,
       "battles": [
         {
@@ -16629,7 +16582,7 @@
     },
     {
       "source": 87,
-      "target": 412,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -16641,7 +16594,7 @@
     },
     {
       "source": 87,
-      "target": 418,
+      "target": 417,
       "value": 1,
       "battles": [
         {
@@ -16665,7 +16618,7 @@
     },
     {
       "source": 245,
-      "target": 418,
+      "target": 417,
       "value": 2,
       "battles": [
         {
@@ -16681,8 +16634,8 @@
       ]
     },
     {
-      "source": 265,
-      "target": 415,
+      "source": 264,
+      "target": 414,
       "value": 1,
       "battles": [
         {
@@ -16693,8 +16646,8 @@
       ]
     },
     {
-      "source": 265,
-      "target": 405,
+      "source": 264,
+      "target": 404,
       "value": 1,
       "battles": [
         {
@@ -16706,7 +16659,7 @@
     },
     {
       "source": 44,
-      "target": 265,
+      "target": 264,
       "value": 1,
       "battles": [
         {
@@ -16717,20 +16670,8 @@
       ]
     },
     {
-      "source": 265,
-      "target": 339,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "430",
-          "outcome": "Combined Tailed Beast Ball repels Orochimaru and forces his retreat",
-          "description": "The five tailed beast jinchūriki, along with Son Gokū, combine their powers to defeat Orochimaru’s giant snake and repel his attack on Rōshi’s village."
-        }
-      ]
-    },
-    {
-      "source": 165,
-      "target": 415,
+      "source": 264,
+      "target": 338,
       "value": 1,
       "battles": [
         {
@@ -16742,7 +16683,19 @@
     },
     {
       "source": 165,
-      "target": 405,
+      "target": 414,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "430",
+          "outcome": "Combined Tailed Beast Ball repels Orochimaru and forces his retreat",
+          "description": "The five tailed beast jinchūriki, along with Son Gokū, combine their powers to defeat Orochimaru’s giant snake and repel his attack on Rōshi’s village."
+        }
+      ]
+    },
+    {
+      "source": 165,
+      "target": 404,
       "value": 1,
       "battles": [
         {
@@ -16766,7 +16719,7 @@
     },
     {
       "source": 165,
-      "target": 339,
+      "target": 338,
       "value": 1,
       "battles": [
         {
@@ -16777,8 +16730,8 @@
       ]
     },
     {
-      "source": 305,
-      "target": 415,
+      "source": 304,
+      "target": 414,
       "value": 1,
       "battles": [
         {
@@ -16789,8 +16742,8 @@
       ]
     },
     {
-      "source": 305,
-      "target": 405,
+      "source": 304,
+      "target": 404,
       "value": 1,
       "battles": [
         {
@@ -16802,7 +16755,7 @@
     },
     {
       "source": 44,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -16813,8 +16766,8 @@
       ]
     },
     {
-      "source": 305,
-      "target": 339,
+      "source": 304,
+      "target": 338,
       "value": 1,
       "battles": [
         {
@@ -16850,7 +16803,7 @@
     },
     {
       "source": 133,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -16861,8 +16814,8 @@
       ]
     },
     {
-      "source": 364,
-      "target": 371,
+      "source": 363,
+      "target": 370,
       "value": 1,
       "battles": [
         {
@@ -16874,7 +16827,7 @@
     },
     {
       "source": 50,
-      "target": 371,
+      "target": 370,
       "value": 1,
       "battles": [
         {
@@ -16897,8 +16850,8 @@
       ]
     },
     {
-      "source": 303,
-      "target": 305,
+      "source": 302,
+      "target": 304,
       "value": 3,
       "battles": [
         {
@@ -16920,7 +16873,19 @@
     },
     {
       "source": 245,
-      "target": 304,
+      "target": 303,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "439",
+          "outcome": "Naruto and his team successfully force Sasori to retreat using Rasengan and shadow clones.",
+          "description": "Naruto utilizes the Rasengan and multiple shadow clones to overwhelm and destroy Sasori's puppets, prompting Sasori to withdraw from the battle."
+        }
+      ]
+    },
+    {
+      "source": 302,
+      "target": 320,
       "value": 1,
       "battles": [
         {
@@ -16932,7 +16897,7 @@
     },
     {
       "source": 303,
-      "target": 321,
+      "target": 320,
       "value": 1,
       "battles": [
         {
@@ -16943,8 +16908,8 @@
       ]
     },
     {
-      "source": 304,
-      "target": 321,
+      "source": 41,
+      "target": 302,
       "value": 1,
       "battles": [
         {
@@ -16967,8 +16932,8 @@
       ]
     },
     {
-      "source": 41,
-      "target": 304,
+      "source": 250,
+      "target": 302,
       "value": 1,
       "battles": [
         {
@@ -16981,18 +16946,6 @@
     {
       "source": 250,
       "target": 303,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "439",
-          "outcome": "Naruto and his team successfully force Sasori to retreat using Rasengan and shadow clones.",
-          "description": "Naruto utilizes the Rasengan and multiple shadow clones to overwhelm and destroy Sasori's puppets, prompting Sasori to withdraw from the battle."
-        }
-      ]
-    },
-    {
-      "source": 250,
-      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -17004,7 +16957,7 @@
     },
     {
       "source": 245,
-      "target": 400,
+      "target": 399,
       "value": 1,
       "battles": [
         {
@@ -17015,20 +16968,8 @@
       ]
     },
     {
-      "source": 298,
-      "target": 400,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "443",
-          "outcome": "Naruto and his team de-escalate the situation, leading to Sasuke's dismissal from the police force and his departure from the village.",
-          "description": "A tense standoff occurs between Naruto's group and Sasuke's Uchiha unit over their aggressive policing methods, culminating in a political fallout."
-        }
-      ]
-    },
-    {
-      "source": 147,
-      "target": 305,
+      "source": 297,
+      "target": 399,
       "value": 1,
       "battles": [
         {
@@ -17040,7 +16981,7 @@
     },
     {
       "source": 147,
-      "target": 400,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -17051,8 +16992,8 @@
       ]
     },
     {
-      "source": 305,
-      "target": 321,
+      "source": 147,
+      "target": 399,
       "value": 1,
       "battles": [
         {
@@ -17063,8 +17004,20 @@
       ]
     },
     {
-      "source": 321,
-      "target": 400,
+      "source": 304,
+      "target": 320,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "443",
+          "outcome": "Naruto and his team de-escalate the situation, leading to Sasuke's dismissal from the police force and his departure from the village.",
+          "description": "A tense standoff occurs between Naruto's group and Sasuke's Uchiha unit over their aggressive policing methods, culminating in a political fallout."
+        }
+      ]
+    },
+    {
+      "source": 320,
+      "target": 399,
       "value": 1,
       "battles": [
         {
@@ -17088,7 +17041,7 @@
     },
     {
       "source": 16,
-      "target": 321,
+      "target": 320,
       "value": 1,
       "battles": [
         {
@@ -17099,8 +17052,8 @@
       ]
     },
     {
-      "source": 321,
-      "target": 418,
+      "source": 320,
+      "target": 417,
       "value": 1,
       "battles": [
         {
@@ -17112,7 +17065,7 @@
     },
     {
       "source": 213,
-      "target": 287,
+      "target": 286,
       "value": 1,
       "battles": [
         {
@@ -17124,7 +17077,7 @@
     },
     {
       "source": 254,
-      "target": 305,
+      "target": 304,
       "value": 3,
       "battles": [
         {
@@ -17146,7 +17099,7 @@
     },
     {
       "source": 60,
-      "target": 320,
+      "target": 319,
       "value": 1,
       "battles": [
         {
@@ -17182,7 +17135,7 @@
     },
     {
       "source": 60,
-      "target": 397,
+      "target": 396,
       "value": 1,
       "battles": [
         {
@@ -17205,8 +17158,8 @@
       ]
     },
     {
-      "source": 289,
-      "target": 392,
+      "source": 288,
+      "target": 391,
       "value": 1,
       "battles": [
         {
@@ -17230,7 +17183,7 @@
     },
     {
       "source": 151,
-      "target": 262,
+      "target": 261,
       "value": 1,
       "battles": [
         {
@@ -17254,7 +17207,7 @@
     },
     {
       "source": 255,
-      "target": 357,
+      "target": 356,
       "value": 1,
       "battles": [
         {
@@ -17290,7 +17243,7 @@
     },
     {
       "source": 151,
-      "target": 409,
+      "target": 408,
       "value": 1,
       "battles": [
         {
@@ -17314,7 +17267,7 @@
     },
     {
       "source": 164,
-      "target": 409,
+      "target": 408,
       "value": 1,
       "battles": [
         {
@@ -17355,7 +17308,7 @@
     },
     {
       "source": 33,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -17389,7 +17342,7 @@
     },
     {
       "source": 167,
-      "target": 305,
+      "target": 304,
       "value": 3,
       "battles": [
         {
@@ -17428,7 +17381,7 @@
     },
     {
       "source": 167,
-      "target": 298,
+      "target": 297,
       "value": 2,
       "battles": [
         {
@@ -17445,7 +17398,7 @@
     },
     {
       "source": 168,
-      "target": 338,
+      "target": 337,
       "value": 1,
       "battles": [
         {
@@ -17493,7 +17446,7 @@
     },
     {
       "source": 120,
-      "target": 380,
+      "target": 379,
       "value": 1,
       "battles": [
         {
@@ -17505,7 +17458,7 @@
     },
     {
       "source": 167,
-      "target": 261,
+      "target": 221,
       "value": 1,
       "battles": [
         {
@@ -17517,7 +17470,7 @@
     },
     {
       "source": 146,
-      "target": 407,
+      "target": 406,
       "value": 1,
       "battles": [
         {
@@ -17582,7 +17535,7 @@
     },
     {
       "source": 169,
-      "target": 359,
+      "target": 358,
       "value": 1,
       "battles": [
         {
@@ -17621,7 +17574,7 @@
     },
     {
       "source": 168,
-      "target": 261,
+      "target": 221,
       "value": 2,
       "battles": [
         {
@@ -17638,7 +17591,7 @@
     },
     {
       "source": 33,
-      "target": 261,
+      "target": 221,
       "value": 1,
       "battles": [
         {
@@ -17650,7 +17603,7 @@
     },
     {
       "source": 168,
-      "target": 298,
+      "target": 297,
       "value": 4,
       "battles": [
         {
@@ -17677,7 +17630,7 @@
     },
     {
       "source": 33,
-      "target": 298,
+      "target": 297,
       "value": 1,
       "battles": [
         {
@@ -17728,7 +17681,7 @@
     },
     {
       "source": 168,
-      "target": 305,
+      "target": 304,
       "value": 3,
       "battles": [
         {
@@ -17750,7 +17703,7 @@
     },
     {
       "source": 168,
-      "target": 267,
+      "target": 266,
       "value": 1,
       "battles": [
         {
@@ -17762,7 +17715,7 @@
     },
     {
       "source": 81,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -17774,7 +17727,7 @@
     },
     {
       "source": 258,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -17786,7 +17739,7 @@
     },
     {
       "source": 243,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -17846,7 +17799,7 @@
     },
     {
       "source": 86,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -17858,7 +17811,7 @@
     },
     {
       "source": 135,
-      "target": 391,
+      "target": 390,
       "value": 1,
       "battles": [
         {
@@ -17869,8 +17822,8 @@
       ]
     },
     {
-      "source": 321,
-      "target": 391,
+      "source": 320,
+      "target": 390,
       "value": 1,
       "battles": [
         {
@@ -17881,8 +17834,8 @@
       ]
     },
     {
-      "source": 291,
-      "target": 391,
+      "source": 290,
+      "target": 390,
       "value": 1,
       "battles": [
         {
@@ -17894,7 +17847,7 @@
     },
     {
       "source": 99,
-      "target": 321,
+      "target": 320,
       "value": 2,
       "battles": [
         {
@@ -17910,8 +17863,8 @@
       ]
     },
     {
-      "source": 291,
-      "target": 295,
+      "source": 290,
+      "target": 294,
       "value": 1,
       "battles": [
         {
@@ -17923,7 +17876,7 @@
     },
     {
       "source": 99,
-      "target": 291,
+      "target": 290,
       "value": 1,
       "battles": [
         {
@@ -17935,7 +17888,7 @@
     },
     {
       "source": 135,
-      "target": 295,
+      "target": 294,
       "value": 1,
       "battles": [
         {
@@ -17958,8 +17911,8 @@
       ]
     },
     {
-      "source": 291,
-      "target": 321,
+      "source": 290,
+      "target": 320,
       "value": 2,
       "battles": [
         {
@@ -17976,7 +17929,7 @@
     },
     {
       "source": 135,
-      "target": 321,
+      "target": 320,
       "value": 2,
       "battles": [
         {
@@ -17993,7 +17946,7 @@
     },
     {
       "source": 149,
-      "target": 396,
+      "target": 395,
       "value": 1,
       "battles": [
         {
@@ -18005,7 +17958,7 @@
     },
     {
       "source": 149,
-      "target": 301,
+      "target": 300,
       "value": 1,
       "battles": [
         {
@@ -18029,7 +17982,7 @@
     },
     {
       "source": 32,
-      "target": 326,
+      "target": 325,
       "value": 1,
       "battles": [
         {
@@ -18041,7 +17994,7 @@
     },
     {
       "source": 40,
-      "target": 385,
+      "target": 384,
       "value": 1,
       "battles": [
         {
@@ -18052,8 +18005,8 @@
       ]
     },
     {
-      "source": 298,
-      "target": 385,
+      "source": 297,
+      "target": 384,
       "value": 1,
       "battles": [
         {
@@ -18065,7 +18018,7 @@
     },
     {
       "source": 169,
-      "target": 318,
+      "target": 317,
       "value": 1,
       "battles": [
         {
@@ -18077,7 +18030,7 @@
     },
     {
       "source": 79,
-      "target": 340,
+      "target": 339,
       "value": 1,
       "battles": [
         {
@@ -18113,7 +18066,7 @@
     },
     {
       "source": 21,
-      "target": 399,
+      "target": 398,
       "value": 1,
       "battles": [
         {
@@ -18125,7 +18078,7 @@
     },
     {
       "source": 21,
-      "target": 311,
+      "target": 310,
       "value": 1,
       "battles": [
         {
@@ -18137,7 +18090,7 @@
     },
     {
       "source": 192,
-      "target": 412,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -18149,7 +18102,7 @@
     },
     {
       "source": 249,
-      "target": 412,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -18160,8 +18113,8 @@
       ]
     },
     {
-      "source": 399,
-      "target": 412,
+      "source": 398,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -18172,8 +18125,8 @@
       ]
     },
     {
-      "source": 311,
-      "target": 412,
+      "source": 310,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -18185,7 +18138,7 @@
     },
     {
       "source": 192,
-      "target": 298,
+      "target": 297,
       "value": 1,
       "battles": [
         {
@@ -18197,7 +18150,7 @@
     },
     {
       "source": 249,
-      "target": 298,
+      "target": 297,
       "value": 1,
       "battles": [
         {
@@ -18208,8 +18161,8 @@
       ]
     },
     {
-      "source": 298,
-      "target": 399,
+      "source": 297,
+      "target": 398,
       "value": 1,
       "battles": [
         {
@@ -18220,8 +18173,8 @@
       ]
     },
     {
-      "source": 298,
-      "target": 311,
+      "source": 297,
+      "target": 310,
       "value": 1,
       "battles": [
         {
@@ -18233,7 +18186,7 @@
     },
     {
       "source": 85,
-      "target": 318,
+      "target": 317,
       "value": 1,
       "battles": [
         {
@@ -18245,7 +18198,7 @@
     },
     {
       "source": 245,
-      "target": 408,
+      "target": 407,
       "value": 1,
       "battles": [
         {
@@ -18257,7 +18210,7 @@
     },
     {
       "source": 207,
-      "target": 408,
+      "target": 407,
       "value": 1,
       "battles": [
         {
@@ -18269,7 +18222,7 @@
     },
     {
       "source": 247,
-      "target": 412,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -18281,7 +18234,7 @@
     },
     {
       "source": 173,
-      "target": 318,
+      "target": 317,
       "value": 1,
       "battles": [
         {
@@ -18293,7 +18246,7 @@
     },
     {
       "source": 173,
-      "target": 358,
+      "target": 357,
       "value": 1,
       "battles": [
         {
@@ -18305,7 +18258,7 @@
     },
     {
       "source": 173,
-      "target": 298,
+      "target": 297,
       "value": 1,
       "battles": [
         {
@@ -18341,7 +18294,7 @@
     },
     {
       "source": 245,
-      "target": 285,
+      "target": 284,
       "value": 2,
       "battles": [
         {
@@ -18357,8 +18310,8 @@
       ]
     },
     {
-      "source": 318,
-      "target": 389,
+      "source": 317,
+      "target": 388,
       "value": 1,
       "battles": [
         {
@@ -18370,7 +18323,7 @@
     },
     {
       "source": 185,
-      "target": 326,
+      "target": 325,
       "value": 1,
       "battles": [
         {
@@ -18382,7 +18335,7 @@
     },
     {
       "source": 184,
-      "target": 326,
+      "target": 325,
       "value": 1,
       "battles": [
         {
@@ -18394,7 +18347,7 @@
     },
     {
       "source": 259,
-      "target": 326,
+      "target": 325,
       "value": 1,
       "battles": [
         {
@@ -18406,7 +18359,7 @@
     },
     {
       "source": 259,
-      "target": 412,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -18430,7 +18383,7 @@
     },
     {
       "source": 169,
-      "target": 350,
+      "target": 349,
       "value": 1,
       "battles": [
         {
@@ -18442,7 +18395,7 @@
     },
     {
       "source": 172,
-      "target": 261,
+      "target": 221,
       "value": 1,
       "battles": [
         {
@@ -18453,8 +18406,8 @@
       ]
     },
     {
-      "source": 261,
-      "target": 350,
+      "source": 221,
+      "target": 349,
       "value": 1,
       "battles": [
         {
@@ -18466,7 +18419,7 @@
     },
     {
       "source": 154,
-      "target": 261,
+      "target": 221,
       "value": 1,
       "battles": [
         {
@@ -18478,7 +18431,7 @@
     },
     {
       "source": 190,
-      "target": 292,
+      "target": 291,
       "value": 1,
       "battles": [
         {
@@ -18490,7 +18443,7 @@
     },
     {
       "source": 190,
-      "target": 343,
+      "target": 342,
       "value": 1,
       "battles": [
         {
@@ -18501,8 +18454,8 @@
       ]
     },
     {
-      "source": 405,
-      "target": 412,
+      "source": 404,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -18513,8 +18466,8 @@
       ]
     },
     {
-      "source": 295,
-      "target": 405,
+      "source": 294,
+      "target": 404,
       "value": 1,
       "battles": [
         {
@@ -18526,7 +18479,7 @@
     },
     {
       "source": 71,
-      "target": 405,
+      "target": 404,
       "value": 1,
       "battles": [
         {
@@ -18550,7 +18503,7 @@
     },
     {
       "source": 189,
-      "target": 295,
+      "target": 294,
       "value": 1,
       "battles": [
         {
@@ -18562,7 +18515,7 @@
     },
     {
       "source": 189,
-      "target": 412,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -18574,7 +18527,7 @@
     },
     {
       "source": 189,
-      "target": 269,
+      "target": 268,
       "value": 1,
       "battles": [
         {
@@ -18586,7 +18539,7 @@
     },
     {
       "source": 157,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -18598,7 +18551,7 @@
     },
     {
       "source": 205,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -18682,7 +18635,7 @@
     },
     {
       "source": 60,
-      "target": 296,
+      "target": 295,
       "value": 1,
       "battles": [
         {
@@ -18718,7 +18671,7 @@
     },
     {
       "source": 195,
-      "target": 298,
+      "target": 297,
       "value": 1,
       "battles": [
         {
@@ -18754,7 +18707,7 @@
     },
     {
       "source": 110,
-      "target": 298,
+      "target": 297,
       "value": 1,
       "battles": [
         {
@@ -18766,7 +18719,7 @@
     },
     {
       "source": 110,
-      "target": 321,
+      "target": 320,
       "value": 1,
       "battles": [
         {
@@ -18814,7 +18767,7 @@
     },
     {
       "source": 245,
-      "target": 353,
+      "target": 352,
       "value": 1,
       "battles": [
         {
@@ -18826,7 +18779,7 @@
     },
     {
       "source": 149,
-      "target": 353,
+      "target": 352,
       "value": 1,
       "battles": [
         {
@@ -18850,7 +18803,7 @@
     },
     {
       "source": 245,
-      "target": 411,
+      "target": 410,
       "value": 1,
       "battles": [
         {
@@ -18862,7 +18815,7 @@
     },
     {
       "source": 3,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -18873,8 +18826,8 @@
       ]
     },
     {
-      "source": 305,
-      "target": 411,
+      "source": 304,
+      "target": 410,
       "value": 1,
       "battles": [
         {
@@ -18922,7 +18875,7 @@
     },
     {
       "source": 158,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -18934,7 +18887,7 @@
     },
     {
       "source": 30,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -18945,8 +18898,8 @@
       ]
     },
     {
-      "source": 305,
-      "target": 424,
+      "source": 304,
+      "target": 423,
       "value": 1,
       "battles": [
         {
@@ -18958,7 +18911,7 @@
     },
     {
       "source": 221,
-      "target": 352,
+      "target": 351,
       "value": 1,
       "battles": [
         {
@@ -18969,8 +18922,8 @@
       ]
     },
     {
-      "source": 352,
-      "target": 424,
+      "source": 351,
+      "target": 423,
       "value": 1,
       "battles": [
         {
@@ -18982,7 +18935,7 @@
     },
     {
       "source": 69,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -18994,7 +18947,7 @@
     },
     {
       "source": 69,
-      "target": 406,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -19018,7 +18971,7 @@
     },
     {
       "source": 221,
-      "target": 387,
+      "target": 386,
       "value": 1,
       "battles": [
         {
@@ -19042,7 +18995,7 @@
     },
     {
       "source": 87,
-      "target": 424,
+      "target": 423,
       "value": 1,
       "battles": [
         {
@@ -19054,7 +19007,7 @@
     },
     {
       "source": 0,
-      "target": 424,
+      "target": 423,
       "value": 1,
       "battles": [
         {
@@ -19065,8 +19018,8 @@
       ]
     },
     {
-      "source": 387,
-      "target": 424,
+      "source": 386,
+      "target": 423,
       "value": 1,
       "battles": [
         {
@@ -19078,7 +19031,7 @@
     },
     {
       "source": 231,
-      "target": 424,
+      "target": 423,
       "value": 1,
       "battles": [
         {
@@ -19114,7 +19067,7 @@
     },
     {
       "source": 245,
-      "target": 308,
+      "target": 307,
       "value": 1,
       "battles": [
         {
@@ -19125,8 +19078,8 @@
       ]
     },
     {
-      "source": 308,
-      "target": 412,
+      "source": 307,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -19138,7 +19091,7 @@
     },
     {
       "source": 117,
-      "target": 308,
+      "target": 307,
       "value": 1,
       "battles": [
         {
@@ -19150,7 +19103,7 @@
     },
     {
       "source": 200,
-      "target": 379,
+      "target": 378,
       "value": 1,
       "battles": [
         {
@@ -19162,7 +19115,7 @@
     },
     {
       "source": 238,
-      "target": 379,
+      "target": 378,
       "value": 1,
       "battles": [
         {
@@ -19173,8 +19126,8 @@
       ]
     },
     {
-      "source": 379,
-      "target": 401,
+      "source": 378,
+      "target": 400,
       "value": 1,
       "battles": [
         {
@@ -19186,7 +19139,7 @@
     },
     {
       "source": 147,
-      "target": 268,
+      "target": 267,
       "value": 1,
       "battles": [
         {
@@ -19197,43 +19150,7 @@
       ]
     },
     {
-      "source": 268,
-      "target": 321,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "239",
-          "outcome": "Team Asuma defeated the Oto-nin",
-          "description": "Team Asuma and their fathers combined techniques—Multi-Size, Shadow Sewing, and Mind Body Disturbance—to trap and confuse the Oto-nin, causing them to fight each other."
-        }
-      ]
-    },
-    {
-      "source": 41,
-      "target": 268,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "239",
-          "outcome": "Team Asuma defeated the Oto-nin",
-          "description": "Team Asuma and their fathers combined techniques—Multi-Size, Shadow Sewing, and Mind Body Disturbance—to trap and confuse the Oto-nin, causing them to fight each other."
-        }
-      ]
-    },
-    {
-      "source": 148,
-      "target": 268,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "239",
-          "outcome": "Team Asuma defeated the Oto-nin",
-          "description": "Team Asuma and their fathers combined techniques—Multi-Size, Shadow Sewing, and Mind Body Disturbance—to trap and confuse the Oto-nin, causing them to fight each other."
-        }
-      ]
-    },
-    {
-      "source": 268,
+      "source": 267,
       "target": 320,
       "value": 1,
       "battles": [
@@ -19245,8 +19162,44 @@
       ]
     },
     {
+      "source": 41,
+      "target": 267,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "239",
+          "outcome": "Team Asuma defeated the Oto-nin",
+          "description": "Team Asuma and their fathers combined techniques—Multi-Size, Shadow Sewing, and Mind Body Disturbance—to trap and confuse the Oto-nin, causing them to fight each other."
+        }
+      ]
+    },
+    {
+      "source": 148,
+      "target": 267,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "239",
+          "outcome": "Team Asuma defeated the Oto-nin",
+          "description": "Team Asuma and their fathers combined techniques—Multi-Size, Shadow Sewing, and Mind Body Disturbance—to trap and confuse the Oto-nin, causing them to fight each other."
+        }
+      ]
+    },
+    {
+      "source": 267,
+      "target": 319,
+      "value": 1,
+      "battles": [
+        {
+          "episode": "239",
+          "outcome": "Team Asuma defeated the Oto-nin",
+          "description": "Team Asuma and their fathers combined techniques—Multi-Size, Shadow Sewing, and Mind Body Disturbance—to trap and confuse the Oto-nin, causing them to fight each other."
+        }
+      ]
+    },
+    {
       "source": 42,
-      "target": 268,
+      "target": 267,
       "value": 1,
       "battles": [
         {
@@ -19306,7 +19259,7 @@
     },
     {
       "source": 117,
-      "target": 412,
+      "target": 411,
       "value": 1,
       "battles": [
         {
@@ -19366,7 +19319,7 @@
     },
     {
       "source": 207,
-      "target": 318,
+      "target": 317,
       "value": 1,
       "battles": [
         {
@@ -19407,7 +19360,7 @@
     },
     {
       "source": 58,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -19419,7 +19372,7 @@
     },
     {
       "source": 193,
-      "target": 406,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -19431,7 +19384,7 @@
     },
     {
       "source": 182,
-      "target": 406,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -19443,7 +19396,7 @@
     },
     {
       "source": 2,
-      "target": 406,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -19455,7 +19408,7 @@
     },
     {
       "source": 123,
-      "target": 406,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -19466,8 +19419,8 @@
       ]
     },
     {
-      "source": 264,
-      "target": 406,
+      "source": 263,
+      "target": 405,
       "value": 1,
       "battles": [
         {
@@ -19479,7 +19432,7 @@
     },
     {
       "source": 187,
-      "target": 299,
+      "target": 298,
       "value": 1,
       "battles": [
         {
@@ -19491,7 +19444,7 @@
     },
     {
       "source": 112,
-      "target": 299,
+      "target": 298,
       "value": 1,
       "battles": [
         {
@@ -19539,7 +19492,7 @@
     },
     {
       "source": 245,
-      "target": 314,
+      "target": 313,
       "value": 1,
       "battles": [
         {
@@ -19563,7 +19516,7 @@
     },
     {
       "source": 65,
-      "target": 314,
+      "target": 313,
       "value": 1,
       "battles": [
         {
@@ -19603,8 +19556,8 @@
       ]
     },
     {
-      "source": 298,
-      "target": 414,
+      "source": 297,
+      "target": 413,
       "value": 1,
       "battles": [
         {
@@ -19616,7 +19569,7 @@
     },
     {
       "source": 182,
-      "target": 414,
+      "target": 413,
       "value": 1,
       "battles": [
         {
@@ -19628,7 +19581,7 @@
     },
     {
       "source": 2,
-      "target": 414,
+      "target": 413,
       "value": 1,
       "battles": [
         {
@@ -19640,7 +19593,7 @@
     },
     {
       "source": 245,
-      "target": 414,
+      "target": 413,
       "value": 1,
       "battles": [
         {
@@ -19676,7 +19629,7 @@
     },
     {
       "source": 197,
-      "target": 410,
+      "target": 409,
       "value": 1,
       "battles": [
         {
@@ -19687,8 +19640,8 @@
       ]
     },
     {
-      "source": 404,
-      "target": 410,
+      "source": 403,
+      "target": 409,
       "value": 1,
       "battles": [
         {
@@ -19712,7 +19665,7 @@
     },
     {
       "source": 195,
-      "target": 404,
+      "target": 403,
       "value": 1,
       "battles": [
         {
@@ -19724,7 +19677,7 @@
     },
     {
       "source": 60,
-      "target": 404,
+      "target": 403,
       "value": 1,
       "battles": [
         {
@@ -19736,7 +19689,7 @@
     },
     {
       "source": 54,
-      "target": 332,
+      "target": 331,
       "value": 1,
       "battles": [
         {
@@ -19747,20 +19700,8 @@
       ]
     },
     {
-      "source": 117,
-      "target": 261,
-      "value": 1,
-      "battles": [
-        {
-          "episode": "362",
-          "outcome": "The Demonic Statue of the Outer Path was destroyed, but the Ten-Tails was revived, shifting the conflict's focus.",
-          "description": "Naruto and Killer B combined a Tailed Beast Ball to destroy the Demonic Statue, while Kakashi and Guy engaged Obito and Madara with Lightning Cutter and Daytime Tiger respectively, ultimately failing to prevent the Ten-Tails' revival."
-        }
-      ]
-    },
-    {
       "source": 128,
-      "target": 392,
+      "target": 391,
       "value": 1,
       "battles": [
         {
@@ -19772,7 +19713,7 @@
     },
     {
       "source": 221,
-      "target": 280,
+      "target": 279,
       "value": 1,
       "battles": [
         {
@@ -19825,7 +19766,7 @@
     },
     {
       "source": 143,
-      "target": 370,
+      "target": 369,
       "value": 1,
       "battles": [
         {
@@ -19849,7 +19790,7 @@
     },
     {
       "source": 143,
-      "target": 416,
+      "target": 415,
       "value": 1,
       "battles": [
         {
@@ -19885,7 +19826,7 @@
     },
     {
       "source": 134,
-      "target": 382,
+      "target": 381,
       "value": 1,
       "battles": [
         {
@@ -19897,7 +19838,7 @@
     },
     {
       "source": 227,
-      "target": 382,
+      "target": 381,
       "value": 1,
       "battles": [
         {
@@ -19908,8 +19849,8 @@
       ]
     },
     {
-      "source": 303,
-      "target": 372,
+      "source": 302,
+      "target": 371,
       "value": 1,
       "battles": [
         {
@@ -19920,8 +19861,8 @@
       ]
     },
     {
-      "source": 276,
-      "target": 372,
+      "source": 275,
+      "target": 371,
       "value": 1,
       "battles": [
         {
@@ -19933,7 +19874,7 @@
     },
     {
       "source": 141,
-      "target": 372,
+      "target": 371,
       "value": 1,
       "battles": [
         {
@@ -19945,7 +19886,7 @@
     },
     {
       "source": 245,
-      "target": 276,
+      "target": 275,
       "value": 1,
       "battles": [
         {
@@ -19968,8 +19909,8 @@
       ]
     },
     {
-      "source": 276,
-      "target": 298,
+      "source": 275,
+      "target": 297,
       "value": 1,
       "battles": [
         {
@@ -19981,7 +19922,7 @@
     },
     {
       "source": 141,
-      "target": 298,
+      "target": 297,
       "value": 1,
       "battles": [
         {
@@ -19992,8 +19933,8 @@
       ]
     },
     {
-      "source": 276,
-      "target": 305,
+      "source": 275,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -20005,7 +19946,7 @@
     },
     {
       "source": 141,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -20017,7 +19958,7 @@
     },
     {
       "source": 151,
-      "target": 287,
+      "target": 286,
       "value": 1,
       "battles": [
         {
@@ -20028,8 +19969,8 @@
       ]
     },
     {
-      "source": 287,
-      "target": 332,
+      "source": 286,
+      "target": 331,
       "value": 1,
       "battles": [
         {
@@ -20040,8 +19981,8 @@
       ]
     },
     {
-      "source": 265,
-      "target": 303,
+      "source": 264,
+      "target": 302,
       "value": 1,
       "battles": [
         {
@@ -20052,8 +19993,8 @@
       ]
     },
     {
-      "source": 283,
-      "target": 303,
+      "source": 282,
+      "target": 302,
       "value": 1,
       "battles": [
         {
@@ -20065,7 +20006,7 @@
     },
     {
       "source": 57,
-      "target": 265,
+      "target": 264,
       "value": 1,
       "battles": [
         {
@@ -20077,7 +20018,7 @@
     },
     {
       "source": 57,
-      "target": 283,
+      "target": 282,
       "value": 1,
       "battles": [
         {
@@ -20113,7 +20054,7 @@
     },
     {
       "source": 189,
-      "target": 265,
+      "target": 264,
       "value": 1,
       "battles": [
         {
@@ -20125,7 +20066,7 @@
     },
     {
       "source": 189,
-      "target": 397,
+      "target": 396,
       "value": 1,
       "battles": [
         {
@@ -20137,7 +20078,7 @@
     },
     {
       "source": 39,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -20149,7 +20090,7 @@
     },
     {
       "source": 257,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -20161,7 +20102,7 @@
     },
     {
       "source": 8,
-      "target": 305,
+      "target": 304,
       "value": 1,
       "battles": [
         {
@@ -20185,7 +20126,7 @@
     },
     {
       "source": 147,
-      "target": 295,
+      "target": 294,
       "value": 1,
       "battles": [
         {
@@ -20197,7 +20138,7 @@
     },
     {
       "source": 147,
-      "target": 291,
+      "target": 290,
       "value": 1,
       "battles": [
         {
@@ -20233,7 +20174,7 @@
     },
     {
       "source": 41,
-      "target": 291,
+      "target": 290,
       "value": 1,
       "battles": [
         {
@@ -20257,7 +20198,7 @@
     },
     {
       "source": 99,
-      "target": 379,
+      "target": 378,
       "value": 1,
       "battles": [
         {
@@ -20268,8 +20209,8 @@
       ]
     },
     {
-      "source": 295,
-      "target": 379,
+      "source": 294,
+      "target": 378,
       "value": 1,
       "battles": [
         {
@@ -20280,8 +20221,8 @@
       ]
     },
     {
-      "source": 291,
-      "target": 379,
+      "source": 290,
+      "target": 378,
       "value": 1,
       "battles": [
         {
@@ -20293,7 +20234,7 @@
     },
     {
       "source": 135,
-      "target": 379,
+      "target": 378,
       "value": 1,
       "battles": [
         {
@@ -20305,7 +20246,7 @@
     },
     {
       "source": 147,
-      "target": 298,
+      "target": 297,
       "value": 1,
       "battles": [
         {
