@@ -193,13 +193,12 @@ function updateChart(data = null, trackedNames = null, selectedEncyclopedias = n
 
   function encyclopediaOpacity(source) {
     switch (source) {
-      case "Rin no Sho": return 0.6;  // least prominent
+      case "Rin no Sho": return 0.6;  // least prominent (first book)
       case "Tō no Sho":  return 0.8;
       case "Shō no Sho": return 1;  // most prominent
       default: return 0.5;
     }
-  }
-    
+  } 
 
   // Add new lines
   lines.enter()
@@ -214,10 +213,7 @@ function updateChart(data = null, trackedNames = null, selectedEncyclopedias = n
     // Dim all lines using their base opacity * 0.1
     d3.selectAll(".foreground-line")
       .transition().duration(200)
-      .style("stroke-opacity", function () {
-        const base = +d3.select(this).attr("data-base-opacity");
-        return base * 0.1;
-      });
+      .style("stroke-opacity", 0.1);
 
     // Highlight the hovered line
     d3.select(this)
