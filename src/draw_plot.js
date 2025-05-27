@@ -191,42 +191,58 @@ function updateChart(data = null, trackedNames = null, selectedEncyclopedias = n
     .selectAll(".foreground-line")
     .data(filtered, d => `${d.Name}__${d.Encyclopedia}`);
 
+  function encyclopediaOpacity(source) {
+    switch (source) {
+      case "Rin no Sho": return 0.6;  // least prominent
+      case "Tō no Sho":  return 0.8;
+      case "Shō no Sho": return 1;  // most prominent
+      default: return 0.5;
+    }
+  }
+    
+
   // Add new lines
   lines.enter()
-    .append("path")
-    .attr("class", "line foreground-line")
-    .attr("stroke", d => hashColor(`${d.Name}__${d.Encyclopedia}`))
-    .attr("d", d => path(d))
-    .style("stroke-width", strokeWidth)
-    .style("stroke-opacity", 0.7)
-    .on("mouseover", function (event, d) {
-      // Dim all lines
-      d3.selectAll(".foreground-line")
-        .transition().duration(200)
-        .style("stroke-opacity", 0.1);
-    
-      // Highlight the hovered line
-      d3.select(this)
-        .raise()
-        .transition().duration(200)
-        .style("stroke-width", strokeWidth)
-        .style("stroke-opacity", 1);
-    
-      const tooltip = d3.select("#tooltip")
-        .style("display", "block")
-        .style("opacity", 1)
-        .html(`<strong>${d.Name}</strong><br>${d.Encyclopedia}`);
-    
-      positionTooltip(event, tooltip);
-    })    
-    .on("mouseout", function () {
-      d3.selectAll(".foreground-line")
-        .transition().duration(300)
-        .style("stroke-opacity", 0.7)
-        .style("stroke-width", strokeWidth);
-    
-      d3.select("#tooltip").style("opacity", 0).style("display", "none");
-    });
+  .append("path")
+  .attr("class", "line foreground-line")
+  .attr("stroke", d => hashColor(d.Name))
+  .attr("d", d => path(d))
+  .attr("data-base-opacity", d => encyclopediaOpacity(d.Encyclopedia))
+  .style("stroke-width", strokeWidth)
+  .style("stroke-opacity", d => encyclopediaOpacity(d.Encyclopedia))
+  .on("mouseover", function (event, d) {
+    // Dim all lines using their base opacity * 0.1
+    d3.selectAll(".foreground-line")
+      .transition().duration(200)
+      .style("stroke-opacity", function () {
+        const base = +d3.select(this).attr("data-base-opacity");
+        return base * 0.1;
+      });
+
+    // Highlight the hovered line
+    d3.select(this)
+      .raise()
+      .transition().duration(200)
+      .style("stroke-opacity", 1);
+
+    const tooltip = d3.select("#tooltip")
+      .style("display", "block")
+      .style("opacity", 1)
+      .html(`<strong>${d.Name}</strong><br>${d.Encyclopedia}`);
+
+    positionTooltip(event, tooltip);
+  })
+  .on("mouseout", function () {
+    // Restore each line's original base opacity
+    d3.selectAll(".foreground-line")
+      .transition().duration(300)
+      .style("stroke-opacity", function () {
+        return d3.select(this).attr("data-base-opacity");
+      });
+
+    d3.select("#tooltip").style("opacity", 0).style("display", "none");
+  });
+
 
   // Update existing lines
   lines.transition().duration(500)
@@ -245,20 +261,18 @@ function path(d) {
 function hashColor(str) {
   if (colorMap.has(str)) return colorMap.get(str);
 
-  let hue = 0;
+  // Get hash value between 0 and 1
+  let hash = 0;
   for (let i = 0; i < str.length; i++) {
-    hue = (hue * 31 + str.charCodeAt(i)) % 360;
+    hash = (hash * 31 + str.charCodeAt(i)) >>> 0; // unsigned 32-bit
   }
+  const t = (hash % 1000) / 1000; // normalize to [0,1]
 
-  while (usedHues.has(hue)) {
-    hue = (hue + 37) % 360; // Use a prime number to space hues well
-  }
-
-  usedHues.add(hue);
-  const color = `hsl(${hue}, 70%, 50%)`;
+  const color = d3.interpolateSinebow(t); // or d3.interpolateTurbo(t)
   colorMap.set(str, color);
   return color;
 }
+
 
 // Make updateChart available globally
 window.updateChart = updateChart;
