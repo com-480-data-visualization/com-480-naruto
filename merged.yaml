@@ -375,7 +375,7 @@
 - episode_number: "62"
   opponents:
     - ["Naruto", "Sora", "Rock Lee", "Chōji"]
-    - ["Kiba", "Akamaru"]
+    - ["Kiba"]
   outcome: "Asuma and Shikamaru intervened, stopping the fight and leading the team to barbecue, with no clear victor."
   description: "A training exercise between Team 10 and Kiba escalates into a chaotic free-for-all, showcasing various techniques like Shadow Clone, Multi-Size, and Wind Release, before being halted by Asuma and Shikamaru."
   closest_village: "Konohagakure"
@@ -592,7 +592,7 @@
 
 - episode_number: "96"
   opponents:
-    - ["Kakashi", "Hinata", "Kiba", "Akamaru"]
+    - ["Kakashi", "Hinata", "Kiba"]
     - ["Gozu", "Rinji", "Kihō", "Nurari", "Kigiri"]
   outcome: "Team Yamato retreats after Shino's trap is revealed, with Gozu wounded but the battle remaining incomplete"
   description: "Team Yamato engages Team Guren in a forest battle featuring Gentle Fist, Fang Passing Fang, and Lightning Cutter techniques, ultimately retreating due to Shino's pre-laid trap."
@@ -608,7 +608,7 @@
 
 - episode_number: "98"
   opponents:
-    - ["Naruto", "Kiba", "Shino", "Kakashi", "Akamaru", "Gamakichi", "Gamakichi"]
+    - ["Naruto", "Kiba", "Shino", "Kakashi", "Gamakichi", "Gamakichi"]
     - ["Guren", "Kabuto", "Yūkimaru", "Gozu"]
   outcome: "The search team locates Team Guren's hideout near the lake as they attempt to summon the Three-Tails, setting the stage for a future confrontation."
   description: "The episode features multiple skirmishes and tracking sequences as the search team follows Team Guren, culminating in the discovery of their plan to release the Three-Tails."
@@ -635,7 +635,7 @@
 
 - episode_number: "103"
   opponents:
-    - ["Yamato", "Lee", "Tenten", "Kiba", "Akamaru"]
+    - ["Yamato", "Lee", "Tenten", "Kiba"]
     - ["Kigiri", "Rinji", "Kihō", "Team Guren cohorts"]
   outcome: "Yamato's team defeats Team Guren's cohorts, providing support for Kakashi's team."
   description: "Yamato's team engages and defeats the initial wave of Team Guren, utilizing Wood Release, Leaf Whirlwind, Twin Rising Dragons, and Fang Passing Fang, while Kakashi's team prepares to confront Guren and Gozu."
@@ -659,7 +659,7 @@
 
 - episode_number: "108"
   opponents:
-    - ["Lee", "Tenten", "Kiba", "Akamaru"]
+    - ["Lee", "Tenten", "Kiba"]
     - ["Team Guren (enhanced by cursed seal)"]
   outcome: "The battle is interrupted as Naruto and Guren escape the Three-Tails, leaving the outcome inconclusive, but Team Guren appears to be holding their own with enhanced abilities."
   description: "Lee, Tenten, Kiba, and Akamaru engage Team Guren, who are empowered by Orochimaru's cursed seal, in a skirmish while Naruto and Guren attempt to escape the Three-Tails."
@@ -1263,7 +1263,7 @@
 
 - episode_number: "236"
   opponents:
-    - ["Shino", "Kiba", "Hinata", "Akamaru"]
+    - ["Shino", "Kiba", "Hinata"]
     - ["Suika"]
   outcome: "Team 8 defeats Suika"
   description: "Shino, Kiba, and Hinata work together to defeat Suika, with Shino utilizing improved taijutsu and Hinata finishing the battle with Gentle Fist and Fang Passing Fang."
@@ -1350,7 +1350,7 @@
 - episode_number: "258"
   opponents:
     - ["Sasuke", "Shiro"]
-    - ["Naruto", "Kiba", "Akamaru"]
+    - ["Naruto", "Kiba"]
   outcome: "Naruto and Sasuke both win their respective matches, advancing to the final round."
   description: "Sasuke defeats Shiro with his Sharingan and taijutsu, while Naruto overcomes Kiba and Akamaru with his Shadow Clones and Rasengan, setting up a highly anticipated final battle between the two rivals."
   closest_village: "Konohagakure"
@@ -1709,7 +1709,7 @@
 
 - episode_number: "315"
   opponents:
-    - ["Naruto", "Shikamaru", "Kiba", "Akamaru", "Ino", "Chōji", "Sakura"]
+    - ["Naruto", "Shikamaru", "Kiba", "Ino", "Chōji", "Sakura"]
     - ["Anbu"]
   outcome: "Anbu temporarily gain the upper hand before Yota intervenes with lightning, disrupting the fight."
   description: "Naruto's team engages the Anbu while attempting to protect Yota, with Shikamaru utilizing his Shadow Imitation Technique and Yota unexpectedly using lightning."
@@ -2041,7 +2041,7 @@
 
 - episode_number: "377"
   opponents:
-    - ["Naruto", "Gaara", "Kakashi", "Chōji", "Kiba", "Akamaru", "Neji", "Yamato", "Jiraiya"]
+    - ["Naruto", "Gaara", "Kakashi", "Chōji", "Kiba", "Neji", "Yamato", "Jiraiya"]
     - ["Mecha-Naruto", "Orochimaru", "Mecha-Kurama"]
   outcome: "Mecha-Naruto self-destructs, destroying Mecha-Kurama and protecting Naruto."
   description: "Multiple ninja attempt to defeat Mecha-Naruto, but it overwhelms them until it sacrifices itself to destroy the Mecha Nine-Tails, revealing Itachi's programming."
@@ -2881,7 +2881,7 @@
 - episode_number: "93"
   opponents:
     - ["Rinji", "Bat"]
-    - ["Kiba", "Akamaru"]
+    - ["Kiba"]
   outcome: "Rinji and his bat successfully relay information, while Kiba and Akamaru are unable to detect the source of the ultrasonic frequency."
   description: "Rinji utilizes his bat's ultrasonic mind waves to transmit information, confusing Kiba and Akamaru who are unable to pinpoint the source of the signal."
   closest_village: "Konohagakure"
@@ -3277,7 +3277,7 @@
 
 - episode_number: "240"
   opponents:
-    - ["Kiba", "Akamaru"]
+    - ["Kiba"]
     - ["Kakashi's Ninken"]
   outcome: "Kiba and Akamaru successfully retrieve the scroll after a rematch, demonstrating improved teamwork and speed."
   description: "Kiba and Akamaru engage in a training battle against Kakashi's Ninken, initially losing but ultimately improving and succeeding in retrieving the scroll."
@@ -3365,7 +3365,7 @@
 
 - episode_number: "264"
   opponents:
-    - ["Kitsuchi", "Kurotsuchi", "Kiba", "Akamaru", "Hana Inuzuka", "One of the Three Haimaru Brothers"]
+    - ["Kitsuchi", "Kurotsuchi", "Kiba", "Hana Inuzuka", "One of the Three Haimaru Brothers"]
     - ["White Zetsu Army"]
   outcome: "Allied Shinobi Forces successfully uncovered and engaged the White Zetsu Army"
   description: "The Allied Shinobi Forces utilized Earth Release techniques to unearth the White Zetsu Army, initiating a direct confrontation."
@@ -3419,7 +3419,7 @@
 
 - episode_number: "314"
   opponents:
-    - ["Ino Yamanaka", "Sakura Haruno", "Kiba Inuzuka", "Akamaru", "Naruto Uzumaki"]
+    - ["Ino Yamanaka", "Sakura Haruno", "Kiba Inuzuka", "Naruto Uzumaki"]
     - ["Yota"]
   outcome: "Yota was captured by Konoha Anbu"
   description: "Multiple shinobi engage Yota, who utilizes wind-based techniques, before being subdued and taken for questioning, revealing a past connection between the combatants and Yota's death."
