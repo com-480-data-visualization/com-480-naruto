@@ -1,3 +1,5 @@
+window.matrixReady = false;
+
 const margin_c = { top: 80, right: 0, bottom: 10, left: 80 },
       width_c = 700,
       height_c = 700;
@@ -31,9 +33,11 @@ const svg_cooccurence = d3.select("#cooccurrence-matrix")
   .append("g")
   .attr("transform", `translate(${margin_c.left},${margin_c.top})`);
 
-d3.json("./src/cooccurrence/naruto.json").then(function (miserables) {
+
+
+d3.json("./src/cooccurrence/naruto.json").then(function (narutoData) {
   const matrix = [],
-        nodes = miserables.nodes,
+        nodes = narutoData.nodes,
         n = nodes.length;
 
   nodes.forEach((node, i) => {
@@ -42,7 +46,7 @@ d3.json("./src/cooccurrence/naruto.json").then(function (miserables) {
     matrix[i] = d3.range(n).map(j => ({ x: j, y: i, z: 0 }));
   });
 
-  miserables.links.forEach(link => {
+  narutoData.links.forEach(link => {
     matrix[link.source][link.target].z += link.value;
     matrix[link.target][link.source].z += link.value;
     matrix[link.source][link.source].z += link.value;
@@ -135,7 +139,7 @@ d3.json("./src/cooccurrence/naruto.json").then(function (miserables) {
         })
         .on("click", function(event, d) {
           // Find all battles between these two characters
-          const battles = miserables.links.filter(link => 
+          const battles = narutoData.links.filter(link => 
             (link.source === d.y && link.target === d.x) || 
             (link.source === d.x && link.target === d.y)
           ).flatMap(link => link.battles || []);
@@ -255,4 +259,63 @@ d3.json("./src/cooccurrence/naruto.json").then(function (miserables) {
   function mouseout() {
     d3.selectAll("text").classed("active", false);
   }
+
+  function matrixHighlightTracked(trackedCharacterNames) {
+    const n = nodes.length;
+
+    // Separate tracked and untracked nodes
+    const tracked = nodes.filter(node => trackedCharacterNames.has(node.name));
+    const untracked = nodes.filter(node => !trackedCharacterNames.has(node.name));
+
+    // Sort each group by descending battle count
+    tracked.sort((a, b) => b.count - a.count);
+    untracked.sort((a, b) => b.count - a.count);
+
+    // Create a new order array
+    const newOrder = tracked.concat(untracked).map(node => node.index);
+    x_c.domain(newOrder);
+
+    // Transition rows
+    const t = svg_cooccurence.transition().duration(1000);
+    t.selectAll(".row")
+      // .transition()
+      // .duration(500)
+      .attr("transform", (_, i) => `translate(0, ${x_c(i)})`)
+      .selectAll(".cell")
+      .transition()
+      .duration(500)
+      .attr("x", d => x_c(d.x));
+
+    // Transition columns
+    t.selectAll(".column")
+      .transition()
+      .duration(500)
+      .attr("transform", (_, i) => `translate(${x_c(i)}) rotate(-90)`);
+
+    // Highlight cells
+    svg_cooccurence.selectAll(".row").each(function(rowData, rowIndex) {
+      d3.select(this)
+        .selectAll(".cell")
+        .attr("class", function(d) {
+          const isTracked = trackedCharacterNames.has(nodes[d.y].name) ||
+                            trackedCharacterNames.has(nodes[d.x].name);
+          return `cell${isTracked ? " tracked-cell" : ""}`;
+        });
+    });
+
+    // Highlight row labels
+    svg_cooccurence.selectAll(".row text")
+      .attr("class", (_, i) =>
+        trackedCharacterNames.has(nodes[i].name) ? "tracked-label" : null
+      );
+
+    // Highlight column labels
+    svg_cooccurence.selectAll(".column text")
+      .attr("class", (_, i) =>
+        trackedCharacterNames.has(nodes[i].name) ? "tracked-label" : null
+      );
+  }
+
+  window.matrixHighlightTracked = matrixHighlightTracked;
+  window.matrixReady = true;
 });
