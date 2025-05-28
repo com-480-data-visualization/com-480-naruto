@@ -1,5 +1,5 @@
 // Modified draw_plot.js to work with the new sidebar interface
-
+window.charStatsReady = false;
 
 const dimensions = [
   "Ninjutsu", "Taijutsu", "Genjutsu", "Intelligence", "Strength",
@@ -90,7 +90,8 @@ d3.csv("table_data_en.csv").then(data => {
   
   // Draw the axes and update the chart
   drawAxes();
-  updateChart();
+  window.charStatsReady = true;
+  // updateChart();
 });
 
 // Draw axes for the parallel coordinates plot

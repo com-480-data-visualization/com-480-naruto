@@ -518,3 +518,14 @@ text.active {
   margin-left: -10px;
   /* (optional) reduce the space from his side too */
 }
+
+
+.tracked-cell {
+  stroke: #ff9900;
+  stroke-width: 1.5px;
+}
+
+.tracked-label {
+  fill: #ff9900;
+  /* font-weight: bold; */
+}
