@@ -260,7 +260,7 @@ d3.json("./src/cooccurrence/naruto.json").then(function (narutoData) {
     d3.selectAll("text").classed("active", false);
   }
 
-  function matrixHighlightTracked(trackedCharacterNames) {
+  function redrawMatrix(trackedCharacterNames) {
     const n = nodes.length;
 
     // Separate tracked and untracked nodes
@@ -316,6 +316,6 @@ d3.json("./src/cooccurrence/naruto.json").then(function (narutoData) {
       );
   }
 
-  window.matrixHighlightTracked = matrixHighlightTracked;
+  window.redrawMatrix = redrawMatrix;
   window.matrixReady = true;
 });

@@ -25,7 +25,8 @@ loadTrackedCharacters(); // <-- Add this line
 
   setupCharacterSearch();
   renderCharacterList();   // <-- To reflect the tracked state in UI
-  updateCharPlot();        // <-- To update the plot on first load
+  updateCharPlot();   
+  updateMatrix();     // <-- To update the plot on first load
 
   document.getElementById("track-all-btn").onclick = () => {
     trackedCharacters.clear();
@@ -33,6 +34,7 @@ loadTrackedCharacters(); // <-- Add this line
     localStorage.setItem("trackedCharacters", JSON.stringify(Array.from(trackedCharacters)));
     renderCharacterList();
     updateCharPlot();
+    updateMatrix();
   };
 
   document.getElementById("untrack-all-btn").onclick = () => {
@@ -40,6 +42,7 @@ loadTrackedCharacters(); // <-- Add this line
     localStorage.setItem("trackedCharacters", JSON.stringify([]));
     renderCharacterList();
     updateCharPlot();
+    updateMatrix();
   };
 }
 
@@ -64,6 +67,7 @@ function setupEncyclopediaFilters() {
         selectedEncyclopedias.delete(this.value);
       }
       updateCharPlot();
+      updateMatrix();
     });
     
     const label = document.createElement("label");
@@ -138,6 +142,7 @@ function toggleTracking(characterId, buttonEl) {
   }
   
   updateCharPlot();
+  updateMatrix();
 }
 
 // Show character details
@@ -161,21 +166,18 @@ function setupCharacterSearch() {
   });
 }
 
-const waitForMatrix = () => {
-  if (window.matrixReady && typeof window.matrixHighlightTracked === 'function') {
+const updateMatrix = () => {
+  // instead of sleeping should wait smarter
+  if (window.matrixReady && typeof window.redrawMatrix === 'function') {
     const trackedNames = new Set();
     characters
       .filter(char => trackedCharacters.has(char.id))
       .forEach(char => trackedNames.add(char.name));
 
-    window.matrixHighlightTracked(trackedNames);
-
-    if (typeof updateChart === 'function') {
-      updateChart(undefined, trackedNames, selectedEncyclopedias, null);
-    }
+    window.redrawMatrix(trackedNames);
   } else {
     // Try again in 200ms
-    setTimeout(waitForMatrix, 200);
+    setTimeout(updateMatrix, 200);
   }
 };
 
@@ -199,8 +201,6 @@ function updateCharPlot(oldX=null) {
   
     // Call the updateChart function from draw_plot.js
     updateChart(undefined, trackedNames, selectedEncyclopedias, oldX);
-
-    waitForMatrix();
   }
 }
 window.updateCharPlot = updateCharPlot;
