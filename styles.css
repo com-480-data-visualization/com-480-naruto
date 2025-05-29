@@ -236,21 +236,11 @@ body {
 }
 
 
-.pin-cap-circle {
-  position: absolute;
-  width: 42px;
-  height: 42px;
-  border-radius: 50%;
-  background-color: #f57c00;
-  overflow: hidden;
-  z-index: 2;
-}
-
 .pin-avatar img {
   width: 38px;
   height: 38px;
   border-radius: 50%;
-  object-fit: cover;
+  z-index: 2;
 }
 
 .pin-body {
@@ -258,6 +248,7 @@ body {
   background-color: #f57c00;
   position: absolute;
   z-index: 1;
+  border-radius: 21px;
 }
 
 .pin-avatar {
@@ -269,7 +260,6 @@ body {
   margin: 2px;
   border: 2px solid white;
   box-sizing: border-box;
-  object-fit: cover;
 }
 
 .pin-tail {
@@ -281,8 +271,6 @@ body {
   background-repeat: no-repeat;
   margin-top: -5px;
   margin-left: -5px;
-
-  object-fit: cover;
 }
 
 .image-container {
