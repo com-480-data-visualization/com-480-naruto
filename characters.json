@@ -2,13 +2,10 @@
   {
     "id": 1,
     "name": "Anko Mitarashi",
-    "place_of_birth": "Unknown",
     "description": "A kunoichi and former student of Orochimaru.",
     "avatar": "./profile_pictures/Anko Mitarashi.jpg",
     "appears_in": [
-      "plot",
-      "map",
-      "matrix"
+      "plot"
     ]
   },
   {
@@ -31,8 +28,7 @@
     "avatar": "./profile_pictures/Baki.jpg",
     "appears_in": [
       "plot",
-      "map",
-      "matrix"
+      "map"
     ]
   },
   {
@@ -67,8 +63,7 @@
     "avatar": "./profile_pictures/Dan Kato.jpg",
     "appears_in": [
       "plot",
-      "map",
-      "matrix"
+      "map"
     ]
   },
   {
@@ -91,8 +86,7 @@
     "avatar": "./profile_pictures/Dosu Kinuta.jpg",
     "appears_in": [
       "plot",
-      "map",
-      "matrix"
+      "map"
     ]
   },
   {
@@ -103,8 +97,7 @@
     "avatar": "./profile_pictures/Ebisu.jpg",
     "appears_in": [
       "plot",
-      "map",
-      "matrix"
+      "map"
     ]
   },
   {
@@ -127,8 +120,7 @@
     "avatar": "./profile_pictures/Genma Shiranui.jpg",
     "appears_in": [
       "plot",
-      "map",
-      "matrix"
+      "map"
     ]
   },
   {
@@ -139,8 +131,7 @@
     "avatar": "./profile_pictures/Haku.jpg",
     "appears_in": [
       "plot",
-      "map",
-      "matrix"
+      "map"
     ]
   },
   {
@@ -151,8 +142,7 @@
     "avatar": "./profile_pictures/Hayate Gekko.jpg",
     "appears_in": [
       "plot",
-      "map",
-      "matrix"
+      "map"
     ]
   },
   {
@@ -163,8 +153,7 @@
     "avatar": "./profile_pictures/Hiashi Hyuga.jpg",
     "appears_in": [
       "plot",
-      "map",
-      "matrix"
+      "map"
     ]
   },
   {
@@ -199,8 +188,7 @@
     "avatar": "./profile_pictures/Hiruzen Sarutobi.jpg",
     "appears_in": [
       "plot",
-      "map",
-      "matrix"
+      "map"
     ]
   },
   {
@@ -211,8 +199,7 @@
     "avatar": "./profile_pictures/Hizashi Hyuga.jpg",
     "appears_in": [
       "plot",
-      "map",
-      "matrix"
+      "map"
     ]
   },
   {
@@ -223,8 +210,7 @@
     "avatar": "./profile_pictures/Ibiki Morino.jpg",
     "appears_in": [
       "plot",
-      "map",
-      "matrix"
+      "map"
     ]
   },
   {
@@ -247,8 +233,7 @@
     "avatar": "./profile_pictures/Iruka Umino.jpg",
     "appears_in": [
       "plot",
-      "map",
-      "matrix"
+      "map"
     ]
   },
   {
@@ -283,8 +268,7 @@
     "avatar": "./profile_pictures/Jirobo.jpg",
     "appears_in": [
       "plot",
-      "map",
-      "matrix"
+      "map"
     ]
   },
   {
@@ -355,8 +339,7 @@
     "avatar": "./profile_pictures/Kidomaru.jpg",
     "appears_in": [
       "plot",
-      "map",
-      "matrix"
+      "map"
     ]
   },
   {
@@ -367,8 +350,7 @@
     "avatar": "./profile_pictures/Kimimaro.jpg",
     "appears_in": [
       "plot",
-      "map",
-      "matrix"
+      "map"
     ]
   },
   {
@@ -391,8 +373,7 @@
     "avatar": "./profile_pictures/Kurenai Yuhi.jpg",
     "appears_in": [
       "plot",
-      "map",
-      "matrix"
+      "map"
     ]
   },
   {
@@ -463,8 +444,7 @@
     "avatar": "./profile_pictures/Rin.jpg",
     "appears_in": [
       "plot",
-      "map",
-      "matrix"
+      "map"
     ]
   },
   {
@@ -499,8 +479,7 @@
     "avatar": "./profile_pictures/Sakon.jpg",
     "appears_in": [
       "plot",
-      "map",
-      "matrix"
+      "map"
     ]
   },
   {
@@ -583,8 +562,7 @@
     "avatar": "./profile_pictures/Tayuya.jpg",
     "appears_in": [
       "plot",
-      "map",
-      "matrix"
+      "map"
     ]
   },
   {
@@ -619,8 +597,7 @@
     "avatar": "./profile_pictures/Tsunade.jpg",
     "appears_in": [
       "plot",
-      "map",
-      "matrix"
+      "map"
     ]
   },
   {
@@ -631,8 +608,7 @@
     "avatar": "./profile_pictures/Ukon.jpg",
     "appears_in": [
       "plot",
-      "map",
-      "matrix"
+      "map"
     ]
   },
   {
@@ -655,8 +631,7 @@
     "avatar": "./profile_pictures/Yashamaru.jpg",
     "appears_in": [
       "plot",
-      "map",
-      "matrix"
+      "map"
     ]
   },
   {
@@ -679,8 +654,7 @@
     "avatar": "./profile_pictures/Zaku Abumi.jpg",
     "appears_in": [
       "plot",
-      "map",
-      "matrix"
+      "map"
     ]
   },
   {
@@ -702,7 +676,7 @@
   {
     "id": 60,
     "name": "Killer B",
-    "description": "Killer B is the jinchūriki of the Eight-Tails and the adoptive brother of the Fourth Raikage. A skilled rapper and swordsman, he is known for his cheerful personality and formidable combat abilities.",
+    "description": "Killer B is the jinch\u016briki of the Eight-Tails and the adoptive brother of the Fourth Raikage. A skilled rapper and swordsman, he is known for his cheerful personality and formidable combat abilities.",
     "appears_in": [
       "matrix"
     ]
@@ -782,7 +756,7 @@
   {
     "id": 70,
     "name": "Danzo Shimura",
-    "description": "Danzo Shimura was a high-ranking Konoha elder who led the secretive organization Root. Obsessed with protecting the village by any means, he implanted multiple Sharingan and wielded the power of Shisui Uchiha’s eye.",
+    "description": "Danzo Shimura was a high-ranking Konoha elder who led the secretive organization Root. Obsessed with protecting the village by any means, he implanted multiple Sharingan and wielded the power of Shisui Uchiha\u2019s eye.",
     "appears_in": [
       "matrix"
     ]
@@ -798,37 +772,29 @@
   {
     "id": 72,
     "name": "Utakata",
-    "description": "Utakata was the jinchūriki of the Six-Tails and a former Kirigakure ninja. Known for his calm demeanor and use of Soap Bubble Ninjutsu, he featured prominently in a filler arc before being captured by the Akatsuki.",
+    "description": "Utakata was the jinch\u016briki of the Six-Tails and a former Kirigakure ninja. Known for his calm demeanor and use of Soap Bubble Ninjutsu, he featured prominently in a filler arc before being captured by the Akatsuki.",
     "appears_in": [
       "matrix"
     ]
   },
   {
     "id": 73,
-    "name": "Akamaru",
-    "description": "Akamaru is the loyal canine companion of Kiba Inuzuka. With the ability to perform coordinated attacks and transformations, he plays a vital role in Kiba's combat techniques.",
+    "name": "Ten-Tails",
+    "description": "The Ten-Tails is the original source of all the Tailed Beasts, a monstrous entity created by combining the body of the God Tree with Kaguya Otsutsuki\u2019s will. It is immensely powerful and central to the Eye of the Moon Plan.",
     "appears_in": [
       "matrix"
     ]
   },
   {
     "id": 74,
-    "name": "Ten-Tails",
-    "description": "The Ten-Tails is the original source of all the Tailed Beasts, a monstrous entity created by combining the body of the God Tree with Kaguya Otsutsuki’s will. It is immensely powerful and central to the Eye of the Moon Plan.",
+    "name": "Jugo",
+    "description": "Jugo is a member of Taka and a subject of Orochimaru\u2019s experiments. He possesses the ability to absorb natural energy and enter a berserk state, which serves as the basis for the Cursed Seal.",
     "appears_in": [
       "matrix"
     ]
   },
   {
     "id": 75,
-    "name": "Jugo",
-    "description": "Jugo is a member of Taka and a subject of Orochimaru’s experiments. He possesses the ability to absorb natural energy and enter a berserk state, which serves as the basis for the Cursed Seal.",
-    "appears_in": [
-      "matrix"
-    ]
-  },
-  {
-    "id": 76,
     "name": "Karin",
     "description": "Karin is a sensor-type kunoichi from the Uzumaki clan and a member of Taka. She has exceptional healing abilities and chakra sensing, and harbors strong feelings for Sasuke Uchiha.",
     "appears_in": [
@@ -836,7 +802,7 @@
     ]
   },
   {
-    "id": 77,
+    "id": 76,
     "name": "Fourth Raikage",
     "description": "The Fourth Raikage, A, is the leader of Kumogakure and older brother of Killer B. Renowned for his brute strength and incredible speed, he played a key leadership role during the Fourth Great Ninja War.",
     "appears_in": [
@@ -844,7 +810,7 @@
     ]
   },
   {
-    "id": 78,
+    "id": 77,
     "name": "Suigetsu",
     "description": "Suigetsu Hozuki is a former test subject of Orochimaru and a member of Taka. He hails from Kirigakure and can liquefy his body at will, making him highly versatile in combat. He also seeks to collect all the Seven Swords of the Mist.",
     "appears_in": [
@@ -852,16 +818,16 @@
     ]
   },
   {
-    "id": 79,
+    "id": 78,
     "name": "Konan",
-    "description": "Konan was a founding member of the Akatsuki and the only female member during its peak. A former student of Jiraiya, she used Paper Release techniques and remained loyal to Nagato’s ideals until her death.",
+    "description": "Konan was a founding member of the Akatsuki and the only female member during its peak. A former student of Jiraiya, she used Paper Release techniques and remained loyal to Nagato\u2019s ideals until her death.",
     "appears_in": [
       "matrix"
     ]
   },
   {
-    "id": 80,
-    "name": "Onoki (Third Tsuchikage)",
+    "id": 79,
+    "name": "Third Tsuchikage",
     "description": "Onoki was the Third Tsuchikage of Iwagakure, known for his stubbornness and mastery of Dust Release. Despite his age, he played a vital role in the Allied Shinobi Forces during the Fourth Great Ninja War.",
     "appears_in": [
       "matrix"
