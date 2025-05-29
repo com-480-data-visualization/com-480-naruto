@@ -83,15 +83,44 @@ function setupEncyclopediaFilters() {
 // Fetch character data
 async function fetchCharacters() {
   try {
-    const response = await fetch("characters.json");
-    characters = await response.json();
-    renderCharacterList();
+    characters = await charactersP
   } catch (error) {
     console.error("Error fetching characters:", error);
     // Show a fallback message
     document.getElementById("character-list").innerHTML = 
       "<div class='error-message'>Failed to load character data</div>";
   }
+}
+
+function createCircle(letter, active) {
+  const circle = document.createElement('div');
+  circle.textContent = letter;
+  circle.style.width = '16px';
+  circle.style.height = '16px';
+  if (active) {
+    circle.style.backgroundColor = '#f57c00';
+  } else {
+    circle.style.backgroundColor = '#c0c0c0';
+  }
+  circle.style.color = 'white';
+  circle.style.fontWeight = 'bold';
+  circle.style.fontSize = '14px';
+  circle.style.textAlign = 'center';
+  circle.style.lineHeight = '16px';
+  circle.style.borderRadius = '50%';
+  circle.style.display = 'inline-block';
+  circle.style.marginLeft = '2px';
+  return circle;
+}
+
+function createCharacterStatus(appears_in) {
+  const status = document.createElement('div');
+  status.style.marginLeft = 'auto';
+  status.width = '52px';
+  status.appendChild(createCircle("M", appears_in?.includes("map")));
+  status.appendChild(createCircle("P", appears_in?.includes("plot")));
+  status.appendChild(createCircle("C", appears_in?.includes("matrix")));
+  return status;
 }
 
 // Render character list
@@ -121,6 +150,7 @@ function renderCharacterList(filter = "") {
       
       item.appendChild(trackBtn);
       item.appendChild(nameSpan);
+      item.appendChild(createCharacterStatus(character.appears_in));
       
       // Click on name shows details
       item.addEventListener("click", () => showCharacterDetails(character));
@@ -195,13 +225,19 @@ function updateCharPlot(oldX=null) {
   if (typeof updateChart === 'function') {
     // Pass the current tracking and encyclopedia state to updateChart
     const trackedNames = new Set();
+    const namesForMap = new Set();
     characters
       .filter(char => trackedCharacters.has(char.id))
-      .forEach(char => trackedNames.add(char.name));
+      .forEach(char => {
+        if (char.appears_in?.includes("map")) {
+          namesForMap.add(char.name);
+        }
+        trackedNames.add(char.name)
+      });
   
     // Call the updateChart function from draw_plot.js
     updateChart(undefined, trackedNames, selectedEncyclopedias, oldX);
-    updateMap(trackedNames);
+    updateMap(namesForMap);
   }
 }
 window.updateCharPlot = updateCharPlot;

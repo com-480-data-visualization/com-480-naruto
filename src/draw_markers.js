@@ -26,7 +26,6 @@ async function drawSmall(names, wrapper) {
 async function drawBig(names, wrapper) {
   const rows = Math.min(names.length, 5)
   const cols = ((names.length + 4) / 5) | 0;
-  console.log('cols:', cols);
 
   const bodyHeight = 42 * rows;
   const bodyWidth = 42 * cols;
