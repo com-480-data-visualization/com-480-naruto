@@ -1,4 +1,4 @@
-async function drawSmall(names, wrapper, nameToAvatar) {
+async function drawSmall(names, wrapper) {
   const bodyHeight = 42 * names.length;
   const body = document.createElement('div');
   body.className = 'pin-body';
@@ -12,7 +12,7 @@ async function drawSmall(names, wrapper, nameToAvatar) {
     avatar.style.top = `${42 * (i)}px`;
 
     const img = document.createElement('img');
-    img.src = nameToAvatar.get(names[i]);
+    img.src = (await nameToAvatarP).get(names[i]);
     img.alt = names[i];
     img.title = names[i];
 
@@ -23,7 +23,7 @@ async function drawSmall(names, wrapper, nameToAvatar) {
   wrapper.appendChild(body);
 }
 
-async function drawBig(names, wrapper, nameToAvatar) {
+async function drawBig(names, wrapper) {
   const rows = Math.min(names.length, 5)
   const cols = ((names.length + 4) / 5) | 0;
   console.log('cols:', cols);
@@ -48,7 +48,7 @@ async function drawBig(names, wrapper, nameToAvatar) {
     avatar.style.left = `${42 * col}px`;
 
     const img = document.createElement('img');
-    img.src = nameToAvatar.get(names[i]);
+    img.src = (await nameToAvatarP).get(names[i]);
     img.alt = names[i];
     img.title = names[i];
     img.zIndex = "12";
@@ -64,7 +64,7 @@ async function drawBig(names, wrapper, nameToAvatar) {
   wrapper.appendChild(body);
 }
 
-async function drawFolded(names, wrapper, nameToAvatar) {
+async function drawFolded(names, wrapper) {
   const bodyHeight = 42 * 3;
   const body = document.createElement('div');
   body.className = 'pin-body';
@@ -80,8 +80,8 @@ async function drawFolded(names, wrapper, nameToAvatar) {
     img.src = "./profile_pictures/manymore.png"
     img.alt = "other";
     img.title = "other";
-    img.addEventListener('mouseenter', () => {
-      drawBig(names, wrapper, nameToAvatar);
+    img.addEventListener('mouseenter', async () => {
+      drawBig(names, wrapper, await nameToAvatarP);
     });
 
 
@@ -95,7 +95,7 @@ async function drawFolded(names, wrapper, nameToAvatar) {
     avatar.style.top = `${42 * (i + 1)}px`;
 
     const img = document.createElement('img');
-    img.src = nameToAvatar.get(names[i]);
+    img.src = (await nameToAvatarP).get(names[i]);
     img.alt = names[i];
     img.title = names[i];
 
@@ -106,23 +106,12 @@ async function drawFolded(names, wrapper, nameToAvatar) {
   wrapper.appendChild(body);
 }
 
-async function updateMap(nameSet) {
-  const container = document.getElementById('image-container');
-  container.querySelectorAll('.pin-wrapper').forEach(el => el.remove());
 
-  const [characters, locations] = await Promise.all([
-    fetch('./characters.json').then(res => res.json()),
-    fetch('./locations.json').then(res => res.json())
+async function buildCoordMap(nameSet) {
+  const [nameToBirthplace, locationMap] = await Promise.all([
+    nameToBirthplaceP,
+    locationMapP
   ]);
-
-  const nameToBirthplace = new Map();
-  characters.forEach(c => nameToBirthplace.set(c.name, c.place_of_birth));
-
-  const nameToAvatar = new Map();
-  characters.forEach(c => nameToAvatar.set(c.name, c.avatar));
-
-  const locationMap = new Map();
-  locations.forEach(l => locationMap.set(l.location, { x: l.x, y: l.y }));
 
   const coordMap = new Map();
 
@@ -134,9 +123,19 @@ async function updateMap(nameSet) {
     if (!coords) return;
 
     const key = `${coords.x},${coords.y}`;
-    if (!coordMap.has(key)) coordMap.set(key, { coords, names: [] });
+    if (!coordMap.has(key)) {
+      coordMap.set(key, { coords, names: [] });
+    }
     coordMap.get(key).names.push(name);
   });
+
+  return coordMap;
+}
+
+async function updateMap(nameSet) {
+  const container = document.getElementById('image-container');
+  container.querySelectorAll('.pin-wrapper').forEach(el => el.remove());
+  const coordMap = await buildCoordMap(nameSet);
 
   for (const { coords, names } of coordMap.values()) {
     const wrapper = document.createElement('div');
@@ -148,12 +147,11 @@ async function updateMap(nameSet) {
     var height;
     // === ORANGE BODY ===
     if (names.length <= 3) {
-      await drawSmall(names, wrapper, nameToAvatar);
+      await drawSmall(names, wrapper, await nameToAvatarP);
       tail.style.top = `${42 * Math.max(0, names.length - 1)}px`;
       height = 42 * (names.length - 1);
     } else {
-      await drawFolded(names, wrapper, nameToAvatar);
-      // await drawBig(names, wrapper, nameToAvatar);
+      await drawFolded(names, wrapper, await nameToAvatarP);
       tail.style.top = `${42 * 2}px`;
       height = 42 * 2;
     }
