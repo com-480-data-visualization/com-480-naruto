@@ -273,9 +273,13 @@ body {
   margin-left: -5px;
 }
 
+.map-image-section {
+  display: flex;
+  justify-content: center
+}
+
 .image-container {
   position: relative;
-  display: inline-block;
 }
 
 .extra-image {
