@@ -13,7 +13,7 @@ Our project is based on the famous Japanese anime series Naruto Shippuden. Narut
 If you are a fan of Naruto, our website helps you explore the anime world and characters in more depth. The websites includes a list of main characters with their pictures and short descriptions, a map visualizing their birthplaces, a statistics plot showing ability scores for some characters, and a battle matrix that displays the number of battles and their descriptions for the top fifty-five characters who fought the most throughout the series. 
 
 ## Learn More
-Process Book
+Process Book \
 Screencast Video
 
 ## Datasets
@@ -25,5 +25,5 @@ Screencast Video
 ## Run it locally
 
 ## Previous Milestones
-Milestone 1 (milestones/milestone1.md)
-Milestone 2 (milestones/milestone2.md)
+Milestone 1 (/milestones/milestone1.md) \
+Milestone 2 (/milestones/milestone2.md)
