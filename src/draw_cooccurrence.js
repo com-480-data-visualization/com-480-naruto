@@ -35,7 +35,7 @@ const svg_cooccurence = d3.select("#cooccurrence-matrix")
 
 
 
-d3.json("./src/cooccurrence/naruto.json").then(function (narutoData) {
+coocMatrixP.then(function (narutoData) {
   const matrix = [],
         nodes = narutoData.nodes,
         n = nodes.length;
