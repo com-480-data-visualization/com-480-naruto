@@ -13,7 +13,7 @@ Our project is based on the famous Japanese anime series Naruto Shippuden. Narut
 If you are a fan of Naruto, our website helps you explore the anime world and characters in more depth. The websites includes a list of main characters with their pictures and short descriptions, a map visualizing their birthplaces, a statistics plot showing ability scores for some characters, and a battle matrix that displays the number of battles and their descriptions for the top fifty-five characters who fought the most throughout the series. 
 
 ## Learn More
-Process Book \
+[Process Book](Process_Book_Naruto.pdf) \
 Screencast Video
 
 ## Datasets
@@ -22,7 +22,29 @@ Screencast Video
  - [Characters’ story lines](https://naruto.fandom.com/wiki/The_New_Target) scraped from the English wiki (e.g. hometown)
  - Generated data with the use of the above
 
-## Run it locally
+## Running it locally
+1. Clone our repository
+2. Go to the website folder
+3. Start an HTTP server
+```
+├── Process_Book_Naruto.pdf
+├── data                            processed data
+├── preprocessing_data              preprocessing notebooks
+├── raw_data                    
+├── banner_pics
+├── profile_pictures
+├── imgs                            
+├── milestones
+├── index.html
+├── styles.css
+├── src
+│   ├── common.js
+│   ├── draw_cooccurrence.js
+│   ├── draw_markers.js
+│   ├── draw_plot.js
+│   └── draw_sidebar.js
+```
+
 
 ## Previous Milestones
 [Milestone 1](milestones/milestone1.md) \
