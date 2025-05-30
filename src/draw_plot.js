@@ -25,31 +25,6 @@ const x = d3.scalePoint().range([0, width]).padding(1).domain(dimensions);
 
 g.append("g").attr("class", "foreground-layer");
 
-// // tooltip position
-// function positionTooltip(event, tooltip) {
-//   const tooltipNode = tooltip.node();
-//   const tooltipWidth = tooltipNode.offsetWidth;
-//   const tooltipHeight = tooltipNode.offsetHeight;
-//   const xOffset = -20; // Shift slightly left
-//   const yOffset = 40;  // Shift slightly downward
-
-//   let left = event.pageX + xOffset;
-//   let top = event.pageY + yOffset;
-
-//   // Prevent overflow on the right
-//   if (left + tooltipWidth > window.innerWidth) {
-//     left = window.innerWidth - tooltipWidth - 10;
-//   }
-
-//   // Prevent overflow at the bottom
-//   if (top + tooltipHeight > window.innerHeight) {
-//     top = window.innerHeight - tooltipHeight - 10;
-//   }
-
-//   tooltip.style("left", `${left}px`).style("top", `${top}px`);
-// }
-
-
 function positionTooltip(event, tooltip) {
   // Get the container's bounding rectangle
   const container = document.getElementById('char-plot-container');
@@ -88,8 +63,8 @@ function safelyRedrawChartOnResize() {
   const newWidth = parseInt(svg.style("width")) - margin.left - margin.right;
   x.range([0, newWidth]);
   drawAxes();
-  if (typeof window.updateCharPlot === 'function') {
-    window.updateCharPlot();
+  if (typeof window.updateDependantElements === 'function') {
+    window.updateDependantElements();
   }
 }
 
@@ -119,7 +94,6 @@ plotData = charStatsP.then(data => {
   // Draw the axes and update the chart
   drawAxes();
   window.charStatsReady = true;
-  // updateChart();
 });
 
 // Draw axes for the parallel coordinates plot
