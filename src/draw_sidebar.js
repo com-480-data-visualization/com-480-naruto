@@ -25,7 +25,7 @@ loadTrackedCharacters(); // <-- Add this line
   await charStatsP;
   setupCharacterSearch();
   renderCharacterList();   // <-- To reflect the tracked state in UI
-  updateCharPlot();   
+  updateDependantElements();   
   updateMatrix();     // <-- To update the plot on first load
 
   document.getElementById("track-all-btn").onclick = () => {
@@ -33,7 +33,7 @@ loadTrackedCharacters(); // <-- Add this line
     characters.forEach(char => trackedCharacters.add(char.id));
     localStorage.setItem("trackedCharacters", JSON.stringify(Array.from(trackedCharacters)));
     renderCharacterList();
-    updateCharPlot();
+    updateDependantElements();
     updateMatrix();
   };
 
@@ -41,7 +41,7 @@ loadTrackedCharacters(); // <-- Add this line
     trackedCharacters.clear();
     localStorage.setItem("trackedCharacters", JSON.stringify([]));
     renderCharacterList();
-    updateCharPlot();
+    updateDependantElements();
     updateMatrix();
   };
 }
@@ -66,7 +66,7 @@ function setupEncyclopediaFilters() {
       } else {
         selectedEncyclopedias.delete(this.value);
       }
-      updateCharPlot();
+      updateDependantElements();
       updateMatrix();
     });
     
@@ -171,7 +171,7 @@ function toggleTracking(characterId, buttonEl) {
     buttonEl.classList.add("active");
   }
   
-  updateCharPlot();
+  updateDependantElements();
   updateMatrix();
 }
 
@@ -215,12 +215,9 @@ function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 // Update the parallel coordinates plot
-function updateCharPlot(oldX=null) {
+function updateDependantElements() {
   // This function will be defined in draw_plot.js
   // We'll call it here to update the plot when filters change
-  if (!window.charStatsReady){
-    sleep(200)
-  }
 
   if (typeof updateChart === 'function') {
     // Pass the current tracking and encyclopedia state to updateChart
@@ -239,11 +236,11 @@ function updateCharPlot(oldX=null) {
       });
     // Call the updateChart function from draw_plot.js
     
-    updateChart(undefined, trackedNames, selectedEncyclopedias, oldX);
+    updateChart(undefined, trackedNames, selectedEncyclopedias);
     updateMap(namesForMap);
   }
 }
-window.updateCharPlot = updateCharPlot;
+window.updateDependantElements = updateDependantElements;
 
 // Initialize the sidebar when the DOM is ready
 document.addEventListener("DOMContentLoaded", initSidebar);
