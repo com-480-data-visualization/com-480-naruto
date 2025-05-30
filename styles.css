@@ -212,7 +212,16 @@ body {
 }
 
 /* Image Container Styles */
-.image-container,
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+
 .cooccurrence-matrix-container {
   display: flex;
   justify-content: center;
@@ -226,13 +235,6 @@ body {
   width: 1080;
   height: 603;
 }
-
-.map-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 
 .pin-wrapper {
   position: absolute;
