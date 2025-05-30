@@ -1,7 +1,7 @@
-const charactersP = fetch('../data/characters.json').then(res => res.json()).catch(error => {
+const charactersP = fetch('./data/characters.json').then(res => res.json()).catch(error => {
     console.error("Error loading characters.json:", error);
 });
-const locationsP = fetch('../data/locations.json').then(res => res.json()).catch(error => {
+const locationsP = fetch('./data/locations.json').then(res => res.json()).catch(error => {
     console.error("Error loading locations.json:", error);
 });
 
@@ -16,12 +16,12 @@ const locationMapP = locationsP.then(locList =>
   new Map(locList.map(l => [l.location, { x: l.x, y: l.y }]))
 );
 
-const charStatsP = d3.csv("../data/char_stats.csv").then(data => {
+const charStatsP = d3.csv("./data/char_stats.csv").then(data => {
   return data;
 }).catch(error => {
   console.error("Error loading character statistics data:", error);
 });
-const coocMatrixP = d3.json("../data/naruto_cooccurrence.json")
+const coocMatrixP = d3.json("./data/naruto_cooccurrence.json")
   .then(data => data)
   .catch(error => {
     console.error("Error loading naruto_cooccurrence.json for cooccurrence matrix:", error);
