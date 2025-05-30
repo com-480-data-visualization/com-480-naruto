@@ -222,6 +222,11 @@ body {
   width: fit-content;
 }
 
+.map-image {
+  width: 1080;
+  height: 603;
+}
+
 .map-container {
   display: flex;
   justify-content: center;
