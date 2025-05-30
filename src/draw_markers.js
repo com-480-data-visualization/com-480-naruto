@@ -13,8 +13,8 @@ async function drawSmall(names, wrapper) {
 
     const img = document.createElement('img');
     img.src = (await nameToAvatarP).get(names[i]);
+    addPinTooltipEvents(img, names[i])
     img.alt = names[i];
-    img.title = names[i];
 
     avatar.appendChild(img);
     body.appendChild(avatar);
@@ -48,8 +48,8 @@ async function drawBig(names, wrapper) {
 
     const img = document.createElement('img');
     img.src = (await nameToAvatarP).get(names[i]);
+    addPinTooltipEvents(img, names[i])
     img.alt = names[i];
-    img.title = names[i];
     img.zIndex = "12";
 
     avatar.appendChild(img);
@@ -97,8 +97,8 @@ async function drawFolded(names, wrapper) {
 
     const img = document.createElement('img');
     img.src = (await nameToAvatarP).get(names[i]);
+    addPinTooltipEvents(img, names[i])
     img.alt = names[i];
-    img.title = names[i];
 
     avatar.appendChild(img);
     body.appendChild(avatar);
@@ -165,4 +165,40 @@ async function updateMap(nameSet) {
     wrapper.appendChild(tail);
     container.appendChild(wrapper);
   }
+}
+
+let tooltipTimeout;
+
+function addPinTooltipEvents(img, text) {
+  img.addEventListener('mouseenter', function(e) {
+    showMapTooltip(e, text);
+  });
+  img.addEventListener('mousemove', function(e) {
+    moveMapTooltip(e);
+  });
+  img.addEventListener('mouseleave', function() {
+    hideMapTooltip();
+  });
+}
+
+function showMapTooltip(event, text) {
+  clearTimeout(tooltipTimeout);
+  tooltipTimeout = setTimeout(() => {
+    const tooltip = document.getElementById('map-tooltip');
+    tooltip.textContent = text;
+    tooltip.style.display = 'block';
+    moveMapTooltip(event);
+  }, 100);
+}
+
+function hideMapTooltip() {
+  clearTimeout(tooltipTimeout);
+  const tooltip = document.getElementById('map-tooltip');
+  tooltip.style.display = 'none';
+}
+
+function moveMapTooltip(event) {
+  const tooltip = document.getElementById('map-tooltip');
+  tooltip.style.left = (event.pageX + 12) + 'px';
+  tooltip.style.top = (event.pageY + 12) + 'px';
 }
