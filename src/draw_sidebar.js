@@ -22,7 +22,7 @@ async function initSidebar() {
 loadTrackedCharacters(); // <-- Add this line
   setupEncyclopediaFilters();
   await fetchCharacters();
-
+  await charStatsP;
   setupCharacterSearch();
   renderCharacterList();   // <-- To reflect the tracked state in UI
   updateCharPlot();   
@@ -226,6 +226,7 @@ function updateCharPlot(oldX=null) {
     // Pass the current tracking and encyclopedia state to updateChart
     const trackedNames = new Set();
     const namesForMap = new Set();
+
     characters
       .filter(char => trackedCharacters.has(char.id))
       .forEach(char => {
@@ -234,8 +235,10 @@ function updateCharPlot(oldX=null) {
         }
         trackedNames.add(char.name)
       });
-  
+
+      console.log(trackedNames)
     // Call the updateChart function from draw_plot.js
+    
     updateChart(undefined, trackedNames, selectedEncyclopedias, oldX);
     updateMap(namesForMap);
   }
