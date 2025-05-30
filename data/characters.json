@@ -660,7 +660,7 @@
   {
     "id": 58,
     "name": "Madara Uchiha",
-    "description": "A legendary shinobi and co-founder of Konohagakure, Madara Uchiha sought to dominate the world using the power of the Sharingan and the Ten-Tails. His ambition led him to become a central antagonist in the Fourth Great Ninja War.",
+    "description": "A legendary shinobi, co-founder of Konoha, and major antagonist in the Fourth Great Ninja War.",
     "appears_in": [
       "matrix"
     ],
@@ -669,7 +669,7 @@
   {
     "id": 59,
     "name": "Pain",
-    "description": "Pain is the alias of Nagato, a former student of Jiraiya and the leader of the Akatsuki. Using the Rinnegan and the Six Paths of Pain technique, he aimed to create peace through overwhelming force and destruction.",
+    "description": "Nagato's alias and leader of Akatsuki, wielding the Rinnegan and Six Paths of Pain.",
     "appears_in": [
       "matrix"
     ],
@@ -678,7 +678,7 @@
   {
     "id": 60,
     "name": "Killer B",
-    "description": "Killer B is the jinch\u016briki of the Eight-Tails and the adoptive brother of the Fourth Raikage. A skilled rapper and swordsman, he is known for his cheerful personality and formidable combat abilities.",
+    "description": "The Eight-Tails jinchuriki, a skilled rapper and swordsman from Kumogakure.",
     "appears_in": [
       "matrix"
     ],
@@ -687,7 +687,7 @@
   {
     "id": 61,
     "name": "Guren",
-    "description": "Guren is an anime-original character known for her Crystal Release kekkei genkai. She served under Orochimaru and was involved in missions related to the Three-Tails.",
+    "description": "An anime-original kunoichi with Crystal Release, served under Orochimaru.",
     "appears_in": [
       "matrix"
     ],
@@ -696,7 +696,7 @@
   {
     "id": 62,
     "name": "Kaguya Otsutsuki",
-    "description": "Kaguya Otsutsuki is the progenitor of all chakra and the final antagonist of Naruto Shippuden. She consumed the God Tree's fruit and became the first wielder of chakra, later turning into the Ten-Tails.",
+    "description": "The progenitor of chakra and final antagonist of Naruto Shippuden.",
     "appears_in": [
       "matrix"
     ],
@@ -705,7 +705,7 @@
   {
     "id": 63,
     "name": "White Zetsu",
-    "description": "White Zetsu is a member of the Akatsuki and one half of the entity known as Zetsu. He was created from the victims of the Infinite Tsukuyomi and possesses unique abilities like cloning and merging with terrain.",
+    "description": "A member of Akatsuki with cloning and merging abilities, created from Infinite Tsukuyomi victims.",
     "appears_in": [
       "matrix"
     ],
@@ -714,7 +714,7 @@
   {
     "id": 64,
     "name": "Allied Shinobi Forces",
-    "description": "The Allied Shinobi Forces is a coalition of the five great ninja villages formed to combat the threat of Akatsuki and the reanimated army during the Fourth Great Ninja War.",
+    "description": "A coalition of the five great villages formed to fight Akatsuki in the Fourth Great Ninja War.",
     "appears_in": [
       "matrix"
     ],
@@ -723,7 +723,7 @@
   {
     "id": 65,
     "name": "Rinji",
-    "description": "Rinji is an anime-original character who served under Orochimaru. He worked with Guren during the Three-Tails arc and had the ability to control animals using ultrasonic waves.",
+    "description": "An anime-original character who served under Orochimaru and controlled animals.",
     "appears_in": [
       "matrix"
     ],
@@ -732,7 +732,7 @@
   {
     "id": 66,
     "name": "Tailed Beasts",
-    "description": "The Tailed Beasts are nine giant chakra creatures created from the Ten-Tails. Each has its own unique abilities and personality. Originally feared, they later sought freedom and mutual understanding with humans.",
+    "description": "Nine giant chakra creatures created from the Ten-Tails, each with unique abilities.",
     "appears_in": [
       "matrix"
     ]
@@ -740,7 +740,7 @@
   {
     "id": 67,
     "name": "Gozu",
-    "description": "Gozu is an anime-only character and a bodyguard of Guren. He possesses a large, ox-like physique and is extremely loyal, eventually sacrificing himself to protect his comrades.",
+    "description": "An anime-only bodyguard of Guren, known for his ox-like physique and loyalty.",
     "appears_in": [
       "matrix"
     ],
@@ -749,7 +749,7 @@
   {
     "id": 68,
     "name": "Three-Tails",
-    "description": "The Three-Tails, also known as Isobu, is one of the Tailed Beasts. It resembles a turtle and was sealed within different hosts, including Yagura from Kirigakure. It played a key role in the Three-Tails filler arc.",
+    "description": "Isobu, the Three-Tails, is a turtle-like Tailed Beast once sealed in Yagura.",
     "appears_in": [
       "matrix"
     ],
@@ -758,7 +758,7 @@
   {
     "id": 69,
     "name": "Mecha-Naruto",
-    "description": "Mecha-Naruto is a robotic version of Naruto Uzumaki created for comedic effect in the Naruto Shippuden: Ultimate Ninja Storm Revolution game. It features an arsenal of mechanical weapons and exaggerated powers.",
+    "description": "A robotic parody of Naruto from the Ultimate Ninja Storm Revolution game.",
     "appears_in": [
       "matrix"
     ]
@@ -766,7 +766,7 @@
   {
     "id": 70,
     "name": "Danzo Shimura",
-    "description": "Danzo Shimura was a high-ranking Konoha elder who led the secretive organization Root. Obsessed with protecting the village by any means, he implanted multiple Sharingan and wielded the power of Shisui Uchiha\u2019s eye.",
+    "description": "A Konoha elder and leader of Root, obsessed with the village's protection.",
     "appears_in": [
       "matrix"
     ],
@@ -775,7 +775,7 @@
   {
     "id": 71,
     "name": "Reanimated Shinobi",
-    "description": "Reanimated Shinobi refers to deceased ninja brought back to life through the Impure World Reincarnation technique during the Fourth Great Ninja War. They were used as weapons by Kabuto Yakushi.",
+    "description": "Deceased ninja revived by Kabuto during the Fourth Great Ninja War.",
     "appears_in": [
       "matrix"
     ]
@@ -783,7 +783,7 @@
   {
     "id": 72,
     "name": "Utakata",
-    "description": "Utakata was the jinch\u016briki of the Six-Tails and a former Kirigakure ninja. Known for his calm demeanor and use of Soap Bubble Ninjutsu, he featured prominently in a filler arc before being captured by the Akatsuki.",
+    "description": "The Six-Tails jinchuriki from Kirigakure, known for Soap Bubble Ninjutsu.",
     "appears_in": [
       "matrix"
     ],
@@ -792,7 +792,7 @@
   {
     "id": 73,
     "name": "Ten-Tails",
-    "description": "The Ten-Tails is the original source of all the Tailed Beasts, a monstrous entity created by combining the body of the God Tree with Kaguya Otsutsuki\u2019s will. It is immensely powerful and central to the Eye of the Moon Plan.",
+    "description": "The original source of all Tailed Beasts, central to the Eye of the Moon Plan.",
     "appears_in": [
       "matrix"
     ],
@@ -801,7 +801,7 @@
   {
     "id": 74,
     "name": "Jugo",
-    "description": "Jugo is a member of Taka and a subject of Orochimaru\u2019s experiments. He possesses the ability to absorb natural energy and enter a berserk state, which serves as the basis for the Cursed Seal.",
+    "description": "A member of Taka with the ability to absorb natural energy and go berserk.",
     "appears_in": [
       "matrix"
     ],
@@ -810,7 +810,7 @@
   {
     "id": 75,
     "name": "Karin",
-    "description": "Karin is a sensor-type kunoichi from the Uzumaki clan and a member of Taka. She has exceptional healing abilities and chakra sensing, and harbors strong feelings for Sasuke Uchiha.",
+    "description": "A sensor-type kunoichi from the Uzumaki clan and member of Taka.",
     "appears_in": [
       "matrix"
     ],
@@ -819,7 +819,7 @@
   {
     "id": 76,
     "name": "Fourth Raikage",
-    "description": "The Fourth Raikage, A, is the leader of Kumogakure and older brother of Killer B. Renowned for his brute strength and incredible speed, he played a key leadership role during the Fourth Great Ninja War.",
+    "description": "A, the Fourth Raikage, is Kumogakure's leader, famed for strength and speed.",
     "appears_in": [
       "matrix"
     ],
@@ -828,7 +828,7 @@
   {
     "id": 77,
     "name": "Suigetsu",
-    "description": "Suigetsu Hozuki is a former test subject of Orochimaru and a member of Taka. He hails from Kirigakure and can liquefy his body at will, making him highly versatile in combat. He also seeks to collect all the Seven Swords of the Mist.",
+    "description": "A former test subject of Orochimaru and member of Taka from Kirigakure.",
     "appears_in": [
       "matrix"
     ],
@@ -837,7 +837,7 @@
   {
     "id": 78,
     "name": "Konan",
-    "description": "Konan was a founding member of the Akatsuki and the only female member during its peak. A former student of Jiraiya, she used Paper Release techniques and remained loyal to Nagato\u2019s ideals until her death.",
+    "description": "A founding member of Akatsuki, known for her Paper Release techniques.",
     "appears_in": [
       "matrix"
     ],
@@ -846,7 +846,7 @@
   {
     "id": 79,
     "name": "Third Tsuchikage",
-    "description": "Onoki was the Third Tsuchikage of Iwagakure, known for his stubbornness and mastery of Dust Release. Despite his age, he played a vital role in the Allied Shinobi Forces during the Fourth Great Ninja War.",
+    "description": "Onoki, the Third Tsuchikage of Iwagakure, mastered Dust Release.",
     "appears_in": [
       "matrix"
     ],
