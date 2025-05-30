@@ -77,6 +77,8 @@ async function drawFolded(names, wrapper) {
 
     const img = document.createElement('img');
     img.src = "./profile_pictures/manymore.png"
+    img.style.marginLeft = "-1px";
+    img.style.marginTop = "-1px";
     img.alt = "other";
     img.title = "other";
     img.addEventListener('mouseenter', async () => {
