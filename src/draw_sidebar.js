@@ -233,7 +233,9 @@ function updateCharPlot(oldX=null) {
         if (char.appears_in?.includes("map")) {
           namesForMap.add(char.name);
         }
-        trackedNames.add(char.name)
+        if (char.appears_in?.includes("plot")) {
+          trackedNames.add(char.name)
+        }
       });
     // Call the updateChart function from draw_plot.js
     
