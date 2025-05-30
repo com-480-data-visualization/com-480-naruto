@@ -1,4 +1,3 @@
-// Modified draw_plot.js to work with the new sidebar interface
 window.charStatsReady = false;
 
 const dimensions = [
@@ -164,7 +163,6 @@ function updateChart(data = null, trackedNames = null, selectedEncyclopedias = n
   // Use provided data or fall back to stored data
   const currentData = data || plotData;
   if (!currentData || currentData.length === 0) return;
-  console.log(currentData)
   
   const useTrackedNames = trackedNames || 
     (window.trackedCharacters ? 
