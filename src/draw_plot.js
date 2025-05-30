@@ -68,7 +68,7 @@ function safelyRedrawChartOnResize() {
 window.addEventListener("resize", safelyRedrawChartOnResize);
 
 // Main function to load data and initialize the plot
-d3.csv("table_data_en.csv").then(data => {
+plotData = charStatsP.then(data => {
   plotData = data;
   
   // Process the data
@@ -164,6 +164,7 @@ function updateChart(data = null, trackedNames = null, selectedEncyclopedias = n
   // Use provided data or fall back to stored data
   const currentData = data || plotData;
   if (!currentData || currentData.length === 0) return;
+  console.log(currentData)
   
   const useTrackedNames = trackedNames || 
     (window.trackedCharacters ? 

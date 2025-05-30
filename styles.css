@@ -192,7 +192,7 @@ body {
 }
 
 .description-section {
-  background-color: #fff6e5;
+  background-color: #ffffff;
 }
 
 .description-section h2 {
@@ -308,7 +308,7 @@ body {
 /* Cooccurrence Matrix Styles */
 .cooccurrence-matrix-container {
   overflow: visible;
-  margin-left: 140px;
+  margin-left: 200px;
 }
 
 #cooccurrence-matrix {
