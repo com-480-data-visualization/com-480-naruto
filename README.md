@@ -14,7 +14,7 @@ If you are a fan of Naruto, our website helps you explore the anime world and ch
 
 ## Learn More
 [Process Book](Process_Book_Naruto.pdf) \
-Screencast Video
+[Screencast Video](https://drive.google.com/file/d/1FMa5iWZ05tfQLANNY_x53FcfnJoOrIXl/view?usp=sharing)
 
 ## Datasets
 - [Chatacter Statistics](https://naruto.fandom.com/ru/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80_%D0%A1%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9) from the Russian fandom page (translated with a script)
