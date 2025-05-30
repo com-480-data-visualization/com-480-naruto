@@ -235,8 +235,6 @@ function updateCharPlot(oldX=null) {
         }
         trackedNames.add(char.name)
       });
-
-      console.log(trackedNames)
     // Call the updateChart function from draw_plot.js
     
     updateChart(undefined, trackedNames, selectedEncyclopedias, oldX);
