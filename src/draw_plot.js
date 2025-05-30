@@ -25,30 +25,59 @@ const x = d3.scalePoint().range([0, width]).padding(1).domain(dimensions);
 
 g.append("g").attr("class", "foreground-layer");
 
-// tooltip position
+// // tooltip position
+// function positionTooltip(event, tooltip) {
+//   const tooltipNode = tooltip.node();
+//   const tooltipWidth = tooltipNode.offsetWidth;
+//   const tooltipHeight = tooltipNode.offsetHeight;
+//   const xOffset = -20; // Shift slightly left
+//   const yOffset = 40;  // Shift slightly downward
+
+//   let left = event.pageX + xOffset;
+//   let top = event.pageY + yOffset;
+
+//   // Prevent overflow on the right
+//   if (left + tooltipWidth > window.innerWidth) {
+//     left = window.innerWidth - tooltipWidth - 10;
+//   }
+
+//   // Prevent overflow at the bottom
+//   if (top + tooltipHeight > window.innerHeight) {
+//     top = window.innerHeight - tooltipHeight - 10;
+//   }
+
+//   tooltip.style("left", `${left}px`).style("top", `${top}px`);
+// }
+
+
 function positionTooltip(event, tooltip) {
+  // Get the container's bounding rectangle
+  const container = document.getElementById('char-plot-container');
+  const containerRect = container.getBoundingClientRect();
+
+  // Use event.clientX/Y (relative to viewport), subtract container's top/left
   const tooltipNode = tooltip.node();
   const tooltipWidth = tooltipNode.offsetWidth;
   const tooltipHeight = tooltipNode.offsetHeight;
-  const xOffset = -20; // Shift slightly left
-  const yOffset = 40;  // Shift slightly downward
+  const xOffset = -20;
+  const yOffset = 40;
 
-  let left = event.pageX + xOffset;
-  let top = event.pageY + yOffset;
+  let left = event.clientX - containerRect.left + xOffset;
+  let top = event.clientY - containerRect.top + yOffset;
 
   // Prevent overflow on the right
-  if (left + tooltipWidth > window.innerWidth) {
-    left = window.innerWidth - tooltipWidth - 10;
+  if (left + tooltipWidth > containerRect.width) {
+    left = containerRect.width - tooltipWidth - 10;
   }
-
   // Prevent overflow at the bottom
-  if (top + tooltipHeight > window.innerHeight) {
-    top = window.innerHeight - tooltipHeight - 10;
+  if (top + tooltipHeight > containerRect.height) {
+    top = containerRect.height - tooltipHeight - 10;
   }
 
-  tooltip.style("left", `${left}px`).style("top", `${top}px`);
+  tooltip
+    .style("left", `${left}px`)
+    .style("top", `${top}px`);
 }
-
 function safelyRedrawChartOnResize() {
 
   // Hide tooltip if visible
